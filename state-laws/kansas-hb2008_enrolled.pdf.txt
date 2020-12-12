@@ -1,0 +1,332 @@
+Senate Substitute for HOUSE BILL No. 2008
+
+AN ACT concerning schools; creating the student online personal protection act.
+
+Be it enacted by the Legislature of the State of Kansas:
+
+Section 1. Sections 1 through 4, and amendments thereto, shall be
+
+known and may be cited as the student online personal protection act.
+Sec. 2. As used in sections 1 through 4, and amendments thereto:
+(a)
+
+‘‘Educational purposes’’ means purposes that are directed by an
+employee or agent of a school district, that customarily take place at an
+attendance center operated by a school district or that aid in the admin-
+istration of school activities, including, but not limited to, instruction in
+the classroom or at home, administrative activities and collaboration be-
+tween students, school personnel or parents, or which are otherwise for
+the use and benefit of the school district.
+
+(b)
+
+‘‘Interactive computer service’’ means any service, system or soft-
+ware provider that provides or enables multiple users access to a com-
+puter server, including a service or system that provides access to the
+internet and systems or services offered by libraries or educational insti-
+tutions.
+(c)
+
+‘‘Educational online product’’ means an internet website, online
+service, online application or mobile application that is used primarily,
+and was designed and marketed for, educational purposes.
+
+(d)
+
+‘‘Operator’’ means, to the extent it is operating in this capacity,
+the operator of an educational online product with actual knowledge that
+the educational online product is used primarily for educational purposes
+and was designed and marketed for educational purposes. For the pur-
+poses of this act, the term ‘‘operator’’ shall not be construed to include
+any school district or school district employee acting on behalf of a school
+district employer.
+
+(e)
+
+‘‘Personally identifiable information’’ means information that per-
+sonally identifies an individual student or that is linked to information
+that personally identifies an individual student, including, but not limited
+to: (1) Information in the student’s educational record or electronic mail;
+(2) first and last name; (3) home address; (4) telephone number; (5) elec-
+tronic mail address; (6) any other information that allows physical or on-
+line contact with the student; (7) discipline records; (8) test results; (9)
+data that is a part of or related to any individualized education program
+for such student; (10) juvenile dependency records; (11) grades; (12) eval-
+uations; (13) criminal records; (14) medical records; (15) health records;
+(16) social security number; (17) biometric information; (18) disabilities;
+(19) socioeconomic information; (20) food purchases; (21) political affil-
+iations; (22) religious information; (23) text messages; (24) documents;
+(25) student identifiers; (26) search activity; (27) photos; (28) voice re-
+cordings; or (29) geolocation information.
+
+(f)
+
+‘‘School district’’ means any unified school district organized and
+
+operating under the laws of this state.
+
+(g)
+
+‘‘Service provider’’ means a person or entity that provides a service
+to an operator, or provides a service that enables users to access content,
+information, electronic mail or other services offered over the internet or
+a computer network.
+
+(h)
+
+‘‘Student information’’ means personally identifiable information
+or material in any media or format that is not otherwise available to the
+public and was:
+
+(1) Created by an operator in the course of the use of the operator’s
+
+educational online product for educational purposes;
+
+(2) provided to an operator by a student, or the student’s parent or
+legal guardian, in the course of the use of the operator’s educational
+online product for educational purposes;
+
+(3)
+
+created by an operator as a result of the activities of an employee
+
+or agent of a school district;
+
+trict for educational purposes; or
+
+(4) provided to an operator by an employee or agent of a school dis-
+
+(5)
+
+gathered by an operator through the operation of such operator’s
+
+educational online product for educational purposes.
+
+(i)
+
+‘‘Targeted advertising’’ means presenting an advertisement to a
+student where the advertisement is selected based on information ob-
+tained or inferred over time from that student’s online behavior, usage
+of online applications or student information. Targeted advertising does
+not include advertising to a student at an online location based upon that
+
+Senate Substitute for HOUSE BILL No. 2008—page 2
+
+student’s current visit to that location, or in response to that student’s
+request for information or feedback, without the retention of that stu-
+dent’s online activities or requests over time for the purpose of targeting
+subsequent ads.
+
+(a) An operator shall not knowingly:
+
+Sec. 3.
+(1) Engage in targeted advertising on the operator’s educational on-
+line product, or target advertising on any other educational online product
+if the targeting of the advertising is based on any information, including
+student information and persistent unique identifiers, that the operator
+has acquired because of the use of such operator’s educational online
+product for educational purposes;
+
+(2) use information, including student information and persistent
+unique identifiers, created or gathered through the operation of such
+operator’s educational online product, to amass a profile about a student,
+except in furtherance of educational purposes;
+
+(3)
+
+sell or rent student information to a third party, except when such
+information is part of the assets being transferred during the purchase,
+merger or other acquisition of an operator by another entity, provided,
+the successor entity complies with the provisions of this subsection as
+though it were an operator with respect to the acquired student infor-
+mation; or
+
+(4) disclose student information unless the disclosure is made for the
+
+following purposes:
+
+(A) For legitimate research purposes subject to and as allowed by
+federal and state law, and under the direction of a school district or the
+state department of education, provided the student information is not
+used for advertising or to amass a profile on the student for purposes
+other than educational purposes, or for any other purposes other than
+educational purposes;
+
+(B)
+
+that information described in section 2(e)(2) and (e)(8), and
+amendments thereto, upon request by a school district or state agency
+for educational purposes;
+
+(C)
+
+to law enforcement agencies or to a court of competent jurisdic-
+tion to protect the safety or integrity of users of the operator’s educational
+online product or other individuals, or the security of such educational
+online product;
+
+(D)
+
+for educational or employment purposes upon request by the
+student or the student’s parent or legal guardian, provided the student
+information is not used or further disclosed for any other purpose;
+
+(E)
+
+to a service provider, provided the operator contractually: (i) Pro-
+hibits the service provider from using any student information for any
+purpose other than providing the contracted service to or on behalf of
+the operator; (ii) prohibits the service provider from disclosing any stu-
+dent information provided by the operator with subsequent third parties;
+and (iii) requires the service provider to implement and maintain reason-
+able security procedures and practices to ensure the confidentiality of the
+student information; or
+
+(F)
+
+in the course of transferring assets as a part of a business pur-
+
+chase, merger or other acquisition as described in subsection (a)(3).
+
+(b) An operator shall:
+(1)
+
+Implement and maintain reasonable security procedures and
+practices appropriate to the nature of the student information which are
+designed to protect such information from unauthorized access, destruc-
+tion, use, modification or disclosure; and
+
+(2) delete within a reasonable period of time student information
+upon request by the school district, unless the student or the student’s
+parent or legal guardian requests that such information continue to be
+maintained.
+
+(c) Nothing in this section shall be construed to prohibit an operator
+
+from:
+
+(1) Using student information to maintain, develop, support, improve
+
+or diagnose the operator’s educational online product;
+
+(2) using student information to improve educational products, pro-
+vided such information is not associated with an identified student within
+the operator’s educational online product or within other online products
+owned by the operator;
+
+(3) using student information to demonstrate the effectiveness of the
+
+Senate Substitute for HOUSE BILL No. 2008—page 3
+
+operator’s educational online products, including in their marketing, pro-
+vided such information is not associated with an identified student within
+the operator’s educational online product or within other online products
+owned by the operator;
+
+(4)
+
+sharing student information for purposes of development and im-
+provement of educational online products, provided such information is
+not associated with an identified student within the operator’s educational
+online product or within other online products owned by the operator;
+
+(5) using recommendation engines to suggest to a student additional
+content or services within the operator’s educational online product re-
+lated to an educational, other learning or employment opportunity pur-
+pose, provided the recommendation is not determined in whole or in part
+by payment or other consideration from a third party; or
+
+(6)
+
+responding to a student’s request for information or feedback,
+provided such response is not determined in whole or in part by payment
+or other consideration from a third party.
+
+(d) Nothing in this section shall be construed to:
+(1) Limit the authority of a law enforcement agency to obtain any
+content or information from an operator as authorized by law or pursuant
+to a court order;
+
+(2)
+
+limit the ability of an operator to use student information for adap-
+
+tive learning or customized student learning purposes;
+
+(3)
+
+apply to general audience internet websites, general audience on-
+line services, general audience online applications or general audience
+mobile applications, even if login credentials created for an operator’s
+educational online product may be used to access those general audience
+websites, online services or online applications;
+
+(4)
+
+limit service providers from providing internet connectivity to
+
+schools or to students and the students’ parents or legal guardians;
+
+(5) prohibit an operator from marketing educational products directly
+to parents and legal guardians, provided such marketing does not result
+from the use of student information obtained by the operator through
+the operation of such operator’s educational online products;
+
+(6)
+
+impose a duty upon a provider of an electronic store, gateway,
+marketplace or other means of purchasing or downloading software or
+applications to review or enforce the compliance with this section on such
+software or applications;
+
+(7)
+
+impose a duty upon a provider of an interactive computer service
+to review or enforce the compliance with this section by third-party con-
+tent providers; or
+
+(8) prohibit students from downloading, exporting, transferring, sav-
+ing or maintaining such student’s own student information or documents.
+(e) As used in this section, the term ‘‘amass a profile’’ shall not include
+the collection and retention of account information that remains under
+the control of the student, the student’s parent or legal guardian or the
+school district.
+
+Sec. 4. The attorney general or any district attorney may enforce the
+provisions of the student online personal protection act by bringing an
+action in a court of competent jurisdiction, and may seek injunctive relief
+to enjoin any operator in possession of student information from disclos-
+ing any student information in violation of the provisions of the student
+online personal protection act.
+
+Senate Substitute for HOUSE BILL No. 2008—page 4
+
+Sec. 5. This act shall take effect and be in force from and after its
+
+publication in the statute book.
+
+I hereby certify that the above BILL originated in the
+HOUSE, and was adopted by that body
+
+HOUSE adopted
+Conference Committee Report
+
+Passed the SENATE
+as amended
+
+SENATE adopted
+Conference Committee Report
+
+APPROVED
+
+Speaker of the House.
+
+Chief Clerk of the House.
+
+President of the Senate.
+
+Secretary of the Senate.
+
+Governor.
+
+

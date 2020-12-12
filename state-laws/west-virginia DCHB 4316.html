@@ -1,0 +1,781 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/md5.js"></script>
+<script type="text/javascript" src="/js/bpopup-0.11.0.min.js"></script>
+<style>
+.keytext{
+	display:hidden;
+	font-size:13px;
+	margin: 0 0 20px;
+}
+</style>
+
+
+
+<title>HB 4316 Text</title>
+<meta name="description" content="Bill Status - Bill Text">
+<meta name="keywords" content="Legislation, Bill, bill text, West Virginia Bills, West Virginia Bill, West Virginia Legislature, West Virginia, Legislature, WV">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<LINK REL="SHORTCUT ICON" HREF="../images/home_link.gif">
+
+<style type="text/css">
+	body,p {margin: 10px 0 0 15px !important;
+	padding: 0px !important;
+	font-size: 100% !important;
+	font: inherit !important;
+	font-family: Arial, Helvetica, sans-serif !important;
+	vertical-align: baseline !important;
+}
+#pod-icon{
+padding: 5px 5px 12px 10px;
+width: 460px;
+border: 1px solid black;
+border-radius: 10px;
+margin-top:8px;
+}
+#pod-popup{
+    background-color:#fff;
+    border-radius:5px;
+    color:#000;
+    display:none; 
+    padding:20px;
+    min-width:400px;
+    min-height: 180px;
+}
+#pod-popup h3{padding: 0px 10px 10px 0px}
+.pod-meta{width:400px;font-size:15px;background-color:#eee;padding:5px;margin:0 0 4px;float:left}
+.b-close{
+    cursor:pointer;
+    position:absolute;
+    right:10px;
+    top:5px;
+}
+.b-close img{
+width: 40px;
+height: auto;
+}
+ span {font-family: Arial, Helvetica, sans-serif !important;}
+ 
+ p {text-indent: 15px !important;
+ line-height:24px !important;}
+ .meta-input{
+ float:right;
+ width:300px;
+ font-size:14px;
+ }
+ #pod-minus{
+ margin-left:5px!important;
+ width:40px;height:auto
+ }
+ #pod-plus{
+ margin:10px 0 0 0;
+ width:40px;
+ height:auto
+ }
+ #pod-count{
+ font-size:15px;
+ padding:6px;
+ }
+ #pod-ok{
+ width:28px;
+ height:auto;
+ margin-top:5px;
+ }
+ #pod-go{
+ float:right;
+ }
+ .pod-input-error{
+ border:2px solid red;
+ }
+ .pod-row{
+ vertical-align:middle;
+ height:24px;
+ padding:0;
+ margin:2px 0 4px;
+ }
+ .del-pod{
+ float:left;
+ margin:0 4px 0}
+</style>
+
+<link rel="stylesheet" type="text/css" href="../styletest1.css" media="screen">
+<link rel="stylesheet" type="text/css" href="../stylebillstatus.css" media="screen">
+<link rel="stylesheet" type="text/css" href="../printbstat.css" media="print">
+</head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script type="text/javascript">
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+function _autoLayers() { //v1.4 by PVII
+ var g,b,k,f,args=_autoLayers.arguments;a=parseInt(args[0]);if(isNaN(a))a=0;
+ if(!document.setc){c=new Array();document.setc=true;for(var u=0;u<10;u++){
+ c[u]=new Array();}}for(k=0;k<c[a].length;k++){if((g=MM_findObj(c[a][k]))!=null){
+ b=(document.layers)?g:g.style;b.visibility="hidden";}}for(k=1;k<args.length;k++){
+ if((g=MM_findObj(args[k]))!=null){b=(document.layers)?g:g.style;b.visibility="visible";f=false;
+ for(var j=0;j<c[a].length;j++){if(args[k]==c[a][j]) {f=true;}}
+ if(!f){c[a][c[a].length++]=args[k];}}}
+}
+function _Snap() { //v2.65 by PVII
+ var x,y,ox,bx,oy,p,tx,a,b,k,d,da,e,el,tw,q0,xx,yy,w1,pa='px',args=_Snap.arguments;a=parseInt(a);
+ if(document.layers||window.opera){pa='';}for(k=0;k<(args.length);k+=4){
+ if((g=MM_findObj(args[k]))!=null){if((el=MM_findObj(args[k+1]))!=null){
+ a=parseInt(args[k+2]);b=parseInt(args[k+3]);x=0;y=0;ox=0;oy=0;p="";tx=1;
+ da="document.all['"+args[k]+"']";if(document.getElementById){
+ d="document.getElementsByName('"+args[k]+"')[0]";if(!eval(d)){
+ d="document.getElementById('"+args[k]+"')";if(!eval(d)){d=da;}}
+ }else if(document.all){d=da;}if(document.all||document.getElementById){while(tx==1){
+ p+=".offsetParent";if(eval(d+p)){x+=parseInt(eval(d+p+".offsetLeft"));y+=parseInt(eval(d+p+".offsetTop"));
+ }else{tx=0;}}ox=parseInt(g.offsetLeft);oy=parseInt(g.offsetTop);tw=x+ox+y+oy;
+ if(tw==0||(navigator.appVersion.indexOf("MSIE 4")>-1&&navigator.appVersion.indexOf("Mac")>-1)){
+  ox=0;oy=0;if(g.style.left){x=parseInt(g.style.left);y=parseInt(g.style.top);}else{
+  w1=parseInt(el.style.width);bx=(a<0)?-5-w1:-10;a=(Math.abs(a)<1000)?0:a;b=(Math.abs(b)<1000)?0:b;
+  x=document.body.scrollLeft+event.clientX+bx;y=document.body.scrollTop+event.clientY;}}
+ }else if(document.layers){x=g.x;y=g.y;q0=document.layers,dd="";for(var s=0;s<q0.length;s++){
+  dd='document.'+q0[s].name;if(eval(dd+'.document.'+args[k])){x+=eval(dd+'.left');y+=eval(dd+'.top');
+  break;}}}e=(document.layers)?el:el.style;xx=parseInt(x+ox+a),yy=parseInt(y+oy+b);
+ if(navigator.appVersion.indexOf("MSIE 5")>-1 && navigator.appVersion.indexOf("Mac")>-1){
+  xx+=parseInt(document.body.leftMargin);yy+=parseInt(document.body.topMargin);}
+ e.left=xx+pa;e.top=yy+pa;}}}
+}
+function _hideDiv(evt) { //v1.3 by PVII
+ var b,relT,mT=false; 
+ if(document.layers){b=evt.target;if(b.aHide){
+  b.visibility="hidden";}else{routeEvent(evt);}
+ }else if(document.all&&!window.opera){b=event.srcElement;
+  while(b!=null){if(b.tagName=="DIV" && b.ahD){mT=true;break;}b=b.parentElement;}
+  if(!b.contains(event.toElement)){b.style.visibility="hidden";}
+ }else if(document.getElementById){b=evt.currentTarget;relT=evt.relatedTarget;
+  while(relT!=null){if(b==relT){mT=true;break;}
+  relT=relT.parentNode;}if(!mT){b.style.visibility="hidden";}}
+}
+function _autoHide() { //v1.3 by PVII
+ var i,g,args=_autoHide.arguments;
+ for(i=0;i<args.length;i++){if((g=MM_findObj(args[i]))!=null){
+  g.aHide=true;if(document.layers){
+  g.captureEvents(Event.MOUSEOUT);}g.onmouseout=_hideDiv;g.ahD=true;}}
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+//  function hov(loc,cls){
+//  if(loc.className)
+//  loc.className=cls;}
+//-->
+
+function init() {
+_autoHide('subs1','subs2','subs3','subs4','subs5','subs6','subs7','subs8')
+} 
+
+window.onload= init;
+</script>
+
+<!--google analytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-13250456-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- -->
+
+<div id="navskip"><a href="#main" name="begin">skip navigation</a></div>
+
+<div id="mainsearch">
+<div class="margtop">
+<form method="get" action="http://search.wvlegislature.gov/search">
+<LABEL for="s">Enter Search Terms</LABEL><BR>
+       <input type="text" name="q" id="s" size="15" maxlength="50" value="" alt=""/>
+       <input type="submit" name="btnG" value="Search" alt="Search Submit"/>
+		<input type="hidden" name="site" value="WV_Legislature"/>
+        <input type="hidden" name="client" value="WV_Legislature"/>
+        <input type="hidden" name="proxystylesheet" value="WV_Legislature"/>
+        <input type="hidden" name="output" value="xml_no_dtd"/>
+</form></div>
+</div>
+
+
+<div id="logo"><img src="/images/header.png" usemap="#m_header" alt="header" name="header" width="878" height="80"  onMouseOver="_autoLayers(0)" >
+<map name="m_header"><area shape="rect" coords="126,10,515,53" href="/index.cfm" alt="header"></map></div>
+
+<div id="trigger1"><a href="#" onKeyPress="_autoLayers(0,'subs1');_Snap('mb1','subs1',1,22)" onMouseOver="_autoLayers(0,'subs1');_Snap('mb1','subs1',1,22)">SENATE</a></div>
+<div id="subs1" class="submenus">
+<a href="/Senate1/president.cfm">PRESIDENT</a>
+<a href="/Senate1/roster.cfm">SENATORS</a>
+<a href="/committees/senate/main.cfm">COMMITTEES</a>
+<a href="/Districts/maps.cfm">DISTRICT MAPS</a>
+<a href="/live.cfm">VIDEO/AUDIO</a>
+<a href="/Senate1/clerk.cfm">SENATE CLERK</a>
+<a href="/Senate1/rules.cfm">SENATE RULES</a>
+</div>
+
+<div id="trigger2"><a href="#"  onKeyPress="_autoLayers(0,'subs2');_Snap('mb2','subs2',0,22)" onMouseOver="_autoLayers(0,'subs2');_Snap('mb2','subs2',0,22)">HOUSE</a></div>
+<div id="subs2" class="submenus">
+<a href="/House/speaker.cfm">SPEAKER</a>
+<a href="/House/roster.cfm">DELEGATES</a>
+<a href="/committees/house/main.cfm">COMMITTEES</a>
+<a href="/Districts/maps.cfm#HD01">DISTRICT MAPS</a>
+<a href="/live.cfm">VIDEO/AUDIO</a>
+<a href="/House/clerk.cfm">HOUSE CLERK</a>
+<a href="/House/rules.cfm">HOUSE RULES</a></div>
+
+<div id="trigger3"><a href="#"  onKeyPress="_autoLayers(0,'subs3');_Snap('mb3','subs3',1,22)" onMouseOver="_autoLayers(0,'subs3');_Snap('mb3','subs3',1,22)">JOINT</a></div>
+<div id="subs3" class="submenus">
+<a href="/committees/interims/interims.cfm">INTERIM COMMITTEES</a>
+<a href="/Joint/admindivision.cfm">ADMINISTRATION DIVISION</a>
+<a href="/Interims/judicial_comp.cfm">JUDICIAL COMP. COMMISSION</a>
+<a href="/Joint/budget.cfm">BUDGET &amp; FISCAL AFFAIRS</a>
+<a href="https://claims.wvlegislature.gov/">CLAIMS COMMISSION</a>
+<a href="/Joint/victims.cfm">CRIME VICTIMS</a>
+<a href="/Joint/computercenter.cfm">LASD</a>
+<a href="/Joint/legis_services.cfm">LEGISLATIVE SERVICES</a>
+<a href="/Joint/perd.cfm">PERD</a>
+<a href="/Joint/postaudit.cfm">POST AUDIT</a>
+<a href="/Joint/legisinfo.cfm">PUBLIC INFORMATION</a>
+<a href="/Joint/rule_making.cfm">RULE-MAKING REVIEW</a>
+<a href="/Joint/csi.cfm">SPECIAL INVESTIGATIONS</a>
+<a href="/Joint/rules.cfm">JOINT RULES</a>
+<a href="/Joint/redistricting/county_precincts.cfm">REDISTRICTING</a>
+<b><a href="//staff.wvlegislature.gov/">STAFF INFO</a></b></div>
+
+
+<div id="trigger4"><a href="#" onKeyPress="_autoLayers(0,'subs4');_Snap('mb4','subs4',1,22)" onMouseOver="_autoLayers(0,'subs4');_Snap('mb4','subs4',1,22)">BILL STATUS</a></div>
+<div id="subs4" class="submenus">
+<a href="/Bill_Status/bill_status.cfm">BILL STATUS</a>
+<a href="/billstatus_personalized/persbills_login.cfm">BILL TRACKING</a></div>
+
+<div id="trigger5"><a href="#" onKeyPress="_autoLayers(0,'subs5');_Snap('mb5','subs5',1,22)" onMouseOver="_autoLayers(0,'subs5');_Snap('mb5','subs5',1,22)">STATE LAW</a></div>
+<div id="subs5" class="submenus">
+
+<a href="https://code.wvlegislature.gov">WEST VIRGINIA CODE</a>
+<a href="/Educational/publications.cfm#acts">ACTS OF THE LEGISLATURE</a>
+<a href="/WVCODE/WV_CON.cfm">WV CONSTITUTION</a>
+<a href="/WVCODE/US_CON.cfm">US CONSTITUTION</a>
+</div>
+
+<div id="trigger6"><a href="#"   onKeyPress="_autoLayers(0,'subs6');_Snap('mb6','subs6',1,22)" onMouseOver="_autoLayers(0,'subs6');_Snap('mb6','subs6',1,22)">REPORTS</a></div>
+<div id="subs6" class="submenus">
+
+<a href="/Reports/Agency_Reports/agencylist_all.cfm">AGENCY REPORTS</a>
+<a href="/SAGA/Agency.cfm">AGENCY GRANT AWARDS</a>
+<a href="/Joint/PERD/reports.cfm">PERFORMANCE EVALUATIONS</a>
+<a href="/Joint/Postaudit/reports.cfm">POST AUDITS</a>
+
+</div>
+
+<div id="trigger7"><a href="#"  onKeyPress="_autoLayers(0,'subs7');_Snap('mb7','subs7',1,22)" onMouseOver="_autoLayers(0,'subs7');_Snap('mb7','subs7',1,22)">EDUCATIONAL</a></div>
+<div id="subs7" class="submenus">
+<a href="/Educational/citizens/guide.cfm">CITIZEN&#8217;S GUIDE</a>
+<a href="/Educational/internship.cfm">INTERNSHIP PROGRAM</a>
+<a href="/Educational/page_program/page.cfm">PAGE PROGRAM</a>
+
+<a href="/Educational/publications.cfm">PUBLICATIONS</a>
+<a href="/photos" title="Visit the Legislature's Capitol Photo Gallery">PHOTO GALLERY</a>
+<a href="/Educational/Capitol_History/cap.cfm">CAPITOL HISTORY</a>
+<a href="/Educational/Bill_Becomes_Law/Bill_Becomes_Law.cfm">HOW A BILL BECOMES LAW</a>
+<!--<a href="/Educational/Kids_Page/kids.html">Kids&#8217; Page</a>--></div>
+
+<div id="trigger8"><a href="#"  onKeyPress="_autoLayers(0,'subs8');_Snap('mb8','subs8',1,22)" onMouseOver="_autoLayers(0,'subs8');_Snap('mb8','subs8',1,22)">CONTACT</a></div>
+<div id="subs8" class="submenus">
+<a href="/Senate1/roster.cfm">SENATE ROSTER</a>
+<a href="/House/roster.cfm">HOUSE ROSTER</a>
+<!--<a href="/Contact/capmail.cfm">All Members List</a>-->
+<a href="/Joint/legisinfo.cfm">PUBLIC INFO.</a>
+<a href="mailto:webmaster@wvlegislature.gov">WEBMASTER</a>
+<a href="/Contact/Links/links.cfm">HELPFUL LINKS</a></div>
+
+<div id="triggerhome">
+<img name="Home" src="/images/Home.gif" usemap="#m_Home" alt="home" height="21" width="26"></div>
+
+<map name="m_Home">
+<area shape="rect" coords="0,0,26,21" href="/index.cfm" alt="home" onMouseOut="MM_swapImage('Home','','/images/Home.gif',1);"  onMouseOver="MM_swapImage('Home','','/images/Home_f2.gif',1);_autoLayers(0)">
+</map>
+
+<a name="main" id="main"></a>
+
+<div id="wrapper">
+
+<br>
+
+
+<span id='billversion' class="boldtxthead">
+Enrolled Version  - Final Version
+
+</span>
+
+
+
+
+<span class="billemail">
+
+
+<a href="bills_history.cfm?year=2014&sessiontype=RS&input=4316"> 
+House Bill 4316 History</a>
+
+
+</span><br>
+
+<div class='noprint' id='pod-icon' data-qty='0' data-version='' data-remoteip='10.10.64.30' data-billchamber='House' data-year='2014' data-billnumber='Bill 4316'>
+</div>
+
+<br>
+
+
+
+
+<font size="-2"><b>OTHER VERSIONS</b> &nbsp;-&nbsp;</font>
+
+<a href="bills_text.cfm?billdoc=hb4316 intr.htm&yr=2014&sesstype=RS&billtype=B&houseorig=H&i=4316" title="HTML  - Introduced Version
+ - House Bill 4316">
+Introduced Version
+</a>&nbsp;|&nbsp;
+
+<a href="bills_text.cfm?billdoc=hb4316 ENG.htm&yr=2014&sesstype=RS&billtype=B&houseorig=H&i=4316" title="HTML  - Engrossed Version
+ - House Bill 4316">
+Engrossed Version
+</a>&nbsp;|&nbsp;
+
+<a href="bills_text.cfm?billdoc=HB4316 SUB.htm&yr=2014&sesstype=RS&billtype=B&houseorig=H&i=4316" title="HTML  - Committee Substitute 
+ - House Bill 4316">
+Committee Substitute 
+</a>&nbsp;|&nbsp;
+
+
+
+<span class="billemail">
+
+<font size="-2"><b></b>&nbsp;</font>
+  
+
+ <!--EMAIL-->&nbsp;|&nbsp;<a href="mailto:?subject=HB 4316 - Creating the student data accessability, transparency and accountability act&amp;body=https://www.wvlegislature.gov/bill_status/bills_text.cfm?billdoc=hb4316+SUB+ENR.htm%26yr=2014%26sesstype=RS%26billtype=B%26houseorig=H%26i=4316"><img src="../images/mail_icon.gif"> Email</a><!--EMAIL-->
+
+</span>
+
+
+
+
+<hr noshade color="#000000" width="880px" size="1px" align="left">
+
+
+
+ <div class='keytext'>Key: <span style='color:green'>Green</span> = existing Code. <span style='color:red'>Red</span> = new code to be enacted</div>
+<div class='textcontainer'>
+<html>
+
+<head>
+<meta name="generator" content="WordPerfect">
+<meta http-equiv="content-Type" content="text/html; charset=utf-8">
+
+<style>
+p
+{
+	margin-top: 0px;
+	margin-bottom: 1px
+}
+
+body
+{
+	font-family: "Courier New", monospace;
+	font-size: 11pt;
+	font-weight: normal;
+	font-style: normal
+}
+</style>
+
+</head>
+
+<body>
+<p style="text-align: center; line-height: 0.527778in"><span style="font-family: 'Courier New', monospace"><span style="font-weight: bold"><span style="font-family: 'Helvetica', sans-serif"><span style="font-size: 16pt">E N R O L L E D</span></span></span><span style="font-family: 'Times', serif"><span style="font-size: 11pt"></span></span></span></p>
+<p style="text-align: center; line-height: 0.388889in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt">COMMITTEE SUBSTITUTE</span></span></p>
+<p style="text-align: center; line-height: 0.388889in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt">FOR</span></span></p>
+<p style="text-align: center; line-height: 0.520836in"><span style="font-family: 'Times', serif"><span style="font-size: 22pt"><span style="font-weight: bold">H. B. 4316</span></span></span></p>
+<p style="text-align: center; line-height: 0.291668in; margin-bottom: 0.0966667in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt">__________</span></span><span style="font-size: 22pt"><span style="font-family: 'Times', serif"></span></span></p>
+<p style="text-align: center; line-height: 0.291668in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-variant: small-caps">(By Delegates M. Poling, Perry, Moye, </span></span></span></p>
+<p style="text-align: center; line-height: 0.291668in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-variant: small-caps">Tomblin, Young, Barrett, Barill, Walker, </span></span></span></p>
+<p style="text-align: center; line-height: 0.291668in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-variant: small-caps">Pasdon, Pethtel and Fragale)</span></span></span></p>
+<p style="text-align: center; line-height: 0.388889in; margin-bottom: 0.0966667in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt">__________</span></span></p>
+<p style="text-align: center; line-height: 0.291668in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt">[Passed March 8, 2014; in effect ninety days from passage.]</span></span></p>
+<p style="line-height: 0.291251in; text-indent: -0.250833in; margin-left: 0.250833in">&#160;</p>
+<p style="text-align: justify; line-height: 0.388889in; text-indent: -0.250833in; margin-left: 0.250833in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt">AN A</span></span><span style="font-size: 11pt"><span style="font-family: 'Times New Roman', serif">CT to amend the Code of West Virginia, 1931, as amended, by
+adding thereto a new section, designated &sect;18-2-5h, relating to
+creating the student data accessability, transparency and
+accountability act; providing definitions; state, district and school
+responsibilities for data inventory; providing for data governance
+manager and responsibilities; establishing parental rights to
+information and providing for policies on security and access;
+requiring state board rules; and establishing effect on existing data</span></span><span style="font-size: 11pt"><span style="font-family: 'Times', serif">.</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><i>Be it enacted by the Legislature of West Virginia:</i></span></span></p>
+<p style="text-align: justify; line-height: 0.388889in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"><span>&#160;&#160;&#160;&#160;&#160;&#160;</span></span>That the code of West Virginia, 1931, as amended, be amended by
+adding thereto a new section, designated &sect;18-2-5h, to read as follows:</span></span></p>
+<p style="text-align: justify; text-indent: -0.875in; margin-left: 0.875in"><span style="font-family: 'Times', serif"><span style="font-size: 9pt"><span style="font-weight: bold">ARTICLE  2. STATE BOARD OF EDUCATION.</span></span></span></p>
+<br>
+<p style="text-align: justify"><span style="font-family: 'Times', serif"><span style="font-weight: bold"><span style="font-size: 11pt">&sect;18-2-5h. Student Data Accessibility, Transparency and <span>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span>Accountability Act.</span></span></span></p>
+<br>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(a) <i>Title</i>. </span></span><span style="font-size: 11pt"><i><span style="font-family: 'Times New Roman', serif">&#8212;</span></i></span><span style="font-size: 11pt"><span style="font-family: 'Times', serif"> This section shall be known and may be cited as
+the &#8220;Student Data Accessibility, Transparency and Account-ability Act.&#8221;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(b) <i>Definitions.</i> </span><i><span style="font-family: 'Times New Roman', serif">&#8212;</span></i></span><span style="font-family: 'Times', serif"><span style="font-size: 11pt"> As used in this section, the following
+words have the meanings ascribed to them unless the context
+clearly implies a different meaning:</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(1) &#8220;Board&#8221; means the West Virginia Board of Education;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(2) &#8220;Department&#8221; means the West Virginia Department of
+Education;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(3) &#8220;Student Data system&#8221; means the West Virginia
+Department of Education statewide longitudinal data system;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(4) &#8220;Aggregate data&#8221; means data collected that is reported at
+the group, cohort, or institutional level with a data set of
+sufficient size that no information for an individual parent or
+student is identifiable;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(5) &#8220;Redacted data&#8221; means a student dataset in which parent
+and student identifying information has been removed;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(6) &#8220;State-assigned student identifier&#8221; means the unique
+student identifier assigned by the state to each student that shall
+not be or include the Social Security number of a student in
+whole or in part;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(7) &#8220;Student data&#8221; means data collected or reported at the
+individual student level included in a student&#8217;s educational
+record;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(8) &#8220;Provisional student data&#8221; means new student data
+proposed for inclusion in the student data system; </span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(9) &#8220;School district&#8221; means a county board of education, the
+West Virginia Schools for the Deaf and Blind and the West
+Virginia Department of Education with respect to the education
+programs under its jurisdiction that are not in the public schools;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(10) &#8220;Directory information&#8221; means the following individual
+student information that is subject to disclosure for school-related purposes only: Student name, address, telephone number,
+date and place of birth, major field of study, participation in
+officially recognized activities and sports, weight and height of
+members of athletic teams, dates of attendance, indication of
+&#8220;gradu</span></span><span style="font-size: 11pt"><span style="font-family: 'Times New Roman', serif">ate&#8221; or &#8220;non-graduate,&#8221; degrees and awards receives, most
+recent previous school attended, and photograph.</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-weight: bold"><span style="font-family: 'Times', serif"></span></span></span><span style="font-family: 'Times New Roman', serif"><span style="font-size: 11pt">(11) &#8220;Confidential student information&#8221; means data relating
+to a person&#8217;s Social Security number, or other identification
+number issued by a state or federal agency, except for the state-assigned student identifier as defined in this section, religious
+affiliation, whether the person or a member of their household
+owns or possesses a firearm, whether the person or their family
+are or were recipients of financial assistance from a state or
+federal agency, medical, psychological or behavioral diagnoses,
+criminal history, criminal history of parents, siblings or any
+members of the person&#8217;s household, vehicle registration number,
+driver&#8217;s license number, biometric information, handwriting
+sam</span></span><span style="font-size: 11pt"><span style="font-family: 'Times New Roman', serif">ple, credit card numbers, consumer credit history, credit
+score, or genetic information;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times New Roman', serif"><span style="font-weight: bold"></span></span></span><span style="font-family: 'Times New Roman', serif"><span style="font-size: 11pt">(12) &#8220;Affective computing&#8221; means human-computer
+interaction in which the device has the ability to detect and
+appropriately respond to its user&#8217;s emotions and other stimuli;
+and</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-weight: bold"><span style="font-family: 'Times', serif"></span></span></span><span style="font-family: 'Times New Roman', serif"><span style="font-size: 11pt">(13) &#8220;Fair Information Practice Principles&#8221; are United States
+Federal Trade Commission guidelines that represent widely
+accepted concepts concerning fair information practice in an
+electronic marketplace.</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(c) <i>Data Inventory &#8211; State Responsibilities.</i> </span></span><span style="font-size: 11pt"><i><span style="font-family: 'Times New Roman', serif">&#8212;</span></i></span><span style="font-size: 11pt"><span style="font-family: 'Times', serif"> The
+Department of Education shall:</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(1) Create, publish, and make publicly available a data
+inventory and dictionary or index of data elements with
+definitions of individual student data fields in the student data
+system to include, but not be limited to:</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(A) Any individual student data required to be reported by
+state and federal education mandates;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(B) Any individual student data which has been proposed in
+accordance with paragraph (A), subdivision (7) of this
+subsection for inclusion in the student data system with a
+statement regarding the purpose or reason and legal authority for
+the proposed collection; and</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(C) Any individual student data that the department collects
+or maintains with no current identified purpose;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(2) Develop, publish, and make publicly available policies
+and procedures to comply with all relevant state and federal
+privacy laws and policies, including, but not limited to, the
+Federal Family Educational Rights and Privacy Act (FERPA)
+and other relevant privacy laws and policies. The policies and
+procedures specifically shall include, but are not limited to:</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(A) Access to student and redacted data in the statewide
+longitudinal data system shall be restricted to:</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(i) The authorized staff of the department and the contractors
+working on behalf of the department who require access to
+perform their assigned duties as required by law and defined by
+interagency data-sharing agreements;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(ii) District administrators, teachers and school personnel
+who require access to perform their assigned duties;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(iii) Students and their parents; and</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(iv) The authorized staff of other West Virginia state
+agencies as required by law and defined by interagency
+data-sharing agreements;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(B) Ensure that any inter-agency data-sharing agreements
+shall be posted on the Department website, and parents shall be
+notified of their right to opt out of sharing the child&#8217;s data
+pursuant to agreements.</span></span><span style="font-family: 'Times', serif"><span style="font-size: 11pt"></span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(C) Use only aggregate data in public reports or in response
+to record requests in accordance with this section;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(D) Unless otherwise prohibited by law, develop criteria for
+the approval of research and data requests from state and local
+agencies, the Legislature, researchers working on behalf of the
+department, and the public. Student data maintained by the
+department shall remain redacted; and</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(E) Notification to students and parents regarding student
+privacy rights under federal and state law;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(3) Unless otherwise provided by law, the department shall
+not transfer student or redacted data that is confidential under
+this section to any federal, state or local agency or other
+organization, public or private, with the following exceptions:</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(A) A student transfers out-of-state or a school or school
+district seeks help with locating an out-of-state transfer;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(B) A student leaves the state to attend an out-of-state
+institution of higher education or training program;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(C) A student registers for or takes a national or multistate
+assessment;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(D) A student voluntarily participates in a program for which
+a data transfer is a condition or requirement of participation;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(E) The department enters into a contract that governs
+databases, assessments, special education or instructional
+supports with an in-state or out-of-state contractor for the
+purposes of state level reporting;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(F) A student is classified as &#8220;migrant&#8221; for federal reporting
+purposes; or</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(G) A federal agency is performing a compliance review.</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(4) Develop a detailed data security plan that includes:</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(A) Guidelines for the student data system and for 
+individual student data including guidelines for authentication of
+authorized access;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(B) Privacy compliance standards;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(C) Privacy and security audits;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(D) Breach planning, notification and procedures;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(E) Data retention and disposition policies; and</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(F) Data security policies including electronic, physical, and
+administrative safeguards, such as data encryption and training
+of employees;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(5) Ensure routine and ongoing compliance by the
+department with FERPA, other relevant privacy laws and
+policies, and the privacy and security policies and procedures
+developed under the authority of this act, including the
+performance of compliance audits;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(6) Ensure that any contracts that govern databases,
+assessments or instructional supports that include student or
+redacted data and are outsourced to private vendors include
+express provisions that safeguard privacy and security and
+include penalties for noncompliance; and</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(7) Notify the Governor and the Legislature annually of the
+following:</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(A) New student data proposed for inclusion in the state
+student data system. Any proposal by the Department of
+Education to collect new student data must include a statement
+regarding the purpose or reason and legal authority for the
+proposed collection. The proposal shall be announced to the
+general public for a review and comment period of at least sixty
+days and approved by the state board before it becomes effective.
+Any new student data collection approved by the state board is
+a provisional requirement for a period sufficient to allow schools
+and school districts the opportunity to meet the new requirement;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(B) Changes to existing data collections required for any
+reason, including changes to federal reporting requirements made
+by the U.S. Department of Education and a statement of the
+reasons the changes were necessary;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(C) An explanation of any exceptions granted by the state
+board in the past year regarding the release or out-of-state
+transfer of student or redacted data; and</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(D) The results of any and all privacy compliance and
+security audits completed in the past year. Notifications
+regarding privacy compliance and security audits shall not
+include any information that would itself pose a security threat
+to the state or local student information systems or to the secure
+transmission of data between state and local systems by exposing
+vulnerabilities.</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(8) Notify the Governor upon the suspicion of a data security
+breach or confirmed breach and upon regular intervals as the
+</span></span><span style="font-size: 11pt"><span style="font-family: 'Times New Roman', serif">breach is being managed. The parents shall be notified as soon
+as possible after the suspected or confirmed breach.</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-weight: bold"><span style="font-family: 'Times', serif"></span></span></span><span style="font-size: 11pt"><span style="font-family: 'Times New Roman', serif">(9) Prohibit the collection of confidential student
+information as defined in subdivision ten of subsection (b) of this
+section.</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(d) <i>Data Inventory &#8211; District Responsibilities.</i> </span><i><span style="font-family: 'Times New Roman', serif">&#8212;</span></i></span><span style="font-family: 'Times', serif"><span style="font-size: 11pt"> A school
+district shall not report to the state the following individual
+student data:</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(1) Juvenile delinquency records;</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(2) Criminal records;</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(3) Medical and health records; and</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(4) Student biometric information.</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(e) <i>Data Inventory &#8211; School Responsibilities.</i> </span></span><span style="font-size: 11pt"><i><span style="font-family: 'Times New Roman', serif">&#8212;</span></i></span><span style="font-size: 11pt"><span style="font-family: 'Times', serif"> Schools
+shall not collect the following individual student data:</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(1) Political affiliation and beliefs;</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(2) Religion and religious beliefs and affiliations;</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif">(3) Any data collected through affective computing;</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif">(4) Any data concerning the sexual orientation or beliefs
+about sexual orientation of the student or any student&#8217;s family
+member; and</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif">(5) Any data concerning firearm&#8217;s ownership by any member
+of a studen&#8217;t family.</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(f) <i>Data Governance Manager.</i> </span><i><span style="font-family: 'Times New Roman', serif">&#8212;</span></i></span><span style="font-family: 'Times', serif"><span style="font-size: 11pt"> The state superintendent
+shall appoint a data governance manager, who shall report to and
+be under the general supervision of the state superintendent. The
+data governance manager shall have primary responsibility for
+privacy policy, including:</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(1) Assuring that the use of technologies sustain, and do not
+erode, privacy protections relating to the use, collection, and
+disclosure of student data;</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(2) Assuring that student data contained in the student data
+system is handled in full compliance with the Student Data
+Accessibility, Transparency, and Accountability Act, FERPA,
+and other state and federal privacy laws;</span></span></p>
+<p style="text-align: justify; line-height: 0.365556in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(3) Evaluating legislative and regulatory proposals involving
+collection, use, and disclosure of student data by the Department
+of Education;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(4) Conducting a privacy impact assessment on proposed
+rules of the state board and department in general and on the
+privacy of student data, including the type of personal
+information collected and the number of students affected;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(5) Coordinating with the general counsel of the state board
+and department, other legal entities, and organization officers to
+ensure that programs, policies, and procedures involving civil
+rights, civil liberties, and privacy considerations are addressed in
+an integrated and comprehensive manner;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(6) Preparing a report to the Legislature on an annual basis
+on activities of the department that affect privacy, including
+complaints of privacy violations, internal controls, and other
+matters;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(7) Establishing department-wide policies necessary for
+implementing Fair Information Practice Principles to enhance
+privacy protections;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(8) Working with the Office of Data Management and
+Analysis, the general counsel, and other officials in engaging
+with stakeholders about the quality, usefulness, openness, and
+privacy of data;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(9) Establishing and operating a department-wide Privacy
+Incident Response Program to ensure that incidents are properly
+reported, investigated and mitigated, as appropriate;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(10) Establishing and operating a process for parents to file
+complaints of privacy violations;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(11) Establishing and operating a process to collect and
+respond to complaints of privacy violations and provides redress,
+as appropriate; and</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(12) Providing training, education and outreach to build a
+culture of privacy across the department and transparency to the
+public.</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>The data governance manager shall have access to all
+records, reports, audits, reviews, documents, papers,
+recommendations, and other materials available to the
+department that relate to programs and operations with respect
+to his or her responsibilities under this section and shall make
+investigations and reports relating to the administration of the
+programs and operations of the department as are necessary or
+desirable.</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(g) <i>Parental rights regarding child&#8217;s information and
+education record.</i> </span></span><span style="font-size: 11pt"><i><span style="font-family: 'Times New Roman', serif">&#8212;</span></i></span><span style="font-size: 11pt"><span style="font-family: 'Times', serif"> Parents have the right to inspect and review
+their child&#8217;s education record maintained by the school and to
+request student data specific to their child&#8217;s educational record.
+School districts must provide parents or guardians with a copy of
+their child&#8217;s educational record upon request. Whenever
+possible, an electronic copy of the educational record must be
+provided if requested and the identity of the person requesting
+the information is verified as the parent or guardian.</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>The state board shall develop guidance for school district
+policies that:</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(1) Annually notify parents of their right to request student
+information;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(2) Ensure security when providing student data to parents;</span></span></p>
+<p style="text-align: justify; line-height: 0.383059in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(3) Ensure student data is provided only to the authorized
+individuals;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(4) Detail the timeframe within which record requests must
+be provided;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(5) Ensure that school districts have a plan to allow parents
+to view and access data specific to their child&#8217;s educational
+record and that any electronic access provided is restricted to
+eligible parties;</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(6) Ensure compliance in the collection, use and disclosure
+of directory information and providing parents or guardians with
+a form to limit the information concerning their child in directory
+and subject to release; and</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(7) Informing parents of their rights and the process for filing
+complaints of privacy violations.</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-size: 11pt"><span style="font-family: 'Times', serif"><span style="font-weight: bold"></span>(h) <i>State Board Rules.</i> </span><i><span style="font-family: 'Times New Roman', serif">&#8212;</span></i></span><span style="font-family: 'Times', serif"><span style="font-size: 11pt"> The state board shall adopt rules
+necessary to implement the provisions of the Student Data
+Accessibility, Transparency, and Accountability Act.</span></span></p>
+<p style="text-align: justify; line-height: 0.388889in; margin-left: 0.375in"><span style="font-family: 'Times', serif"><span style="font-size: 11pt"><span style="font-weight: bold"></span>(i) <i>Effect on Existing Data.</i> </span></span><span style="font-size: 11pt"><i><span style="font-family: 'Times New Roman', serif">&#8212;</span></i></span><span style="font-size: 11pt"><span style="font-family: 'Times', serif"> Upon the effective date of this
+section, any existing student data collected by the Department of
+Education shall not be considered a new student data collection
+under this section.</span></span></p>
+</body>
+
+</html>
+ 
+</div>
+ 
+ 
+</div><!--wrapper-->
+
+
+<div id="footer">
+
+<div class="footerlinks">
+<a href="/bill_status/bill_status.cfm">Bill Status</a>&nbsp;&nbsp;|&nbsp;
+<a href="/billstatus_personalized/persbills_login.cfm">Bill Tracking</a>&nbsp;&nbsp;|&nbsp;
+<a href="/wvcodeentire.htm">WV Code Entire</a>&nbsp;&nbsp;|&nbsp;
+<a href="/Bulletin_Board/Bulletin_Board_menu.cfm">Bulletin Board</a>&nbsp;&nbsp;|&nbsp;
+<a href="/Districts/maps.cfm">District Maps</a>&nbsp;&nbsp;|&nbsp;
+<a href="/Senate1/roster.cfm">Senate Roster</a>&nbsp;&nbsp;|&nbsp; 
+<a href="/House/roster.cfm">House Roster</a>&nbsp;&nbsp;|&nbsp; 
+<a href="/News_release/news.cfm">Releases</a>&nbsp;&nbsp;|&nbsp;  
+<a href="//blog.wvlegislature.gov/">Blog</a>&nbsp;&nbsp;|&nbsp; 
+<a href="/Contact/Links/links.cfm">Links</a>&nbsp;&nbsp;|&nbsp;
+<a href="//jobs.wvlegislature.gov/">Jobs</a>&nbsp;&nbsp;|&nbsp;
+<!--<a href="/FAQs/FAQ.cfm">FAQ</a>&nbsp;&nbsp;|&nbsp;
+<a href="/site_map.cfm">Site Map</a>&nbsp;&nbsp;|&nbsp;-->
+<a href="/index.cfm">Home</a>
+</div>
+<div class="social">
+<span>
+<a href="/RSS/lric_rss.cfm"><img src="/images/rss-feeds.png" alt="RSS Feed" width="24" height="24" align="absmiddle"  title="RSS Feed"></a>
+<a href="https://www.facebook.com/wvlegislature"><img src="/images/facebook.png" alt="Find us on Facebook" width="24" height="24" align="absmiddle" title="Find us on Facebook"></a>
+<a href="https://twitter.com/wvlegislature"><img src="/images/twitter.png" alt="Follow us on Twitter" width="24" height="24" align="absmiddle" title="Follow us on Twitter"></a>
+<!--<a href="https://plus.google.com/107404016415096887193" rel="publisher"><img src="/images/google-plus.png" alt="Find us on Google+" width="24" height="24" align="absmiddle" title="Find us on Google+"></a>-->
+</span>
+</div>
+</div>
+<div class="baseline">This Web site is maintained by the <a href="/Joint/legisinfo.cfm">West Virginia Legislature's Office of Reference &amp; Information.</a> &nbsp;|&nbsp; <a href="/termsofuse.cfm"> Terms of Use</a>  &nbsp;| &nbsp; <a href="mailto:webmaster@wvlegislature.gov"> Web Administrator</a> &nbsp;  | &nbsp;  &copy; 2020 West Virginia Legislature  * 
+</div><br /><br />
+
+<div id='pod-popup' class='noprint'>
+	<a class="b-close"><img src='/js/images/close-icon128x128.png' alt='X'></a>
+	<h3>Print On Demand</h3>
+	<div class='pod-meta'>Name:<input type='text' value='' id='pod-name' class='meta-input'></div>
+	<div style='clear:both'></div>
+    <div class='pod-meta'>Email:<input type='text' value='' id='pod-email' class='meta-input'></div>
+	<div style='clear:both'></div>
+    <div class='pod-meta'>Phone:<input type='text' value='' id='pod-phone' class='meta-input'></div>
+	<div style='clear:both'></div>
+	<div id='pod-content'></div>
+	<hr>
+	<a><img id='pod-go' src='/js/images/print-request159x50.png' alt='Print'></a>
+</div>
+
+<script type="text/javascript" src="/js/validcodecheck.js"></script>
+<script type="text/javascript" src="/js/pod.js"></script>
+<script type="text/javascript" src="/js/codedetect.js"></script>
+
+</body>
+</html>

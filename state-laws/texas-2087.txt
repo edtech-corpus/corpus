@@ -1,0 +1,256 @@
+
+  	
+ 
+  	H.B. No. 2087
+ 
+ 
+ 
+  	
+AN ACT
+  	relating to restricting the use of covered information, including
+  	student personally identifiable information, by an operator of a
+  	website, online service, online application, or mobile application
+  	for a school purpose.
+  	       BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+  	       SECTION 1.  The heading to Chapter 32, Education Code, is
+  	amended to read as follows:
+  	CHAPTER 32. COMPUTERS, [AND] COMPUTER-RELATED EQUIPMENT, AND
+  	STUDENT INFORMATION PROTECTION
+  	       SECTION 2.  Chapter 32, Education Code, is amended by adding
+  	Subchapter D to read as follows:
+  	SUBCHAPTER D. STUDENT INFORMATION
+  	       Sec. 32.151.  DEFINITIONS. In this subchapter:
+  	             (1)  "Covered information" means personally
+  	identifiable information or information that is linked to
+  	personally identifiable information, in any media or format, that
+  	is not publicly available and is:
+  	                   (A)  created by or provided to an operator by a
+  	student or the student's parent in the course of the student's or
+  	parent's use of the operator's website, online service, online
+  	application, or mobile application for a school purpose;
+  	                   (B)  created by or provided to an operator by an
+  	employee of a school district or school campus for a school purpose;
+  	or
+  	                   (C)  gathered by an operator through the operation
+  	of the operator's website, online service, online application, or
+  	mobile application for a school purpose and personally identifies a
+  	student, including the student's educational record, electronic
+  	mail, first and last name, home address, telephone number,
+  	electronic mail address, information that allows physical or online
+  	contact, discipline records, test results, special education data,
+  	juvenile delinquency records, grades, evaluations, criminal
+  	records, medical records, health records, social security number,
+  	biometric information, disabilities, socioeconomic information,
+  	food purchases, political affiliations, religious information,
+  	text messages, student identifiers, search activity, photograph,
+  	voice recordings, or geolocation information.
+  	             (2)  "Interactive computer service" has the meaning
+  	assigned by 47 U.S.C. Section 230.
+  	             (3)  "Operator" means, to the extent operating in this
+  	capacity, the operator of a website, online service, online
+  	application, or mobile application who has actual knowledge that
+  	the website, online service, online application, or mobile
+  	application is used primarily for a school purpose and was designed
+  	and marketed for a school purpose.
+  	             (4)  "Parent" includes a person standing in parental
+  	relation.
+  	             (5)  "School purpose" means a purpose that is directed
+  	by or customarily takes place at the direction of a school district,
+  	school campus, or teacher or assists in the administration of
+  	school activities, including instruction in the classroom or at
+  	home, administrative activities, and collaboration between
+  	students, school personnel, or parents, or is otherwise for the use
+  	and benefit of the school.
+  	             (6)  "Targeted advertising" means presenting an
+  	advertisement to a student in which the advertisement is selected
+  	for the student based on information obtained or inferred over time
+  	from the student's online behavior, usage of applications, or
+  	covered information.  The term does not include advertising to a
+  	student at an online location based on the student's visit to that
+  	location at that time, or in response to the student's request for
+  	information or feedback, without the retention of the student's
+  	online activities or requests over time for the purpose of
+  	targeting subsequent advertisements.
+  	       Sec. 32.152.  PROHIBITED USE OF COVERED INFORMATION. (a) An
+  	operator may not knowingly:
+  	             (1)  engage in targeted advertising on any website,
+  	online service, online application, or mobile application if the
+  	target of the advertising is based on any information, including
+  	covered information and persistent unique identifiers, that the
+  	operator has acquired through the use of the operator's website,
+  	online service, online application, or mobile application for a
+  	school purpose;
+  	             (2)  use information, including persistent unique
+  	identifiers, created or gathered by the operator's website, online
+  	service, online application, or mobile application, to create a
+  	profile about a student unless the profile is created for a school
+  	purpose; or
+  	             (3)  except as provided by Subsection (c), sell or rent
+  	any student's covered information.
+  	       (b)  For purposes of Subsection (a)(2), the collection and
+  	retention of account information by an operator that remains under
+  	the control of the student, the student's parent, or the campus or
+  	district is not an attempt to create a profile by the operator.
+  	       (c)  Subsection (a)(3) does not apply to:
+  	             (1)  the purchase, merger, or any other type of
+  	acquisition of an operator by another entity, if the operator or
+  	successor entity complies with this subchapter regarding
+  	previously acquired student information; or
+  	             (2)  a national assessment provider if the provider
+  	secures the express affirmative consent of the student or the
+  	student's parent, given in response to clear and conspicuous
+  	notice, and if the information is used solely to provide access to
+  	employment, educational scholarships, financial aid, or
+  	postsecondary educational opportunities.
+  	       Sec. 32.153.  ALLOWED DISCLOSURE OF COVERED INFORMATION.
+  	(a) An operator may use or disclose covered information under the
+  	following circumstances:
+  	             (1)  to further a school purpose of the website, online
+  	service, online application, or mobile application and the
+  	recipient of the covered information disclosed under this
+  	subsection does not further disclose the information unless the
+  	disclosure is to allow or improve operability and functionality of
+  	the operator's website, online service, online application, or
+  	mobile application;
+  	             (2)  to ensure legal and regulatory compliance;
+  	             (3)  to protect against liability;
+  	             (4)  to respond to or participate in the judicial
+  	process;
+  	             (5)  to protect:
+  	                   (A)  the safety or integrity of users of the
+  	website, online service, online application, or mobile
+  	application; or
+  	                   (B)  the security of the website, online service,
+  	online application, or mobile application;
+  	             (6)  for a school, education, or employment purpose
+  	requested by the student or the student's parent and the
+  	information is not used or disclosed for any other purpose;
+  	             (7)  to use the covered information for:
+  	                   (A)  a legitimate research purpose; or
+  	                   (B)  a school purpose or postsecondary
+  	educational purpose; or
+  	             (8)  for a request by the agency or the school district
+  	for a school purpose.
+  	       (b)  A national assessment provider or a provider of a
+  	college and career counseling service may, in response to a request
+  	of a student, and on receiving the express affirmative consent of
+  	the student or the student's parent given in response to clear and
+  	conspicuous notice, use or disclose covered information solely to
+  	provide access to employment, educational scholarships, financial
+  	aid, or postsecondary educational opportunities.
+  	       (c)  An operator may disclose covered information if a
+  	provision of federal or state law requires the operator to disclose
+  	the information. The operator must comply with the requirements of
+  	federal and state law to protect the information being disclosed.
+  	       (d)  An operator may disclose covered information to a third
+  	party if the operator has contracted with the third party to provide
+  	a service for a school purpose for or on behalf of the operator. The
+  	contract must prohibit the third party from using any covered
+  	information for any purpose other than providing the contracted
+  	service. The operator must require the third party to implement and
+  	maintain reasonable procedures and practices designed to prevent
+  	disclosure of covered information.
+  	       (e)  Nothing in this subchapter prohibits the operator's use
+  	of covered information for maintaining, developing, supporting,
+  	improving, or diagnosing the operator's website, online service,
+  	online application, or mobile application.
+  	       Sec. 32.154.  ALLOWED USE OF COVERED INFORMATION. This
+  	subchapter does not prohibit an operator from:
+  	             (1)  using covered information:
+  	                   (A)  to improve educational products if that
+  	information is not associated with an identified student using the
+  	operator's website, online service, online application, or mobile
+  	application; and
+  	                   (B)  that is not associated with an identified
+  	student to demonstrate the effectiveness of the operator's products
+  	or services and to market the operator's services;
+  	             (2)  sharing covered information that is not associated
+  	with an identified student for the development and improvement of
+  	educational websites, online services, online applications, or
+  	mobile applications;
+  	             (3)  recommending to a student additional services or
+  	content relating to an educational, learning, or employment
+  	opportunity within a website, online service, online application,
+  	or mobile application if the recommendation is not determined by
+  	payment or other consideration from a third party;
+  	             (4)  responding to a student's request for information
+  	or for feedback without the information or response being
+  	determined by payment or other consideration from a third party; or
+  	             (5)  if the operator is a national assessment provider
+  	or a provider of a college and career counseling service,
+  	identifying for a student, with the express affirmative consent of
+  	the student or the student's parent, institutions of higher
+  	education or scholarship providers that are seeking students who
+  	meet specific criteria, regardless of whether the identified
+  	institution of higher education or scholarship provider provides
+  	consideration to the operator.
+  	       Sec. 32.155.  PROTECTION OF COVERED INFORMATION. An
+  	operator must implement and maintain reasonable security
+  	procedures and practices designed to protect any covered
+  	information from unauthorized access, deletion, use, modification,
+  	or disclosure.
+  	       Sec. 32.156.  DELETION OF COVERED INFORMATION. If a school
+  	district requests the deletion of a student's covered information
+  	under the control of the school district and maintained by the
+  	operator, the operator shall delete the information not later than
+  	the 60th day after the date of the request, or as otherwise
+  	specified in the contract or terms of service, unless the student or
+  	the student's parent consents to the operator's maintenance of the
+  	covered information.
+  	       Sec. 32.157.  APPLICABILITY. This subchapter does not:
+  	             (1)  limit the authority of a law enforcement agency to
+  	obtain any information from an operator as authorized by law or
+  	under a court order;
+  	             (2)  limit the ability of an operator to use student
+  	data, including covered information, for adaptive learning or
+  	customized student learning purposes;
+  	             (3)  apply to general audience:
+  	                   (A)  websites;
+  	                   (B)  online services;
+  	                   (C)  online applications; or
+  	                   (D)  mobile applications;
+  	             (4)  limit service providers from providing Internet
+  	connection to school districts or students and students' families;
+  	             (5)  prohibit an operator from marketing educational
+  	products directly to a student's parent if the marketing is not a
+  	result of the use of covered information obtained by the operator
+  	through providing services to the school district;
+  	             (6)  impose a duty on a provider of an electronic store,
+  	gateway, marketplace, or other means of purchasing or downloading
+  	software or applications to review or enforce compliance with this
+  	subchapter on those applications or software;
+  	             (7)  impose a duty on a provider of an interactive
+  	computer service to review or enforce compliance with this
+  	subchapter by third-party content providers;
+  	             (8)  prohibit a student from downloading, exporting,
+  	transferring, saving, or maintaining the student's data or
+  	documents; or
+  	             (9)  alter the rights or duties of the operator,
+  	provider, school, parent, or student under the Family Educational
+  	Rights and Privacy Act of 1974 (20 U.S.C. Section 1232g) or other
+  	federal law.
+  	       SECTION 3.  This Act takes effect September 1, 2017.
+ 
+ 
+  	______________________________ 	______________________________
+  	   President of the Senate 	Speaker of the House     
+ 
+ 
+  	       I certify that H.B. No. 2087 was passed by the House on May
+  	11, 2017, by the following vote:  Yeas 146, Nays 1, 1 present, not
+  	voting.
+  	
+  	______________________________
+  	Chief Clerk of the House   
+ 
+ 
+  	       I certify that H.B. No. 2087 was passed by the Senate on May
+  	22, 2017, by the following vote:  Yeas 31, Nays 0.
+  	
+  	______________________________
+  	Secretary of the Senate    
+  	APPROVED:  _____________________
+  	                   Date          
+  	 
+  	          _____________________
+  	                 Governor       

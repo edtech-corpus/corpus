@@ -1,0 +1,107 @@
+
+
+CHAPTER 252
+
+HB 1612 - FINAL VERSION
+
+ 
+
+6Mar2018... 0754h
+
+04/19/2018   1459s
+
+2018 SESSION
+
+18-2480
+
+06/05
+
+ 
+
+HOUSE BILL 1612
+
+ 
+
+AN ACT	relative to data security in schools.
+
+ 
+
+SPONSORS: Rep. Cordelli, Carr. 4; Rep. T. Wolf, Hills. 7; Rep. Kurk, Hills. 2; Rep. Ladd, Graf. 4; Rep. V. Sullivan, Hills. 16; Rep. Ferreira, Hills. 28; Rep. Seidel, Hills. 28
+
+ 
+
+COMMITTEE: Education
+
+ 
+
+-----------------------------------------------------------------
+
+ 
+
+AMENDED ANALYSIS
+
+ 
+
+This bill requires each local education agency to develop a data security plan.
+
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ 
+
+Explanation: Matter added to current law appears in bold italics.
+
+Matter removed from current law appears [in brackets and struckthrough.]
+
+Matter which is either (a) all new or (b) repealed and reenacted appears in regular type.
+
+6Mar2018... 0754h
+
+04/19/2018   1459s 18-2480
+
+06/05
+
+ 
+
+STATE OF NEW HAMPSHIRE
+
+ 
+
+In the Year of Our Lord Two Thousand Eighteen
+
+ 
+
+AN ACT	relative to data security in schools.
+
+ 
+
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+
+ 
+
+252:1  New Paragraph; Student and Teacher Information Protection; Data Inventory Security Plan.  Amend RSA 189:66 by inserting after paragraph IV the following new paragraph:
+
+V.  The department shall establish minimum standards for privacy and security of student and employee data, based on best practices, for local education agencies.  Each local education agency shall develop a data and privacy governance plan which shall be presented to the school board for review and approval by June 30, 2019.  The plan shall be updated annually and presented to the school board.  The plan shall include:
+
+(a)  An inventory of all software applications, digital tools, and extensions.  The inventory shall include users of the applications, the provider, purpose, publisher, privacy statement, and terms of use.
+
+(b)  A review of all software applications, digital tools, and extensions and an assurance that they meet or exceed standards set by the department.
+
+(c)  Policies and procedures for access to data and protection of privacy for students and staff including acceptable use policy for applications, digital tools, and extensions.
+
+(d)  A response plan for any breach of information.
+
+(e)  A requirement for a service provider to meet or exceed standards for data protection and privacy.
+
+252:2  Student and Teacher Information Protection; Data Inventory Security Plan.  Amend the introductory paragraph of RSA 189:66, IV to read as follows:
+
+IV.  The department and each local education agency shall make publicly available students' and parents' rights under the Family Educational Rights and Privacy Act (FERPA), 20 U.S.C. section 1232g, et seq., and applicable state law including:
+
+252:3  Effective Date.  This act shall take effect 60 days after its passage.
+
+ 
+
+Approved: June 12, 2018
+
+Effective Date: August 11, 2018

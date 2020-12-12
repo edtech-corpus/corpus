@@ -1,0 +1,149 @@
+
+
+Upcoming Hackathon: Thriving in a Remote Environment – November 10-17- Sign up now!
+Join the weekly Jitsi Community video call • Mondays @ 10:30am CT Details
+Jitsi
+
+    Docs Projects Blog Community About
+        About
+        Powered by Jitsi™
+        Partners
+        Jitsi in the News
+    Download 
+
+meet.jit.si Privacy Supplement
+
+Last updated: March 30, 2020
+
+8×8, Inc. (“8×8”) respects your right to privacy. This Privacy Supplement describes what personal information 8×8 processes for the meet.jit.si video meeting service and why.  For more general information about privacy at 8×8, please see the 8×8 Privacy Notice.  The meet.jit.si Privacy Notice replaces the “What personal information does 8×8 collect and why?” section of the 8×8 Privacy Notice.
+
+What is meet.jit.si?
+
+8×8 is the main contributor to the Jitsi.org open-source video meetings solution.  Meet.jit.si is an application of the Jitsi.org open-source video meetings solution that 8×8 hosts, which allows users to hold free video meetings.
+
+What personal information does meet.jit.si process?
+
+To provide the meet.jit.si service, 8×8 processes network and usage information including IP addresses for the meeting participants, the user specified URL used to host the meeting, and information about the phone numbers that connect to the meeting (if audio connection is made via a telephone call).  In some cases, meeting related content, which may contain personal information, is temporarily stored to enable user functionality in a meet.jit.si video meeting.  Examples include:
+
+    If you use the chat function, chat content is stored during the meeting.
+    If you record a meeting, the recording of the meeting is temporarily stored until it is uploaded to your file hosting service (e.g. DropBox).
+    If you livestream your meeting, video content is temporarily stored to buffer the livestream.
+    In addition, users of meet.jit.si have the option of providing name, email address, and link to a picture that will be displayed to participants in the meeting.
+
+How is this information used?
+
+8×8 is not in the business of selling personal information to third parties.  8×8 uses this information to deliver the meet.jit.si service, to identify and troubleshoot problems with the meet.jit.si service, and to improve the meet.jit.si service.  In addition, 8×8 may use this information to investigate fraud or abuse.
+
+How to contact us
+
+If you have any questions or concerns about our use of your personal information, please contact our data protection officer at: dpo@8×8.com.
+
+ 
+
+Jitsi is a trademark of © 8×8, Inc. All Rights Reserved.
+
+    GitHub Twitter Facebook YouTube 
+
+
+--
+
+
+
+Upcoming Hackathon: Thriving in a Remote Environment – November 10-17- Sign up now!
+Join the weekly Jitsi Community video call • Mondays @ 10:30am CT Details
+Jitsi
+
+    Docs Projects Blog Community About
+        About
+        Powered by Jitsi™
+        Partners
+        Jitsi in the News
+    Download 
+
+Jitsi Meet Security & Privacy
+
+For us Fellow Jitsters, developing a platform our users can rely on is the most important thing. That means, amongst other things, we are very mindful of the security and privacy aspects that affect our users.
+
+Security and privacy are very broad topics so we are going to try and go through some practical use cases to demonstrate what’s at play.
+Fully secure you say… What does this mean exactly?
+
+In many respects Jitsi meetings are simply private by design. To begin with, all meeting rooms are ephemeral: they only exist while the meeting is actually taking place. They get created when the first participant joins and they are destroyed when the last one leaves. If someone joins the same room again, a brand new meeting is created with the same name and there is no connection to any previous meeting that might have been held with the same name. 
+
+This is all very important. Some of the systems that let people “pre-create” rooms, have subtle indications that let a potential attacker distinguish reserved from unreserved meetings which then makes the reserved meetings easier to identify and target.
+
+That said, since a name is all that one needs to actually access a room, we have to be really careful about how we choose and advertise them. We don’t want others accidentally stumbling into our meetings, just as we want to keep pranksters and snoopers away.
+
+This is generally not much of a problem for small size deployments (remember you can host your own Jitsi Meet) or low profile meetings but it may be a problem if you are using a large and public deployment such as meet.jit.si or if there is significant interest in your meeting.
+
+One has to really keep in mind that the name of a meeting is sensitive and needs to be protected. You shouldn’t send it to anyone you do not want in your meeting. Advertising this name publicly, for example on social media, is something you should only ever do if you truly are comfortable with maximum exposure and the possibility of unwelcome visitors.
+
+Then there’s the matter of choosing the name. If you start a meeting with the name “Test”, “Yoga” or “FamilyMeeting” for example, chances of having some random uninvited people joining are very, very high. How does one pick a good room name then? Our random meeting name generator is a great start. It offers names that are easy to remember and read out loud on a phone call, and come from a set of over a trillion possible combinations. Picking out one of the auto-generated names is therefore quite safe.
+
+If you don’t like the funky way the auto-generated names sound and you don’t want to use a long and uninviting UUID (which you totally could), then go ahead and pick a name by yourself but make sure it is long enough. For example, next time you’d like to have a coffee with someone over video, rather than going for meet.jit.si/coffee, try something with more of a twist.
+
+We are also working on a “bad meeting name detector”. You’ll see a warning if your meeting name has a high chance of collision, so stay tuned!
+
+We also give people the option to set a meeting password. A few important things to keep in mind: if you do set a password, it is your responsibility to communicate it to your peers. 
+
+More importantly, keep in mind that your password, just as chat and speaker stats, will be reset once the last person leaves the room. So you have to make sure that you set the password again, if you find yourself ending the meeting and then rejoining. 
+
+A similar approach you might consider would be to append a random character sequence at the end of your room name.
+Anyone can mute or kick me out of my meeting, what’s up with that?
+
+Jitsi models its meetings after in-person gatherings. Take the case of 10 people having a discussion in a room. You wouldn’t expect one person to have exclusive  “kick” and “mute” privileges in an in-person meeting and yet, those meetings usually go fine.
+
+In the vast majority of cases, moderation controls in online meetings serve a different purpose: they help address tech related issues, such as people not realizing their microphones are introducing noise, or people forgetting to leave. Moderation controls help you solve those, so that people can continue their conversation. And now, with that in mind, why wouldn’t you want to enable anyone in the meeting to help solve these kinds of issues? 
+
+For that reason our moderation controls are soft, and for everyone.
+
+This is specifically the case on meet.jit.si, since all users are moderators.  
+
+If you really, really, really need moderation controls to be limited then consider deploying your own Jitsi Meet instance and configuring it in a way that suits your needs. Once you do, you can configure strong authentication, so only authorised users will be moderators.
+
+We understand the settings in meet.jit.si are not for everyone, so if you’d rather have your own private setup (which we encourage you to do!) you can get started quickly with our Docker setup or the quick-install guide. We’ll be happy to help you in our community.
+Does Jitsi support end-to-end encryption?
+
+The short answer is: Yes, we do!
+
+You can turn on end-to-end encryption (e2ee) as long as you are using Jitsi Meet on a browser with support for insertable streams. Currently this means any browser based on Chromium 83 and above, including Microsoft Edge, Google Chrome, Brave and Opera. You may also use our Electron client, which supports it out of the box.
+
+All you need to do is select the “End-to-end Encryption” option in the overflow menu and then make sure that all participants fill in the same pass word or phrase in the Key field. 
+
+You can learn more about our e2ee support at: https://jitsi.org/e2ee
+
+Jitsi Meet offers very strong protection even if you don’t explicitly turn on e2ee. Here are more details:
+
+Jitsi meetings in general operate in 2 ways: peer-to-peer (P2P) or via the Jitsi Videobridge (JVB). This is transparent to the user. P2P mode is only used for 1-to-1 meetings. In this case, audio and video are encrypted using DTLS-SRTP all the way from the sender to the receiver, even if they traverse network components like TURN servers. 
+
+In the case of multiparty meetings all audio and video traffic is still encrypted on the network (again, using DTLS-SRTP). This outer layer of DTLS-SRTP encryption is removed while packets are traversing Jitsi Videobridge; however they are never stored to any persistent storage and only live in memory while being routed to other participants in the meeting. 
+
+It is very important to note that when packets are also end-to-end encrypted, this second layer of encryption is never removed (nor can it be)
+
+Since Jitsi is built on top of WebRTC, a deeper look into its security architecture is very important when evaluating Jitsi’s security aspects.
+What do you do with my data?
+
+To begin with, by default Jitsi Meet does not require users to create accounts. Any information they choose to enter, such as their name or email address is purely optional and is only shared with other meeting participants.  We do not retain this information after the meeting. 
+
+Other pieces of data such as the chat, or speaker stats, for example, are stored for the duration of the meeting and then destroyed when it ends. 
+
+Obviously many of these things can be customized by the configuration of the actual deployment that you are using so we are going to talk about the one we maintain: meet.jit.si 
+
+We preserve all of the above defaults but you should absolutely also check out the meet.jit.si Privacy Policy and Terms of Service.
+
+Recordings are a bit of an interesting case. They are kept on our servers until we can upload them to the place you indicated (currently Dropbox). If we haven’t managed to do that in 24 hours we still delete them and they are gone forever (so make sure you have enough space in your Dropbox folders 😉 )
+Do you use analytics?
+
+Jitsi Meet does not come with any preconfigured analytics engines. 
+
+We do use analytics on meet.jit.si, so let’s talk about it.
+
+We are very committed to privacy and security and we are extremely careful about what information reaches the analytics engines we use. That said we also want to provide our users with a great product experience, so we need some visibility into what’s actually going on. We are currently using Amplitude, Datadog and Crashlytics to cover various aspects of the apps and the infrastructure on meet.jit.si. Things that we track in analytics include, an anonymous identifier (you can run in “incognito” mode if this bothers you), bitrate, available bandwidth, SDP offers and answers, product utilization events, mobile app crash dumps  (how much various product features are used overall).
+
+Most importantly, once your meeting is over we do not retain any  names, e-mail addresses or profile pictures (as we mentioned above, those are only transmitted to the other participants in the meeting).
+
+While we hope that the meet.jit.si configuration will be satisfactory to most users, we completely understand that it will be incompatible with what some others are looking for. If, for any reason, this is the case for you please remember that you could be running your private Jitsi Meet instance in as little 15 minutes!
+
+Jitsi is a trademark of © 8×8, Inc. All Rights Reserved.
+
+    GitHub Twitter Facebook YouTube 
+

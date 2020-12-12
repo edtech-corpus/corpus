@@ -1,0 +1,229 @@
+Blackboard Privacy Statement
+
+Skip to table of contents
+
+Summary
+
+This summary highlights the key points of our Privacy Statement. You can find details on each point by clicking on the links.
+
+We care about your privacy and have a dedicated data privacy program. We do not and will not sell or rent your data unless this is required in the context of a change in our business structure. Learn more about our approach to data privacy.
+
+This Statement applies to our Blackboard websites as well as to the products and services mentioned in User of our online trial versions or Open Education. For all other products and services, your institution’s privacy statement governs. Learn more about how we use personal information.
+
+We share personal information with vendors that help provide our products and services. We also share personal information with partners and other third parties in certain circumstances. Learn more about how we share personal information.
+
+We conduct marketing to promote our products and services. This marketing is aimed at staff of our current and potential clients and partners. We do not use or disclose student information for behavioral targeting of advertisements to students. Learn more about our marketing.
+
+We do not knowingly collect any personal information from children under the age of 13 without consent. Learn more about how we use children’s personal information.
+
+We employ a variety of physical, technological and administrative security safeguards designed to protect personal information. Learn more about our security safeguards.
+
+We may transfer your information to locations outside of your country. Learn more about data transfers and country-specific privacy information.
+
+You can contact us at privacy@blackboard.com if you want to exercise your privacy rights, have a complaint, or want to ask a question. Learn more about your rights and how you can contact us.
+
+Additional privacy statements are available in our Privacy Center. For example:
+
+The Cookie Statement explains our use of cookies.
+
+The Privacy Shield Statement provides information on our EU-U.S. Privacy Shield certification.
+
+The California Privacy Notice provides information for California consumers that use our products and services when we are acting as a business.
+
+The Web Community Manager Privacy Statement is the specific privacy statement for our Web Community Manager product.
+
+This Statement was last updated on April 7, 2020. – What’s New?
+
+
+
+Introduction
+
+We care about privacy. We believe that privacy is a fundamental right for all individuals. Our clients entrust us with the personal information of their employees and their users, who are often students. We take the obligations that are attached to this information very seriously. We therefore have a dedicated data privacy program with privacy by design at heart. You can learn more about our data privacy program by visiting our Privacy Center.
+
+Our business model is different from that of companies that collect your personal information to monetize such data. We collect and use personal information to allow us to provide our products and services to our clients and end users. In most cases, we do this at the direction of our clients. We do not and will not sell or rent your data to third parties unless this is required in the context of changes to our business structure such as a merger or acquisition. See Vendors, partners & other types of disclosures for more details on how we may disclose personal information in the context of changes to our business structure.
+
+We are EU-U.S. Privacy Shield certified, a proud signatory of the Privacy Pledge, and a member of the Future of Privacy Forum.
+
+
+
+
+
+Who we are. When we refer to “us,” “we,” “our,” or “Blackboard” in this Statement, we mean Blackboard Inc. and its affiliates.
+
+This Statement governs all our services that we provide directly to you. Whether you are browsing our websites, receive our newsletters, or use an online trial version of our products, this Statement governs the use of personal information for all our products and services that we provide directly to you as a so-called ‘data controller.’
+
+When your institution’s privacy statement/policy governs. If you are an end-user of our client and we are providing our products and services to you on our client’s (your institution’s) behalf, we are considered a ‘data processor.’ In this case your institution’s privacy statement governs the use of personal information. Our Privacy Statement does not supersede the terms of any agreements between us and your institution (or any other client or third party), nor does it affect the terms of any agreement between you and your institution.
+
+Changes to this Statement. From time to time we will need to update this Statement to reflect changes to our products and services, the way we operate, or to meet new legal and regulatory requirements. You will find the latest version of this Statement at http://www.help.blackboard.com/Privacy_Statement. We will explain changes to this Statement on the What’s new? page.
+
+
+
+How we use your information depends on your relationship with us
+
+What personal information we collect and how we use it will depend on your relationship with us. Please click on the plus symbol to collapse or expand the relevant section below to learn more. The other sections in our Statement apply to all our activities.
+
+	
+
+Website users
+
+	
+
+	
+
+End user of an institution that uses our products
+
+	
+
+	
+
+User of DTLS, our online trial versions or Open Education
+
+	
+
+Vendors, partners & other types of disclosures
+
+This section provides more information on how we protect your information when we engage vendors, how we share information with our partners, and in which other scenarios we may share your information with third parties.
+
+Vendors
+
+We use vendors to help us provide our products and services to our clients and you or to perform work on our behalf. Where this requires access to personal information, we are responsible for the data privacy practices of the vendors. Our vendors must abide by our strict data privacy and security requirements and instructions. They are not allowed to use personal information they access or receive from us for any other purposes than as needed to carry out their work for us.
+
+Partners
+
+In some countries and regions, our products and services are offered through channel (or reselling) partners (see the list of our channel partners). We will share information with them that is necessary for them to offer and provide our products and services to our current and prospective clients.
+
+Some of our products allow you to access functionalities or content provided by our content and technology partners. For example, Blackboard Learn’s integration with Dropbox Education allows institutions and users to store and share content using Dropbox functionalities. With your or your institution’s permission, we will share information about you, such as your name, email, or student ID, that is required for you to access these partner functionalities or content from our products and services.
+
+Other types of disclosures
+
+We will also share your information where required in the following circumstances.
+
+Payments. Where you use our products and services to make a purchase or transaction, we will share your payment and transaction data with banks and other organizations to process the transactions and for fraud detection and prevention or anti-money laundering purposes.
+
+Changes to our business structure. Where permitted by applicable law and by the contracts with our clients, we may disclose your information in the following cases. We will always aim to continue to apply to commitments we make in this Statement in such a case. If this is not possible, we will notify our clients and we will not provide personal information about end users of our clients (including Student Data) without the required agreement of our clients, to a successor entity in the situations described below: 	
+
+Corporate transactions such as a merger, acquisition, sale of assets, and financing
+
+Bankruptcy, dissolution or reorganization, or in similar transactions or proceedings
+
+Steps related to the previous bullet points (for example, due diligence)
+
+Comply with law. We may need to disclose your information to comply with legal or regulatory requirements and to respond to lawful requests, court orders, and legal processes. We will always aim to limit the information we provide as much as possible. Where such disclosures relate to personal information we hold on behalf of our clients, we will defer such requests to our clients where permissible.
+
+Enforce our rights, prevent fraud, and for safety. We may need to disclose your information to protect and defend the rights, property, or safety of us, our clients, or third parties, including enforcing contracts or policies or in connection with investigating and preventing fraud.
+
+De-identified information. We may disclose aggregate or de-identified information that is no longer associated with an identifiable individual for research or to enhance and promote our products and services. For example, we may share aggregated or de-identified information with our partners or others for business or research purposes like partnering with a research firm or academics to explore how our products are being used and how such data can be used to enhance our functionalities and further help our clients and other educational institutions. We will implement appropriate safeguards before sharing information, which may include removing or hashing direct identifiers (e.g., your name, email address, and device ID).
+
+
+
+Client engagement & marketing
+
+Client engagement
+
+Managing the client relationship. We are collecting and storing limited personal information about the relevant contacts at our clients for invoicing, notification of product updates and maintenance, and similar purposes.
+
+Marketing
+
+No behavioral advertising to students in our products and services. We do not use or disclose information (whether personal information or otherwise) about students that we collect through the educational products and services we provide on behalf of educational institutions for behavioral targeting of advertisements to students. We may place contextual advertising where permitted by our agreement with your institution.
+
+Promotion of products and services. We conduct marketing to promote our products and services. This marketing is generally aimed at staff of our current and potential clients and partners. However, we do not restrict activities and events to those audiences when such activities and events benefit instructors and other end users of systems, such as webinars that explain how our products can be used effectively.
+
+Events and webinars. When we conduct or sponsor events and webinars, we will collect information about attendees, such as the session they attend and their contact details, to provide them with relevant product information and other Blackboard-related information.
+
+Sharing within Blackboard. We may share personal information related to marketing with the relevant Blackboard affiliates and departments. For example, information from a local Sales team may be provided to the global Field Marketing and Marketing Operations teams to update the relevant systems and send product and other promotional communications to you.
+
+Sharing with partners. In some countries and regions, our products and services are offered through channel (or reselling) partners (see the list of our channel partners). We will share the information that is necessary for our partners to promote our products and services to their clients and potential clients. We also work with technology and content partners (see the list of our technology and content partners) with whom we may share information such as event attendance if we have permission to do so.
+
+Sharing with vendors. We may use vendors to help us organize and conduct campaigns, events, and other aspects of marketing. We will share with them only the personal information that is necessary and ensure that they are following our strict requirements for vendors (learn more about sharing with vendors).
+
+Marketing preferences and opt-out. Our marketing emails will include a link so that you can change your preferences and opt-out of receiving marketing communications from us. You can do this by clicking on the "Unsubscribe" link in the email footer which will direct you to our Marketing Preference Center. While it doesn’t give you the same detailed controls as our Marketing Preference Center, you can also send us email at unsubscribe@blackboard.com to unsubscribe.
+
+Online and interest-based advertising on our websites. At times, we use third party advertising tools to collect information about your visits to our websites to serve you targeted advertisements based on your browsing history and interests on other websites and online services or on other devices you may use. We only use these tools on our own websites and not for our products and services. When we are providing our services on behalf of a client, our products and services do not use interest-based advertising tools except as instructed by our clients.
+
+In some instances, we may share a common account identifier related to your use of our websites (such as an email address or user ID) with our third-party advertising partners to help identify and contact you across devices. We and our third-party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research.
+
+To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you can visit the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org/choices, the DAA’s resources at http://www.aboutads.info/choices and/or Your Online Choices at http://www.youronlinechoices.com/uk. Please note:
+
+These tools will only opt you out from receiving interest-based ads on that specific browser or device, but you may still receive interest-based ads on your other devices. You must perform the opt-out on each browser or device you use.
+
+Some of these opt-outs may not be effective unless your browser is set to accept cookies. If you delete cookies, change your browser settings, switch browsers or computers, or use another operating system, you will need to opt-out again.
+
+Google Analytics and Advertising on our websites. We may also utilize certain forms of display advertising and other advanced features through Google Analytics, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting on our own websites. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Doubleclick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to our websites. For information on how Google Analytics collects and processes data, as well as. how you can control information sent to Google, review Google's site "How Google uses data when you use our partners' sites or apps". You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at https://google.com/ads/preferences or by visiting NAI’s online resources at http://www.networkadvertising.org/choices.
+
+You can learn more about our use of cookies in our Cookie Statement.
+
+
+
+Children’s privacy
+
+We do not knowingly collect any information from children under the age of 13 unless and until the relevant institution has provided consent and authorization for a student under 13 to use the products and services and for us to collect information from such student. Where a client institution instructs us to collect personal information from children under the age of 13, we collect, use, process and retain such information solely to provide the educational services on behalf of the client and for the purposes set forth in our agreement with the client. We collect only as much information as is necessary to provide the service and the client may access, delete or withdraw consent for continued processing of the child's information at any time. If you have any questions about reviewing, modifying, or deleting personal information of a child under the age of 13, please contact your educational institution directly.
+
+Please contact us at privacy@blackboard.com if you believe we have inadvertently collected personal information from a child under 13 without proper consent. This will allow us to delete such information as soon as possible.
+
+
+
+Security
+
+We employ a variety of physical, administrative, and technological safeguards designed to protect personal information against loss, misuse, and unauthorized access or disclosure. We have dedicated information security programs and work hard to continuously enhance our technical and operational security measures.
+
+Our measures consider the sensitivity of the information we collect, use, and store, and the current state of technology. Our security measures include data encryption, firewalls, data use, and access limitations for our personnel and vendors and physical access controls to our facilities.
+
+All products and services that use payment data maintain the applicable Payment Card Industry (PCI) compliance levels. Our compliance with the PCI standards is validated during annual audits that are conducted by external auditors (so called ‘Qualified Security Assessors’).
+
+
+
+Data transfers & additional regional and country information
+
+Data transfers
+
+Blackboard is a global company headquartered in the United States. We have a regional hosting strategy, but we may need to access your information from locations outside of your region and country, including in the United States and the Netherlands, for support and maintenance purposes where permitted under applicable law and our contract with your institution. We understand the importance of complying with data transfer requirements. We use approved data transfer mechanisms, such as the EU-U.S. Privacy Shield (see below), to ensure the adequate protection of your information when it is transferred. Learn more about our approach to data transfer compliance in our Privacy Center.
+
+EU-U.S. Privacy Shield
+
+We comply with the EU-U.S. Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. Learn more about Blackboard’s compliance with the EU-U.S. Privacy Shield Principles in our Privacy Shield Statement.
+
+If you have any questions about our Privacy Shield Statement and related practices, please email us at privacy@blackboard.com or contact us at the address below.
+
+United States – FERPA and state education privacy laws
+
+We provide educational products and services to schools and other educational institutions. Through the provision of these products and services, we collect personally identifiable information from or about students (“Student Data”), which may include educational records governed by the Family Educational Rights and Privacy Act (FERPA). We consider such Student Data to be strictly confidential and in general do not use such data for any purpose other than improving and providing our products and services to the educational institution or on the educational institution’s behalf. Our collection, use, and sharing of Student Data is governed by our contracts with the educational institutions, the provisions of FERPA, the Children’s Online Privacy Protection Act (“COPPA”), and other applicable laws that relate to the collection and use of personal information of students, but not by the provisions contained in this Privacy Statement. If you have any questions about reviewing, modifying, or deleting personal information of a student, please contact your educational institution directly.
+
+
+
+Your rights
+
+In the EU and many other jurisdictions, you have rights to control how your personal information is used. You may have the right to request access to, rectification of, or erasure of personal information we hold about you. In the EU, you also may have the right to object to or restrict certain types of use of your personal information and request to receive a machine-readable copy of the personal information you have provided to us.
+
+In many of our products, you will be able to access your information as well as change and delete some of the information yourself by logging into your account. If you cannot access, correct, or delete the required information yourself, please follow these steps:
+
+If you are a user of our products and services that we provide on behalf of your institution, contact your institution to exercise your rights. They need to manage your request even if it relates to information that we store on behalf of your institution. We will support your institution with your request.
+
+In all other cases, email us at privacy@blackboard.com or contact us using the address below if you want to exercise any of these rights.
+
+Please remember that many of these rights are not absolute. In some circumstances, we (or your institution) are not legally required to comply with your request because of relevant legal exemptions.
+
+In many jurisdictions, you also have the right to lodge a complaint with the local data protection authority. But please contact us first, so we can address your concern.
+
+United States – your California privacy rights
+
+If you are a California resident, the California Consumer Privacy Act (CCPA) and Civil Code Section 1798.83 ("Shine the Light" law) give you rights in relation to your Personal Information. Please visit our California Privacy Notice for more information on how to exercise these rights.
+
+
+
+Contact us
+
+End users of institutions and technical issues: If you are a user of our products and services we provide on behalf of your institution, contact your institution first as your institution's privacy statement and data privacy practices will determine how Blackboard uses personal information on your institution's behalf. If you have a technical or support issue, please contact the helpdesk of your institution. They will be able to assist.
+
+If you have any questions or concerns about our Privacy Statement or our own data privacy practices, contact us at privacy@blackboard.com or write to us at the following address.
+
+Global Privacy Officer
+
+Legal Department
+
+Blackboard Inc.
+
+11720 Plaza America Drive
+
+10th Floor
+
+Reston, Virginia 20190

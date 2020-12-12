@@ -1,0 +1,916 @@
+STUDENT PRIVACY AMENDMENTS
+
+2     
+2016 GENERAL SESSION
+
+3     
+STATE OF UTAH
+
+4     
+Chief Sponsor: Jacob L. Anderegg
+
+5     
+Senate Sponsor: Howard A. Stephenson
+
+6     
+7     LONG TITLE
+8     General Description:
+9          This bill enacts the Student Data Protection Act and amends provisions related to
+10     student privacy.
+11     Highlighted Provisions:
+12          This bill:
+13          ▸     enacts the Student Data Protection Act;
+14          ▸     defines terms;
+15          ▸     provides for student data protection governance at the state and local levels;
+16          ▸     enacts requirements for data protection and maintenance by state and local
+17     education entities and third-party contractors;
+18          ▸     enacts penalties;
+19          ▸     gives rulemaking authority;
+20          ▸     amends provisions related to student privacy;
+21          ▸     enacts a requirement for notice given to a parent or guardian before a student is
+22     required to take a certain type of survey; and
+23          ▸     makes technical corrections.
+24     Money Appropriated in this Bill:
+25          This bill appropriates:
+26          ▸     to the State Board of Education -- State Office of Education -- Assessment and
+27     Accountability, as a one-time appropriation:
+28               •     from the Education Fund, $800,000.
+29     Other Special Clauses:
+30          None
+31     Utah Code Sections Affected:
+32     AMENDS:
+33          53A-1-603, as last amended by Laws of Utah 2015, Chapters 258, 415, and 444
+34          53A-1-708, as last amended by Laws of Utah 2015, Chapter 415
+35          53A-11a-203, as last amended by Laws of Utah 2015, Chapter 253
+36          53A-13-301, as last amended by Laws of Utah 2015, Chapter 117
+37          53A-13-302, as last amended by Laws of Utah 2014, Chapter 214
+38     ENACTS:
+39          53A-1-1401, Utah Code Annotated 1953
+40          53A-1-1402, Utah Code Annotated 1953
+41          53A-1-1403, Utah Code Annotated 1953
+42          53A-1-1404, Utah Code Annotated 1953
+43          53A-1-1405, Utah Code Annotated 1953
+44          53A-1-1406, Utah Code Annotated 1953
+45          53A-1-1407, Utah Code Annotated 1953
+46          53A-1-1408, Utah Code Annotated 1953
+47          53A-1-1409, Utah Code Annotated 1953
+48          53A-1-1410, Utah Code Annotated 1953
+49          53A-1-1411, Utah Code Annotated 1953
+50     REPEALS:
+51          53A-1-711, as enacted by Laws of Utah 2015, Chapter 384
+52     
+53     Be it enacted by the Legislature of the state of Utah:
+54          Section 1. Section 53A-1-603 is amended to read:
+55          53A-1-603. Duties of State Board of Education.
+56          (1) The State Board of Education shall:
+57          (a) require each school district and charter school to implement the Utah Performance
+58     Assessment System for Students, hereafter referred to as U-PASS;
+59          (b) require the state superintendent of public instruction to submit and recommend
+60     criterion-referenced achievement tests or online computer adaptive tests, college readiness
+61     assessments, an online writing assessment for grades 5 and 8, and a test for students in grade 3
+62     to measure reading grade level to the board for approval and adoption and distribution to each
+63     school district and charter school by the state superintendent;
+64          (c) develop an assessment method to uniformly measure statewide performance, school
+65     district performance, and school performance of students in grades 3 through 12 in mastering
+66     basic academic subjects; and
+67          (d) provide for the state to participate in the National Assessment of Educational
+68     Progress state-by-state comparison testing program.
+69          (2) Except as provided in Subsection (3) and Subsection 53A-1-611(3), under
+70     U-PASS, the State Board of Education shall annually require each school district and charter
+71     school, as applicable, to administer:
+72          (a) as determined by the State Board of Education, statewide criterion-referenced tests
+73     or online computer adaptive tests in grades 3 through 12 and courses in basic academic subjects
+74     of the core standards for Utah public schools;
+75          (b) an online writing assessment to all students in grades 5 and 8;
+76          (c) college readiness assessments as detailed in Section 53A-1-611; and
+77          (d) a test to all students in grade 3 to measure reading grade level.
+78          (3) Beginning with the 2014-15 school year, the State Board of Education shall
+79     annually require each school district and charter school, as applicable, to administer a computer
+80     adaptive assessment system that is:
+81          (a) adopted by the State Board of Education; and
+82          (b) aligned to the core standards for Utah public schools.
+83          (4) The board shall adopt rules for the conduct and administration of U-PASS to
+84     include the following:
+85          (a) the computation of student performance based on information that is disaggregated
+86     with respect to race, ethnicity, gender, limited English proficiency, and those students who
+87     qualify for free or reduced price school lunch;
+88          (b) security features to maintain the integrity of the system, which could include
+89     statewide uniform testing dates, multiple test forms, and test administration protocols;
+90          (c) the exemption of student test scores, by exemption category, such as limited
+91     English proficiency, mobility, and students with disabilities, with the percent or number of
+92     student test scores exempted being publically reported at a district level;
+93          (d) compiling of criterion-referenced, online computer adaptive, and online writing test
+94     scores and test score averages at the classroom level to allow for:
+95          (i) an annual review of those scores by parents of students and professional and other
+96     appropriate staff at the classroom level at the earliest point in time;
+97          (ii) the assessment of year-to-year student progress in specific classes, courses, and
+98     subjects; and
+99          (iii) a teacher to review, prior to the beginning of a new school year, test scores from
+100     the previous school year of students who have been assigned to the teacher's class for the new
+101     school year;
+102          (e) allowing a school district or charter school to have its tests administered and scored
+103     electronically to accelerate the review of test scores and their usefulness to parents and
+104     educators under Subsection (4)(d), without violating the integrity of U-PASS; and
+105          (f) providing that scores on the tests and assessments required under Subsection (2)(a)
+106     and Subsection (3) may not be considered in determining:
+107          (i) a student's academic grade for the appropriate course; or
+108          (ii) whether a student may advance to the next grade level.
+109          (5) (a) A school district or charter school, as applicable, is encouraged to administer an
+110     online writing assessment to students in grade 11.
+111          (b) The State Board of Education may award a grant to a school district or charter
+112     school to pay for an online writing assessment and instruction program that may be used to
+113     assess the writing of students in grade 11.
+114          (6) The State Board of Education shall make rules:
+115          (a) establishing procedures for applying for and awarding money for computer adaptive
+116     tests;
+117          (b) specifying how money for computer adaptive tests shall be allocated among school
+118     districts and charter schools that qualify to receive the money; and
+119          (c) requiring reporting of the expenditure of money awarded for computer adaptive
+120     testing and evidence that the money was used to implement computer adaptive testing.
+121          (7) The State Board of Education shall [assure] ensure that computer adaptive tests are
+122     administered in compliance with the requirements of Chapter 1, Part 14, Student Data
+123     Protection Act, and Chapter 13, Part 3, Utah Family Educational Rights and Privacy Act.
+124          (8) (a) The State Board of Education shall establish a committee consisting of 15
+125     parents of Utah public education students to review all computer adaptive test questions.
+126          (b) The committee established in Subsection (8)(a) shall include the following parent
+127     members:
+128          (i) five members appointed by the chair of the State Board of Education;
+129          (ii) five members appointed by the speaker of the House of Representatives; and
+130          (iii) five members appointed by the president of the Senate.
+131          (c) The State Board of Education shall provide staff support to the parent committee.
+132          (d) The term of office of each member appointed in Subsection (8)(b) is four years.
+133          (e) The chair of the State Board of Education, the speaker of the House of
+134     Representatives, and the president of the Senate shall adjust the length of terms to stagger the
+135     terms of committee members so that approximately 1/2 of the committee members are
+136     appointed every two years.
+137          (f) No member may receive compensation or benefits for the member's service on the
+138     committee.
+139          (9) (a) School districts and charter schools shall require each licensed employee to
+140     complete two hours of professional development on youth suicide prevention within their
+141     license cycle in accordance with Section 53A-6-104.
+142          (b) The State Board of Education shall develop or adopt sample materials to be used by
+143     a school district or charter school for professional development training on youth suicide
+144     prevention.
+145          (c) The training required by this Subsection (9) shall be incorporated into professional
+146     development training required by rule in accordance with Section 53A-6-104.
+147          Section 2. Section 53A-1-708 is amended to read:
+148          53A-1-708. Grants for online delivery of U-PASS tests.
+149          (1) As used in this section:
+150          (a) "Adaptive tests" means tests administered during the school year using an online
+151     adaptive test system.
+152          (b) "Core standards for Utah public schools" means the standards developed and
+153     adopted by the State Board of Education that define the knowledge and skills students should
+154     have in kindergarten through grade 12 to enable students to be prepared for college or
+155     workforce training.
+156          (c) "Summative tests" means tests administered near the end of a course to assess
+157     overall achievement of course goals.
+158          (d) "Uniform online summative test system" means a single system for the online
+159     delivery of summative tests required under U-PASS that:
+160          (i) is coordinated by the Utah State Office of Education;
+161          (ii) ensures the reliability and security of U-PASS tests; and
+162          (iii) is selected through collaboration between Utah State Office of Education and
+163     school district representatives with expertise in technology, assessment, and administration.
+164          (e) "U-PASS" means the Utah Performance Assessment System for Students.
+165          (2) The State Board of Education may award grants to school districts and charter
+166     schools to implement one or both of the following:
+167          (a) a uniform online summative test system to enable parents of students and school
+168     staff to review U-PASS test scores by the end of the school year; or
+169          (b) an online adaptive test system to enable parents of students and school staff to
+170     measure and monitor a student's academic progress during a school year.
+171          (3) (a) Grant money may be used to pay for any of the following, provided it is directly
+172     related to implementing a uniform online summative test system, an online adaptive test
+173     system, or both:
+174          (i) computer equipment and peripherals, including electronic data capture devices
+175     designed for electronic test administration and scoring;
+176          (ii) software;
+177          (iii) networking equipment;
+178          (iv) upgrades of existing equipment or software;
+179          (v) upgrades of existing physical plant facilities;
+180          (vi) personnel to provide technical support or coordination and management; and
+181          (vii) teacher professional development.
+182          (b) Equipment purchased in compliance with Subsection (3)(a), when not in use for the
+183     online delivery of summative tests or adaptive tests required under U-PASS may be used for
+184     other purposes.
+185          (4) The State Board of Education shall make rules:
+186          (a) establishing procedures for applying for and awarding grants;
+187          (b) specifying how grant money shall be allocated among school districts and charter
+188     schools;
+189          (c) requiring reporting of grant money expenditures and evidence showing that the
+190     grant money has been used to implement a uniform online summative test system, an online
+191     adaptive test system, or both;
+192          (d) establishing technology standards for an online adaptive testing system;
+193          (e) requiring a school district or charter school that receives a grant under this section
+194     to implement, in compliance with Chapter 1, Part 14, Student Data Protection Act, and Chapter
+195     13, Part 3, Utah Family Educational Rights and Privacy Act, an online adaptive test system by
+196     the 2014-15 school year that:
+197          (i) meets the technology standards established under Subsection (4)(d); and
+198          (ii) is aligned with the core standards for Utah public schools;
+199          (f) requiring a school district or charter school to provide matching funds to implement
+200     a uniform online summative test system, an online adaptive test system, or both in an amount
+201     that is greater than or equal to the amount of a grant received under this section; and
+202          (g) [assuring] ensuring that student identifiable data is not released to any person,
+203     except as provided by Chapter 1, Part 14, Student Data Protection Act, Section 53A-13-301,
+204     and rules of the State Board of Education adopted under that section.
+205          (5) If a school district or charter school uses grant money for purposes other than those
+206     stated in Subsection (3), the school district or charter school is liable for reimbursing the State
+207     Board of Education in the amount of the grant money improperly used.
+208          (6) A school district or charter school may not use federal funds to provide the
+209     matching funds required to receive a grant under this section.
+210          (7) A school district may not impose a tax rate above the certified tax rate for the
+211     purpose of generating revenue to provide matching funds for a grant under this section.
+212          Section 3. Section 53A-1-1401 is enacted to read:
+213     
+Part 14. Student Data Protection Act
+
+214          53A-1-1401. Title.
+215          This part is known as the "Student Data Protection Act."
+216          Section 4. Section 53A-1-1402 is enacted to read:
+217          53A-1-1402. Definitions.
+218          As used in this part:
+219          (1) "Adult student" means a student who:
+220          (a) is at least 18 years old;
+221          (b) is an emancipated student; or
+222          (c) qualifies under the McKinney-Vento Homeless Education Assistance
+223     Improvements Act of 2001, 42 U.S.C. Sec. 11431 et seq.
+224          (2) "Aggregate data" means data that:
+225          (a) are totaled and reported at the group, cohort, school, school district, region, or state
+226     level with at least 10 individuals in the level;
+227          (b) do not reveal personally identifiable student data; and
+228          (c) are collected in accordance with board rule.
+229          (3) (a) "Biometric identifier" means a:
+230          (i) retina or iris scan;
+231          (ii) fingerprint;
+232          (iii) human biological sample used for valid scientific testing or screening; or
+233          (iv) scan of hand or face geometry.
+234          (b) "Biometric identifier" does not include:
+235          (i) a writing sample;
+236          (ii) a written signature;
+237          (iii) a voiceprint;
+238          (iv) a photograph;
+239          (v) demographic data; or
+240          (vi) a physical description, such as height, weight, hair color, or eye color.
+241          (4) "Biometric information" means information, regardless of how the information is
+242     collected, converted, stored, or shared:
+243          (a) based on an individual's biometric identifier; and
+244          (b) used to identify the individual.
+245          (5) "Board" means the State Board of Education.
+246          (6) "Cumulative disciplinary record" means disciplinary student data that is part of a
+247     cumulative record.
+248          (7) "Cumulative record" means physical or electronic information that the education
+249     entity intends:
+250          (a) to store in a centralized location for 12 months or more; and
+251          (b) for the information to follow the student through the public education system.
+252          (8) "Data authorization" means written authorization to collect or share a student's
+253     student data, from:
+254          (a) the student's parent, if the student is not an adult student; or
+255          (b) the student, if the student is an adult student.
+256          (9) "Data governance plan" means an education entity's comprehensive plan for
+257     managing education data that:
+258          (a) incorporates reasonable data industry best practices to maintain and protect student
+259     data and other education-related data;
+260          (b) provides for necessary technical assistance, training, support, and auditing;
+261          (c) describes the process for sharing student data between an education entity and
+262     another person;
+263          (d) describes the process for an adult student or parent to request that data be
+264     expunged; and
+265          (e) is published annually and available on the education entity's website.
+266          (10) "Education entity" means:
+267          (a) the board;
+268          (b) a local school board;
+269          (c) a charter school governing board;
+270          (d) a school district;
+271          (e) a charter school;
+272          (f) the Utah Schools for the Deaf and the Blind; or
+273          (g) for purposes of implementing the School Readiness Initiative described in Chapter
+274     1b, Part 1, School Readiness Initiative Act, the School Readiness Board created in Section
+275     53A-1b-103.
+276          (11) "Expunge" means to seal or permanently delete data, as described in board rule
+277     made under Section 53A-1-1407.
+278          (12) "External application" means a general audience:
+279          (a) application;
+280          (b) piece of software;
+281          (c) website; or
+282          (d) service.
+283          (13) "Individualized education program" or "IEP" means a written statement:
+284          (a) for a student with a disability; and
+285          (b) that is developed, reviewed, and revised in accordance with the Individuals with
+286     Disabilities Education Act, 20 U.S.C. Sec. 1400 et seq.
+287          (14) "Internal application" means an Internet website, online service, online
+288     application, mobile application, or software, if the Internet website, online service, online
+289     application, mobile application, or software is subject to a third-party contractor's contract with
+290     an education entity.
+291          (15) "Local education agency" or "LEA" means:
+292          (a) a school district;
+293          (b) a charter school;
+294          (c) the Utah Schools for the Deaf and the Blind; or
+295          (d) for purposes of implementing the School Readiness Initiative described in Chapter
+296     1b, Part 1, School Readiness Initiative Act, the School Readiness Board created in Section
+297     53A-1b-103.
+298          (16) "Metadata dictionary" means a complete list of an education entity's student data
+299     elements and other education-related data elements, that:
+300          (a) defines and discloses all data collected, used, stored, and shared by the education
+301     entity, including:
+302          (i) who uses a data element within an education entity and how a data element is used
+303     within an education entity;
+304          (ii) if a data element is shared externally, who uses the data element externally and how
+305     a data element is shared externally;
+306          (iii) restrictions on the use of a data element; and
+307          (iv) parent and student rights to a data element;
+308          (b) designates student data elements as:
+309          (i) necessary student data; or
+310          (ii) optional student data;
+311          (c) designates student data elements as required by state or federal law; and
+312          (d) without disclosing student data or security information, is displayed on the
+313     education entity's website.
+314          (17) "Necessary student data" means data required by state statute or federal law to
+315     conduct the regular activities of an education entity, including:
+316          (a) name;
+317          (b) date of birth;
+318          (c) sex;
+319          (d) parent contact information;
+320          (e) custodial parent information;
+321          (f) contact information;
+322          (g) a student identification number;
+323          (h) local, state, and national assessment results or an exception from taking a local,
+324     state, or national assessment;
+325          (i) courses taken and completed, credits earned, and other transcript information;
+326          (j) course grades and grade point average;
+327          (k) grade level and expected graduation date or graduation cohort;
+328          (l) degree, diploma, credential attainment, and other school exit information;
+329          (m) attendance and mobility;
+330          (n) drop-out data;
+331          (o) immunization record or an exception from an immunization record;
+332          (p) race;
+333          (q) ethnicity;
+334          (r) tribal affiliation;
+335          (s) remediation efforts;
+336          (t) an exception from a vision screening required under Section 53A-11-203 or
+337     information collected from a vision screening required under Section 53A-11-203;
+338          (u) information related to the Utah Registry of Autism and Developmental Disabilities,
+339     described in Section 26-7-4;
+340          (v) student injury information;
+341          (w) a cumulative disciplinary record created and maintained as described in Section
+342     53A-1-1407;
+343          (x) juvenile delinquency records;
+344          (y) English language learner status; and
+345          (z) child find and special education evaluation data related to initiation of an IEP.
+346          (18) (a) "Optional student data" means student data that is not:
+347          (i) necessary student data; or
+348          (ii) student data that an education entity may not collect under Section 53A-1-1406.
+349          (b) "Optional student data" includes:
+350          (i) information that is:
+351          (A) related to an IEP or needed to provide special needs services; and
+352          (B) not necessary student data;
+353          (ii) biometric information; and
+354          (iii) information that is not necessary student data and that is required for a student to
+355     participate in a federal or other program.
+356          (19) "Parent" means a student's parent or legal guardian.
+357          (20) (a) "Personally identifiable student data" means student data that identifies or is
+358     used by the holder to identify a student.
+359          (b) "Personally identifiable student data" includes:
+360          (i) a student's first and last name;
+361          (ii) the first and last name of a student's family member;
+362          (iii) a student's or a student's family's home or physical address;
+363          (iv) a student's email address or other online contact information;
+364          (v) a student's telephone number;
+365          (vi) a student's social security number;
+366          (vii) a student's biometric identifier;
+367          (viii) a student's health or disability data;
+368          (ix) a student's education entity student identification number;
+369          (x) a student's social media user name and password or alias;
+370          (xi) if associated with personally identifiable student data, the student's persistent
+371     identifier, including:
+372          (A) a customer number held in a cookie; or
+373          (B) a processor serial number;
+374          (xii) a combination of a student's last name or photograph with other information that
+375     together permits a person to contact the student online;
+376          (xiii) information about a student or a student's family that a person collects online and
+377     combines with other personally identifiable student data to identify the student; and
+378          (xiv) other information that is linked to a specific student that would allow a
+379     reasonable person in the school community, who does not have first-hand knowledge of the
+380     student, to identify the student with reasonable certainty.
+381          (21) "School official" means an employee or agent of an education entity, if the
+382     education entity has authorized the employee or agent to request or receive student data on
+383     behalf of the education entity.
+384          (22) (a) "Student data" means information about a student at the individual student
+385     level.
+386          (b) "Student data" does not include aggregate or de-identified data.
+387          (23) "Student data disclosure statement" means a student data disclosure statement
+388     described in Section 53A-1-1406.
+389          (24) "Student data manager" means:
+390          (a) the state student data officer; or
+391          (b) an individual designated as a student data manager by an education entity under
+392     Section 53A-1-1404.
+393          (25) "Targeted advertising" means advertising to a student on an internal or external
+394     application, if the advertisement is based on information or student data the third-party
+395     contractor collected or received under the third-party contractor's contract with an education
+396     entity.
+397          (26) "Third-party contractor" means a person who:
+398          (a) is not an education entity; and
+399          (b) pursuant to a contract with an education entity, collects or receives student data in
+400     order to provide a product or service, as described in the contract, if the product or service is
+401     not related to school photography, yearbooks, graduation announcements, or a similar product
+402     or service.
+403          Section 5. Section 53A-1-1403 is enacted to read:
+404          53A-1-1403. State student data protection governance.
+405          (1) (a) An education entity or a third-party contractor who collects, uses, stores, shares,
+406     or deletes student data shall protect student data as described in this part.
+407          (b) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+408     board shall makes rules to administer this part, including student data protection standards for
+409     public education employees, student aides, and volunteers.
+410          (2) The board shall oversee the preparation and maintenance of:
+411          (a) a statewide data governance plan; and
+412          (b) a state-level metadata dictionary.
+413          (3) As described in this Subsection (3), the board shall establish advisory groups to
+414     oversee student data protection in the state and make recommendations to the board regarding
+415     student data protection.
+416          (a) The board shall establish a student data policy advisory group:
+417          (i) composed of members from:
+418          (A) the Legislature;
+419          (B) the board and board employees; and
+420          (C) one or more LEAs;
+421          (ii) to discuss and make recommendations to the board regarding:
+422          (A) enacted or proposed legislation; and
+423          (B) state and local student data protection policies across the state;
+424          (iii) that reviews and monitors the state student data governance plan; and
+425          (iv) that performs other tasks related to student data protection as designated by the
+426     board.
+427          (b) The board shall establish a student data governance advisory group:
+428          (i) composed of the state student data officer and other board employees; and
+429          (ii) that performs duties related to state and local student data protection, including:
+430          (A) overseeing data collection and usage by board program offices; and
+431          (B) preparing and maintaining the board's student data governance plan under the
+432     direction of the student data policy advisory group.
+433          (c) The board shall establish a student data users advisory group:
+434          (i) composed of members who use student data at the local level; and
+435          (ii) that provides feedback and suggestions on the practicality of actions proposed by
+436     the student data policy advisory group and the student data governance advisory group.
+437          (4) (a) The board shall designate a state student data officer.
+438          (b) The state student data officer shall:
+439          (i) act as the primary point of contact for state student data protection administration in
+440     assisting the board to administer this part;
+441          (ii) ensure compliance with student privacy laws throughout the public education
+442     system, including:
+443          (A) providing training and support to applicable board and LEA employees; and
+444          (B) producing resource materials, model plans, and model forms for local student data
+445     protection governance, including a model student data disclosure statement;
+446          (iii) investigate complaints of alleged violations of this part;
+447          (iv) report violations of this part to:
+448          (A) the board;
+449          (B) an applicable education entity; and
+450          (C) the student data policy advisory group; and
+451          (v) act as a state level student data manager.
+452          (5) The board shall designate:
+453          (a) at least one support manager to assist the state student data officer; and
+454          (b) a student data protection auditor to assist the state student data officer.
+455          (6) The board shall establish an external research review process for a request for data
+456     for the purpose of external research or evaluation.
+457          Section 6. Section 53A-1-1404 is enacted to read:
+458          53A-1-1404. Local student data protection governance.
+459          (1) An LEA shall adopt policies to protect student data in accordance with this part and
+460     board rule, taking into account the specific needs and priorities of the LEA.
+461          (2) (a) An LEA shall designate an individual to act as a student data manager to fulfill
+462     the responsibilities of a student data manager described in Section 53A-1-1409.
+463          (b) If possible, an LEA shall designate the LEA's records officer as defined in Section
+464     63G-2-103, as the student data manager.
+465          (3) An LEA shall create and maintain an LEA:
+466          (a) data governance plan; and
+467          (b) metadata dictionary.
+468          (4) An LEA shall establish an external research review process for a request for data
+469     for the purpose of external research or evaluation.
+470          Section 7. Section 53A-1-1405 is enacted to read:
+471          53A-1-1405. Student data ownership -- Notification in case of breach.
+472          (1) (a) A student owns the student's personally identifiable student data.
+473          (b) A student may download, export, transfer, save, or maintain the student's student
+474     data, including a document.
+475          (2) If there is a release of a student's personally identifiable student data due to a
+476     security breach, an education entity shall notify:
+477          (a) the student, if the student is an adult student; or
+478          (b) the student's parent or legal guardian, if the student is not an adult student.
+479          Section 8. Section 53A-1-1406 is enacted to read:
+480          53A-1-1406. Collecting student data -- Prohibition -- Student data disclosure
+481     statement -- Authorization.
+482          (1) An education entity shall comply with this section beginning with the 2017-18
+483     school year.
+484          (2) An education entity may not collect a student's:
+485          (a) social security number; or
+486          (b) except as required in Section 78A-6-112, criminal record.
+487          (3) An education entity that collects student data into a cumulative record shall, in
+488     accordance with this section, prepare and distribute to parents and students a student data
+489     disclosure statement that:
+490          (a) is a prominent, stand-alone document;
+491          (b) is annually updated and published on the education entity's website;
+492          (c) states the necessary and optional student data the education entity collects;
+493          (d) states that the education entity will not collect the student data described in
+494     Subsection (2);
+495          (e) states the student data described in Section 53A-1-1409 that the education entity
+496     may not share without a data authorization;
+497          (f) states that students and parents are responsible for the collection, use, or sharing of
+498     student data as described in Section 53A-1-1405;
+499          (g) describes how the education entity may collect, use, and share student data;
+500          (h) includes the following statement:
+501          "The collection, use, and sharing of student data has both benefits and risks. Parents
+502     and students should learn about these benefits and risks and make choices regarding student
+503     data accordingly.";
+504          (i) describes in general terms how the education entity stores and protects student data;
+505     and
+506          (j) states a student's rights under this part.
+507          (4) An education entity may collect the necessary student data of a student into a
+508     cumulative record if the education entity provides a student data disclosure statement to:
+509          (a) the student, if the student is an adult student; or
+510          (b) the student's parent, if the student is not an adult student.
+511          (5) An education entity may collect optional student data into a cumulative record if
+512     the education entity:
+513          (a) provides, to an individual described in Subsection (4), a student data disclosure
+514     statement that includes a description of:
+515          (i) the optional student data to be collected; and
+516          (ii) how the education entity will use the optional student data; and
+517          (b) obtains a data authorization to collect the optional student data from an individual
+518     described in Subsection (4).
+519          (6) An education entity may collect a student's biometric identifier or biometric
+520     information into a cumulative record if the education entity:
+521          (a) provides, to an individual described in Subsection (4), a biometric information
+522     disclosure statement that is separate from a student data disclosure statement, which states:
+523          (i) the biometric identifier or biometric information to be collected;
+524          (ii) the purpose of collecting the biometric identifier or biometric information; and
+525          (iii) how the education entity will use and store the biometric identifier or biometric
+526     information; and
+527          (b) obtains a data authorization to collect the biometric identifier or biometric
+528     information from an individual described in Subsection (4).
+529          Section 9. Section 53A-1-1407 is enacted to read:
+530          53A-1-1407. Using and deleting student data -- Rulemaking -- Cumulative
+531     disciplinary record.
+532          (1) In accordance with Title 63G, Chapter 2, Government Records Access and
+533     Management Act, and Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the board
+534     shall make rules regarding using and expunging student data, including:
+535          (a) a categorization of cumulative disciplinary records that includes the following
+536     levels of maintenance:
+537          (i) one year;
+538          (ii) three years; and
+539          (iii) except as required in Subsection (3), as determined by the education entity;
+540          (b) the types of student data that may be expunged, including:
+541          (i) medical records; and
+542          (ii) behavioral test assessments; and
+543          (c) the types of student data that may not be expunged, including:
+544          (i) grades;
+545          (ii) transcripts;
+546          (iii) a record of the student's enrollment; and
+547          (iv) assessment information.
+548          (2) In accordance with board rule, an education entity may create and maintain a
+549     cumulative disciplinary record for a student.
+550          (3) (a) An education entity shall, in accordance with board rule, expunge a student's
+551     student data that is stored by the education entity if:
+552          (i) the student is at least 23 years old; and
+553          (ii) the student requests that the education entity expunge the student data.
+554          (b) An education entity shall retain and dispose of records in accordance with Section
+555     63G-2-604 and board rule.
+556          Section 10. Section 53A-1-1408 is enacted to read:
+557          53A-1-1408. Securing and cataloguing student data.
+558          In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+559     board shall make rules that:
+560          (1) using reasonable data industry best practices, prescribe the maintenance and
+561     protection of stored student data by:
+562          (a) an education entity; and
+563          (b) a third-party contractor; and
+564          (2) state requirements for an education entity's metadata dictionary.
+565          Section 11. Section 53A-1-1409 is enacted to read:
+566          53A-1-1409. Sharing student data -- Prohibition -- Requirements for student data
+567     manager.
+568          (1) An education entity shall comply with this section beginning with the 2017-18
+569     school year.
+570          (2) An education entity may not share a student's personally identifiable student data if
+571     the personally identifiable student data is not shared in accordance with:
+572          (a) the Family Education Rights and Privacy Act and related provisions under 20
+573     U.S.C. Secs. 1232(g) and 1232(h); and
+574          (b) this part.
+575          (3) A student data manager shall:
+576          (a) authorize and manage the sharing, outside of the education entity, of personally
+577     identifiable student data from a cumulative record for the education entity as described in this
+578     section; and
+579          (b) act as the primary local point of contact for the state student data officer described
+580     in Section 53A-1-1403.
+581          (4) (a) Except as provided in this section or required by federal law, a student data
+582     manager may not share, outside of the education entity, personally identifiable student data
+583     from a cumulative record without a data authorization.
+584          (b) A student data manager may share the personally identifiable student data of a
+585     student with the student and the student's parent.
+586          (5) A student data manager may share a student's personally identifiable student data
+587     from a cumulative record with:
+588          (a) a school official;
+589          (b) as described in Subsection (6), an authorized caseworker or other representative of
+590     the Department of Human Services; or
+591          (c) a person to whom the student data manager's education entity has outsourced a
+592     service or function:
+593          (i) to research the effectiveness of a program's implementation; or
+594          (ii) that the education entity's employees would typically perform.
+595          (6) A student data manager may share a student's personally identifiable student data
+596     from a cumulative record with a caseworker or representative of the Department of Human
+597     Services if:
+598          (a) the Department of Human Services is:
+599          (i) legally responsible for the care and protection of the student; or
+600          (ii) providing services to the student;
+601          (b) the student's personally identifiable student data is not shared with a person who is
+602     not authorized:
+603          (i) to address the student's education needs; or
+604          (ii) by the Department of Human Services to receive the student's personally
+605     identifiable student data; and
+606          (c) the Department of Human Services maintains and protects the student's personally
+607     identifiable student data.
+608          (7) The Department of Human Services, a school official, or the Utah Juvenile Court
+609     may share education information, including a student's personally identifiable student data, to
+610     improve education outcomes for youth:
+611          (a) in the custody of, or under the guardianship of, the Department of Human Services;
+612          (b) receiving services from the Division of Juvenile Justice Services;
+613          (c) in the custody of the Division of Child and Family Services;
+614          (d) receiving services from the Division of Services for People with Disabilities; or
+615          (e) under the jurisdiction of the Utah Juvenile Court.
+616          (8) Subject to Subsection (9), a student data manager may share aggregate data.
+617          (9) (a) If a student data manager receives a request to share data for the purpose of
+618     external research or evaluation, the student data manager shall:
+619          (i) submit the request to the education entity's external research review process; and
+620          (ii) fulfill the instructions that result from the review process.
+621          (b) A student data manager may not share personally identifiable student data for the
+622     purpose of external research or evaluation.
+623          (10) (a) A student data manager may share personally identifiable student data in
+624     response to a subpoena issued by a court.
+625          (b) A person who receives personally identifiable student data under Subsection (10)(a)
+626     may not use the personally identifiable student data outside of the use described in the
+627     subpoena.
+628          (11) (a) In accordance with board rule, a student data manager may share personally
+629     identifiable information that is directory information.
+630          (b) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+631     board shall make rules to:
+632          (i) define directory information; and
+633          (ii) determine how a student data manager may share personally identifiable
+634     information that is directory information.
+635          Section 12. Section 53A-1-1410 is enacted to read:
+636          53A-1-1410. Third-party contractors -- Use and protection of student data --
+637     Contract requirements -- Completion of contract -- Required and allowed uses of student
+638     data -- Restrictions on the use of student data -- Exceptions.
+639          (1) A third-party contractor shall use personally identifiable student data received
+640     under a contract with an education entity strictly for the purpose of providing the contracted
+641     product or service.
+642          (2) When contracting with a third-party contractor, an education entity shall require the
+643     following provisions in the contract:
+644          (a) requirements and restrictions related to the collection, use, storage, or sharing of
+645     student data by the third-party contractor that are necessary for the education entity to ensure
+646     compliance with the provisions of this part and board rule;
+647          (b) a description of a person, or type of person, including an affiliate of the third-party
+648     contractor, with whom the third-party contractor may share student data;
+649          (c) provisions that, at the request of the education entity, govern the deletion of the
+650     student data received by the third-party contractor;
+651          (d) except as provided in Subsection (4) and if required by the education entity,
+652     provisions that prohibit the secondary use of personally identifiable student data by the
+653     third-party contractor; and
+654          (e) an agreement by the third-party contractor that, at the request of the education entity
+655     that is a party to the contract, the education entity or the education entity's designee may audit
+656     the third-party contractor to verify compliance with the contract.
+657          (3) As authorized by law or court order, a third-party contractor shall share student data
+658     as requested by law enforcement.
+659          (4) A third-party contractor may:
+660          (a) use student data for adaptive learning or customized student learning purposes;
+661          (b) market an educational application or product to a parent or legal guardian of a
+662     student if the third-party contractor did not use student data, shared by or collected on behalf of
+663     an education entity, to market the educational application or product;
+664          (c) use a recommendation engine to recommend to a student:
+665          (i) content that relates to learning or employment, within the third-party contractor's
+666     internal application, if the recommendation is not motivated by payment or other consideration
+667     from another party; or
+668          (ii) services that relate to learning or employment, within the third-party contractor's
+669     internal application, if the recommendation is not motivated by payment or other consideration
+670     from another party;
+671          (d) respond to a student request for information or feedback, if the content of the
+672     response is not motivated by payment or other consideration from another party; or
+673          (e) use student data to allow or improve operability and functionality of the third-party
+674     contractor's internal application.
+675          (5) At the completion of a contract with an education entity, if the contract has not
+676     been renewed, a third-party contractor shall:
+677          (a) return all personally identifiable student data to the education entity; or
+678          (b) as reasonable, delete all personally identifiable student data related to the
+679     third-party contractor's work.
+680          (6) (a) A third-party contractor may not:
+681          (i) except as provided in Subsection (6)(b), sell student data;
+682          (ii) collect, use, or share student data, if the collection, use, or sharing of the student
+683     data is inconsistent with the third-party contractor's contract with the education entity; or
+684          (iii) use student data for targeted advertising.
+685          (b) A person may obtain student data through the purchase of, merger with, or
+686     otherwise acquiring a third-party contractor if the third-party contractor remains in compliance
+687     with this section.
+688          (7) A provider of an electronic store, gateway, marketplace, or other means of
+689     purchasing an external application is not required to ensure that the external application
+690     obtained through the provider complies with this section.
+691          (8) The provisions of this section do not:
+692          (a) apply to the use of an external application, including the access of an external
+693     application with login credentials created by a third-party contractor's internal application;
+694          (b) apply to the providing of Internet service; or
+695          (c) impose a duty on a provider of an interactive computer service, as defined in 47
+696     U.S.C. Sec. 230, to review or enforce compliance with this section.
+697          Section 13. Section 53A-1-1411 is enacted to read:
+698          53A-1-1411. Penalties.
+699          (1) (a) A third-party contractor that knowingly or recklessly permits unauthorized
+700     collecting, sharing, or use of student data under this part:
+701          (i) except as provided in Subsection (1)(b), may not enter into a future contract with an
+702     education entity;
+703          (ii) may be required by the board to pay a civil penalty of up to $25,000; and
+704          (iii) may be required to pay:
+705          (A) the education entity's cost of notifying parents and students of the unauthorized
+706     sharing or use of student data; and
+707          (B) expenses incurred by the education entity as a result of the unauthorized sharing or
+708     use of student data.
+709          (b) An education entity may enter into a contract with a third-party contractor that
+710     knowingly or recklessly permitted unauthorized collecting, sharing, or use of student data if:
+711          (i) the board or education entity determines that the third-party contractor has corrected
+712     the errors that caused the unauthorized collecting, sharing, or use of student data; and
+713          (ii) the third-party contractor demonstrates:
+714          (A) if the third-party contractor is under contract with an education entity, current
+715     compliance with this part; or
+716          (B) an ability to comply with the requirements of this part.
+717          (c) The board may assess the civil penalty described in Subsection (1)(a)(ii) in
+718     accordance with Title 63G, Chapter 4, Administrative Procedures Act.
+719          (d) The board may bring an action in the district court of the county in which the office
+720     of the board is located, if necessary, to enforce payment of the civil penalty described in
+721     Subsection (1)(a)(ii).
+722          (e) An individual who knowingly or intentionally permits unauthorized collecting,
+723     sharing, or use of student data may be found guilty of a class A misdemeanor.
+724          (2) (a) A parent or student may bring an action in a court of competent jurisdiction for
+725     damages caused by a knowing or reckless violation of Section 53A-1-1410 by a third-party
+726     contractor.
+727          (b) If the court finds that a third-party contractor has violated Section 53A-1-1410, the
+728     court may award to the parent or student:
+729          (i) damages; and
+730          (ii) costs.
+731          Section 14. Section 53A-11a-203 is amended to read:
+732          53A-11a-203. Parental notification of certain incidents and threats required.
+733          (1) For purposes of this section, "parent" includes a student's guardian.
+734          (2) A school shall:
+735          (a) notify a parent if the parent's student threatens to commit suicide; or
+736          (b) notify the parents of each student involved in an incident of bullying,
+737     cyber-bullying, harassment, hazing, or retaliation, of the incident involving each parent's
+738     student.
+739          (3) (a) If a school notifies a parent of an incident or threat required to be reported under
+740     Subsection (2), the school shall produce and maintain a record that verifies that the parent was
+741     notified of the incident or threat.
+742          (b) A school shall maintain a record described in Subsection (3)(a) in accordance with
+743     the requirements of:
+744          [(i) Section 53A-13-301;]
+745          [(ii) Section 53A-13-302;]
+746          (i) Chapter 1, Part 14, Student Data Protection Act;
+747          (ii) Sections 53A-13-301 and 53A-13-302;
+748          (iii) [20 U.S.C. 1232g,] Federal Family Educational Rights and Privacy Act, 20 U.S.C.
+749     1232g; and
+750          (iv) 34 C.F.R. Part 99.
+751          (4) A local school board or charter school governing board shall adopt a policy
+752     regarding the process for:
+753          (a) notifying a parent as required in Subsection (2); and
+754          (b) producing and retaining a record that verifies that a parent was notified of an
+755     incident or threat as required in Subsection (3).
+756          (5) At the request of a parent, a school may provide information and make
+757     recommendations related to an incident or threat described in Subsection (2).
+758          (6) A school shall:
+759          (a) provide a student a copy of a record maintained in accordance with this section that
+760     relates to the student if the student requests a copy of the record; and
+761          (b) expunge a record maintained in accordance with this section that relates to a
+762     student if the student:
+763          (i) has graduated from high school; and
+764          (ii) requests the record be expunged.
+765          Section 15. Section 53A-13-301 is amended to read:
+766          53A-13-301. Application of state and federal law to the administration and
+767     operation of public schools -- Local school board and charter school governing board
+768     policies.
+769          (1) As used in this section "education entity" means:
+770          (a) the State Board of Education;
+771          (b) a local school board or charter school governing board;
+772          (c) a school district;
+773          (d) a public school; or
+774          (e) the Utah Schools for the Deaf and the Blind.
+775          (2) An education entity and an employee, student aide, volunteer, third party
+776     contractor, or other agent of an education entity shall protect the privacy of a student, the
+777     student's parents, and the student's family and support parental involvement in the education of
+778     their children through compliance with the protections provided for family and student privacy
+779     under Section 53A-13-302 and the [Federal] Family Educational Rights and Privacy Act and
+780     related provisions under 20 U.S.C. Secs. 1232(g) and 1232(h), in the administration and
+781     operation of all public school programs, regardless of the source of funding.
+782          (3) A local school board or charter school governing board shall enact policies
+783     governing the protection of family and student privacy as required by this section and Section
+784     53A-13-302.
+785          [(4) (a) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+786     the State Board of Education shall makes rules to establish standards for public education
+787     employees, student aides, and volunteers in public schools regarding the confidentiality of
+788     student information and student records.]
+789          [(b) The rules described in Subsection (4)(a) shall provide that a local school board or
+790     charter school governing board may adopt policies related to public school student
+791     confidentiality to address the specific needs or priorities of the school district or charter
+792     school.]
+793          [(5) The State Board of Education shall:]
+794          [(a) develop resource materials for purposes of training employees, student aides, and
+795     volunteers of a school district or charter school regarding the confidentiality of student
+796     information and student records; and]
+797          [(b) provide the materials described in Subsection (5)(a) to each school district and
+798     charter school.]
+799          [(6) An education entity shall notify the parent or guardian of a student if there is a
+800     release of the student's personally identifiable student data due to a security breach.]
+801          Section 16. Section 53A-13-302 is amended to read:
+802          53A-13-302. Activities prohibited without prior written consent -- Validity of
+803     consent -- Qualifications -- Training on implementation.
+804          (1) Except as provided in Subsection (7), Section 53A-11a-203, and Section
+805     53A-15-1301, policies adopted by a school district or charter school under Section 53A-13-301
+806     shall include prohibitions on the administration to a student of any psychological or psychiatric
+807     examination, test, or treatment, or any survey, analysis, or evaluation without the prior written
+808     consent of the student's parent or legal guardian, in which the purpose or evident intended
+809     effect is to cause the student to reveal information, whether the information is personally
+810     identifiable or not, concerning the student's or any family member's:
+811          (a) political affiliations or, except as provided under Section 53A-13-101.1 or rules of
+812     the State Board of Education, political philosophies;
+813          (b) mental or psychological problems;
+814          (c) sexual behavior, orientation, or attitudes;
+815          (d) illegal, anti-social, self-incriminating, or demeaning behavior;
+816          (e) critical appraisals of individuals with whom the student or family member has close
+817     family relationships;
+818          (f) religious affiliations or beliefs;
+819          (g) legally recognized privileged and analogous relationships, such as those with
+820     lawyers, medical personnel, or ministers; and
+821          (h) income, except as required by law.
+822          (2) Prior written consent under Subsection (1) is required in all grades, kindergarten
+823     through grade 12.
+824          (3) Except as provided in Subsection (7), Section 53A-11a-203, and Section
+825     53A-15-1301, the prohibitions under Subsection (1) shall also apply within the curriculum and
+826     other school activities unless prior written consent of the student's parent or legal guardian has
+827     been obtained.
+828          (4) (a) Written parental consent is valid only if a parent or legal guardian has been first
+829     given written notice, including notice that a copy of the educational or student survey questions
+830     to be asked of the student in obtaining the desired information is made available at the school,
+831     and a reasonable opportunity to obtain written information concerning:
+832          [(a)] (i) records or information, including information about relationships, that may be
+833     examined or requested;
+834          [(b)] (ii) the means by which the records or information shall be examined or reviewed;
+835          [(c)] (iii) the means by which the information is to be obtained;
+836          [(d)] (iv) the purposes for which the records or information are needed;
+837          [(e)] (v) the entities or persons, regardless of affiliation, who will have access to the
+838     personally identifiable information; and
+839          [(f)] (vi) a method by which a parent of a student can grant permission to access or
+840     examine the personally identifiable information.
+841          (b) For a survey described in Subsection (1), written notice described in Subsection
+842     (4)(a) shall include an Internet address where a parent or legal guardian can view the exact
+843     survey to be administered to the parent or legal guardian's student.
+844          (5) (a) Except in response to a situation which a school employee reasonably believes
+845     to be an emergency, or as authorized under Title 62A, Chapter 4a, Part 4, Child Abuse or
+846     Neglect Reporting Requirements, or by order of a court, disclosure to a parent or legal guardian
+847     must be given at least two weeks before information protected under this section is sought.
+848          (b) Following disclosure, a parent or guardian may waive the two week minimum
+849     notification period.
+850          (c) Unless otherwise agreed to by a student's parent or legal guardian and the person
+851     requesting written consent, the authorization is valid only for the activity for which it was
+852     granted.
+853          (d) A written withdrawal of authorization submitted to the school principal by the
+854     authorizing parent or guardian terminates the authorization.
+855          (e) A general consent used to approve admission to school or involvement in special
+856     education, remedial education, or a school activity does not constitute written consent under
+857     this section.
+858          (6) (a) This section does not limit the ability of a student under Section 53A-13-101.3
+859     to spontaneously express sentiments or opinions otherwise protected against disclosure under
+860     this section.
+861          (b) (i) If a school employee or agent believes that a situation exists which presents a
+862     serious threat to the well-being of a student, that employee or agent shall notify the student's
+863     parent or guardian without delay.
+864          (ii) If, however, the matter has been reported to the Division of Child and Family
+865     Services within the Department of Human Services, it is the responsibility of the division to
+866     notify the student's parent or guardian of any possible investigation, prior to the student's return
+867     home from school.
+868          (iii) The division may be exempted from the notification requirements described in this
+869     Subsection (6)(b)(ii) only if it determines that the student would be endangered by notification
+870     of his parent or guardian, or if that notification is otherwise prohibited by state or federal law.
+871          (7) (a) If a school employee, agent, or school resource officer believes a student is
+872     at-risk of attempting suicide, physical self-harm, or harming others, the school employee,
+873     agent, or school resource officer may intervene and ask a student questions regarding the
+874     student's suicidal thoughts, physically self-harming behavior, or thoughts of harming others for
+875     the purposes of:
+876          (i) referring the student to appropriate prevention services; and
+877          (ii) informing the student's parent or legal guardian.
+878          (b) On or before September 1, 2014, a school district or charter school shall develop
+879     and adopt a policy regarding intervention measures consistent with Subsection (7)(a) while
+880     requiring the minimum degree of intervention to accomplish the goals of this section.
+881          (8) Local school boards and charter school governing boards shall provide inservice for
+882     teachers and administrators on the implementation of this section.
+883          (9) The board shall provide procedures for disciplinary action for violations of this
+884     section.
+885          Section 17. Appropriation.
+886          Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, for
+887     the fiscal year beginning July 1, 2016, and ending June 30, 2017, the following sums of money
+888     are appropriated from resources not otherwise appropriated, or reduced from amounts
+889     previously appropriated, out of the funds or amounts indicated. These sums of money are in
+890     addition to amounts previously appropriated for fiscal year 2017.
+891          To State Board of Education -- State Office of Education
+892               From Education Fund, one-time
+$800,000
+
+893               Schedule of Programs:
+894                    Assessment and Accountability               $800,000
+895          The Legislature intends that:
+896          (1) the State Board of Education use the appropriation described in this section to
+897     administer Title 53A, Chapter 1, Part 14, Student Data Protection Act; and
+898          (2) the appropriation described under this section not lapse.
+899          Section 18. Repealer.
+900          This bill repeals:
+901          Section 53A-1-711, State Board of Education student privacy study -- Chief
+902     privacy officer.
+You may print the text of a bill from the PDF version located on the 'Bill Text' tab above

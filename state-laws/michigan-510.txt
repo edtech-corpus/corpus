@@ -1,0 +1,139 @@
+
+
+Act No. 368
+
+Public Acts of 2016
+
+Approved by the Governor
+
+December 22, 2016
+
+Filed with the Secretary of State
+
+December 22, 2016
+
+EFFECTIVE DATE: March 22, 2017
+
+STATE OF MICHIGAN
+
+98TH LEGISLATURE
+
+REGULAR SESSION OF 2016
+
+Introduced by Senators Pavlov, Colbeck, Booher, Kowall, Emmons, Proos, Schuitmaker, Hansen, Knollenberg, Horn and Marleau
+
+ENROLLED SENATE BILL No. 510
+
+AN ACT to prohibit the disclosure or use of certain information.
+
+The People of the State of Michigan enact:
+
+Sec. 1. This act shall be known and may be cited as the “student online personal protection act”.
+
+Sec. 3. As used in this act:
+
+(a) “Covered information” means personally identifiable information or material in any media or format that is any of the following:
+
+(i) Created by or provided to an operator by a student, or the student’s parent or legal guardian, in the course of the student’s, parent’s, or legal guardian’s use of the operator’s site, service, or application for K-12 school purposes.
+
+(ii) Created by or provided to an operator by an employee or agent of a K-12 school or school district for K-12 school purposes.
+
+(iii) Gathered by an operator through the operation of a site, service, or application for K-12 school purposes and personally identifies a student, including, but not limited to, information in the student’s educational record or electronic mail, first and last name, home address, telephone number, electronic mail address, or other information that allows physical or online contact, discipline records, test results, special education data, juvenile dependency records, grades, evaluations, criminal records, medical records, health records, social security number, biometric information, disabilities, socioeconomic information, food purchases, political affiliations, religious information, text messages, documents, student identifiers, search activity, photos, voice recordings, or geolocation information.
+
+(b) “Interactive computer service” means that term as defined in 47 USC 230.
+
+(c) “K-12 school” means a school that offers any of grades kindergarten to 12 and that is operated by a school district.
+
+(d) “K-12 school purposes” means purposes that are directed by or that customarily take place at the direction of a K-12 school, teacher, or school district or aid in the administration of school activities, including, but not limited to, instruction in the classroom or at home, administrative activities, and collaboration between students, school personnel, or parents, or are for the use and benefit of the school. Other than advertising described in section 5(3)(b), K-12 school purposes also includes those purposes related to K-12 students preparing for postsecondary education.
+
+(e) “Operator” means, to the extent that it is operating in this capacity, the operator of an Internet website, online service, online application, or mobile application with actual knowledge that the site, service, or application is used primarily for K-12 school purposes and was designed and marketed for K-12 school purposes.
+
+(f) “School district” means a school district, intermediate school district, or public school academy, as those terms are defined in the revised school code, 1976 PA 451, MCL 380.1 to 380.1852.
+
+(g) “Service provider” means a person or entity that provides a service that enables users to access content, information, electronic mail, or other services offered over the Internet or a computer network.
+
+(h) “Targeted advertising” means presenting an advertisement to a student where the advertisement is selected based on information obtained or inferred from that student’s online behavior, usage of applications, or covered information. Targeted advertising does not include advertising to a student at an online location based upon that student’s current visit to that location or single search query without the collection and retention of a student’s online activities over time.
+
+Sec. 5. (1) An operator shall not knowingly do any of the following:
+
+(a) Engage in targeted advertising on the operator’s site, service, or application, or target advertising on any other site, service, or application if the targeting of the advertising is based on any information, including covered information and persistent unique identifiers, that the operator has acquired because of the use of that operator’s site, service, or application for K-12 school purposes.
+
+(b) Use information, including persistent unique identifiers, created or gathered by the operator’s site, service, or application, to amass a profile about a student except in furtherance of K-12 school purposes. As used in this subdivision, “amass a profile” does not include the collection and retention of account registration records or information that remains under the control of the student, the student’s parent or guardian, or K-12 school.
+
+(c) Sell or rent a student’s information, including covered information. This subdivision does not apply to the purchase, merger, or other type of acquisition of an operator by another entity, if the operator or successor entity complies with this section regarding previously acquired student information.
+
+(d) Except as otherwise provided in subsection (3), disclose covered information unless the disclosure is made for the following purposes:
+
+(i) In furtherance of the K-12 school purpose of the site, service, or application, if the recipient of the covered information disclosed under this subparagraph does not further disclose the information unless done to allow or improve operability and functionality of the operator’s site, service, or application.
+
+(ii) To ensure legal and regulatory compliance or protect against liability.
+
+(iii) To respond to or participate in the judicial process.
+
+(iv) To protect the safety or integrity of users of the site or others or the security of the site, service, or application.
+
+(v) For a school, educational, or employment purpose requested by the student or the student’s parent or guardian, provided that that information is not used or further disclosed for any other purpose.
+
+(vi) To a service provider, if the operator contractually prohibits the service provider from using any covered information for any purpose other than providing the contracted service to or on behalf of the operator, prohibits the service provider from disclosing any covered information provided by the operator with subsequent third parties, and requires the service provider to implement and maintain reasonable security procedures and practices. This subparagraph does not prohibit the operator’s use of information for maintaining, developing, supporting, improving, or diagnosing the operator’s site, service, or application.
+
+(2) An operator shall do all of the following:
+
+(a) Implement and maintain reasonable security procedures and practices appropriate to the nature of the covered information, and protect that covered information from unauthorized access, destruction, use, modification, or disclosure.
+
+(b) Delete a student’s covered information if the K-12 school or school district requests deletion of covered information under the control of the K-12 school or school district.
+
+(3) An operator may use or disclose covered information of a student under the following circumstances:
+
+(a) If other provisions of federal or state law require the operator to disclose the information, and the operator complies with the requirements of federal and state law in protecting and disclosing that information.
+
+(b) For legitimate research purposes as required by state or federal law and subject to the restrictions under applicable state and federal law or as allowed by state or federal law and under the direction of a K-12 school, school district, or state department of education, if covered information is not used for advertising or to amass a profile on the student for purposes other than K-12 school purposes.
+
+(c) To a state or local educational agency, including K-12 schools and school districts, for K-12 school purposes, as permitted by state or federal law.
+
+(4) This section does not prohibit an operator from doing any of the following:
+
+(a) Using covered information that is not associated with an identified student within the operator’s site, service, or application or other sites, services, or applications owned by the operator to improve educational products.
+
+(b) Using covered information that is not associated with an identified student to demonstrate the effectiveness of the operator’s products or services, including in their marketing.
+
+(c) Sharing covered information that is not associated with an identified student for the development and improvement of educational sites, services, or applications.
+
+(d) Using recommendation engines to recommend to a student either of the following:
+
+(i) Additional content relating to an educational, other learning, or employment opportunity purpose within the operator’s site, service, or application if the recommendation is not determined in whole or in part by payment or other consideration from a third party.
+
+(ii) Additional services relating to an educational, other learning, or employment opportunity purpose within the operator’s site, service, or application if the recommendation is not determined in whole or in part by payment or other consideration from a third party.
+
+(e) Responding to a student’s request for information or for feedback to help improve learning without the information or response being determined in whole or in part by payment or other consideration from a third party.
+
+(5) This section does not do any of the following:
+
+(a) Limit the authority of a law enforcement agency to obtain any content or information from an operator as authorized by law or under a court order.
+
+(b) Limit the ability of an operator to use student data, including covered information, for adaptive learning or customized student learning purposes.
+
+(c) Apply to general audience Internet websites, general audience online services, general audience online applications, or general audience mobile applications, even if login credentials created for an operator’s site, service, or application may be used to access those general audience sites, services, or applications.
+
+(d) Limit service providers from providing Internet connectivity to schools or students and their families.
+
+(e) Prohibit an operator of an Internet website, online service, online application, or mobile application from marketing educational products directly to parents if the marketing did not result from the use of covered information obtained by the operator through the provision of services covered under this section.
+
+(f) Impose a duty upon a provider of an electronic store, gateway, marketplace, or other means of purchasing or downloading software or applications to review or enforce compliance with this section on those applications or software.
+
+(g) Impose a duty upon a provider of an interactive computer service to review or enforce compliance with this section by third-party content providers.
+
+(h) Prohibit students from downloading, exporting, transferring, saving, or maintaining their own student data or documents.
+
+(i) Prohibit a K-12 school, school district, operator, or service provider from using a student’s information, including covered information, solely to identify or display information to the student about or facilitate connection of the student with a not-for-profit institution of higher education or a scholarship opportunity if the K-12 school or school district has first obtained the express written consent of the student’s parent or legal guardian or, if the student is age 18 or older or is an emancipated minor, the student. For the purposes of this subdivision, that express written consent may be obtained as a response to the annual notice required under 34 CFR 99.7 and is not required to be in addition to consent given in response to that annual notice.
+
+Enacting section 1. This act takes effect 90 days after the date it is enacted into law.
+
+This act is ordered to take immediate effect.
+
+Secretary of the Senate
+
+Clerk of the House of Representatives
+
+Approved
+
+Governor

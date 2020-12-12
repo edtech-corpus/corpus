@@ -1,0 +1,86 @@
+Welcome to Blackboard’s Privacy Center
+
+Our Privacy Center provides an overview of our Data Privacy Program and our approach to data privacy. We also have additional helpful data privacy information on the following pages:
+
+The Privacy Statement details how we use personal information.
+
+The California Privacy Notice provides information for California consumers that use our products and services when we are acting as a business.
+
+The Cookie Statement explains our use of cookies.
+
+The Privacy Shield Statement provides information on our EU‑U.S. Privacy Shield certification.
+
+The 	
+
+ GDPR White Paper (PDF)
+
+
+ 	explains our approach to the GDPR.
+
+The Data Privacy and Security group (available in English only) on Blackboard Community has regular contributions from us and the community.
+
+
+
+Our data privacy program & approach
+
+We care about privacy. We believe that privacy is a fundamental right for all individuals. Our clients entrust us with the personal information of their employees and their users, who are often students. We take the obligations that are attached to this information very seriously.
+
+Data privacy and security have therefore been long-standing key priorities of Blackboard. The European Union General Data Protection Regulation (GDPR) was an opportunity to further strengthen our existing data privacy practices and formalize them as part of a global data privacy program led by our Global Privacy Officer.
+
+Our approach to data privacy has always been client-focused. We understand the challenges our clients face. Our Data Privacy Program is designed to help them with their data privacy compliance.
+
+We are EU-U.S. Privacy Shield certified, a proud signatory of the Privacy Pledge, and a member of the Future of Privacy Forum.
+
+
+
+ 
+
+
+
+
+
+Privacy by design
+
+As it becomes more and more challenging in today’s world for individuals to maintain control over their information, privacy by design and accountability become increasingly important to maintain the trust of individuals, clients, and regulators and to document how an organization complies with the GDPR. Privacy by design is therefore at the heart of our Data Privacy Program.
+
+For Blackboard this is an evolution rather than a revolution. We have always conducted legal reviews of new products and practices. With our privacy by design approach we are formalizing and better documenting these reviews.
+
+
+
+Data transfers
+
+We have a multi-layered and redundant approach to data transfer compliance. This means we address data transfer requirements via multiple avenues to ensure personal information is adequately protected:
+
+Regional hosting: We have a regional hosting strategy with almost all products hosted in the EU and other products planned to be moved to regional hosting solutions. While regional storage is not required by the GDPR and we do not think that data localization leads to better data privacy or security, we understand that many EU clients prefer their data to be stored in the EU.
+
+Privacy Shield: Blackboard is EU-U.S. Privacy Shield certified which allows us to lawfully transfer personal information to the US where required.
+
+Model clauses: We also use EU-approved data transfer “model clauses” to compliantly transfer personal information outside the EEA within Blackboard’s group of companies.
+
+Vendors: Robust contracts are in place with vendors and partners (e.g., IBM, Amazon Web Services) to ensure that data transfer requirements (and other data privacy obligations) are passed on to our vendors and partners.
+
+It is important to understand that while personal information of clients is stored in these data centers for most of the products (including Learn 9.1, Learn SaaS, Blackboard Open LMS and Collaborate) for EU clients, access to this data from outside the EU/EEA may be required to provide the products and services, e.g. for 24/7-support. Such data transfers are allowed thanks to the mentioned Privacy Shield certification and model clauses.
+
+
+
+Our vendors
+
+We use vendors to help us provide our products and services or to perform work on our behalf. Where this requires access to personal information, we are responsible for the data privacy practices of the vendors. Our vendors must abide by our strict data privacy and security requirements and instructions. They are not allowed to use personal information they access or receive from us for any other purposes than as needed to carry out their work for us.
+
+
+
+Security
+
+We employ a variety of physical, administrative, and technological safeguards designed to protect personal information against loss, misuse, and unauthorized access or disclosure. We have dedicated information security programs and work hard to continuously enhance our technical and operational security measures.
+
+Our measures consider the sensitivity of the information we collect, use, and store, and the current state of technology. Our security measures include data encryption, firewalls, data use, and access limitations for our personnel and vendors and physical access controls to our facilities.
+
+All products and services that use payment data maintain the applicable Payment Card Industry (PCI) compliance levels. Our compliance with the PCI standards is validated during annual audits that are conducted by external auditors (so-called ‘Qualified Security Assessors’).
+
+
+
+Contact us
+
+Any questions? Please contact us at privacy@blackboard.com. For more contact options, please see our Privacy Statement.
+
+This content was last updated on April 7, 2020.

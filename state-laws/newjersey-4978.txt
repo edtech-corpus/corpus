@@ -1,0 +1,167 @@
+
+
+ASSEMBLY, No. 4978
+
+STATE OF NEW JERSEY
+
+218th LEGISLATURE
+
+ 
+
+INTRODUCED JANUARY 31, 2019
+
+ 
+
+ 
+
+Sponsored by:
+
+Assemblywoman  BRITNEE N. TIMBERLAKE
+
+District 34 (Essex and Passaic)
+
+Assemblyman  ANDREW ZWICKER
+
+District 16 (Hunterdon, Mercer, Middlesex and Somerset)
+
+ 
+
+ 
+
+ 
+
+ 
+
+SYNOPSIS
+
+     Prohibits online education services from disclosing student educational records, amassing profiles of student data for non-educational purposes, and requires deletion of data in certain instances.
+
+ 
+
+CURRENT VERSION OF TEXT
+
+     As introduced.
+
+  
+
+An Act concerning online education services and student educational records and supplementing P.L.1960, c.39 (C.56:8-1 et seq.).
+
+ 
+
+     Be It Enacted by the Senate and General Assembly of the State of New Jersey:
+
+ 
+
+     1.    As used in P.L.    , c.    (C.      ) (pending before the Legislature as this bill):
+
+     “Cloud computing service” means a service that enables on-demand self-service network access to a shared pool of configurable computer resources to provide a student account-based productivity applications, including, but not limited to, electronic mail, document storage, and document editing, which can be rapidly provisioned and released with minimal management effort or cloud computing service provider interaction.
+
+     "De-identified data" means information that does not identify an individual and for which there is no reasonable basis to believe that the information can be used to identify an individual.
+
+     “Educational record” means an official record, file, or data, in any medium or format, directly related to the student of an online education service as provided by a student, parent, legal guardian, school, or school district in the course of the student’s use of the online education service, including, but not limited to, records encompassing all the material stored or recorded in the student's cumulative folders, files, or applications, such as general identifying data, electronic mail addresses, records of academic work, records of achievement, results of evaluative tests, health data, test protocols, criminal records, biometric information, food purchases, political affiliations, search activity, persistent unique identifiers, photos, voice recordings, global positioning system data, and individualized education plans or programs.
+
+     “Online education service” or “service” means an Internet website, online service, online computer application, cloud computing service, or mobile application designed, marketed, and offering education for grades kindergarten through 12, or any combination thereof, to supplement, or use in lieu of, physical attendance at a private or public school in this State.
+
+     “Operator” means the operator of an online education service.
+
+     “Persistent unique identifier” means a digital label given to an object, such as a digital file, or entity, such as a person, which is used on the online education service.
+
+     “Process” or “processing” means to use, access, manipulate, scan, modify, transform, disclose, store, transmit, transfer, retain, aggregate, or dispose of educational records.
+
+     “Student” means a minor user of an online education service.
+
+     2.    a.  An operator of an online education service shall not knowingly:
+
+     (1)   use information, including educational, created or gathered by the operator, to amass a profile about a student for any purpose other than the furtherance of the student’s kindergarten through 12 grade education;
+
+     (2)   sell an educational record to any person unless sold in the course of the purchase, merger, or other type of acquisition of an online education service by another entity, provided that the online education service continues to be subject to the provisions of this section with respect to previously acquired student educational records; and
+
+     (3)   disclose an educational record collected or maintained by the online education service unless the disclosure is:
+
+     (a)   made in furtherance of the educational purpose of the service, provided the recipient of the educational record shall not further disclose the information unless done to allow or improve the operability and functionality within that student’s classroom or school;
+
+     (b)   required by federal or State law;
+
+     (c)   made to respond to or participate in a judicial process;
+
+     (d)   to protect the safety of students or security of the service; or
+
+     (e)   for legitimate research purposes made in accordance with paragraphs (1) through (3) of this subsection,:
+
+     (i)    as required by federal or State law and subject to the restrictions of application of federal or State law; or
+
+     (ii)   as allowed by federal or State law and under the direction of a school, school district, or the Department of Education, if no educational record is used for any purpose in furtherance of advertising or to amass a profile on the student for any purpose that is not in furtherance of kindergarten through 12 grade education;
+
+     (iii)  for use by a federal, State, or local educational agency, including schools and school districts, for kindergarten through 12 grade educational purposes, as permitted by federal or State law.
+
+     b.    Nothing in this section shall be construed to prohibit the operator’s use of educational records for maintaining, developing, supporting, or improving the operator’s online education service.
+
+ 
+
+     3.    An operator of an online education service shall:
+
+     a.     implement and maintain reasonable security procedures and practices appropriate to the nature of the educational record;
+
+     b.    protect that information from unauthorized access, destruction, use, modification, or disclosure; and
+
+     c.     delete an educational record at the request of a school or a school district overseeing the student’s education through the service or a student who has subsequently reached the age of majority.
+
+     4.    Nothing in P.L.    , c.    (C.      ) (pending before the Legislature as this bill) shall be construed to prohibit an operator of an online education service from using de-identified data as follows:
+
+     a.     to improve the educational products within the service owned by the operator; or
+
+     b.    to demonstrate the effectiveness of the operator’s products or services, including their marketing.
+
+ 
+
+     5.    It shall be an unlawful practice pursuant to P.L.1960, c.39 (C.56:8-1 et seq.) for an operator of an online education service to violate the provisions of P.L.    , c.    (C.      ) (pending before the Legislature as this bill), or any rule or regulation adopted pursuant thereto.
+
+ 
+
+     6.    The Director of the Division of Consumer Affairs in the Department of Law and Public Safety shall adopt, pursuant to the "Administrative Procedure Act," P.L.1968, c.410 (C.52:14B-1 et seq.), rules and regulations necessary to effectuate the purposes of P.L.    , c.    (C.      ) (pending before the Legislature as this bill).
+
+ 
+
+     7.    This act shall take effect immediately, but shall remain inoperative for 180 days following the date of enactment.
+
+ 
+
+ 
+
+STATEMENT
+
+ 
+
+     This bill prohibits an operator of an online education service (service) offering education for grades kindergarten through 12 from knowingly:
+
+     1)    using information, including educational records, created or gathered by the operator, to amass a profile about a student for any purpose other than the furtherance of kindergarten through 12 grade education;
+
+     2)    selling an educational record to any person unless in the course of the purchase, merger or other type of acquisition of an online education service by another entity, provided that the online education service continues to be subject to the provisions of the bill with respect to previously acquired student educational records; and
+
+     3)    disclosing an educational record collected or maintained by the service unless the disclosure is:
+
+     (a)   made in furtherance of the educational purpose of the service, provided the recipient of the educational record is not to further disclose the information unless done to allow or improve the operability and functionality within that student’s classroom or school;
+
+     (b)   required by federal or State law;
+
+     (c)   made to respond to or participate in a judicial process;
+
+     (d)   to protect the safety of students or security of the service; or
+
+     (e)   made for legitimate research purposes:
+
+     (i)    as required by federal or State law and subject to the restrictions of application of federal or State law; or
+
+     (ii)   as allowed by federal or State law and under the direction of a school, school district, or the Department of Education, if no educational record is used for any purpose in furtherance of advertising or to amass a profile on the student for any purpose other than in furtherance of kindergarten through 12 grade education;
+
+     (iii)  for use by a federal, State, or local educational agency, including schools and school districts, for kindergarten through 12 grade educational purposes, as permitted by federal or State law.
+
+     Nothing in the bill is to be construed to prohibit the operator’s use of educational records for maintaining, developing, supporting, or improving the operator’s service.
+
+     The bill requires an operator of a service to implement and maintain reasonable security procedures and practices appropriate to the nature of the educational record, and protect that information from unauthorized access, destruction, use, modification, or disclosure, and is to delete an educational record at the request of a school or a school district overseeing the student’s education through the service or a student who has subsequently reached the age of majority.
+
+     Further, nothing in the bill is to be construed to prohibit an operator from using de-identified data within the online education service owned by the operator to improve educational products or to demonstrate the effectiveness of the operator’s products or services, including their marketing.
+
+     This bill provides that it is to be an unlawful practice pursuant to the State’s consumer fraud act for an operator of a service to violate the provisions of the bill.
+
+     The bill defines “online education service” as an Internet website, online service, online computer application, cloud computing service, or mobile application designed, marketed, and offering education for grades kindergarten through 12, or any combination thereof, to supplement, or use in lieu of, physical attendance at a private or public school in this State.

@@ -1,0 +1,79 @@
+Home
+
+Knowledge Base
+
+Community
+
+Sign In
+
+
+
+English
+
+Knowledge Base
+
+Meeting
+
+FAQs
+
+Security and Privacy
+
+Security and privacy in online sessions
+
+Does Zoho Meeting share user information with third-party apps?
+
+Zoho Meeting was built entirely at Zoho, and does not use any third-party apps. Zoho Meeting also does not share any user information with any apps for commercial or advertising purposes. As a software company, data privacy is at the heart of Zoho. We ensure that our applications comply with data protection rules right from the moment we start building them. 
+
+ 
+
+How does Zoho Meeting use browser cookies?
+
+Zoho Meeting application sets cookies on both the presenter's and the attendee's browsers in order to maintain the session, provide smooth functionality, and store important configurations, such as session recording status (if you have enabled recording) and notification preferences. The cookies are never used for data mining, marketing, targeting, or advertising purposes.
+
+ 
+
+What information does a meeting host get during an online meeting?
+
+Zoho Meeting allows meeting hosts to collect either the name or email address of the attendees for their own reporting purposes.
+
+What information does Zoho Meeting automatically collect from users during a meeting?
+
+Zoho Meeting collects information such as the IP address and browser details automatically. This is for effective bandwidth management and debugging purposes, in case users encounter technical issues during a meeting. Zoho Meeting does not track the details of browser tabs that are open, or the links that have been clicked by the user.
+
+What provisions does Zoho Meeting have to protect privacy during a meeting?
+
+The video of a participant or presenter is never enabled by default when they enter a meeting. Zoho Meeting always asks your consent before enabling your web camera, or remote control access for your keyboard and mouse during online meetings. Presenters can use the Lock meeting feature to prevent intruders from entering confidential meetings.
+
+What are the security practices followed by Zoho Meeting?
+
+In Zoho Meeting, all transmissions take place through SSL/128-bit AES encryption protocols, which is the industry standard security practice. All data that users share is completely encrypted and saved securely. Refer to Zoho's security and privacy policies to learn more.
+
+Helpful?10
+
+Share :
+
+
+
+On this page
+
+Does Zoho Meeting share user information with third-party apps?
+
+How does Zoho Meeting use browser cookies?
+
+What information does a meeting host get during an online meeting?
+
+What information does Zoho Meeting automatically collect from users during a meeting?
+
+What provisions does Zoho Meeting have to protect privacy during a meeting?
+
+What are the security practices followed by Zoho Meeting?
+
+Security and Privacy
+Security and privacy in online sessions
+
+Related Articles
+Online meeting integration with Zoho Bookings
+Best Practices for online meetings using Zoho Meeting
+Taking online meeting appointments through booking forms
+Scheduling an online meeting ​
+Online meeting integration in Zoho Connect

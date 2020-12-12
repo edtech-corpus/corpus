@@ -1,0 +1,84 @@
+
+Connecticut Seal
+
+Substitute House Bill No. 7207
+
+Public Act No. 17-200
+
+AN ACT MAKING REVISIONS TO THE STUDENT DATA PRIVACY ACT OF 2016.
+
+Be it enacted by the Senate and House of Representatives in General Assembly convened:
+
+Section 1. Section 10-234bb of the general statutes is repealed and the following is substituted in lieu thereof (Effective from passage):
+
+(a) On and after [October 1, 2016] July 1, 2018, a local or regional board of education shall enter into a written contract with a contractor any time such local or regional board of education shares or provides access to student information, student records or student-generated content with such contractor. Each such contract shall include, but need not be limited to, the following:
+
+(1) A statement that student information, student records and student-generated content are not the property of or under the control of a contractor;
+
+(2) A description of the means by which the local or regional board of education may request the deletion of student information, student records or student-generated content in the possession of the contractor;
+
+(3) A statement that the contractor shall not use student information, student records and student-generated content for any purposes other than those authorized pursuant to the contract;
+
+(4) A description of the procedures by which a student, parent or legal guardian of a student may review personally identifiable information contained in student information, student records or student-generated content and correct erroneous information, if any, in such student record;
+
+(5) A statement that the contractor shall take actions designed to ensure the security and confidentiality of student information, student records and student-generated content;
+
+(6) A description of the procedures that a contractor will follow to notify the local or regional board of education, in accordance with the provisions of section 10-234dd, as amended by this act, when there has been an unauthorized release, disclosure or acquisition of student information, student records or student-generated content;
+
+(7) A statement that student information, student records or student-generated content shall not be retained or available to the contractor upon completion of the contracted services unless a student, parent or legal guardian of a student chooses to establish or maintain an electronic account with the contractor for the purpose of storing student-generated content;
+
+(8) A statement that the contractor and the local or regional board of education shall ensure compliance with the Family Educational Rights and Privacy Act of 1974, 20 USC 1232g, as amended from time to time;
+
+(9) A statement that the laws of the state of Connecticut shall govern the rights and duties of the contractor and the local or regional board of education; and
+
+(10) A statement that if any provision of the contract or the application of the contract is held invalid by a court of competent jurisdiction, the invalidity does not affect other provisions or applications of the contract which can be given effect without the invalid provision or application.
+
+(b) All student-generated content shall be the property of the student or the parent or legal guardian of the student.
+
+(c) A contractor shall implement and maintain security procedures and practices designed to protect student information, student records and student-generated content from unauthorized access, destruction, use, modification or disclosure that, based on the sensitivity of the data and the risk from unauthorized access, (1) use technologies and methodologies that are consistent with the guidance issued pursuant to section 13402(h)(2) of Public Law 111-5, as amended from time to time, (2) maintain technical safeguards as it relates to the possession of student records in a manner consistent with the provisions of 45 CFR 164.312, as amended from time to time, and (3) otherwise meet or exceed industry standards.
+
+(d) A contractor shall not use (1) student information, student records or student-generated content for any purposes other than those authorized pursuant to the contract, or (2) personally identifiable information contained in student information, student records or student-generated content to engage in targeted advertising.
+
+(e) Any provision of a contract entered into between a contractor and a local or regional board of education on or after [October 1, 2016] July 1, 2018, that conflicts with any provision of this section shall be void.
+
+(f) Any contract entered into on and after [October 1, 2016] July 1, 2018, that does not include a provision required by subsection (a) of this section shall be void, provided the local or regional board of education has given reasonable notice to the contractor and the contractor has failed within a reasonable time to amend the contract to include the provision required by subsection (a) of this section.
+
+(g) Not later than five business days after executing a contract pursuant to this section, a local or regional board of education shall provide electronic notice to any student and the parent or legal guardian of a student affected by the contract. The notice shall (1) state that the contract has been executed and the date that such contract was executed, (2) provide a brief description of the contract and the purpose of the contract, and (3) state what student information, student records or student-generated content may be collected as a result of the contract. The local or regional board of education shall post such notice and the contract on the board's Internet web site.
+
+Sec. 2. Subdivision (3) of subsection (a) of section 10-234dd of the general statutes is repealed and the following is substituted in lieu thereof (Effective July 1, 2017):
+
+(3) Upon receipt of notice of a breach of security under [subdivisions] subdivision (1) or (2) of this subsection, a local or regional board of education shall electronically notify, not later than [forty-eight hours] two business days after receipt of such notice, the student and the parents or guardians of the student whose student information, student records or student-generated content is involved in such breach of security. The local or regional board of education shall post such notice on the board's Internet web site.
+
+Sec. 3. (Effective from passage) The Department of Education shall provide guidance to local and regional boards of education concerning the implementation of the Family Educational Rights and Privacy Act of 1974, 20 USC 1232g, as amended from time to time, and the provisions of sections 10-234aa to 10-234dd, inclusive, of the general statutes, as amended by this act.
+
+Sec. 4. Section 5 of public act 16-189 is repealed and the following is substituted in lieu thereof (Effective from passage):
+
+(a) There is established a task force to study issues relating to student data privacy. Such study shall include, but not be limited to, an examination of (1) when a parent or guardian of a student may reasonably or appropriately request the deletion of student information, student records or student-generated content that is in the possession of a contractor or operator, (2) means of providing notice to parents and guardians of students when a student uses an Internet web site, online service or mobile application of an operator for instructional purposes in a classroom or as part of an assignment by a teacher, (3) reasonable penalties for violations of the provisions of sections [2 to 4, inclusive, of this act] 10-234bb to 10-234dd, inclusive, of the general statutes, such as restricting a contractor or operator from accessing or collecting student information, student records or student-generated content, (4) strategies in effect in other states that ensure that school employees, contractors and operators are trained in data security handling, compliance and best practices, (5) the feasibility of developing a school district-wide list of approved Internet web sites, online services and mobile applications, (6) the use of an administrative hearing process designed to provide legal recourse to students and parents and guardians of students aggrieved by any violation of sections [2 to 4, inclusive, of this act] 10-234bb to 10-234dd, inclusive, of the general statutes, (7) the feasibility of creating an inventory of student information, student records and student-generated content currently collected pursuant to state and federal law, (8) the feasibility of developing a tool kit for use by local and regional boards of education to (A) improve student data contracting practices and compliance, including a state-wide template for use by districts, (B) increase school employee awareness of student data security best practices, including model training components, (C) develop district-wide lists of approved software applications and Internet web sites, and (D) increase the availability and accessibility of information on student data privacy for parents and guardians of students and educators, and (9) any other issue involving student data security that the task force deems relevant.
+
+(b) The task force shall consist of the following members:
+
+(1) Two appointed by the speaker of the House of Representatives, one of whom is an operator, pursuant to section [1 of this act] 10-234aa of the general statutes and one of whom is an expert in information technology systems;
+
+(2) Two appointed by the president pro tempore of the Senate, one of whom is a representative or member of the Connecticut Education Association and one of whom is [a high school student in the state of Connecticut] an attorney with expertise in Connecticut school law;
+
+(3) Two appointed by the majority leader of the House of Representatives, one of whom is a representative of a contractor, pursuant to section [1 of this act] 10-234aa of the general statutes and one of whom is an expert in information technology systems;
+
+(4) Two appointed by the majority leader of the Senate, one of whom is a representative or member of the Connecticut Parent Teacher Association and one of whom is a representative or member of the American Federation of Teachers;
+
+(5) Two appointed by the minority leader of the House of Representatives, one of whom is a student privacy advocate and one of whom is a representative or member of the Connecticut Association of Boards of Education;
+
+(6) Two appointed by the minority leader of the Senate, one of whom is a representative of the Connecticut Association of School Administrators and one of whom is a representative or member of the Connecticut Association of Public School Superintendents;
+
+(7) The Attorney General, or the Attorney General's designee; and
+
+(8) The Commissioner of Education or the commissioner's designee.
+
+(c) All appointments to the task force shall be made not later than thirty days after the effective date of this section. Any vacancy shall be filled by the appointing authority.
+
+(d) The speaker of the House of Representatives and the president pro tempore of the Senate shall select the chairpersons of the task force from among the members of the task force. Such chairpersons shall schedule the first meeting of the task force, which shall be held not later than sixty days after the effective date of this section.
+
+(e) The administrative staff of the joint standing committee of the General Assembly having cognizance of matters relating to general law shall serve as administrative staff of the task force.
+
+(f) Not later than January 1, [2017] 2018, the task force shall submit a report on its findings and recommendations to the joint standing committee of the General Assembly having cognizance of matters relating to general law and education, in accordance with the provisions of section 11-4a of the general statutes. The task force shall terminate on the date that it submits such report or January 1, [2017] 2018, whichever is later.
+
+Approved July 10, 2017

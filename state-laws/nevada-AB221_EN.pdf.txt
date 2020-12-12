@@ -1,0 +1,529 @@
+ 
+
+Assembly Bill No. 221–Assemblyman Kirner 
+ 
+CHAPTER.......... 
+ 
+AN ACT relating to education; making various changes concerning 
+policies  governing  data  which  includes  information  about 
+pupils  that  is  maintained  by  the  Department  of  Education; 
+require  disclosure  of 
+requiring  certain  contracts 
+personally  identifiable  information  concerning  pupils  to 
+include  provisions  concerning 
+the  protection  of  such 
+information;  requiring  the  Department  to  adopt  a  data 
+security  plan  for  collecting,  maintaining  and  transferring  
+data  concerning  pupils;  requiring  the  annual  report  of  the 
+state  of  public  education  to  include  certain  information 
+concerning  the  collection,  maintenance  and  transfer  of  
+data  concerning  pupils;  requiring  certain  entities  to  adopt 
+information 
+policies  concerning  data  which 
+concerning  pupils;  and  providing  other  matters  properly 
+relating thereto. 
+
+includes 
+
+that 
+
+Legislative Counsel’s Digest: 
+Existing  law  provides  for  an  automated  system  of  accountability  information 
+ 
+for  the  State  of  Nevada.  (NRS  386.650)  Section  2  of  this  bill  requires  the 
+Department  of  Education  to  establish,  publish  and  make  publicly  available  on  its 
+Internet  website:  (1)  an  index  of  data  elements  that  the  Department  maintains  or 
+proposes  to  include  in  the  automated  system  of  accountability  information  for 
+Nevada;  (2)  an  explanation  of  the  index  of  data  elements  that  must  include  a 
+description  of  each  data  element  and  the  reason  for  collecting  or  proposing  to 
+collect such an element; and (3) the third-party service providers, organizations and 
+agencies  that  have  access  to  the  data  about  individual  pupils  maintained  by  the 
+Department  in  this  system.  Section  2  also  requires  the  Department  to  update  this 
+information at least once each biennium.  
+Existing law requires a public school to comply with federal law governing: (1) 
+ 
+access  to  the  education  records  of  a  pupil;  (2)  requesting  an  amendment  or  other 
+change to the education records of a pupil; and (3) confidentiality of the education 
+records of a pupil. (NRS 392.029) Section 3 of this bill requires the Department to 
+adopt  any  policies  and  procedures  necessary  to  ensure  the  privacy  of  data  about 
+pupils which are consistent with relevant state and federal privacy laws. Section 3 
+also requires the Department to review these policies and procedures at least once 
+each biennium and revise them as necessary.  
+ 
+Section  4  of  this  bill  requires  any  contract  entered  into  by  the  Department,  a 
+school district, a charter school, a university school for profoundly gifted pupils or 
+any  public  school  that  provides  for  the  disclosure  of  data  that  includes  any 
+personally identifiable information of a pupil to include: (1) express provisions to 
+protect  the  privacy  and  security  of  such  information;  and  (2)  a  penalty  for 
+intentional or grossly negligent noncompliance with the terms of the contract.  
+ 
+Section 5 of this bill requires the Department, in consultation with each school 
+district,  the  sponsor  of  a  charter  school  and  the  governing  body  of  a  university 
+school  for  profoundly  gifted  pupils  to  adopt  a  detailed  plan  to  provide  for  the 
+security  of  data  that  is  collected,  maintained  and  transferred  by  the  Department. 
+Section 5 also requires the board of trustees of each school district, the governing 
+
+ - 
+
+– 2 – 
+
+ 
+ 
+ 
+body  of  a  charter  school  and  the  governing  body  of  a  university  school  for 
+profoundly gifted pupils to carry out this plan.  
+ 
+Existing  law  requires  the  Department,  in  conjunction  with  the  State  Board  of 
+Education, to prepare an annual report of the state of public education in this State. 
+(NRS 385.230) Section 5 requires each school district, sponsor of a charter school 
+and  university  school  for  profoundly  gifted  pupils  to  prepare  and  submit  to  the 
+Department an annual report concerning any significant changes to the manner in 
+which the school district, charter school or university school for profoundly gifted 
+pupils  collects,  maintains  or  transfers  data  concerning  pupils  for  inclusion  in  the 
+annual report prepared by the Department. Section 6 of this bill requires the annual 
+report  to  include:  (1)  a  description  of  any  significant  changes  made  to  the 
+collection, maintenance or transfer of data concerning pupils; and (2) any new data 
+elements  proposed  for  inclusion  in  the  automated  system  of  accountability 
+information for Nevada. 
+ 
+Section 8 of this bill requires the board of trustees of each school district, the 
+governing body of a charter school and the governing body of a university school 
+for  profoundly  gifted  pupils  to  establish,  publish  and  make  publicly  available  an 
+index  of  categories  of  data  transferred  to  the  automated  system  of  accountability 
+information for Nevada. Section 8 also requires the board of trustees of each school 
+district,  the  governing  body  of  a  charter  school  and  the  governing  body  of  a 
+university  school  for  profoundly  gifted  pupils  to  establish,  publish  and  make 
+publicly available a list of third-party service providers, organizations and agencies 
+that have access to such information.  
+Section 9 of this bill requires the board of trustees of each school district, the 
+ 
+governing body of a charter school and the governing body of a university school 
+for profoundly gifted pupils to adopt policies and procedures governing: (1) the use 
+by teachers and other educational personnel of certain software; and (2) the manner 
+in which data concerning pupils may be provided to any person when the provision 
+of such data is not expressly authorized by the board of trustees or the governing 
+body, as applicable. 
+ 
+
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted. 
+
+ 
+ 
+
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN 
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS: 
+
+ 
+  Section  1.    Chapter 385 of NRS is hereby amended by adding 
+thereto the provisions set forth as sections 2 to 5, inclusive, of this 
+act. 
+  Sec.  2.    1.    The  Department  shall  establish,  publish  and 
+make publicly available on its Internet website: 
+ 
+(a)  An  index  of  the  data  elements  that  the  Department 
+maintains  or  proposes  to  include  in  the  automated  system  of 
+accountability  information  for  Nevada  established  pursuant  to 
+NRS 386.650, including, without limitation: 
+ 
+ 
+ 
+ 
+group. 
+
+(1)  Data concerning individual pupils; and 
+(2)  Aggregated  data  concerning  pupils  within  a  defined 
+
+ - 
+
+ 
+
+ 
+
+ 
+
+– 3 – 
+
+(2)  The  reason  for  collecting  or  proposing  to  collect  each 
+
+2.    At least once each biennium, the Department shall update 
+
+ 
+ 
+ 
+ 
+(b)  An  explanation  of  the  index  of  data  elements  established 
+pursuant to paragraph (a), which must include, without limitation: 
+ 
+(1)  A  description  of  each  data  element  concerning  each 
+individual pupil; 
+ 
+data element concerning each individual pupil; and 
+ 
+(3)  The  third-party  service  providers,  organizations  and 
+agencies that have access to the data concerning individual pupils 
+maintained  by  the  Department  in  the  automated  system  of 
+accountability  information  for  Nevada  established  pursuant  to 
+NRS 386.650. 
+ 
+the information described in subsection 1. 
+  Sec.  3.    1.    The  Department  shall  adopt  any  policies  and 
+procedures  necessary  to  ensure  the  privacy  of  data  concerning 
+pupils which are consistent with relevant state and federal privacy 
+laws, including, without limitation, the Family Educational Rights 
+and Privacy Act of 1974, 20 U.S.C. § 1232g, and any regulations 
+adopted pursuant thereto. 
+2.    At least once each biennium, the Department shall review 
+ 
+and  revise  as  necessary  the  policies  and  procedures  described  in 
+subsection 1. 
+  Sec.  4.    1.    Any  contract  entered  into  by  the  Department,  a 
+school district, a sponsor of a charter school, the governing body 
+of  a  university  school  for  profoundly  gifted  pupils  or  any  public 
+school  that  provides  for  the  disclosure  of  data  that  includes  any 
+personally  identifiable  information  of  a  pupil  must  include, 
+without limitation: 
+ 
+the personally identifiable information; and  
+ 
+grossly  negligent 
+or 
+intentional 
+noncompliance  with  the  terms  of  the  contract,  including,  without 
+limitation,  provisions  for  termination  of  the  contract  and  for  the 
+payment of monetary damages for any breach of the terms of the 
+contract. 
+ 
+information” has the meaning ascribed to it in 34 C.F.R. § 99.3. 
+in  consultation  with  each 
+  Sec.  5.    1.    The  Department, 
+school  district,  the  sponsor  of  each  charter  school  and  the 
+governing body of a university school for profoundly gifted pupils 
+shall adopt a detailed plan to provide for the security of any data 
+concerning pupils that is collected, maintained and transferred by 
+the Department. 
+
+(a)  Provisions specifically to protect the privacy and security of 
+
+section,  “personally 
+
+2.    As  used 
+
+identifiable 
+
+penalty 
+
+(b)  A 
+
+this 
+
+for 
+
+in 
+
+ - 
+
+– 4 – 
+
+(a)  An analysis of each annual report of accountability prepared 
+
+ 
+ 
+ 
+ 
+2.    The board of trustees of each school district, the governing 
+body  of  a  charter  school  and  the  governing  body  of  a  university 
+school  for  profoundly  gifted  pupils  shall  comply  with  and  carry 
+out the data security plan adopted by the Department pursuant to 
+subsection 1.  
+3.    Each  school  district,  sponsor  of  a  charter  school  and 
+ 
+university  school  for  profoundly  gifted  pupils  shall  prepare  and 
+submit  to  the  Department  an  annual  report  concerning  any 
+significant  changes  to  the  manner  in  which  the  school  district, 
+charter  school  or  university  school  for  profoundly  gifted  pupils 
+collects,  maintains  or  transfers  data  concerning  pupils  for 
+inclusion  in  the  annual  report  prepared  by  the  Department 
+pursuant to NRS 385.230. 
+  Sec.  6.    NRS 385.230 is hereby amended to read as follows: 
+385.230    1.    The  Department  shall,  in  conjunction  with  the 
+ 
+State  Board,  prepare  an  annual  report  of  the  state  of  public 
+education in this State. The report must include, without limitation: 
+ 
+by the State Board pursuant to NRS 385.3572; 
+ 
+State; 
+ 
+(c)  A  description  of  the  most  recent  vision  and  mission 
+statements  of  the  State  Board  and  the  Department,  including, 
+without  limitation,  the  progress  made  by  the  State  Board  and 
+Department in achieving those visions and missions; 
+ 
+(d)  A description of the goals and benchmarks for improving the 
+academic  achievement  of  pupils  which  are  included  in  the  plan  to 
+improve the achievement of pupils required by NRS 385.3593; 
+(e)  A  description  of  any  significant  changes  made  to  the 
+ 
+collection,  maintenance  or  transfer  of  data  concerning  pupils  by 
+the Department, a school district, a sponsor of a charter school or 
+a university school for profoundly gifted pupils; 
+(f)  Any new  data elements, including, without limitation, data 
+ 
+about individual pupils and aggregated data about pupils within a 
+defined group, proposed for inclusion in the automated system of 
+accountability  information  for  Nevada  established  pursuant  to 
+NRS 386.650;  
+(g)  An analysis of the progress the public schools have made in 
+ 
+the  previous  year  toward  achieving  the  goals  and  benchmarks  for 
+improving the academic achievement of pupils;  
+ 
+[(f)] (h)  An analysis of whether the standards and examinations 
+adopted by the State Board adequately prepare pupils for success in 
+
+(b)  An  update  on  the  status  of  K-12  public  education  in  this 
+
+ - 
+
+ 
+
+ 
+
+– 5 – 
+
+(2)  Pupils from major racial and ethnic groups, as defined by 
+
+(1)  Pupils  who  are  economically  disadvantaged,  as  defined 
+
+[(g)]  (i)  An  analysis  of  the  extent  to  which  school  districts  and 
+
+ 
+ 
+ 
+postsecondary  educational  institutions  and  in  career  and  workforce 
+readiness; 
+ 
+charter schools recruit and retain effective teachers and principals; 
+ 
+[(h)]  (j)  An  analysis  of  the  ability  of  the  automated  system  of 
+accountability information for Nevada established pursuant to NRS 
+386.650 to link the achievement of pupils to the performance of the 
+individual teachers assigned to those pupils and to the principals of 
+the schools in which the pupils are enrolled; 
+ 
+[(i)]  (k)  An  analysis  of  the  extent  to  which  the  lowest 
+performing public schools have improved the academic achievement 
+of pupils enrolled in those schools; 
+ 
+[(j)]  (l)  A  summary  of  the  innovative  educational  programs 
+implemented by public schools which have demonstrated the ability 
+to improve the academic achievement of pupils, including, without 
+limitation: 
+ 
+by the State Board; 
+ 
+the State Board;  
+ 
+ 
+ 
+Board; and 
+ 
+[(k)]  (m)  A  description  of  any  plan  of  corrective  action 
+requested by the Superintendent of Public Instruction from the board 
+of  trustees  of  a  school  district  or  the  governing  body  of  a  charter 
+school and the status of that plan. 
+2.    In  odd-numbered  years,  the  Superintendent  of  Public 
+ 
+Instruction shall present the report prepared pursuant to subsection 1 
+in  person  to  the  Governor  and  each  standing  committee  of  the 
+Legislature  with  primary  jurisdiction  over  matters  relating  to  K-12 
+public  education  at  the  beginning  of  each  regular  session  of  the 
+Legislature. 
+ 
+3.    In  even-numbered  years,  the  Superintendent  of  Public 
+Instruction shall, on or before January 31, submit a written copy of 
+the report prepared pursuant to subsection 1 to the Governor and to 
+the Legislative Committee on Education. 
+  Sec.  7.    Chapter  386  of  NRS  is  hereby  amended  by  adding 
+thereto the provisions set forth as sections 8 and 9 of this act. 
+  Sec.  8.    The  board  of  trustees  of  each  school  district,  the 
+governing  body  of  a  charter  school  and  the  governing  body  of  a 
+
+(3)  Pupils with disabilities; 
+(4)  Pupils who are limited English proficient; and 
+(5)  Pupils who are migratory children, as defined by the State 
+
+ 
+ 
+ 
+
+ - 
+
+– 6 – 
+
+1.    An 
+
+index  of  categories  of  data, 
+
+ 
+ 
+ 
+university  school  for  profoundly  gifted  pupils  shall  establish, 
+publish and make publicly available: 
+ 
+including,  without 
+limitation, data concerning individual pupils and aggregated data 
+concerning  pupils  within  a  defined  group  transferred  to  the 
+automated  system  of  accountability  information  for  Nevada 
+established pursuant to NRS 386.650; and 
+ 
+2.    A  list  of  the  third-party  service  providers,  organizations 
+and agencies that have access to data concerning individual pupils 
+maintained  by  the  Department  in  the  automated  system  of 
+accountability  information  for  Nevada  established  pursuant  to 
+NRS 386.650.  
+  Sec.  9.    The  board  of  trustees  of  each  school  district,  the 
+governing  body  of  a  charter  school  and  the  governing  body  of  a 
+university  school  for  profoundly  gifted  pupils  shall  adopt policies 
+and procedures governing: 
+ 
+1.    The  use  by  teachers  and  other  educational  personnel  of 
+software offered to users free of charge for basic services, but that 
+requires  users  to  pay  for  any  additional  or  premium  proprietary 
+features, functionality or virtual goods; and 
+ 
+2.    The  manner  in  which  data  concerning  pupils  may  be 
+provided  to  a  person  when  the  provision  of  such  data  is  not 
+expressly authorized by the board of trustees or governing body, as 
+applicable. 
+  Sec.  10.    NRS 218E.625 is hereby amended to read as follows: 
+ 
+of  Educational 
+Accountability and Program Evaluation is hereby created within the 
+Fiscal  Analysis  Division.  The  Fiscal  Analysts  shall  appoint  to  the 
+Legislative  Bureau  of  Educational  Accountability  and  Program 
+Evaluation a Chief and such other personnel as the Fiscal Analysts 
+determine  are  necessary  for  the  Bureau  to  carry  out  its  duties 
+pursuant to this section. 
+ 
+necessary or at the request of the Committee: 
+ 
+(a)  Collect  and  analyze  data  and 
+concerning: 
+ 
+(1)  The  effectiveness  of  the  provisions  of  NRS  385.3455  to 
+385.3891,  inclusive,  and  section  2  of  this  act  in  improving  the 
+accountability of the schools of this State; 
+ 
+(2)  The  statewide  program  to  reduce  the  ratio  of  pupils  per 
+class per licensed teacher prescribed in NRS 388.700, 388.710 and 
+388.720; 
+
+2.    The  Bureau  shall,  as  the  Fiscal  Analysts  determine  is 
+
+218E.625    1.    The  Legislative  Bureau 
+
+issue  written 
+
+reports 
+
+ 
+
+ 
+
+ - 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+– 7 – 
+
+(4)  The  results  of 
+
+the  examinations  of 
+
+to  educate  persons  with 
+
+(3)  The  statewide  program 
+
+(5)  Any  program  or  legislative  measure,  the  purpose  of 
+
+(1)  As the Fiscal Analysts determine are necessary; or 
+(2)  At the request of the Legislature. 
+
+ 
+ 
+ 
+ 
+disabilities that is set forth in chapter 395 of NRS; 
+ 
+the  National 
+Assessment of Educational Progress that are  administered pursuant 
+to NRS 389.012; and 
+ 
+which is to reform the system of education within this State. 
+ 
+(b)  Conduct  studies  and  analyses  to  evaluate  the  performance 
+and  progress  of  the  system  of  public  education  within  this  State. 
+Such studies and analyses may be conducted: 
+ 
+ 
+(cid:172)  This  paragraph  does  not  prohibit  the  Bureau  from  contracting 
+with a person or entity to conduct studies and analyses on behalf of 
+the Bureau. 
+ 
+(c)  On or before October 1 of each even-numbered year, submit 
+a written report of its findings pursuant to paragraphs (a) and (b) to 
+the Director for transmission to the next regular session. The Bureau 
+shall, on or before October 1 of each odd-numbered year, submit a 
+written  report  of  its  findings  pursuant  to  paragraphs  (a)  and  (b)  to 
+the Director for transmission to the Legislative Commission and to 
+the Legislative Committee on Education. 
+ 
+3.    The  Bureau  may,  pursuant  to  NRS  218F.620,  require  a 
+school, a school district, the Nevada System of Higher Education or 
+the Department of Education to submit to the Bureau books, papers, 
+records  and  other  information  that  the  Chief  of  the  Bureau 
+determines  are  necessary  to  carry  out  the  duties  of  the  Bureau 
+pursuant  to  this  section.  An  entity  whom  the  Bureau  requests  to 
+produce  records  or  other  information  shall  provide  the  records  or 
+other  information  in  any  readily  available  format  specified  by  the 
+Bureau. 
+ 
+4.    Except  as  otherwise  provided  in  this  subsection  and  NRS 
+239.0115,  any  information  obtained  by the  Bureau  pursuant  to  this 
+section shall be deemed a work product that is confidential pursuant 
+to  NRS  218F.150.  The  Bureau  may,  at  the  discretion  of  the  Chief 
+and after submission to the Legislature or Legislative Commission, 
+as appropriate, publish reports of its findings pursuant to paragraphs 
+(a) and (b) of subsection 2. 
+ 
+5.    This section does not prohibit the Department of Education 
+or  the  State  Board  of  Education  from  conducting  analyses, 
+submitting  reports  or  otherwise  reviewing  educational  programs  in 
+this State. 
+
+ - 
+
+ 
+ 
+ 
+  Sec.  11.    The provisions of section 4 of this act do not apply to 
+any  contract  entered  into  before  July  1,  2015,  until  extended  or 
+renewed. 
+  Sec.  12.    This act becomes effective on July 1, 2015. 
+
+– 8 – 
+
+ 
+20  ~~~~~  15 
+
+ - 
+
+

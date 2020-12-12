@@ -1,0 +1,479 @@
+2017 
+
+STATE OF WYOMING 
+
+17LSO-0012 
+ 
+ 
+
+ 
+
+ 
+ 
+
+HOUSE BILL NO. HB0008 
+ 
+ 
+
+Student data privacy, security and transparency. 
+ 
+Sponsored by: Joint Education Interim Committee 
+ 
+ 
+
+A BILL 
+ 
+for 
+
+ 
+AN  ACT  relating  to  education;  amending  requirements  of 
+
+1 
+
+2 
+
+state  data  security  plan  to  ensure  privacy  of  student  data 
+
+3 
+
+collected;  requiring  policies  for  the  collection,  access, 
+
+4 
+
+privacy,  security  and  use  of  student  data  by  school 
+
+5 
+
+districts;  accordingly  requiring  school  districts  to  adopt 
+
+6 
+
+and  enforce  policies  for  the  collection,  access,  privacy, 
+
+7 
+
+security  and  use  of  student  data;  and  providing  for  an 
+
+8 
+
+effective date. 
+
+9 
+
+ 
+
+11 
+
+ 
+
+10 
+
+Be It Enacted by the Legislature of the State of Wyoming: 
+
+12 
+
+Section  1.  W.S.  21-2-202(a)(xxxiv)(intro),  (H),  (J), 
+
+13 
+
+by  creating  new  subparagraph  (K)  and  by  creating  a  new 
+
+14 
+
+paragraph  (xxxvii)  and  21-3-110(a)  by  creating  a  new 
+
+15 
+
+paragraph (xxxv) are amended to read:   
+
+16 
+
+ 
+
+ 
+
+1 
+ 
+
+HB0008 
+ 
+
+STATE OF WYOMING 
+
+17LSO-0012 
+ 
+ 
+
+2017 
+
+ 
+
+2 
+
+ 
+
+ 
+
+5 
+
+6 
+
+1 
+
+21-2-202.  Duties of the state superintendent. 
+
+3 
+
+(a)  In  addition  to  any  other  duties  assigned  by  law, 
+
+4 
+
+the state superintendent shall: 
+
+(xxxiv)  With  the 
+
+department 
+
+of  enterprise 
+
+7 
+
+technology services, establish criteria for the collection, 
+
+8 
+
+storage,  management  and  reporting  of  department  of 
+
+9 
+
+education  data  related  including,  but  not  limited  to 
+
+10 
+
+teacher  certification,  statewide  education  accountability 
+
+11 
+
+and assessment and the administration of the school finance 
+
+12 
+
+system.  In  carrying  out  this  paragraph,  the  state 
+
+13 
+
+superintendent  and  the  department  of  enterprise  technology 
+
+14 
+
+services  shall  develop  a  data  privacy  and  security  plan 
+
+15 
+
+that includes: 
+
+ 
+
+(H)  Prohibition  of  the  sale  or  trade  of 
+
+18 
+
+student data to private entities or organizations; and 
+
+(J)  All  personally  identifiable  student 
+
+21 
+
+information  being  reported  to  the  department  of  education 
+
+22 
+
+or  the  department  of  enterprise  technology  by  a  student's 
+
+16 
+
+17 
+
+19 
+
+ 
+
+20 
+
+ 
+ 
+
+2 
+
+HB0008 
+
+2017 
+
+ 
+
+STATE OF WYOMING 
+
+17LSO-0012 
+ 
+ 
+
+1 
+
+Wyoming student record identification and locator number as 
+
+2 
+
+issued by the department of education;. and 
+
+(K)  Standards  and  protocols  to  remove 
+
+5 
+
+personally identifiable information  in order to provide for 
+
+6 
+
+data  collection  and  analysis  without  disclosing  the 
+
+7 
+
+identity  of  the  student  whose  data  is  being  collected  and 
+
+8 
+
+used. 
+
+(xxxvii)  In  consultation  with  the  department  of 
+
+11 
+
+enterprise  technology,  the  department  of  audit  and  school 
+
+12 
+
+districts,  establish  and  maintain  guidelines  for  school 
+
+13 
+
+districts for the collection, access,  privacy, security and 
+
+14 
+
+use  of  student  data  by  school  districts.    The  guidelines 
+
+15 
+
+shall,  at  a  minimum,  be  in  compliance  with  the  federal 
+
+16 
+
+Family  Educational  Rights  and  Privacy  Act  and  other 
+
+17 
+
+relevant federal and state laws and include the following: 
+
+ 
+
+(A)  Authorization 
+
+and 
+
+authentication 
+
+20 
+
+mechanisms for accessing student data; 
+
+3 
+
+4 
+
+9 
+
+10 
+
+18 
+
+19 
+
+21 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+HB0008 
+
+2017 
+
+ 
+
+STATE OF WYOMING 
+
+17LSO-0012 
+ 
+ 
+
+(B)  Administrative,  physical  and  logical 
+
+2 
+
+security  safeguards,  including  employee  training  and  data 
+
+(C)  Privacy 
+
+and 
+
+security 
+
+compliance 
+
+(D)  Processes  for  identification  of  and 
+
+9 
+
+response  to  data  security  incidents,  including  breach 
+
+10 
+
+notification and mitigation procedures; 
+
+(E)  Standards  for  retention  and  verified 
+
+13 
+
+destruction of student data. 
+
+21-3-110.  Duties of boards of trustees. 
+
+17 
+
+(a)  The  board  of  trustees  in  each  school  district 
+
+1 
+
+4 
+
+5 
+
+7 
+
+8 
+
+11 
+
+12 
+
+14 
+
+15 
+
+19 
+
+20 
+
+3 
+
+encryption; 
+
+6 
+
+standards; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16 
+
+ 
+
+18 
+
+shall: 
+
+ 
+
+(xxxv)  Effective  school  year  2017-2018,  adopt 
+
+21 
+
+and  enforce  a  policy  regarding  the  collection,  access, 
+
+22 
+
+privacy,  security  and  use  of  student  data  in  accordance 
+
+ 
+ 
+
+4 
+
+HB0008 
+
+STATE OF WYOMING 
+
+17LSO-0012 
+ 
+ 
+
+2017 
+
+ 
+
+ 
+
+3 
+
+4 
+
+1 
+
+with  guidelines  established  by  the  state  superintendent 
+
+2 
+
+under W.S. 21-2-202(a)(xxxvii). 
+
+Section  2.  This  act  is  effective  immediately  upon 
+
+5 
+
+completion  of  all  acts  necessary  for  a  bill  to  become  law 
+
+6 
+
+as  provided  by  Article  4,  Section  8  of  the  Wyoming 
+
+7 
+
+Constitution. 
+
+8 
+
+ 
+
+9 
+
+(END) 
+
+ 
+ 
+
+5 
+
+HB0008 
+
+

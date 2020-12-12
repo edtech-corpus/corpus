@@ -1,0 +1,53 @@
+
+CHAPTER 468
+An Act to amend and reenact § 22.1-289.01 of the Code of Virginia, relating to school-affiliated entities; student personal information.
+[H 519]
+Approved March 25, 2016
+
+ 
+
+Be it enacted by the General Assembly of Virginia:
+
+1. That § 22.1-289.01 of the Code of Virginia is amended and reenacted as follows:
+
+§ 22.1-289.01. School service providers; school-affiliated entities; student personal information.
+
+A. For the purposes of this section:
+
+"School-affiliated entity" means any private entity that provides support to a local school division or a public elementary or secondary school in the Commonwealth. "School-affiliated entity" includes alumni associations, booster clubs, parent-teacher associations, parent-teacher-student associations, parent-teacher organizations, public education foundations, public education funds, and scholarship organizations.
+
+"School service" means a website, mobile application, or online service that (i) is designed and marketed solely for use in elementary or secondary schools; (ii) is used (a) at the direction of teachers or other employees at elementary or secondary schools or (b) by any school-affiliated entity; and (iii) collects and maintains, uses, or shares student personal information. "School service" does not include a website, mobile application, or online service that is designed and marketed for use by individuals or entities generally, even if it is also marketed for use in elementary or secondary schools.
+
+"School service provider" means an entity that operates a school service pursuant to a contract with a local school division in the Commonwealth.
+
+"Student personal information" means information collected through a school service that identifies an a currently or formerly enrolled individual student or is linked to information that identifies an a currently or formerly enrolled individual student.
+
+B. Each school service provider shall:
+
+1. Provide clear and easy-to-understand information about the types of student personal information it collects through any school service and how it maintains, uses, or shares such student personal information;
+
+2. Maintain a policy for the privacy of student personal information for each school service and provide prominent notice before making material changes to its policy for the privacy of student personal information for the relevant school service;
+
+3. Maintain a comprehensive information security program that is reasonably designed to protect the security, privacy, confidentiality, and integrity of student personal information and makes use of appropriate administrative, technological, and physical safeguards;
+
+4. Facilitate access to and correction of student personal information by each student whose student personal information has been collected, maintained, used, or shared by the school service provider, or by such student's parent, either directly or through the student's school or teacher;
+
+5. Collect, maintain, use, and share student personal information only with the consent of the student or, if the student is less than 18 years of age, his parent or for the purposes authorized in the contract between the school division and the school service provider;
+
+6. When it collects student personal information directly from the student, obtain the consent of the student or, if the student is less than 18 years of age, his parent before using student personal information in a manner that is inconsistent with its policy for the privacy of student personal information for the relevant school service, and when it collects student personal information from an individual or entity other than the student, obtain the consent of the school division before using student personal information in a manner that is inconsistent with its policy for the privacy of student personal information for the relevant school service; and
+
+7. Ensure that any successor entity or third party with whom it contracts abides by its policy for the privacy of student personal information and comprehensive information security program before accessing student personal information.
+
+C. No school service provider shall:
+
+1. Use or share any student personal information for the purpose of behaviorally targeting advertisements to students;
+
+2. Use or share any student personal information to create a personal profile of a student other than for supporting purposes authorized in the contract between the school division and the school service provider, with the consent of the student or, if the student is less than 18 years of age, his parent, or as otherwise authorized in the contract between the school division and the school service provider;
+
+3. Knowingly retain student personal information beyond the time period authorized in the contract between the school division and the school service provider, except with the consent of the student or, if the student is less than 18 years of age, his parent; or
+
+4. Sell student personal information.
+
+D. Nothing in this section shall be construed to prohibit school service providers from using student personal information for purposes of adaptive learning or customized education.
+
+E. No school service provider in operation on June 30, 2015, shall be subject to the provisions of this section until such time as the contract to operate a school service is renewed.

@@ -1,0 +1,1076 @@
+Privacy supplement for Microsoft Skype for Business
+
+								 							 				 					
+
+						
+
+								Lync 2013 for Office 365 								Skype for Business 								Skype for Business Online 								Lync 2013 								 								 								 							More... 							 						
+
+					
+
+				 							 							 	
+
+Note: The Lync 2013 desktop client has been rebranded to Skype for Business.
+
+	
+
+Last updated: April 2015
+
+Contents
+
+	
+
+Privacy supplement for Microsoft Skype for Business
+
+Archiving
+
+Audio Test Service
+
+Call Delegation
+
+Call Logs
+
+Caller ID in the Meeting Roster
+
+Client-Side Logging
+
+Contact Card
+
+Conversation History
+
+Customer Experience Improvement Program
+
+Desktop & Application Sharing
+
+Desktop & Application Sharing Control
+
+Emergency Services (911)
+
+Federation
+
+Location Sharing
+
+Skype for Business Improvement Program
+
+Lync Managed API
+
+Lync VDI Plugin
+
+Meeting Attachments
+
+Meeting Dial-out
+
+OneNote Integration
+
+Online Meeting Add-in for Outlook
+
+Peer-to-Peer File Transfer
+
+Persistent Group Chat
+
+Personal Picture
+
+Polling
+
+PowerPoint Collaboration
+
+Presence and Contact Information
+
+Privacy Mode
+
+Public IM Connectivity (PIC)
+
+Quality of Experience (QoE) Data Collection and Reporting
+
+Recording
+
+Skill Search
+
+Smart Cropping
+
+Tabbed Conversations
+
+Unified Contact Store
+
+Voice Quality Improvements
+
+Whiteboard Collaboration
+
+	
+
+Privacy supplement for Microsoft Skype for Business
+
+This page is a supplement to the Privacy Statement for Microsoft Lync Products. In order to understand the data collection and use practices relevant for a particular Microsoft Lync product or service, we recommend you read both the Privacy statement for Microsoft Lync products and this supplement.
+
+This privacy supplement addresses the deployment and use of Microsoft Skype for Business communications software deployed within your enterprise. If you are using Microsoft Lync as part of an online solution or service (in other words, if a third party [for example, Microsoft] is hosting the servers upon which the software runs or connects), information will be transferred to that third party. To learn more about the use of the data being transferred to that third party, please consult your enterprise administrator or your service provider.
+
+	
+
+Archiving
+
+What This Feature Does: Archiving provides organizations that may be subject to retention requirements based on industry or regulatory requirements, or which may have their own organizational retention requirements with a way to archive certain Skype for Business related communications and usage data in support of those requirements.
+
+Information Collected, Processed, or Transmitted: Archiving stores the content of both peer-to-peer and multiparty instant messages, conference content, including uploaded content (for example, handouts) and event-related content (for example, joining, leaving, uploading, sharing, and changes in visibility) on a server configured by the enterprise administrator. Peer-to-peer file transfers, audio/video for peer-to-peer conversations, application sharing during peer-to-peer conversation, conferencing annotations and polls cannot be archived. No information is sent to Microsoft.
+
+Use of Information: Allows an organization to archive content to meet industry, regulatory, or organizational retention requirements.
+
+Choice/Control: Archiving is off by default. There are no user-level controls for this feature; the enterprise administrator for the organization manages it.
+
+	
+
+Audio Test Service
+
+What This Feature Does: The Audio Test Service allows the user to check their call quality by making a test call on Skype for Business, which allows the user to hear how they would sound in a real call. When the Check Call Quality button is clicked, the Audio Test Service places a simulated call and prompts the user to record a short, (approximately 5 seconds) voice sample and then plays it back to them. If the network performance is sub-optimal or the user’s device is not set up or configured properly, this will be reflected in the quality of the voice sample.
+
+Information Collected, Processed, or Transmitted: A short (approximately 5 seconds) sample of your voice is recorded during the audio test service call. When the Audio Test Service call ends, the voice sample is deleted. No information is sent to Microsoft.
+
+Use of Information: The voice sample is used by you to check and/or verify the sound quality of your Skype for Business call based on the quality of the recording.
+
+Choice/Control: You can check your call quality using the following steps:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business - Options dialog box, click Audio Device.
+
+
+On the Audio Device tab, click the Check Call Quality button, and follow the instructions.
+
+
+Click OK.
+
+
+The collection of a voice sample is a requirement for the use of this feature.
+
+	
+
+Call Delegation
+
+What This Feature Does: Call Delegation allows users to assign one or more individuals (delegates) to make or receive calls and set-up or join online meetings on their behalf.
+
+Information Collected, Processed, or Transmitted: When assigning delegates, delegate contact information must be provided by the user during the configuration process. Users who are set-up as delegates will receive a notification informing them that someone in their organization has designated them as a delegate. When delegate(s) answer a call on behalf of the person who has assigned them as a delegate, that person will receive an email notification informing them about this event. No information is sent to Microsoft.
+
+Use of Information: Skype for Business uses the delegate’s contact information to allow them to make or receive calls and schedule or join meetings on behalf of the person to whom they are a delegate.
+
+Choice/Control: Call Delegation is off by default. The enterprise administrator can enable and disable Call Delegation for their organization. If the Call Delegation feature is enabled, users can configure their delegates using the following steps:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business - Options dialog box, click Call Forwarding.
+
+
+Under Call Forwarding, select Forward my calls to or Simultaneously Ring, and then click My Delegates in the drop-down list.
+
+
+If no delegates are configured, in the Call Forwarding – Delegates dialog, click Add, and then select people to set up as delegates.
+
+
+Click OK in the Delegates dialog box.
+
+
+Click OK.
+
+
+Note:  Enterprise administrators can configure Exchange Calendar Delegate sync-up with Lync Server 2010 or later. When enabled, Exchange Calendar Delegates with appropriate permissions (equal to or greater than Non-editing Author permissions) will be automatically added as delegates in Skype for Business. This however, does not change the Call Forwarding settings.
+
+	
+
+Call Logs
+
+What This Feature Does: Call Logs enables the user to store a record of their Skype for Business voice calls in a Microsoft Outlook folder.
+
+Information Collected, Processed, or Transmitted: Information about voice calls, such as the start time, end time, duration, and call participants, will be stored in the Outlook Conversation History folder. Meeting subject and location can also be logged by selecting Outlook as the personal information manager on the Personal tab of the Options dialog box. Call Logs does not store the content of voice calls. No information is sent to Microsoft.
+
+Use of Information: The user can use Call Logs to track and view their call history.
+
+Choice/Control: Call Logs is on by default. Your enterprise administrator can enable and disable the Call Logs feature for your enterprise. If your administrator has enabled the Call Logs feature, you can turn it on or off using the following steps:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business – Options dialog box, click Personal.
+
+
+Under Personal information manager, clear the Save call logs in my email Conversation History folder check box.
+
+
+Click OK.
+
+
+	
+
+Caller ID in the Meeting Roster
+
+What This Feature Does: Caller ID in the Meeting Roster displays the caller ID of all meeting participants in the meeting roster.
+
+Information Collected, Processed, or Transmitted: The caller ID of meeting participants is collected. No information is sent to Microsoft.
+
+Use of Information: When joining a meeting the participant’s caller ID is displayed in the meeting roster to the other participants.
+
+Choice/Control: There are no end user controls for this feature; the Caller ID is received from the telephone service provider. Some providers allow the ability for users to turn off caller ID. For additional information, please contact your enterprise administrator or your telephone service provider.
+
+	
+
+Client-Side Logging
+
+What This Feature Does: Client-side logging collects information that the second-level support team can use to determine the cause of an issue. Client-Side Logs are stored locally on the user’s computer.
+
+Information Collected, Processed, or Transmitted: When Client-Side Logging is enabled specific usage information will be logged and stored on the user’s computer. For example meeting subjects and locations; session initiation protocol (SIP) messages; responses to Skype for Business invites; information about the sender and receiver of instant messages and the route the message took; the users Contact list and presence information; the names of any applications, attachments, Microsoft PowerPoint files, whiteboards, or polls they shared to include any poll questions that were shared and an index of how they voted are all logged in the client-side logs. The contents of Skype for Business conversations are not stored (instant messages, PowerPoint decks, whiteboard contents, notes, poll details, etc.) in the client-side logs. No information is sent to Microsoft.
+
+Use of Information: The information collected in the client-side logs can be used by the user’s customer support or can be sent to Microsoft to troubleshoot Skype for Business issues.
+
+Choice/Control: Client-Side Logging is off by default. The enterprise administrator can enable or disable this feature for their enterprise. If the administrator has enabled this feature, users can configure Client-Side Logging using the following steps.
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business – Options dialog box, click General.
+
+
+Under Help your support team help you, click the Logging Level dropdown list box and choose Light or Full. Users can also enable windows event logging by selecting Also collect troubleshooting info using Windows Event logging.
+
+
+Click OK.
+
+
+	
+
+Contact Card
+
+What This Feature Does: The Contact Card displays contact, presence, and location information about you and the people within your organization, in both Skype for Business and recent versions of Outlook. The contact card also provides one-click access to communicate with someone. For example, you can send an instant message, start a call, or send an email message directly from someone’s contact card.
+
+Information Collected, Processed, or Transmitted: The static information in the Contact Card is collected from the enterprise’s corporate directory (such as Active Directory). The dynamic information, such as calendar free/busy information is retrieved from Microsoft Exchange Server; location information is retrieved in several ways (see the Location section); telephone numbers can be retrieved from the corporate directory or entered manually by the user; and presence information is managed by Skype for Business using the Outlook Calendar (if enabled by the user) or entered manually by the user. The Lync server shares this information with other people within the organization. No information is sent to Microsoft.
+
+Use of Information: The Contact Card is used to view the contact, location and presence information of people within the users’ organization. The amount of information displayed to a user’s Skype for Business and Outlook contacts can be controlled by setting “privacy relationships” and enabling or disabling Privacy Mode (see the Privacy Mode section).
+
+Choice/Control: Privacy relationships are configured using the following steps:
+
+Right-click a contact.
+
+
+Click Change Privacy Relationship.
+
+
+Click the applicable category for that contact.
+
+
+Although some of the information within the Contact Card is collected from the corporate directory and configured by the administrator, the user does have the ability to manage some of that data as well. Those items are as follows:
+
+Calendar information: You can control if users see your calendar information via the “Change permissions for viewing Free/Busy information" in the Microsoft Outlook options menu.
+
+
+Location: See the Location section of this document.
+
+
+Presence and Contact Information: See the Presence and Contact Information section of this document.
+
+
+Personal Picture: See the Personal Picture section of this document.
+
+
+	
+
+Conversation History
+
+What This Feature Does: Conversation History allows you to store previous, recent, or missed instant message conversations and statistics about your voice conversations (such as date, time, duration and caller information) in the conversation history folder of Microsoft Outlook and retrieve them via the Conversations tab in Skype for Business.
+
+Information Collected, Processed, or Transmitted: The content of instant-message conversations and statistics about voice conversations (such as date, time, duration and caller information). No information is sent to Microsoft.
+
+Use of Information: Conversation history can be viewed in Skype for Business using the conversations tab in the main user interface enabling the user to view and continue their past conversations.
+
+Choice/Control: Conversation History is off by default. It can be controlled using following steps:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business – Options dialog box, click Personal.
+
+
+Under Personal information manager, select or clear the Save IM conversations in my email Conversation History folder check box.
+
+
+Click OK.
+
+
+	
+
+Customer Experience Improvement Program
+
+What This Feature Does: If you choose to participate, the Customer Experience Improvement Program (CEIP) collects basic information about how you use your programs, your computer or device, and connected devices. We also collect information about how each is set up and performing. These reports are sent to Microsoft to help improve the features our customers use most often and to create solutions to common problems. CEIP also collects the type and number of errors you encounter, software and hardware performance, and the speed of services. Microsoft does not collect your name, address, or other contact information.
+
+Information Collected, Processed, or Transmitted: CEIP information is automatically sent to Microsoft when the feature is turned on. For more information about the Information Collected, Processed, or Transmitted by CEIP, see the Privacy Statement for the Microsoft Customer Experience Improvement Program.
+
+Use of Information: Microsoft uses this information to improve the quality, reliability, and performance of Microsoft software and services.
+
+Choice/Control: CEIP is off by default. The enterprise administrator can enable or disable CEIP for their organization. If the enterprise administrator has not configured CEIP for the organization, the user will be given the opportunity to sign up during the initial installation process. If the enterprise administrator has not disabled the CEIP control, users can change their CEIP choice at any time using the following steps:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business – Options dialog box, click General.
+
+
+Under Help us improve, check or clear the Sign up for the Customer Experience Improvement Program check box
+
+
+Click OK.
+
+
+Note:  If the administrator changes the setting to enable or disable CEIP while the user is already using Skype for Business, the new setting will take effect only after the user exits Skype for Business and signs back in.
+
+	
+
+Desktop & Application Sharing
+
+What This Feature Does: Desktop & Application Sharing allows users to collaborate over video chat while also sharing their desktop or selected application with everyone in the meeting enabling them to share and edit files as if they were in the same room as their colleagues. Users can also deliver Microsoft PowerPoint presentations and collaborate with others on a virtual whiteboard, which is a fresh page for notes and drawings that everyone in the meeting can use together. When a user initially shares their desktop or an application, they are the only one in control. If the user chooses, he or she can allow other users to take control of their shared desktop or application, navigate, and make changes using their own mouse and keyboard (see the Desktop & Application Sharing Control section).
+
+Information Collected, Processed, or Transmitted: If sharing is initiated, depending on what is being shared, all conversation participants will be able to see the monitor(s), entire desktop, or selected application on their computer’s screen. No information is sent to Microsoft.
+
+Use of Information: You can use Desktop & Application Sharing to collaborate with conversation and meeting participants.
+
+Choice/Control:
+
+To start Desktop & Application Sharing (from within a conversation or meeting):
+
+Click the Share content and lead meeting activities button to open up the sharing window.
+
+
+Click the Share content and lead meeting activities again to open the menu.
+
+
+In the popup menu, under Present, click Desktop, a monitor (if you have more than one), or Program.
+
+
+(Optional) If you click Program, choose the program you want to share from the available list.
+
+
+OR
+
+Hover over the Share content and lead meeting activities button to open the menu
+
+
+In the popup menu, under Present, click Desktop, a monitor (if you have more than one), or Program.
+
+
+(Optional) If you click Program, choose the program you want to share from the available list.
+
+
+To stop sharing your Desktop or Application:
+
+Click Stop Sharing from the sharing bar at the top of the screen.
+
+
+IMPORTANT Documents or pictures that are open on your desktop that are protected by Digital Rights Management (DRM) software may be visible to others with whom you share your desktop in a Skype for Business conversation.
+
+	
+
+Desktop & Application Sharing Control
+
+What This Feature Does: Desktop & Application Sharing Control allows users to grant control of their shared desktop or application to another conversation or meeting participant that is also using Skype for Business on another computer.
+
+Information Collected, Processed, or Transmitted: Once control is granted, that person can control the shared desktop or application and make changes as if he or she were using the shared computer directly with their keyboard and mouse. The user sharing their desktop or application and the other participants in the Skype for Business conversation or meeting will be able to view these changes as they happen. No information is sent to Microsoft.
+
+Use of Information: Desktop & Application Sharing Control allows conversation or meeting participant to take control of the shared desktop or application, while you and other conversation participants observe.
+
+Choice/Control:
+
+To share control of your Desktop or Application (if you are not already sharing see Desktop & Application Sharing):
+
+Click Give Control at the top of the screen.
+
+
+Choose who you want to give control to.
+
+
+To revoke control of your desktop from a remote party, do the following:
+
+Click Give Control at the top of the screen.
+
+
+Click Take Back Control.
+
+
+	
+
+Emergency Services (911)
+
+What This Feature Does: When made available by the enterprise administrator Emergency Services allows Skype for Business to transmit a location to a third-party routing service provider selected by the customer. The third-party routing service provider will then transmit the location to the emergency responders when an emergency services number is dialed (such as 911 in the United States). When enabled, the location information transmitted to emergency services personnel is the location that the enterprise administrator has assigned to each user (for example, building and office number) and entered into the location database or, if such a location is not available, the location users may have manually entered in the Location field. If a user dials emergency services while using Skype for Business via a wireless Internet connection, while they are still in their work location, the location information transmitted to emergency responders will be merely an approximate location based on the location assigned to the wireless endpoint with which their computer is communicating. The location information of that wireless endpoint, moreover, is input manually by the enterprise administrator, and therefore, the location information transmitted to the emergency services personnel may not be the user’s actual physical location. To be fully functional this feature requires the enterprise to retain a routing service provided by certified solution providers, and the service is only available within the United States.
+
+Information Collected, Processed, or Transmitted: The location information obtained by Skype for Business is determined by the automatic location information populated by the Location Information Server or by the location information manually entered in the Location field by the user. This information is stored in memory on the user’s computer, so when an emergency services number is entered, this location information is transmitted with the call for the purpose of routing to the appropriate emergency services provider and providing their approximate location. Their location may also be sent using an instant message to a local security desk. For emergency calls, the call detail record will contain their location information. No information is sent to Microsoft.
+
+Use of Information: Location is used for routing the call to the appropriate emergency services provider and for dispatching emergency responders. This information can also be sent to the enterprise's security desk as a notification with the caller’s location and call back information.
+
+Choice/Control: This feature is off by default. The enterprise administrator enables it. Check with your enterprise administrator to determine if this feature is available. There is no ability for you to control whether a location is acquired automatically or transmitted to emergency dispatchers when an emergency call is made.
+
+Note:  The enterprise administrator can restrict the emergency calling capability to your work location, so you should check with your administrator for information about the extent to which the emergency calling functionality is available.
+
+	
+
+Federation
+
+What This Feature Does: Federation allows Skype for Business users within your organization to view presence, send instant messages and place computer-to-computer voice calls (provided that your computer is equipped with speakers and a microphone or a headset) with Skype for Business users from other organizations that you are federated with.
+
+Information Collected, Processed, or Transmitted: Contact Card information such as name, email address, and presence information is shared between federated contacts. No information is sent to Microsoft.
+
+Use of Information: Once enabled, users from one organization can add users at another to contact lists, send them instant messages, and see their presence information. Users can choose the best way to communicate for the task—voice, video, and more—and can easily escalate person-to-person sessions to multi-person conferences.
+
+Choice/Control: Federation is off by default and is controlled and configured by the enterprise administrator. If Federation is enabled, users can search for and add federated contacts the same way they would add contacts within their organization.
+
+Note:  By default all external contacts, either personal or federated, will be assigned the External Contacts privacy relationship, which will share your name, title, email address, company, and picture. These contacts will not be able to view your Presence Note. Assigning external contacts to other privacy relationships, for example Work Group, Friends and Family, and so on, will allow them to see your Presence Note and could inadvertently share information that should not be disclosed to them.
+
+	
+
+Location Sharing
+
+What This Feature Does: Location Sharing displays a user’s current geographical location and time zone to other Skype for Business users using the presence functionality of the Contact Card (See the Contact Card section). Users can control what information is shared with others by enabling Privacy Mode in the Options menu. (See the Privacy Mode section).
+
+Information Collected, Processed, or Transmitted: A user’s location is derived in one of two ways. It is collected from the enterprise’s Location Information Server (LIS), which is configured by the enterprise administrator, or the user can manually set their location by entering a custom location into the location control in the Skype for Business user interface, e.g. “Home”, “Work”, or “5678 Main St, Buffalo, NY, 98052”. The time zone is collected directly from the user’s computer operating system. No information is sent to Microsoft.
+
+Use of Information: Depending on how the user or administrator has configured the privacy settings; location and time zone information is shared by Skype for Business and made available to other users through the Contact Card. The formatted address, or civic address, is not shared over presence.
+
+Choice/Control: If the enterprise administrator has enabled location sharing and configured it to allow users to access full location user interface they will have access to the following items of the location field and menu found at the top of the Skype for Business main window:
+
+Set Location: Location can be manually set by editing the text in the location text box.
+
+
+Show Others My Location: Allows the user to control whether their location data is shared with other users. This does not affect the sharing of location for emergency services, i.e. calling 911 (see the Emergency Services section).
+
+
+	
+
+Skype for Business Improvement Program
+
+What This Feature Does: The Skype for Business Improvement Program collects information about your Skype for Business experience and sends it to Microsoft every time you use Skype for Business. Microsoft uses this info to create solutions to common problems and to help improve Skype for Business and other Microsoft products.
+
+Information Collected, Processed, or Transmitted: The information sent to Microsoft can include info about how you use Skype for Business, performance and reliability, device configuration, and network connection quality, as well as error codes, error logs, and exception data. The LIP might also send info about you and your device, such as your user name or IP address, but this info is anonymized before it’s stored on Microsoft servers.
+
+Use of Information: The information will be used to create solutions to common problems and to improve Skype for Business and other Microsoft products. The info will not be used identify or contact you.
+
+Choice/Control: This feature is off by default and can be managed by the enterprise administrator. The administrator can choose to always send or never send Skype for Business Improvement information to Microsoft, or allow you to choose your setting.
+
+The user can change their preferences using the following steps:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business – Options dialog box, click General.
+
+
+On the General tab, check or uncheck Send Skype for Business Improvement Program info to Microsoft.
+
+
+Click OK.
+
+
+Note: The enterprise administrator can configure this feature on behalf of the users in their organization using a group policy in which case the user will not see the sign-in failure dialog nor will they be asked if they would like to send the sign-in error report to Microsoft.
+
+	
+
+Lync Managed API
+
+What This Feature Does: The Lync Managed API allows third-party programs to access the Skype for Business client and interact with it in a manner that extends the Skype for Business user experience. Third-party programs include programs built by vendors or by Microsoft (for example, Outlook and other applications in the Microsoft Office suites).
+
+Information Collected, Processed, or Transmitted: Information made available through the Lync Managed API to third-party applications includes any personal information that is viewable within the Skype for Business user interface. The information could include a user’s location, phone numbers, work title, Contacts list (including phone numbers and other details), personal note, activity state, and current conversations and their contents.
+
+Use of Information: Programs using the Lync Managed API utilize the information within the Skype for Business session to provide enhanced or complementary functionality to the end-user. However, use of this information is at the discretion of the third-party program, which should provide its own privacy statement regarding how it intends to use this information.
+
+Choice/Control: Third-party programs that use Lync Managed APIs fall into three categories: desktop (locally installed) programs; web-hosted programs; and Skype for Business extension programs (programs that are embedded within the Skype for Business conversation window user interface). Controlling third-party access to your information varies for each scenario as follows:
+
+Desktop (locally installed) programs: Desktop programs are installed by you or any administrator of the local computer and will always have access to the user’s information through the Lync Managed API. As always, do not install any programs that you do not trust.
+
+
+Web-hosted programs: Programs hosted on the Internet or intranet may also be able to access the user’s information through the Lync Managed API. To protect against unwanted programs gaining access to your information without your knowledge, such programs must be hosted from a domain/URL that has been added to your Internet Explorer Trusted Sites list by a local computer administrator.
+
+
+Skype for Business extension programs: In Skype for Business, developers will be able to extend the Skype for Business experience by embedding a program within the Skype for Business conversation window. This program can also have access to Skype for Business information through the Lync Managed API. In this case, the extension program must have been registered with the Skype for Business client by a local computer administrator. This act of registration also grants the program access to the Lync Managed API.
+
+
+Special control for Location Name: As an added precaution, your system administrator has the option to allow, block, or allow the end user (you) to decide whether these third-party programs should have access to the Location Name field within Skype for Business. By default, access to location is available to third-party programs. You can control this setting as follows:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business – Options dialog box, click Personal.
+
+
+Under Personal information manager, modify the check boxes as appropriate.
+
+
+Click OK.
+
+
+	
+
+Lync VDI Plugin
+
+What This Feature Does: In organizations that use a remote desktop architecture, the Lync VDI Plugin allows both thin and thick clients to connect to Skype for Business and utilize the full set of features and functionality as though they were using directly from their client device.
+
+Information Collected, Processed, or Transmitted: When using Skype for Business in remote desktop environments with Lync VDI Plugin installed on the access device, the user’s network logon credentials (i.e. username and password) is collected from the user shared between the VDI plugin and Skype for Business. No information is sent to Microsoft.
+
+Use of Information: The network login credentials collected by the Lync VDI Plugin are used by the plugin to connect the user’s access device to their remote desktop instance of Skype for Business.
+
+Choice/Control: Providing their network logon credentials is required in order to sign in to Skype for Business on their remote desktop. Users are provided with the option to either enter their credentials every time they log in or to enter them one time and save them by choosing the “Save Password” option on the credentials dialog.
+
+	
+
+Meeting Attachments
+
+What This Feature Does: Meeting Attachment allows meeting organizers to upload and share files with meeting participants either by displaying them in the meeting or for download later.
+
+Information Collected, Processed, or Transmitted: Meeting attachments are uploaded by the meeting organizer and are stored on the Lync Server. The length of time attachments will persist on the server is configurable by the enterprise administrator. They are available for download by the meeting organizer and participants until the meeting organizer deletes them or the administrator configured retention period ends. At that time the meeting attachment will be deleted. No information is sent to Microsoft.
+
+Use of Information: Uploaded meeting attachments are shared with and can be downloaded by meeting participants. Availability of attachments can be restricted to particular meeting participants’ roles (organizer, presenters, everyone). If an attachment has been restricted from access to a particular role, it will not be visible in their attachments list.
+
+Choice/Control:
+
+From the conversation window, hover over the Share content and lead meeting activities button.
+
+
+Select the Attachments tab.
+
+
+Click Add Attachment.
+
+
+Browse to the attachment to add, select the file.
+
+
+Click Open.
+
+
+Meeting owners can restrict availability for download according to participant role (organizer, presenters, everyone) by doing the following:
+
+Hover over Share content and lead meeting activities.
+
+
+Under the Attachments tab, click Manage Attachments.
+
+
+In the Attachments dialog, under Permissions, select the option you want from the drop down list.
+
+
+Click OK.
+
+
+Note:  If an attachment is restricted from certain roles, the attachment will not be visible in their content list and they cannot save it to their computer.
+
+	
+
+Meeting Dial-out
+
+What This Feature Does: Meeting Dial-out allows Skype for Business users who are present in a meeting to add a public switched telephone network (PSTN) number to an existing audio video (AV) conversation or meeting. A PSTN user can be added by calling the PSTN number from the Skype for Business dial pad. When the PSTN user will be added when they answer the call.
+
+Information Collected, Processed, or Transmitted: The PSTN user will see the caller ID of either the meeting organizer or the meeting participant when they receive the call inviting them into the meeting.
+
+Use of Information: The caller ID is used to identify the caller to the person receiving the call.
+
+Choice/Control: There is no user or enterprise administrator control for this feature.
+
+	
+
+OneNote Integration
+
+What This Feature Does: OneNote Integration allows Skype for Business users to share OneNote notebooks with meeting participants or view and contribute to OneNote notebooks shared by other meeting participants using a Lync 2010 or newer client.
+
+Information Collected, Processed, or Transmitted: When a meeting participant using a Lync 2010 or newer client shares a Microsoft OneNote notebook, other Skype for Business and Lync Web App users can view and contribute to the OneNote notebook. All content inserted into the notebook will be visible and available to all meeting participants.
+
+Use of Information: This feature allows Skype for Business users to share, view and participate in OneNote collaboration.
+
+Choice/Control:
+
+From the Conversation Window, hover over the Share icon
+
+
+From the Present tab, click ONENOTE.
+
+
+Select the OneNote notebook to open.
+
+
+Note:  Meeting owners can restrict availability according to participant role (organizer, presenters, everyone). If a OneNote notebook is restricted from certain roles, the notebook will not be visible in their content list so they will not be able to open or save it to their computer.
+
+	
+
+Online Meeting Add-in for Outlook
+
+What This Feature Does: The Online Meeting Add-in for Outlook (aka the Conferencing Add-in for Outlook) is an add-in that when installed with Skype for Business will allow the user to accomplish a number of Skype for Business related tasks from within Microsoft Outlook. The tasks are listed below.
+
+Schedule an online meeting
+
+
+Set meeting options
+
+
+Schedule a conference call
+
+
+Start sharing information using Skype for Business
+
+
+Information Collected, Processed, or Transmitted: The information listed below will be stored on the user’s computer within the Microsoft Outlook client. Additional usage information and statistics may also be logged depending on the user’s Client-Side Logging settings. (See the Client-Side Logging section.) No Information is sent to Microsoft.
+
+Organizer name
+
+
+Participants name(s)
+
+
+Presenters name(s)
+
+
+Email addresses list
+
+
+Subject of meeting and other information about the meeting (such as, start/end-time, conference ID, passcode, and conference auto attendant/audio conferencing provider information for the user)
+
+
+All proxy addresses for the user in Microsoft Exchange (X400-X500 addresses, Exchange Unified Messaging (UM) addresses, and SIP and phone/Exchange UM-voice mail URIs)
+
+
+Meeting location information
+
+
+Use of Information: The information listed above is used solely for scheduling a meeting or conference call. It is stored locally on the user’s computer and shared with the Lync Server. Additionally, meeting and conference call information is shared with Lync Server
+
+Note:  This information is also shared with the Lync Managed API (see the Lync Managed API section).
+
+Choice/Control: There is no end-user control in regards to the information created, collected, stored, or transmitted when using the Online Meeting Add-in for Outlook. However, the user may choose to delete or disable this add-in.
+
+	
+
+Peer-to-Peer File Transfer
+
+What This Feature Does: Peer-to-Peer File Transfer allows Skype for Business users to transfer files to one another in peer-to-peer (two-party) instant-message conversations.
+
+Information Collected, Processed, or Transmitted: The file is transferred directly between the file owner and the other person in the conversation. No information is sent to Microsoft.
+
+Use of Information: Users choose to initiate the file transfer and choose the file to be transferred. The file recipient must explicitly agree to receive the file. Files shared using Peer-to-Peer File Transfer is not stored on Lync Server.
+
+Choice/Control: Peer-to-Peer file transfer is enabled by default. The enterprise administrator can enable or disable this feature for any or all users in their organization.
+
+	
+
+Persistent Group Chat
+
+What This Feature Does: Persistent chat lets users collaborate by posting messages into persistent chat rooms. The data is persisted on the server, and members of the room can have access to the data, including historical data. Persistent Group Chat allows users to have group conversations, search for, join and participate in group chat conversations, search content within and across rooms, and create filters to track conversations on particular topics.
+
+Information Collected, Processed, or Transmitted: Persistent Group Chat stores the content of group chat conversations on a server configured by the enterprise administrator. No information is sent to Microsoft.
+
+Use of Information: Persistent Group Chat is a persistent chat much like a “chat room” where the conversation never really ends as chat members join and leave the conversation. In order for this to happen the chat must persist.
+
+Choice/Control: Persistent Group Chat must be enabled by the enterprise administrator. If enabled, the administrator can control the retention period, the server on which this information is stored, if Group Chat history is archived for compliance or other purposes, and manage/modify any properties on a room. Users with different roles have different access to the persisted data, as outlined in the following list.
+
+Administrators can delete older content (for example, content posted before a certain date) from any chat room to keep the size of the database from growing greatly. Or, they can remove or replace messages considered inappropriate for a given chat room (or considered unsuitable).
+
+
+End-users, including message authors, cannot delete content from any chat room.
+
+
+Chat room managers can disable rooms, but cannot delete rooms. Only administrators can delete a chat room after it is created.
+
+
+	
+
+Personal Picture
+
+What This Feature Does: Personal Picture allows users to display their personal picture to other people within their organization in the Contact Card. If a user elects to display their personal picture in their contact card, other Skype for Business users will be able to view the picture in their Skype for Business contacts list using the “Show photos of contacts” option. If users choose to display their personal picture to others they can choose to display the default picture used by their organization if this capability has been enabled for the enterprise or they can upload a picture from their computer.
+
+Information Collected, Processed, or Transmitted: Personal Picture sharing preferences and any custom pictures that have been uploaded. No information is sent to Microsoft.
+
+Use of Information: The information is stored on the Lync server and used to customize the user experience and share with others.
+
+Choice/Control:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business – Options dialog box, click My Picture.
+
+
+Under My Picture, select Show my picture or Hide my picture.
+
+
+Click OK.
+
+
+A custom picture can be set by clicking the Edit or Remove Picture button.
+
+Note:  The enterprise administrator can determine what kinds of pictures are allowed, the maximum size of the picture allowed for upload, and if pictures are shared by default or not but this setting can be overridden by the user.
+
+	
+
+Polling
+
+What This Feature Does: Polling allows the meeting organizer to quickly gather information or compile the preference of meeting and conversation participants. This information can also be saved and later analyzed after the meeting.
+
+Information Collected, Processed, or Transmitted: Individual votes are anonymous. Aggregated poll results are seen by all presenters and can be shown to all attendees by any presenter. Polls are stored on Lync Server according to meeting content expiration policies, as defined by the enterprise administrator. No information is sent to Microsoft.
+
+Use of Information: The Polling feature enhances collaboration by enabling presenters to quickly determine participant preferences.
+
+Choice/Control:
+
+From the Conversation Window, right click the Share content and lead meeting activities button to open the menu
+
+
+From the Present tab, click Poll.
+
+
+Enter the Poll name, the Question, and the Choices.
+
+
+Click Create poll.
+
+
+Note:  From within the Poll, presenters can restrict Poll availability according to participant role (organizer, presenters, everyone). If a poll made unavailable to someone, it cannot be seen in their content list when it is not currently being shared, and the poll cannot be saved to their local computer. In addition, Presenters can open or close a poll for voting and clear poll results at any time.
+
+	
+
+PowerPoint Collaboration
+
+What This Feature Does: PowerPoint Collaboration allows users to show, view, and annotate PowerPoint presentations during an online conversation or meeting.
+
+Information Collected, Processed, or Transmitted: End user actions drive all uses of this feature – whether they are uploading, navigating through, or annotating a PowerPoint presentation. Any file presented in a conversation or meeting will be transmitted to all meeting participants, and they will be able to retrieve it directly from a folder on their computers. The file owner or presenter can restrict others from saving the file, but this does not restrict them from retrieving or seeing it. PowerPoint files are stored on Lync Server according to the meeting content expiration policies defined by the enterprise administrator. No information is sent to Microsoft.
+
+Use of Information: Collaborating with PowerPoint helps conversation participants deliver effective presentations and receive feedback.
+
+Choice/Control:
+
+From the conversation window, hover over the Share content and lead meeting activities button to open the menu
+
+
+From the Present tab, click PowerPoint.
+
+
+Browse to the PowerPoint presentation to add, select the file.
+
+
+Click Open.
+
+
+Presenters can restrict annotation privileges according to participant role (presenters only, everyone, and none) by doing the following:
+
+Hover over View participants.
+
+
+Click More Options (…).
+
+
+Click Online Meeting Options.
+
+
+In the Online Meeting Options dialog, under Who can use annotation?, select the option you want from the drop down list.
+
+
+Click OK.
+
+
+Presenters can restrict participants from viewing slides on their own according to participant role (presenters only, everyone, and none) by doing the following:
+
+Hover over View participants.
+
+
+Click More Options (…).
+
+
+Click Online Meeting Options.
+
+
+In the Online Meeting Options dialog, under Who can look at content on their own, select the option you want from the drop down list.
+
+
+Click OK.
+
+
+Presenters can restrict availability for download according to participant role (organizer, presenters, everyone) by doing the following:
+
+Hover over Share content and lead meeting activities.
+
+
+Click Manage Presentable Content.
+
+
+In the Manage Presentable Content dialog, under Permissions, select the option you want from the drop down list.
+
+
+Click OK.
+
+
+Note:  If a PowerPoint presentation is restricted from certain roles, the presentation will not be visible in their content list and they cannot save it to their computer.
+
+	
+
+Presence and Contact Information
+
+What This Feature Does: Presence and Contact Information allows a user to view presence and contact information about other users (both inside and outside the organization), and share their own published information such as presence, status, title, phone number, location and notes. The enterprise administrator may also configure integration with Microsoft Outlook and Microsoft Exchange Server so that a user’s out-of-office messages and other status information (for example, when a user has a meeting scheduled in their Outlook calendar) will be displayed.
+
+Information Collected, Processed, or Transmitted: The user’s sign-in address and password for login and authentication purposes. Any additional telephone numbers they may want to make available, information such as out-of-office messages and other status information if Microsoft Outlook and Microsoft Exchange Server integration has been configured by the administrator and enabled in Outlook; including any notes or availability that might have been manually by the user is made available in the Contact Card. No information is sent to Microsoft.
+
+Use of Information: Sign-in address and password are used to log in to Skype for Business and connect to the Lync Server. Based on how the user has configured their privacy settings other Skype for Business users and programs will be able to access the presence, contact, and status information, if published, so users can better communicate with each other.
+
+Choice/Control: Users can choose what information is published about themselves or their enterprise administrator can configure published information on their behalf. If the administrator has not disabled the ability for users to control their published information, they can change their settings at any time using the following steps:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+In the Skype for Business – Options dialog box:
+
+
+On the Personal tab, enter your Sign-in address. Use the Advanced button to enter the name of the server to connect. The enterprise administrator provides server information.
+
+
+On the Personal tab, you can also choose what level of Outlook integration you wish to enable allowing other users to see your updated presence, out-of-office message, and meeting subject and location.
+
+
+On the Status tab, if your enterprise administrator has enabled Privacy Mode (See the privacy Mode section), by making the appropriate selections you can share your presence with contacts on your Contacts list.
+
+
+On the Phones tab, you can view what numbers your administrator has published on your behalf and add any additional numbers you may want to make available to other users.
+
+
+Click OK.
+
+
+Users can also manually update status and location information using the status and location menus as well as enter a custom note on the main Skype for Business user interface.
+
+	
+
+Privacy Mode
+
+What This Feature Does: Privacy Mode is a setting that allows users to determine how much of their presence information (such as Available, Busy, Do Not Disturb, and so on) they will share with contacts listed in their Contacts list.
+
+Information Collected, Processed, or Transmitted: Enabling Privacy Mode causes Skype for Business to enter a mode in which a user can adjust user settings so that their presence information is shared only with contacts in their Contacts list. No information is sent to Microsoft.
+
+Use of Information: The setting allows the user to determine how their presence data is shared.
+
+Choice/Control: If the enterprise administrator has enabled Privacy Mode for their enterprise, users can choose whether they want everyone in their organization to see their presence (Standard Mode) or only their contacts (Privacy Mode).
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business – Options dialog box, click Status.
+
+
+Under Status, select the desired option.
+
+
+Click OK
+
+
+Note:  If the enterprise administrator has enabled Standard Mode for their organization, users will not be able to switch to Privacy Mode. However, they can "pre-opt-out" of Privacy Mode by selecting one of the available options so that if the administrator were to later enable Privacy Mode for the organization, their settings would not be switched upon signing into Skype for Business.
+
+	
+
+Public IM Connectivity (PIC)
+
+What This Feature Does: Public IM Connectivity (PIC) allows Skype for Business users to add users of other public instant messaging (IM) services such as Microsoft Live Messenger so they can communicate quickly and efficiently as well as share their presence and contact information.
+
+Information Collected, Processed, or Transmitted: Contact Card information such as name, email address, and presence information is shared between PIC contacts. No information is sent to Microsoft.
+
+Use of Information: Once enabled, users can add their contacts from other public IM service providers to their Skype for Business contact list, send them instant messages, and see their presence information. Users can choose the best way to communicate for the task through voice, video and more, and can easily escalate person-to-person sessions to multi-person conferences.
+
+Choice/Control: Public IM Connectivity (PIC) when enabled by the enterprise administrator can control access to public IM connections on a per-user or per-group basis, select the public IM service providers to which users can connect, and log and archive messages that are sent to users of public IM services.
+
+Note:  By default all external contacts, either personal or federated, will be assigned the External Contacts privacy relationship which will share your name, title, email address, company, and picture. These contacts will not be able to view your Presence Note. Assigning external contacts to other privacy relationships, for example Work Group, Friends and Family, and so on, will allow them to see your Presence Note and could inadvertently share information that should not be disclosed to them.
+
+	
+
+Quality of Experience (QoE) Data Collection and Reporting
+
+What This Feature Does: Quality of Experience (QoE) Data Collection and Reporting collects and reports media quality of peer-to-peer communications and meetings using Skype for Business. These statistics include IP addresses, loss rate, devices used, poor quality events that occurred in the call, and so on.
+
+Information Collected, Processed, or Transmitted: If the enterprise administrator enables QoE, media quality data of peer-to-peer communications Skype for Business and meetings are recorded in the QoE database. This capability does not record the content of the Skype for Business. The QoE data is stored in the Monitoring Server backend database deployed in the enterprise and reported in a set of standard Monitoring Server reports. No information is sent to Microsoft.
+
+Use of Information: The enterprise administrator has access to this information and can use it to collect feedback on the quality of media that is flowing in the system. This includes user IP addresses.
+
+Choice/Control: QoE is turned on by default, but the enterprise administrator must install a Monitoring Server, connected to a Monitoring Server backend database, to collect the QoE data. The enterprise administrator can deploy the standard Monitoring Server reports or create custom reports querying the Monitoring Server database.
+
+	
+
+Recording
+
+What This Feature Does: Recording allows meeting participants to capture any audio, video, instant messaging (IM), application sharing, Microsoft PowerPoint presentations, whiteboard, and polling that occurs during a meeting for archiving or playback.
+
+Information Collected, Processed, or Transmitted: If meeting participants choose to record a session, the recording will be saved locally on their computer. If participants share content during a meeting that is being recorded, that content will be included in the meeting recording. When a participant starts recording, a notification that a recording has started will broadcast to all participants with compatible clients and devices. Participants in a recorded session who are using incompatible clients or devices will be recorded but will not receive the recording notice. A list of incompatible clients and devices can be found below. No information is sent to Microsoft.
+
+Incompatible clients include:
+
+Microsoft Office Communicator 2007 R2
+
+
+Microsoft Office Communicator 2007
+
+
+Microsoft Office Communicator Web Access (2007 R2 release)
+
+
+Microsoft Office Communicator Web Access (2007 release)
+
+
+Microsoft Office Communications Server 2007 R2 Attendant
+
+
+Incompatible devices include:
+
+Microsoft Lync 2010 Phone Edition
+
+
+Microsoft Office Communicator 2007 R2 Phone Edition
+
+
+Microsoft Office Communicator 2007 Phone Edition
+
+
+Note:  Regardless of the device or used, a participant using video in a full-screen mode during a meeting or conversation will not be signaled that a recording has started until he or she returns to the conversation window.
+
+Use of Information: The recording is saved locally on the user’s machine and may be used or shared by the owner just as they would share any other file type. If there are failures during a recording's publishing phase, it is possible for data captured during a paused recording state to be unintentionally included in the recording. If any part of the publishing phase fails (See Recording Manager for a "Warning..." status), recordings should not be distributed to others even if they can be played back in some form.
+
+Choice/Control: By default, the ability to record is turned off and must be enabled by the enterprise administrator. If recording has been enabled any meeting participant can start a recording. A recording can be started using the following steps.
+
+To start a recording:
+
+From within the meeting, click the More options button.
+
+
+Click Start Recording and recoding will begin.
+
+
+To end a recording:
+
+From within the meeting, click the More options button.
+
+
+Click Stop Recording and recoding will end.
+
+
+Note:  Some jurisdictions require you to obtain explicit consent of all parties in the conversation prior to recording. It is up to the user to know and understand what their legal obligations are.
+
+	
+
+Skill Search
+
+What This Feature Does: Skill Search allows users to search for people in their enterprise by using any property listed in Microsoft SharePoint services (for example, name, email, skills, area of expertise, etc.) This feature is available only if the enterprise administrator has deployed SharePoint and turned on Skype for Business and SharePoint integration.
+
+Information Collected, Processed, or Transmitted: The search query entered in Skype for Business will be sent to the enterprise’s SharePoint server. The response from SharePoint is processed by Skype for Business, and the search results and related information is displayed. No information is sent to Microsoft.
+
+Use of Information: Information entered by the user is sent to SharePoint to get search results, which are displayed in Skype for Business.
+
+Choice/Control: The enterprise administrator can enable or disable Skill Search for their organization. If Skill Search has been enabled, a skill search can be performed using the following steps:
+
+Type the skill you want to search for in the search box.
+
+
+Click the Skill tab.
+
+
+View the results.
+
+
+	
+
+Smart Cropping
+
+What This Feature Does: When a user is sharing video during a video conference, Smart Cropping will determine the location of the user’s head within the field of view of their webcam using facial detection. Once the location of the users head is determined, the Skype for Business client translates that into coordinates and adds the coordinates to the video bit stream it is sending. The receiving Skype for Business client uses that information to crop the incoming video bit stream from its native (landscape) aspect ratio according to the rectangle coordinates in order to center the user’s head in the cropped video. Smart Cropping is a real-time function that continuously monitors the user’s movements adjusting the coordinates placed in the video bit stream allowing the receiving Skype for Business client to adjust the video cropping, keeping the users head centered in the video view.
+
+Information Collected, Processed, or Transmitted: The coordinates of the user’s head within their cameras field of view is added to the video bit stream. No information is sent to Microsoft.
+
+Use of Information: The coordinates will be used to crop the correct part of the incoming video.
+
+Choice/Control: This feature cannot be disabled.
+
+Note:  Users of legacy Lync clients and Lync for mobile devices will see the full aspect ratio of the video being sent.
+
+	
+
+Tabbed Conversations
+
+What This Feature Does: Tabbed Conversations allows the user view and manage multiple ongoing conversations at once in a tabbed conversation window.
+
+Information Collected, Processed, or Transmitted: No information is sent to Microsoft.
+
+Use of Information: You can use this feature to view all of your ongoing conversations in single conversation window.
+
+Choice/Control: Tabbed Conversations is off by default and must be turned on by a user.
+
+	
+
+Unified Contact Store
+
+What This Feature Does: The Unified Contact Store consists of three main features:
+
+Search merge – This feature merges the Global Address list (GAL) with a user’s personal Outlook contacts so that, when a user searches for a contact, there will be only a single entry in the search results.
+
+
+Contact merge – This feature aggregates contact information between Outlook and GAL entries using matching email and/or sign-in identifiers. Once a match is determined, Skype for Business aggregates data from three data sources (Outlook, GAL, and presence). This aggregated data is displayed in various user interface components, including search results, your Contacts list, and a contact card.
+
+
+Creating Outlook contacts for Skype for Business contacts (contact synchronization) – Skype for Business will create Outlook contacts for all the user’s contacts in the default contacts folder, if the user has a mailbox on Microsoft Exchange Server 2010 or later. By having an Outlook contact for every Skype for Business contact, the user can access Skype for Business contact information from Outlook, Outlook Web Access, and mobile devices that synchronize contacts with Exchange.
+
+
+Information Collected, Processed, or Transmitted: Skype for Business aggregates contact information from presence, Active Directory, and Outlook. This information is used internally by Skype for Business. When creating Outlook contacts, Skype for Business will be writing presence, Active Directory, and Outlook contact information to Exchange. No information is sent to Microsoft.
+
+Use of Information: Contact information from Presence, Active Directory, and Outlook are shown in the Skype for Business user interface (Contacts list, contact card, search results, and so on). This information can also be written to Exchange by using contact synchronization (the third item in the preceding list).
+
+Choice/Control: You can enable or disable contact synchronization as follows:
+
+In the upper right corner of the Skype for Business main window, click Options (gear icon).
+
+
+On the Skype for Business – Options dialog box, click Personal.
+
+
+Under Personal information manager, modify the check boxes as appropriate.
+
+
+Click OK.
+
+
+User option – A user option for Microsoft Exchange or Microsoft Outlook is available under Personal information manager, in the Skype for Business - Options dialog box.
+
+	
+
+Voice Quality Improvements
+
+What This Feature Does: Skype for Business provides notifications to the user to help them improve the quality of their call if it detects device, network, or computer issues during the call.
+
+Information Collected, Processed, or Transmitted: Information about the end user’s audio device setup, network set up and other media connections will be collected by Skype for Business to determine audio quality. If Skype for Business determines that something is adversely impacting audio quality during a voice communication the end user will be informed that there is a voice quality problem. Other call participants are only shown a notification that the end users are using a device that is causing poor audio quality. They do not know what device the end user is using. No information is sent to Microsoft.
+
+Use of Information: The information that is sent to others in the call will help them improve the quality of the call.
+
+Choice/Control: Call quality notifications can be enabled or disabled by the enterprise administrator.
+
+	
+
+Whiteboard Collaboration
+
+What This Feature Does: Whiteboard Collaboration allows users to create and share a virtual whiteboard where session participants can make notes, drawings, and import images to work on together during meetings and conversations.
+
+Information Collected, Processed, or Transmitted: Annotations made on whiteboards will be seen by all participants. When saving a whiteboard the whiteboard and all annotations will be stored on the Lync Server. It will be retained on the server according to meeting content expiration policies set by the administrator. No information is sent to Microsoft.
+
+Use of Information: The Whiteboard feature enhances collaboration by enabling meeting participants to discuss ideas, brainstorm, take notes, and so on.
+
+Choice/Control:
+
+From the conversation window, hover over the Share content and lead meeting activities button.
+
+
+From the Present tab, click Whiteboard.
+
+
+Meeting owners can restrict availability for download according to participant role (organizer, presenters, everyone) by doing the following:
+
+Hover over Share content and lead meeting activities.
+
+
+Under the Present tab, click Manage Presentable Content.
+
+
+From the Presentable Content dialog, under Permissions, select the option you want from the drop down list.
+
+
+Click OK.
+
+
+Note:  If a Whiteboard is restricted from certain roles, the whiteboard will not be visible in their content list and they cannot save it to their computer.
+
+Top of Page

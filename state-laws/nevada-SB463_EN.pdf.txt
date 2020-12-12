@@ -1,0 +1,720 @@
+Senate Bill No. 463–Committee on Education 
+ 
+CHAPTER.......... 
+ 
+AN  ACT  relating  to  education;  requiring  certain  providers  of 
+electronic  applications  used  for  educational  purposes  to 
+provide written disclosures concerning personally identifiable 
+information  that  is  collected;  requiring  such  a  provider  to 
+allow  certain  persons  to  review  and  correct  personally 
+identifiable  information  about  a  pupil  maintained  by  the 
+provider;  limiting  the  circumstances  under  which  such  a 
+provider  may  collect,  use,  allow  access  to  or  transfer 
+information  concerning  a  pupil; 
+personally 
+requiring such a provider to establish and carry out a detailed 
+plan  for  the  security  of  data  concerning  pupils;  requiring 
+teachers  and  other  licensed  personnel  employed  by  a  school 
+district  or  charter  school  to  complete  certain  professional 
+development;  requiring  certain  disciplinary  action  against  a 
+teacher  or  administrator  for  willful  breaches  in  security  or 
+confidentiality  of  certain  examinations;  providing  a  civil 
+penalty  for  certain  violations;  and  providing  other  matters 
+properly relating thereto. 
+
+identifiable 
+
+Legislative Counsel’s Digest: 
+ 
+Section 5 of this bill requires a school service provider to provide to the board 
+of trustees of a school district or the governing body of a school, as applicable, and 
+a  teacher  who  uses  a  school  service,  a  written  disclosure  of:  (1)  the  types  of 
+personally identifiable information collected by the school service provider; (2) the 
+manner in which such information is used; (3) a description of the plan for security 
+of  data  concerning  pupils  which  has  been  established  by  the  school  service 
+provider; and (4) any material change to such a plan. Section 3 of this bill defines 
+the  term  “school  service”  to  mean,  with  certain  exceptions,  an  Internet  website, 
+online  service  or  mobile  application  that:  (1)  collects  or  maintains  personally 
+identifiable  information  concerning  a  pupil;  (2)  is  used  primarily  for  educational 
+purposes; (3) is designed and marketed for use in public schools; and (4) is used at 
+the  direction  of  teachers  and  other  educational  personnel.  Section  5  requires  a 
+school  service  provider  to:  (1)  allow  certain  pupils  or  the  parent  or  guardian  of  a 
+pupil  to  review  personally  identifiable  information  about  the  pupil  maintained  by 
+the school service provider; and (2) establish a process for making any corrections 
+to such information.  
+ 
+Section  6  of  this  bill  limits  the  circumstances  under  which  a  school  service 
+provider  may  collect,  use,  allow  access  to  or  transfer  personally  identifiable 
+information  concerning  a  pupil.  Section  6  requires  a  school  service  provider  to 
+delete  personally  identifiable  information  concerning  a  pupil  at  the  request  of  the 
+board  of  trustees  of  the  school  district  or  the  governing  body  of  the  school,  as 
+applicable.  Section  6  requires  any  agreement  entered  into  by  a  school  service 
+provider  that  provides  for  the  disclosure  of  personally  identifiable  information  to 
+limit the circumstances under which the person or governmental entity to whom the 
+information  is  disclosed  may  collect,  use  or  transfer  such  information  to 
+
+ - 
+
+– 2 – 
+
+ 
+ 
+ 
+circumstances  authorized  by  law.  Section  6  also  subjects  any  school  service 
+provider that violates these requirements to a civil penalty. 
+ 
+Section 7 of this bill requires a school service provider to establish and carry 
+out a detailed plan for the security of any data concerning pupils that is collected or 
+maintained  by  the  school  service  provider.  Section  8  of  this  bill  requires  each 
+school district and the governing body of a charter school or university school for 
+profoundly  gifted  pupils,  as  applicable, 
+to  annually  provide  professional 
+development regarding the use of school service providers and the security of data 
+concerning  pupils.  Section  8  also  requires  teachers  and  other  licensed  personnel 
+employed  by  a school  district  or  charter  school to  annually complete  professional 
+development regarding school service providers and the security of data concerning 
+pupils. 
+Section 8.3 of this bill authorizes a school service provider to use and disclose 
+ 
+information  derived  from  personally  identifiable  information  to  demonstrate  the 
+effectiveness of the products or services of the school service provider. Section 8.5 
+of  this  bill  prohibits  a  person  or  governmental  entity  from  waiving  or  modifying 
+any  right,  obligation  or  liability  provided  by  the  provisions  of  sections  1.5-8.5. 
+Section 8.5 also provides that any condition, stipulation, or provision in a contract 
+that conflicts with the provisions of sections 1.5-8.5 is void and unenforceable.  
+ 
+Existing law authorizes a teacher to be suspended, dismissed or not reemployed 
+and  an  administrator  to  be  demoted,  suspended,  dismissed  or  not  reemployed  for 
+breaches  in  security  or  confidentiality  of  the  questions  and  answers  of  certain 
+examinations. (NRS 391.3127) Section 9 of this bill instead requires a teacher to be 
+suspended,  dismissed  or  not  reemployed  and  an  administrator  to  be  demoted, 
+suspended,  dismissed  or  not  reemployed  if  the  teacher  or  administrator  is  found, 
+through an investigation of a testing irregularity, to have willfully committed such a 
+breach. 
+ 
+
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted. 
+
+ 
+ 
+
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN 
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS: 
+
+ 
+  Section  1.    Chapter 388 of NRS is hereby amended by adding 
+thereto the provisions set forth as sections 1.25 to 8.5, inclusive, of 
+this act. 
+  Sec.  1.25.    (Deleted by amendment.) 
+  Sec.  1.5.    As used in sections 1.25 to 8.5, inclusive, of this act, 
+unless the context otherwise requires, the words and terms defined 
+in  sections  2  to  4.5,  inclusive,  of  this  act  have  the  meanings 
+ascribed to them in those sections. 
+  Sec.  2.    “Personally 
+meaning ascribed to it in 34 C.F.R. § 99.3. 
+  Sec.  3.    1.    “School  service”  means  an  Internet  website, 
+online service or mobile application that: 
+ 
+concerning a pupil; 
+ 
+
+(a)  Collects  or  maintains  personally  identifiable  information 
+
+(b)  Is used primarily for educational purposes; and 
+
+information”  has 
+
+identifiable 
+
+the 
+
+ - 
+
+ 
+
+ 
+
+– 3 – 
+
+(c)  Is  designed  and  marketed  for  use  in  public  schools  and  is 
+
+(c)  A school service for which a school service provider has: 
+ 
+
+ 
+ 
+ 
+ 
+used at the direction of teachers and other educational personnel. 
+2.    The term does not include: 
+ 
+ 
+(a)  An  Internet  website,  online  service  or  mobile  application 
+that is designed or marketed for use by a general audience, even if 
+the school service is also marketed to public schools; 
+ 
+(b)  An  internal  database,  system  or  program  maintained  or 
+operated  by  a  school  district,  charter  school  or  university  school 
+for profoundly gifted pupils; 
+ 
+(1)  Been  designated  by  a  school  district,  the  sponsor  of  a 
+ 
+charter  school,  the  governing  body  of  a  university  school  for 
+profoundly  gifted  pupils  or  the  Department  as  a  school  official 
+pursuant  to  the  Family  Educational  Rights  and  Privacy  Act  of 
+1974, 20 U.S.C. § 1232(g); 
+ 
+(2)  Entered  into  a  contract  with  the  school  district,  the 
+sponsor  of  a  charter  school,  the  governing  body  of  a  university 
+school for profoundly gifted pupils or the Department; and  
+ 
+(3)  Agreed  to  comply  with  and be  subject  to  the  provisions 
+of  the  Family  Educational  Rights  and  Privacy  Act  of  1974,  20 
+U.S.C. § 1232(g), relating to personally identifiable information; 
+ 
+(d)  Any  examinations  administered  pursuant  to  NRS  389.550 
+and  389.805  or  the  college  and  career  readiness  assessment 
+administered pursuant to NRS 389.807; or 
+ 
+(e)  Any instructional programs purchased by a school district, 
+a  charter  school,  the  governing  body  of  a  university  school  for 
+profoundly gifted pupils or the Department. 
+  Sec.  4.    “School  service  provider”  means  a  person  that 
+operates a school service, to the extent the provider is operating in 
+that capacity. 
+  Sec.  4.5.    “Targeted 
+presenting 
+advertisements to a pupil where the advertisement is selected based 
+on information obtained or inferred from the online behavior of a 
+pupil, the use of applications by a pupil or personally identifiable 
+information  concerning  a  pupil.  The  term  does  not  include 
+advertising to a pupil at an online location based upon the current 
+visit to the location by the pupil or a single search  query without 
+the collection and retention of the online activities of a pupil over 
+time.  
+  Sec.  5.    1.    Before  the  persons  or  governmental  entities 
+described  in  subsection  3  begin  using  a  school  service,  a  school 
+service provider must provide a written disclosure to such persons 
+
+advertising”  means 
+
+ - 
+
+– 4 – 
+
+3.    The disclosure or notice provided pursuant to subsection 1 
+
+ 
+ 
+ 
+or  governmental  entities  in  language  that  is  easy  to  understand, 
+which includes, without limitation: 
+ 
+(a)  The  types  of  personally  identifiable  information  collected 
+by  the  school  service  provider  and  the  manner  in  which  such 
+information is used; and 
+(b)  A  description  of  the  plan  for  the  security  of  data 
+ 
+concerning  pupils  which  has  been  established  by  the  school 
+service provider pursuant to section 7 of this act. 
+ 
+2.    Before a school service provider makes a material change 
+to  the  plan  for  the  security  of  data  concerning  pupils  established 
+pursuant to section 7 of this act, the school service provider must 
+provide notice to the persons or governmental entities set forth in 
+subsection 3. 
+ 
+or 2, as applicable, must be provided to: 
+ 
+(a)  The  board  of  trustees  of  a  school  district,  the  governing 
+body  of  a  charter  school  or  the  governing  body  of  a  university 
+school  for  profoundly  gifted  pupils,  as  applicable,  that  uses  the 
+school service of the school service provider; and  
+(b)  Any teacher who uses the school service.  
+ 
+4.    A school service provider shall: 
+ 
+ 
+(a)  Allow a pupil who is at least 18 years of age and the parent 
+or  legal  guardian  of  any  pupil  to  review  personally  identifiable 
+information concerning the pupil that is maintained by the school 
+service provider; and 
+ 
+(b)  Establish  a  process,  in  accordance  with  any  contract 
+governing  the  activities  of  a  school  service  provider  and  which  is 
+consistent  with  the  provisions  of  sections  1.5  to  8.5,  inclusive,  of 
+this  act,  for  the  correction  of  such  information  upon  the  request 
+of: 
+ 
+ 
+legal guardian of any pupil; or 
+(2)  The teacher of the pupil or the board of trustees of the 
+ 
+school district in which the school that the pupil attends is located, 
+the governing body of the charter school that the pupil attends or 
+the  governing  body  of  the  university  school  for  profoundly  gifted 
+pupils that the pupil attends, as applicable. 
+  Sec.  6.    1.    Except  as  otherwise  provided  in  subsections  2 
+and  5,  a  school  service  provider  may  collect,  use,  allow  access  to 
+or transfer personally identifiable information concerning a pupil 
+only: 
+ 
+(a)  For  purposes  inherent  to  the  use  of  a  school  service  by  a 
+teacher in a classroom or for the purposes authorized by the board 
+
+(1)  A pupil who is at least 18 years of age or the parent or 
+
+ 
+
+ - 
+
+– 5 – 
+
+2.    A  school  service  provider  may 
+
+ 
+ 
+ 
+of trustees of the school district in which the school that the pupil 
+attends  is  located,  the  governing  body  of  the  charter  school  that 
+the pupil attends or the governing body of the university school for 
+profoundly  gifted  pupils  that  the  pupil  attends,  as  applicable,  so 
+long as it is authorized by federal and state law; 
+(b)  If required by federal or state law;  
+ 
+ 
+(c)  In  response  to  a  subpoena  issued  by  a  court  of  competent 
+jurisdiction; 
+(d)  To protect the safety of a user of the school service; or 
+ 
+ 
+(e)  With the consent of any person required in a policy of the 
+school district, charter school or university school for profoundly 
+gifted  pupils,  as  applicable,  or,  if  none,  with  the  consent  of  the 
+pupil, if the pupil is at least 18 years of age, or the parent or legal 
+guardian of the pupil if the pupil is less than 18 years of age. 
+transfer  personally 
+ 
+identifiable information concerning a pupil to a third-party service 
+provider  if  the  school  service  provider  provides  notice  to  any 
+person designated in a policy of the school district, charter school 
+or university school for profoundly gifted pupils, as applicable, to 
+receive such notice or, if none, to the pupil, if the pupil is at least 
+18 years of age, or the parent or guardian of the pupil and: 
+ 
+(a)  Contractually  prohibits  the  third-party  service  provider 
+from  using  any  such  information  for  any  purpose  other  than 
+providing  the  contracted  school  services  to,  or  on  behalf  of,  the 
+school service provider; 
+ 
+(b)  Prohibits  the  third-party  service  provider  from  disclosing 
+any personally identifiable information concerning a pupil unless 
+the disclosure is authorized pursuant to subsection 1; and 
+ 
+requirements of sections 1.5 to 8.5, inclusive, of this act. 
+ 
+3.    A  school  service  provider  shall  delete  any  personally 
+identifiable  information  concerning  a  pupil  that  is  collected  or 
+maintained  by  the  school  service  provider  and  that  is  under  the 
+control of the school service provider within a reasonable time not 
+to  exceed  30  days  after  receiving  a  request  from  the  board  of 
+trustees  of  the  school  district  in  which  the  school  that  the  pupil 
+attends  is  located,  the  governing  body  of  the  charter  school  that 
+the pupil attends or the governing body of the university school for 
+profoundly gifted pupils that the pupil attends, as applicable. The 
+board of trustees or the governing body, as applicable, must have a 
+policy which allows a pupil who is at least 18 years of age or the 
+parent or legal guardian of any pupil to review such information 
+and request that such information about the pupil be deleted. The 
+
+(c)  Requires the third-party service provider to comply with the 
+
+ - 
+
+– 6 – 
+
+the  disclosure  of  personally 
+
+5.    A school service provider shall not: 
+(a)  Use  personally  identifiable  information  to  engage  in 
+
+ 
+ 
+ 
+school  service  provider  shall  delete  such  information  upon  the 
+request of the parent or legal guardian of a pupil if no such policy 
+exists. 
+4.    Any  agreement  entered  into  by  a  school  service  provider 
+ 
+that  provides  for 
+identifiable 
+information must require that the person or governmental entity to 
+whom the information will be disclosed abide by the requirements 
+imposed pursuant to this section. 
+ 
+ 
+targeted advertising. 
+ 
+(b)  Except  as  otherwise  provided  in  this  paragraph,  sell 
+personally  identifiable  information  concerning  a  pupil.  A  school 
+service  provider  may  transfer  personally  identifiable  information 
+concerning  pupils  to  an  entity  that  purchases,  merges  with  or 
+otherwise  acquires  the  school  service  and  the  acquiring  entity 
+becomes  subject  to  the  requirements  of  sections  1.5  to  8.5, 
+inclusive,  of  this  act  and  any  contractual  provisions  between  the 
+school  service  provider  and  the  board  of  trustees  of  a  school 
+district,  the  governing  body  of  a  charter  school  or  the  governing 
+body  of  a  university  school  for  profoundly  gifted  pupils,  as 
+applicable, governing such information. 
+ 
+(c)  Use personally identifiable information concerning a pupil 
+to  create  a  profile  of  the  pupil  for  any  purpose  not  related  to  the 
+instruction  of  the  pupil  provided  by  the  school  without  the  
+consent  of  the  appropriate  person  described  in  paragraph  (e)  of 
+subsection 1. 
+ 
+(d)  Use personally identifiable information concerning a pupil 
+in  a  manner  that  is  inconsistent  with  any  contract  governing  the 
+activities  of  the  school  service  provider  for  the  school  service  in 
+effect at the time the information is collected or in a manner that 
+violates  any  of  the  provisions  of  sections  1.5  to  8.5,  inclusive,  of 
+this act. 
+ 
+(e)  Knowingly  retain,  without  the  consent  of  the  appropriate 
+person  described  in  paragraph  (e)  of  subsection  1,  personally 
+identifiable  information  concerning  a  pupil  beyond  the  period 
+authorized  by  the  contract  governing  the  activities  of  the  school 
+service provider. 
+ 
+6.    This  section  does  not  prohibit  the  use  of  personally 
+identifiable  information  concerning  a  pupil  that  is  collected  or 
+maintained by a school service provider for the purposes of: 
+ 
+education; 
+
+(a)  Adaptive learning or providing personalized or customized 
+
+ - 
+
+for 
+
+– 7 – 
+
+(a)  Procedures 
+
+(b)  Maintaining or improving the school service; 
+(c)  Recommending  additional  content  or  services  within  a 
+
+ 
+ 
+ 
+ 
+ 
+school service; 
+(d)  Responding to a request for information by a pupil; 
+ 
+(e)  Soliciting feedback regarding a school service; or 
+ 
+(f)  Allowing  a  pupil  who  is  at  least  18  years  of  age  or  the 
+ 
+parent  or  legal  guardian  of  any  pupil  to  download,  transfer,  or 
+otherwise maintain data concerning a pupil.  
+ 
+7.    A school service provider that violates the provisions of this 
+section  is  subject  to  a  civil  penalty  in  an  amount  not  to  exceed 
+$5,000  per  violation.  The  Attorney  General  may  recover  the 
+penalty  in  a  civil  action  brought  in  the  name  of  the  State  of 
+Nevada in any court of competent jurisdiction. 
+  Sec.  7.    1.    A  school  service  provider  shall  establish  and 
+carry  out  a  detailed  plan  for  the  security  of  any  data  concerning 
+pupils  that  is  collected  or  maintained  by  the  school  service 
+provider. The plan must include, without limitation: 
+ 
+privacy, 
+protecting 
+confidentiality and integrity of personally identifiable information 
+concerning a pupil; and 
+ 
+safeguards to ensure the security of data concerning pupils. 
+ 
+2.    A  school  service  provider  shall  ensure  that  any  successor 
+entity understands that it is subject to the provisions of sections 1.5 
+to 8.5, inclusive, of this act and agrees to abide by all privacy and 
+security 
+identifiable 
+information  concerning  a  pupil  collected  and  maintained  by  the 
+school service provider before allowing a successor entity to access 
+such personally identifiable information.  
+  Sec.  8.    1.    Each school district and the governing body of a 
+charter school or a university school for profoundly gifted pupils, 
+as  applicable,  shall  annually  provide  professional  development 
+regarding  the  use  of  school  service  providers  and  the  security  of 
+data concerning pupils. 
+ 
+licensed  educational  personnel 
+employed  by  a  school  district,  charter  school  or  university  school 
+for  profoundly  gifted  pupils  shall  complete  the  professional 
+development provided pursuant to subsection 1. 
+  Sec.  8.3.    A  school  service  provider  may  use  and  disclose 
+information  derived  from  personally  identifiable  information 
+concerning  a  pupil  to  demonstrate  the  effectiveness  of  the 
+products  or  services  of  the  school  service  provider,  including, 
+without  limitation,  for  use  in  advertising  or  marketing  regarding 
+
+(b)  Appropriate  administrative,  technological  and  physical 
+
+2.    Teachers  and  other 
+
+commitments 
+
+personally 
+
+security, 
+
+related 
+
+the 
+
+to 
+
+ - 
+
+– 8 – 
+
+(a)  Inefficiency; 
+(b)  Immorality; 
+(c)  Unprofessional conduct; 
+(d)  Insubordination; 
+(e)  Neglect of duty; 
+(f)  Physical or mental incapacity; 
+(g)  A  justifiable  decrease  in  the  number  of  positions  due  to 
+
+ 
+ 
+ 
+the  school  service  so  long  as  the  information  is  aggregated  or  is 
+presented in a manner which does not disclose the identity of the 
+pupil about whom the information relates.  
+  Sec.  8.5.    A  person  or  governmental  entity  may  not  waive  or 
+modify any right, obligation or liability set forth in sections 1.5 to 
+8.5, inclusive, of this act. Any condition, stipulation or provision in 
+a contract which seeks to do so or which in any way conflicts with 
+the provisions of sections 1.5 to 8.5, inclusive, of this act is against 
+public policy and is void and unenforceable. 
+  Sec.  9.    NRS 391.31297 is hereby amended to read as follows: 
+391.31297    1.    A  teacher  may  be  suspended,  dismissed  or  not 
+ 
+reemployed  and  an  administrator  may  be  demoted,  suspended, 
+dismissed or not reemployed for the following reasons: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+decreased enrollment or district reorganization; 
+ 
+turpitude; 
+ 
+ 
+ 
+board may prescribe; 
+ 
+professional training and growth; 
+ 
+(m)  Advocating  overthrow  of  the  Government  of  the  United 
+States or of the State of Nevada by force, violence or other unlawful 
+means, or the advocating or teaching of communism with the intent 
+to indoctrinate pupils to subscribe to communistic philosophy; 
+ 
+teacher’s license; 
+ 
+requirements of this title;  
+(p)  Dishonesty; 
+ 
+ 
+(q)  [Breaches  in  the  security  or  confidentiality  of  the  questions 
+and  answers  of  the  examinations  that  are  administered  pursuant  to 
+NRS  389.550  or  389.805  and  the  college  and  career  readiness 
+assessment administered pursuant to NRS 389.807. 
+
+(i)  Inadequate performance; 
+(j)  Evident unfitness for service; 
+(k)  Failure  to  comply  with  such  reasonable  requirements  as  a 
+
+(o)  Willful  neglect  or  failure  to  observe  and  carry  out  the 
+
+(h)  Conviction  of  a  felony  or  of  a  crime  involving  moral 
+
+(l)  Failure  to  show  normal  improvement  and  evidence  of 
+
+(n)  Any cause which constitutes grounds for the revocation of a 
+
+ - 
+
+– 9 – 
+
+(a)  Suspend, dismiss or fail to reemploy the teacher; or 
+(b)  Demote,  suspend,  dismiss  or 
+
+[(s)] (r)  An intentional violation of NRS 388.5265 or 388.527; 
+[(t)] (s)  Gross misconduct; or 
+[(u)]  (t)  An  intentional  failure  to  report  a  violation  of  NRS 
+
+ 
+ 
+ 
+ 
+(r)]  Intentional failure to observe and carry out the requirements 
+of  a  plan  to  ensure  the  security  of  examinations  and  assessments 
+adopted pursuant to NRS 389.616 or 389.620; 
+ 
+ 
+ 
+388.135 if the teacher or administrator witnessed the violation. 
+ 
+2.    If  a  teacher  or  administrator  is  found,  through  an 
+investigation  of  a  testing  irregularity,  to  have  willfully  breached 
+the security or confidentiality of the questions and answers of the 
+examinations  that  are  administered  pursuant  to  NRS  389.550  or 
+389.805  or 
+the  college  and  career  readiness  assessment 
+administered pursuant to NRS 389.807, the board of trustees of a 
+school  district,  governing  body  of  a  charter  school  or  governing 
+body  of  a  university  school  for  profoundly  gifted  pupils,  as 
+applicable, shall: 
+ 
+ 
+administrator. 
+3.    In  determining  whether  the  professional  performance  of  a 
+ 
+licensed employee is inadequate, consideration must be given to the 
+regular  and  special  evaluation  reports  prepared  in  accordance  with 
+the  policy  of  the  employing  school  district  and  to  any  written 
+standards  of  performance  which  may  have  been  adopted  by  the 
+board. 
+ 
+[3.] 4.    As used in this section, “gross misconduct” includes any 
+act  or  omission  that  is  in  wanton,  willful,  reckless  or  deliberate 
+disregard  of  the  interests  of  a  school  or  school  district  or  a  pupil 
+thereof. 
+  Sec.  10.    NRS 391.313 is hereby amended to read as follows: 
+ 
+charged  with 
+an 
+supervision  of  a  licensed  employee  believes  it  is  necessary  to 
+admonish the employee for a reason that the administrator believes 
+may lead to demotion or dismissal or may cause the employee not to 
+be  reemployed  under  the  provisions  of  NRS  391.31297,  the 
+administrator shall: 
+ 
+(a)  Except  as  otherwise  provided  in  subsection  3,  bring  the 
+matter to the attention of the employee involved, in writing, stating 
+the  reasons  for  the  admonition  and  that  it  may  lead  to  the 
+employee’s demotion, dismissal or a refusal to reemploy him or her, 
+and  make  a  reasonable  effort  to  assist  the  employee  to  correct 
+whatever  appears  to  be  the  cause  for  the  employee’s  potential 
+
+391.313    1.    Whenever 
+
+to  reemploy 
+
+administrator 
+
+fail 
+
+the 
+
+ - 
+
+– 10 – 
+
+ 
+ 
+ 
+demotion, dismissal or a potential recommendation not to reemploy 
+him or her; and 
+ 
+(b)  Except  as  otherwise  provided  in  NRS  391.314,  allow 
+reasonable time for improvement, which must not exceed 3 months 
+for the first admonition. 
+(cid:172) The admonition must include a description of the deficiencies of 
+the  teacher  and  the  action  that  is  necessary  to  correct  those 
+deficiencies. 
+ 
+2.    An  admonition  issued  to  a  licensed  employee  who,  within 
+the time granted for improvement, has met the standards set for the 
+employee  by  the  administrator  who  issued  the  admonition  must  be 
+removed  from  the  records  of  the  employee  together  with  all 
+notations and indications of its having been issued. The admonition 
+must be removed from the records of the employee not later than 3 
+years after it is issued. 
+ 
+3.    An  administrator  need  not  admonish  an  employee  pursuant 
+to  paragraph  (a)  of  subsection  1  if  his  or  her  employment  will  be 
+terminated pursuant to NRS 391.3197. 
+ 
+4.    A licensed employee is subject to immediate dismissal or a 
+refusal  to  reemploy  according  to  the  procedures  provided  in  NRS 
+391.311 to 391.3197, inclusive, without the admonition required by 
+this section, on grounds contained in paragraphs (b), (f), (g), (h), (p) 
+and [(t)] (s) of subsection 1 of NRS 391.31297. 
+  Sec.  11.    NRS 391.3161 is hereby amended to read as follows: 
+ 
+391.3161    1.    Each request for the appointment of a person to 
+serve as a hearing officer must be submitted to the Superintendent of 
+Public Instruction. 
+ 
+2.    Within  10  days  after  receipt  of  such  a  request,  the 
+Superintendent of Public Instruction shall request that the Hearings 
+Division  of  the  Department  of  Administration  appoint  a  hearing 
+officer. 
+ 
+3.    The State Board shall prescribe the procedures for exercising 
+challenges  to  a  hearing  officer,  including,  without  limitation,  the 
+number  of  challenges  that  may  be  exercised  and  the  time  limits  in 
+which the challenges must be exercised. 
+ 
+4.    A  hearing  officer  shall  conduct  hearings  in  cases  of 
+demotion,  dismissal  or  a  refusal  to  reemploy  based  on  the  grounds 
+contained in [subsection] subsections 1 and 2 of NRS 391.31297. 
+ 
+5.    This  section  does  not  preclude  the  employee  and  the 
+superintendent from mutually selecting an attorney who is a resident 
+of  this  State,  an  arbitrator  provided  by  the  American  Arbitration 
+Association  or  a  representative  of  an  agency  or  organization  that 
+
+ - 
+
+– 11 – 
+
+ 
+ 
+ 
+provides alternative dispute resolution services to serve as a hearing 
+officer to conduct a particular hearing. 
+  Sec.  12.    The provisions of sections 1.5 to 8.5, inclusive, of this 
+act: 
+ 
+1.    Apply  to  any  agreement  entered  into,  extended  or  renewed 
+on or after July 1, 2015, and any provision of the agreement that is 
+in conflict with those sections is void. 
+ 
+July 1, 2015.  
+  Sec.  13.    The  provisions  of  NRS  354.599  do  not  apply  to  any 
+additional  expenses  of  a  local  government  that  are  related  to  the 
+provisions of this act. 
+  Sec.  14.    This act becomes effective on July 1, 2015. 
+
+2.    Apply on July 1, 2018, to any agreement entered into before 
+
+ 
+
+ 
+20  ~~~~~  15
+ 
+
+ - 
+
+

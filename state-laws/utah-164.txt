@@ -1,0 +1,359 @@
+STUDENT DATA PRIVACY AMENDMENTS
+
+2     
+2019 GENERAL SESSION
+
+3     
+STATE OF UTAH
+
+4     
+Chief Sponsor: Jacob L. Anderegg
+
+5     
+House Sponsor: A. Cory Maloy
+
+6     
+7     LONG TITLE
+8     General Description:
+9          This bill repeals provisions related to the State Board of Education sharing student data.
+10     Highlighted Provisions:
+11          This bill:
+12          ▸     amends provisions related to the State Board of Education sharing student data with
+13     the Utah Registry of Autism and Developmental Disabilities;
+14          ▸     repeals provisions related to the State Board of Education sharing student data with
+15     the State Board of Regents; and
+16          ▸     makes technical and conforming changes.
+17     Money Appropriated in this Bill:
+18          None
+19     Other Special Clauses:
+20          None
+21     Utah Code Sections Affected:
+22     AMENDS:
+23          53E-9-301, as last amended by Laws of Utah 2018, Chapters 304, 389 and renumbered
+24     and amended by Laws of Utah 2018, Chapter 1
+25          53E-9-305, as last amended by Laws of Utah 2018, Chapter 304 and renumbered and
+26     amended by Laws of Utah 2018, Chapter 1
+27          53E-9-308, as last amended by Laws of Utah 2018, Chapters 285, 304 and renumbered
+28     and amended by Laws of Utah 2018, Chapter 1
+29     
+30     Be it enacted by the Legislature of the state of Utah:
+31          Section 1. Section 53E-9-301 is amended to read:
+32          53E-9-301. Definitions.
+33          As used in this part:
+34          (1) "Adult student" means a student who:
+35          (a) is at least 18 years old;
+36          (b) is an emancipated student; or
+37          (c) qualifies under the McKinney-Vento Homeless Education Assistance
+38     Improvements Act of 2001, 42 U.S.C. Sec. 11431 et seq.
+39          (2) "Aggregate data" means data that:
+40          (a) are totaled and reported at the group, cohort, school, school district, region, or state
+41     level with at least 10 individuals in the level;
+42          (b) do not reveal personally identifiable student data; and
+43          (c) are collected in accordance with board rule.
+44          (3) (a) "Biometric identifier" means a:
+45          (i) retina or iris scan;
+46          (ii) fingerprint;
+47          (iii) human biological sample used for valid scientific testing or screening; or
+48          (iv) scan of hand or face geometry.
+49          (b) "Biometric identifier" does not include:
+50          (i) a writing sample;
+51          (ii) a written signature;
+52          (iii) a voiceprint;
+53          (iv) a photograph;
+54          (v) demographic data; or
+55          (vi) a physical description, such as height, weight, hair color, or eye color.
+56          (4) "Biometric information" means information, regardless of how the information is
+57     collected, converted, stored, or shared:
+58          (a) based on an individual's biometric identifier; and
+59          (b) used to identify the individual.
+60          (5) "Board" means the State Board of Education.
+61          (6) "Data breach" means an unauthorized release of or unauthorized access to
+62     personally identifiable student data that is maintained by an education entity.
+63          (7) "Data governance plan" means an education entity's comprehensive plan for
+64     managing education data that:
+65          (a) incorporates reasonable data industry best practices to maintain and protect student
+66     data and other education-related data;
+67          (b) describes the role, responsibility, and authority of an education entity data
+68     governance staff member;
+69          (c) provides for necessary technical assistance, training, support, and auditing;
+70          (d) describes the process for sharing student data between an education entity and
+71     another person;
+72          (e) describes the education entity's data expungement process, including how to
+73     respond to requests for expungement;
+74          (f) describes the data breach response process; and
+75          (g) is published annually and available on the education entity's website.
+76          (8) "Education entity" means:
+77          (a) the board;
+78          (b) a local school board;
+79          (c) a charter school governing board;
+80          (d) a school district;
+81          (e) a charter school;
+82          (f) the Utah Schools for the Deaf and the Blind; or
+83          (g) for purposes of implementing the School Readiness Initiative described in Title
+84     53F, Chapter 6, Part 3, School Readiness Initiative, the School Readiness Board created in
+85     Section 35A-3-209.
+86          (9) "Expunge" means to seal or permanently delete data, as described in board rule
+87     made under Section 53E-9-306.
+88          (10) "General audience application" means an Internet website, online service, online
+89     application, mobile application, or software program that:
+90          (a) is not specifically intended for use by an audience member that attends kindergarten
+91     or a grade from 1 to 12, although an audience member may attend kindergarten or a grade from
+92     1 to 12; and
+93          (b) is not subject to a contract between an education entity and a third-party contractor.
+94          [(11) "Higher education outreach student data" means the following student data for a
+95     student:]
+96          [(a) name;]
+97          [(b) parent name;]
+98          [(c) grade;]
+99          [(d) school and school district; and]
+100          [(e) contact information, including:]
+101          [(i) primary phone number;]
+102          [(ii) email address; and]
+103          [(iii) physical address.]
+104          [(12)] (11) "Individualized education program" or "IEP" means a written statement:
+105          (a) for a student with a disability; and
+106          (b) that is developed, reviewed, and revised in accordance with the Individuals with
+107     Disabilities Education Act, 20 U.S.C. Sec. 1400 et seq.
+108          [(13)] (12) "Local education agency" or "LEA" means:
+109          (a) a school district;
+110          (b) a charter school;
+111          (c) the Utah Schools for the Deaf and the Blind; or
+112          (d) for purposes of implementing the School Readiness Initiative described in Title
+113     53F, Chapter 6, Part 3, School Readiness Initiative, the School Readiness Board created in
+114     Section 35A-3-209.
+115          [(14)] (13) "Metadata dictionary" means a record that:
+116          (a) defines and discloses all personally identifiable student data collected and shared by
+117     the education entity;
+118          (b) comprehensively lists all recipients with whom the education entity has shared
+119     personally identifiable student data, including:
+120          (i) the purpose for sharing the data with the recipient;
+121          (ii) the justification for sharing the data, including whether sharing the data was
+122     required by federal law, state law, or a local directive; and
+123          (iii) how sharing the data is permitted under federal or state law; and
+124          (c) without disclosing personally identifiable student data, is displayed on the
+125     education entity's website.
+126          [(15)] (14) "Necessary student data" means data required by state statute or federal law
+127     to conduct the regular activities of an education entity, including:
+128          (a) name;
+129          (b) date of birth;
+130          (c) sex;
+131          (d) parent contact information;
+132          (e) custodial parent information;
+133          (f) contact information;
+134          (g) a student identification number;
+135          (h) local, state, and national assessment results or an exception from taking a local,
+136     state, or national assessment;
+137          (i) courses taken and completed, credits earned, and other transcript information;
+138          (j) course grades and grade point average;
+139          (k) grade level and expected graduation date or graduation cohort;
+140          (l) degree, diploma, credential attainment, and other school exit information;
+141          (m) attendance and mobility;
+142          (n) drop-out data;
+143          (o) immunization record or an exception from an immunization record;
+144          (p) race;
+145          (q) ethnicity;
+146          (r) tribal affiliation;
+147          (s) remediation efforts;
+148          (t) an exception from a vision screening required under Section 53G-9-404 or
+149     information collected from a vision screening required under Section 53G-9-404;
+150          (u) information related to the Utah Registry of Autism and Developmental Disabilities,
+151     described in Section 26-7-4;
+152          (v) student injury information;
+153          (w) a disciplinary record created and maintained as described in Section 53E-9-306;
+154          (x) juvenile delinquency records;
+155          (y) English language learner status; and
+156          (z) child find and special education evaluation data related to initiation of an IEP.
+157          [(16)] (15) (a) "Optional student data" means student data that is not:
+158          (i) necessary student data; or
+159          (ii) student data that an education entity may not collect under Section 53E-9-305.
+160          (b) "Optional student data" includes:
+161          (i) information that is:
+162          (A) related to an IEP or needed to provide special needs services; and
+163          (B) not necessary student data;
+164          (ii) biometric information; and
+165          (iii) information that is not necessary student data and that is required for a student to
+166     participate in a federal or other program.
+167          [(17)] (16) "Parent" means:
+168          (a) a student's parent;
+169          (b) a student's legal guardian; or
+170          (c) an individual who has written authorization from a student's parent or legal
+171     guardian to act as a parent or legal guardian on behalf of the student.
+172          [(18)] (17) (a) "Personally identifiable student data" means student data that identifies
+173     or is used by the holder to identify a student.
+174          (b) "Personally identifiable student data" includes:
+175          (i) a student's first and last name;
+176          (ii) the first and last name of a student's family member;
+177          (iii) a student's or a student's family's home or physical address;
+178          (iv) a student's email address or other online contact information;
+179          (v) a student's telephone number;
+180          (vi) a student's social security number;
+181          (vii) a student's biometric identifier;
+182          (viii) a student's health or disability data;
+183          (ix) a student's education entity student identification number;
+184          (x) a student's social media user name and password or alias;
+185          (xi) if associated with personally identifiable student data, the student's persistent
+186     identifier, including:
+187          (A) a customer number held in a cookie; or
+188          (B) a processor serial number;
+189          (xii) a combination of a student's last name or photograph with other information that
+190     together permits a person to contact the student online;
+191          (xiii) information about a student or a student's family that a person collects online and
+192     combines with other personally identifiable student data to identify the student; and
+193          (xiv) information that, alone or in combination, is linked or linkable to a specific
+194     student that would allow a reasonable person in the school community, who does not have
+195     personal knowledge of the relevant circumstances, to identify the student with reasonable
+196     certainty.
+197          [(19)] (18) "School official" means an employee or agent of an education entity, if the
+198     education entity has authorized the employee or agent to request or receive student data on
+199     behalf of the education entity.
+200          [(20)] (19) (a) "Student data" means information about a student at the individual
+201     student level.
+202          (b) "Student data" does not include aggregate or de-identified data.
+203          [(21)] (20) "Student data manager" means:
+204          (a) the state student data officer; or
+205          (b) an individual designated as a student data manager by an education entity under
+206     Section 53E-9-303, who fulfills the duties described in Section 53E-9-308.
+207          [(22)] (21) (a) "Targeted advertising" means presenting advertisements to a student
+208     where the advertisement is selected based on information obtained or inferred over time from
+209     that student's online behavior, usage of applications, or student data.
+210          (b) "Targeted advertising" does not include advertising to a student:
+211          (i) at an online location based upon that student's current visit to that location; or
+212          (ii) in response to that student's request for information or feedback, without retention
+213     of that student's online activities or requests over time for the purpose of targeting subsequent
+214     ads.
+215          [(23)] (22) "Third-party contractor" means a person who:
+216          (a) is not an education entity; and
+217          (b) pursuant to a contract with an education entity, collects or receives student data in
+218     order to provide a product or service, as described in the contract, if the product or service is
+219     not related to school photography, yearbooks, graduation announcements, or a similar product
+220     or service.
+221          [(24)] (23) "Written consent" means written authorization to collect or share a student's
+222     student data, from:
+223          (a) the student's parent, if the student is not an adult student; or
+224          (b) the student, if the student is an adult student.
+225          Section 2. Section 53E-9-305 is amended to read:
+226          53E-9-305. Collecting student data -- Prohibition -- Student data collection notice
+227     -- Written consent.
+228          (1) An education entity may not collect a student's:
+229          (a) social security number; or
+230          (b) except as required in Section 78A-6-112, criminal record.
+231          (2) An education entity that collects student data shall, in accordance with this section,
+232     prepare and distribute, except as provided in Subsection (3), to parents and students a student
+233     data collection notice statement that:
+234          (a) is a prominent, stand-alone document;
+235          (b) is annually updated and published on the education entity's website;
+236          (c) states the student data that the education entity collects;
+237          (d) states that the education entity will not collect the student data described in
+238     Subsection (1);
+239          (e) states the student data described in Section 53E-9-308 that the education entity may
+240     not share without written consent;
+241          (f) includes the following statement:
+242          "The collection, use, and sharing of student data has both benefits and risks. Parents
+243     and students should learn about these benefits and risks and make choices regarding student
+244     data accordingly.";
+245          (g) describes in general terms how the education entity stores and protects student data;
+246     and
+247          (h) states a student's rights under this part[; and].
+248          [(i) for an education entity that teaches students in grade 9, 10, 11, or 12, requests
+249     written consent to share student data with the State Board of Regents as described in Section
+250     53E-9-308.]
+251          (3) The board may publicly post the board's collection notice described in Subsection
+252     (2).
+253          (4) An education entity may collect the necessary student data of a student if the
+254     education entity provides a student data collection notice to:
+255          (a) the student, if the student is an adult student; or
+256          (b) the student's parent, if the student is not an adult student.
+257          (5) An education entity may collect optional student data if the education entity:
+258          (a) provides, to an individual described in Subsection (4), a student data collection
+259     notice that includes a description of:
+260          (i) the optional student data to be collected; and
+261          (ii) how the education entity will use the optional student data; and
+262          (b) obtains written consent to collect the optional student data from an individual
+263     described in Subsection (4).
+264          (6) An education entity may collect a student's biometric identifier or biometric
+265     information if the education entity:
+266          (a) provides, to an individual described in Subsection (4), a biometric information
+267     collection notice that is separate from a student data collection notice, which states:
+268          (i) the biometric identifier or biometric information to be collected;
+269          (ii) the purpose of collecting the biometric identifier or biometric information; and
+270          (iii) how the education entity will use and store the biometric identifier or biometric
+271     information; and
+272          (b) obtains written consent to collect the biometric identifier or biometric information
+273     from an individual described in Subsection (4).
+274          (7) Except under the circumstances described in Subsection 53G-8-211(2), an
+275     education entity may not refer a student to an alternative evidence-based intervention described
+276     in Subsection 53G-8-211(3) without written consent.
+277          Section 3. Section 53E-9-308 is amended to read:
+278          53E-9-308. Sharing student data -- Prohibition -- Requirements for student data
+279     manager -- Authorized student data sharing.
+280          (1) (a) Except as provided in Subsection (1)(b), an education entity, including a student
+281     data manager, may not share personally identifiable student data without written consent.
+282          (b) An education entity, including a student data manager, may share personally
+283     identifiable student data:
+284          (i) in accordance with the Family Education Rights and Privacy Act and related
+285     provisions under 20 U.S.C. Secs. 1232g and 1232h;
+286          (ii) as required by federal law; and
+287          (iii) as described in Subsections (3), (5), and (6).
+288          (2) A student data manager shall:
+289          (a) authorize and manage the sharing, outside of the student data manager's education
+290     entity, of personally identifiable student data for the education entity as described in this
+291     section;
+292          (b) act as the primary local point of contact for the state student data officer described
+293     in Section 53E-9-302; and
+294          (c) fulfill other responsibilities described in the data governance plan of the student
+295     data manager's education entity.
+296          (3) A student data manager may share a student's personally identifiable student data
+297     with a caseworker or representative of the Department of Human Services if:
+298          (a) the Department of Human Services is:
+299          (i) legally responsible for the care and protection of the student, including the
+300     responsibility to investigate a report of educational neglect, as provided in Subsection
+301     62A-4a-409(5); or
+302          (ii) providing services to the student;
+303          (b) the student's personally identifiable student data is not shared with a person who is
+304     not authorized:
+305          (i) to address the student's education needs; or
+306          (ii) by the Department of Human Services to receive the student's personally
+307     identifiable student data; and
+308          (c) the Department of Human Services maintains and protects the student's personally
+309     identifiable student data.
+310          (4) The Department of Human Services, a school official, or the Utah Juvenile Court
+311     may share personally identifiable student data to improve education outcomes for youth:
+312          (a) in the custody of, or under the guardianship of, the Department of Human Services;
+313          (b) receiving services from the Division of Juvenile Justice Services;
+314          (c) in the custody of the Division of Child and Family Services;
+315          (d) receiving services from the Division of Services for People with Disabilities; or
+316          (e) under the jurisdiction of the Utah Juvenile Court.
+317          (5) (a) A student data manager may share personally identifiable student data in
+318     response to a subpoena issued by a court.
+319          (b) A person who receives personally identifiable student data under Subsection (5)(a)
+320     may not use the personally identifiable student data outside of the use described in the
+321     subpoena.
+322          (6) (a) A student data manager may share student data, including personally
+323     identifiable student data, in response to a request to share student data for the purpose of
+324     research or evaluation, if the student data manager:
+325          (i) verifies that the request meets the requirements of 34 C.F.R. Sec. 99.31(a)(6);
+326          (ii) submits the request to the education entity's research review process; and
+327          (iii) fulfills the instructions that result from the review process.
+328          (b) (i) In accordance with state and federal law, and subject to Subsection (6)(b)(ii), the
+329     board shall share student data, including personally identifiable student data, as requested by
+330     the Utah Registry of Autism and Developmental Disabilities described in Section 26-7-4.
+331          (ii) (A) At least 30 days before the state board shares student data in accordance with
+332     Subsection (6)(b)(i), the education entity from which the state board received the student data
+333     shall provide notice to the parent of each student for which the state board intends to share
+334     student data.
+335          (B) The state board may not, for a particular student, share student data as described in
+336     Subsection (6)(b)(i) if the student's parent requests that the state board not share the student
+337     data.
+338          [(ii)] (iii) A person who receives student data under Subsection (6)(b)(i):
+339          (A) shall maintain and protect the student data in accordance with board rule described
+340     in Section 53E-9-307;
+341          (B) may not use the student data for a purpose not described in Section 26-7-4; and
+342          (C) is subject to audit by the state student data officer described in Section 53E-9-302.
+343          [(c) The board shall enter into an agreement with the State Board of Regents,
+344     established in Section 53B-1-103, to share higher education outreach student data, for students
+345     in grades 9 through 12 who have obtained written consent under Subsection 53E-9-305(2)(i), to
+346     be used strictly for the purpose of:]
+347          [(i) providing information and resources to students in grades 9 through 12 about
+348     higher education; and]
+349          [(ii) helping students in grades 9 through 12 enter the higher education system and
+350     remain until graduation.] 

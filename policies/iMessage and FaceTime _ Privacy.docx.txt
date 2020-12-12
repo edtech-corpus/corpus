@@ -1,0 +1,35 @@
+iMessage and FaceTime & Privacy
+
+iMessage and FaceTime are designed to protect your information and enable you to choose what you share.
+
+
+
+iMessage is an Apple service that sends messages over Wi-Fi or cellular connections to other iOS devices (with iOS 5 or later), iPadOS devices, Mac computers (with OS X 10.8 or later), and Apple Watches. These messages don’t count against your messaging plan. Messages sent via iMessage can include photos, videos, and other info.
+
+FaceTime is an Apple service that makes video or audio calls to someone who’s also using an iOS or iPadOS device or a Mac, or audio calls using an Apple Watch. These calls don’t count against your cellular minutes.
+
+We designed iMessage and FaceTime to use end-to-end encryption, so there’s no way for Apple to decrypt the content of your conversations when they are in transit between devices. Attachments you send over iMessage (such as photos or videos) are encrypted so that no one but the sender and receiver(s) can access them. These encrypted attachments may be uploaded to Apple. To improve performance, your device may automatically upload attachments to Apple while you are composing an iMessage. If your message isn’t sent, the attachments are deleted from the server after 30 days. When a passcode or password is set on your iOS, iPadOS, or watchOS device, stored messages are encrypted on your device so that they can’t be accessed unless the device has been unlocked.
+
+You can choose to automatically delete your iMessages from your device after 30 days or a year, or to keep them on your device forever. For your convenience, iMessages are backed up in iCloud and encrypted if you have either iCloud Backup or Messages in iCloud enabled. You can turn off both iCloud Backup and Messages in iCloud whenever you want. On iOS or iPadOS, go to Settings > [your name] > iCloud. On macOS, choose Messages > Preferences, tap iMessage, and deselect the “Enable Messages in iCloud” checkbox. We never store the content of FaceTime calls.
+
+You can sign in to iMessage and FaceTime using your Apple ID, or just your phone number. If you sign in with your Apple ID on your device, you will be signed in to iMessage and FaceTime automatically. Your Apple ID or phone numbers will be shown to the people you contact, and people can reach you using your Apple ID and email addresses or phone numbers on your account. You can select which phone numbers or email addresses you’d like to start new conversations from, and which phone numbers or email addresses you can receive messages and reply from, in iMessage and FaceTime settings. You can add and verify additional “Reachable At” information from your Apple ID account page.
+
+Share Name and Photo allows you to share a name and photo with people you iMessage. You can choose to automatically share with just your contacts, or to be prompted each time. Your shared name and photo will be sent with your next iMessage to the people you share with, and stored on their devices. If you share your name and photo with an iMessage conversation with multiple people, your name and photo will be sent to all the people in the conversation. You can update your name and photo at any time. If you automatically share, updates will be sent when you next send an iMessage to each person you share with. If you have shared your name and photo and later turn off sharing, others who previously received your name and photo may still have your information on their devices. The name and photo you select for messages will be sent to Apple, and stored on Apple’s servers encrypted in a way that Apple cannot see.
+
+Apple may record and store some information related to your use of iMessage and FaceTime to operate and improve Apple’s products and services:
+
+When you use iMessage and FaceTime, Apple may store information about your use of the services in a way that doesn’t identify you.
+
+iMessages that can’t be delivered may be held by Apple for up to 30 days for redelivery.
+
+Apple may record and store information about FaceTime calls, such as who was invited to a call, and your device’s network configurations, and store this information for up to 30 days. Apple doesn’t log whether your call was answered, and can’t access the content of your calls.
+
+Some apps on your device (including Messages and FaceTime) may communicate with Apple’s servers to determine if other people can be reached by iMessage or FaceTime. When this happens, Apple may store these phone numbers and email addresses associated with your account, for up to 30 days.
+
+By using these features, you agree and consent to Apple’s and its subsidiaries’ and agents’ transmission, collection, maintenance, processing, and use of this information as described above.
+
+Information collected by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at www.apple.com/privacy
+
+Information about products not manufactured by Apple, or independent websites not controlled or tested by Apple, is provided without recommendation or endorsement. Apple assumes no responsibility with regard to the selection, performance, or use of third-party websites or products. Apple makes no representations regarding third-party website accuracy or reliability. Contact the vendor for additional information.
+
+Published Date: December 27, 2019

@@ -1,0 +1,560 @@
+An Act 
+
+ENROLLED HOUSE 
+BILL NO. 1989 
+
+By:  Brumbaugh, Nelson, Kern, 
+
+Ritze, Scott, Murphey, 
+Turner, Walker and Wood of 
+the House 
+
+  
+
+and 
+
+ 
+
+ 
+
+Treat and Jolley of the 
+Senate 
+
+An Act relating to records; creating the Student Data 
+Accessibility, Transparency and Accountability Act of 
+2013; defining terms; requiring State Board of 
+Education to create certain data inventory and to 
+develop certain policies; prohibiting the transfer of 
+certain data; providing certain exceptions; requiring 
+a data security plan; requiring compliance with 
+certain laws and policies; requiring certain 
+contracts include privacy and security provisions; 
+requiring Board to notify Governor and Legislature 
+annually concerning certain information; requiring 
+Board to adopt certain rules; providing for 
+consideration of certain existing data; limiting 
+interference with certain laws; providing for 
+codification; providing an effective date; and 
+declaring an emergency. 
+
+ 
+ 
+ 
+ 
+SUBJECT:  Student Data Accessibility, Transparency and 
+Accountability Act of 2013 
+ 
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA: 
+ 
+
+SECTION 1.     NEW LAW     A new section of law to be codified 
+
+in the Oklahoma Statutes as Section 3-168 of Title 70, unless there 
+is created a duplication in numbering, reads as follows: 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+A.  This section shall be known and may be cited as the "Student 
+
+Data Accessibility, Transparency and Accountability Act of 2013". 
+
+ 
+B.  As used in this act: 
+ 
+1.  "Board" means the State Board of Education; 
+ 
+2.  "Department" means the State Department of Education; 
+ 
+3.  "Data system" means the Oklahoma State Department of 
+
+Education student data system; 
+
+ 
+4.  "Aggregate data" means data collected and/or reported at the 
+
+group, cohort, or institutional level; 
+
+ 
+5.  "De-identified data" means a student dataset in which parent 
+
+and student identifying information, including the state-assigned 
+student identifier, has been removed; 
+
+ 
+6.  "Student testing number" means the unique student identifier 
+
+assigned by the state to each student that shall not be or include 
+the Social Security number of a student in whole or in part; and 
+
+ 
+7.  "Student data" means data collected and/or reported at the 
+
+individual student level included in a student's educational record. 
+
+ 
+
+a. 
+ 
+
+"Student data" includes: 
+
+(1)  state and national assessment results, including 
+
+information on untested public school students, 
+
+ 
+(2)  course taking and completion, credits earned, and 
+
+other transcript information, 
+
+ 
+(3)  course grades and grade point average, 
+ 
+(4)  date of birth, grade level and expected 
+graduation date/graduation cohort, 
+
+ 
+(5)  degree, diploma, credential attainment, and other 
+
+school exit information such as General 
+Educational Development and drop-out data, 
+
+ 
+(6)  attendance and mobility, 
+ 
+
+ENR. H. B. NO. 1989 
+
+Page 2 
+
+(7)  data required to calculate the federal four-year 
+adjusted cohort graduation rate, including 
+sufficient exit and drop-out information, 
+
+ 
+(8)  discipline reports limited to objective 
+
+information sufficient to produce the federal 
+Title IV Annual Incident Report, 
+
+ 
+(9)  remediation, 
+ 
+
+(10)  special education data, and 
+ 
+(11)  demographic data and program participation 
+
+information. 
+
+Unless included in a student's educational record, 
+"student data" shall not include: 
+
+ 
+
+b. 
+
+ 
+
+(1)  juvenile delinquency records, 
+ 
+(2)  criminal records, 
+ 
+(3)  medical and health records, 
+ 
+(4)  student Social Security number, and 
+ 
+(5)  student biometric information. 
+ 
+
+C.  The State Board of Education shall: 
+ 
+1.  Create, publish and make publicly available a data inventory 
+
+and dictionary or index of data elements with definitions of 
+individual student data fields currently in the student data system 
+including: 
+
+ 
+
+a. 
+
+ 
+b. 
+
+ 
+
+any individual student data required to be reported by 
+state and federal education mandates, 
+
+any individual student data which has been proposed 
+for inclusion in the student data system with a 
+statement regarding the purpose or reason for the 
+proposed collection, and 
+
+ENR. H. B. NO. 1989 
+
+Page 3 
+
+c. 
+
+ 
+
+a. 
+
+ 
+
+b. 
+
+ 
+c. 
+
+ 
+
+any individual student data that the State Department 
+of Education collects or maintains with no current 
+purpose or reason; 
+
+2.  Develop, publish and make publicly available policies and 
+
+procedures to comply with the Federal Family Educational Rights and 
+Privacy Act (FERPA) and other relevant privacy laws and policies, 
+including but not limited to: 
+
+ 
+
+access to student and de-identified data in the 
+student data system shall be restricted to: 
+
+(1)  the authorized staff of the State Department of 
+
+Education and the Department's contractors who 
+require such access to perform their assigned 
+duties, including staff and contractors from the 
+Information Services Division of the Office of 
+Management and Enterprise Services assigned to 
+the Department, 
+
+ 
+(2)  district administrators, teachers and school 
+personnel who require such access to perform 
+their assigned duties, 
+
+ 
+(3)  students and their parents, and 
+ 
+(4)  the authorized staff of other state agencies in 
+
+Oklahoma as required by law and/or defined by 
+interagency data-sharing agreements, 
+
+ 
+the State Department of Education shall use only 
+aggregate data in public reports or in response to 
+record requests in accordance with paragraph 3 of this 
+subsection, 
+
+the State Department of Education shall develop 
+criteria for the approval of research and data 
+requests from state and local agencies, the State 
+Legislature, researchers and the public: 
+
+(1)  unless otherwise approved by the State Board of 
+Education, student data maintained by the State 
+Department of Education shall remain 
+confidential, and 
+
+ 
+
+ENR. H. B. NO. 1989 
+
+Page 4 
+
+(2)  unless otherwise approved by the State Board of 
+
+Education to release student or de-identified 
+data in specific instances, the Department may 
+only use aggregate data in the release of data in 
+response to research and data requests, and 
+
+ 
+notification to students and parents regarding their 
+rights under federal and state law; 
+
+3.  Unless otherwise approved by the State Board of Education, 
+the State Department of Education shall not transfer student or de-
+identified data deemed confidential under division (1) of 
+subparagraph c of paragraph 2 of subsection C of this section to any 
+federal, state or local agency or other organization/entity outside 
+of the State of Oklahoma, with the following exceptions: 
+
+ 
+
+a student transfers out of state or a school/district 
+seeks help with locating an out-of-state transfer, 
+
+a student leaves the state to attend an out-of-state 
+institution of higher education or training program, 
+
+a student registers for or takes a national or 
+multistate assessment, 
+
+a student voluntarily participates in a program for 
+which such a data transfer is a condition/requirement 
+of participation, 
+
+the Department enters into a contract that governs 
+databases, assessments, special education or 
+instructional supports with an out-of-state vendor, or 
+
+a student is classified as "migrant" for federal 
+reporting purposes; 
+
+4.  Develop a detailed data security plan that includes: 
+ 
+
+guidelines for authorizing access to the student data 
+system and to individual student data including 
+guidelines for authentication of authorized access, 
+
+privacy compliance standards, 
+
+privacy and security audits, 
+
+ENR. H. B. NO. 1989 
+
+Page 5 
+
+d. 
+
+ 
+
+a. 
+
+ 
+b. 
+
+ 
+c. 
+
+ 
+d. 
+
+ 
+e. 
+
+ 
+f. 
+
+ 
+
+a. 
+
+ 
+b. 
+ 
+c. 
+
+breach planning, notification and procedures, and 
+
+data retention and disposition policies; 
+
+d. 
+ 
+e. 
+ 
+
+5.  Ensure routine and ongoing compliance by the State 
+
+Department of Education with FERPA, other relevant privacy laws and 
+policies, and the privacy and security policies and procedures 
+developed under the authority of this act, including the performance 
+of compliance audits; 
+
+ 
+6.  Ensure that any contracts that govern databases, assessments 
+or instructional supports that include student or de-identified data 
+and are outsourced to private vendors include express provisions 
+that safeguard privacy and security and include penalties for 
+noncompliance; and 
+
+ 
+7.  Notify the Governor and the Legislature annually of the 
+
+following: 
+
+ 
+
+a. 
+
+ 
+
+new student data proposed for inclusion in the state 
+student data system: 
+
+(1)  any new student data collection proposed by the 
+
+State Board of Education becomes a provisional 
+requirement to allow districts and their local 
+data system vendors the opportunity to meet the 
+new requirement, and 
+
+ 
+(2)  the State Board of Education must submit any new 
+"provisional" student data collection to the 
+Governor and the Legislature for their approval 
+within one (1) year in order to make the new 
+student data a permanent requirement.  Any 
+provisional student data collection not approved 
+by the Governor and the Legislature by the end of 
+the next legislative session expires and is no 
+longer required, 
+
+ 
+changes to existing data collections required for any 
+reason, including changes to federal reporting 
+requirements made by the U.S. Department of Education, 
+
+an explanation of any exceptions granted by the State 
+Board of Education in the past year regarding the 
+
+b. 
+
+ 
+c. 
+
+ENR. H. B. NO. 1989 
+
+Page 6 
+
+release or out-of-state transfer of student or de-
+identified data, and 
+
+the results of any and all privacy compliance and 
+security audits completed in the past year.  
+Notifications regarding privacy compliance and 
+security audits shall not include any information that 
+would itself pose a security threat to the state or 
+local student information systems or to the secure 
+transmission of data between state and local systems 
+by exposing vulnerabilities. 
+
+ 
+d. 
+
+ 
+
+D.  The State Board of Education shall adopt rules for the State 
+
+Department of Education to implement the provisions of the Student 
+Data Accessibility, Transparency and Accountability Act of 2013. 
+
+ 
+E.  Upon the effective date of this act, any existing collection 
+
+of student data by the State Department of Education shall not be 
+considered a new student data collection in accordance with 
+subparagraph a of paragraph 7 of subsection C of this section. 
+
+ 
+F.  Nothing in this act shall interfere with the State 
+
+Department of Education's compliance with the Educational 
+Accountability Reform Act. 
+
+ 
+SECTION 2.  This act shall become effective July 1, 2013. 
+ 
+SECTION 3.  It being immediately necessary for the preservation 
+
+of the public peace, health and safety, an emergency is hereby 
+declared to exist, by reason whereof this act shall take effect and 
+be in full force from and after its passage and approval. 
+
+ENR. H. B. NO. 1989 
+
+Page 7 
+
+Passed the House of Representatives the 16th day of May, 2013. 
+
+ 
+ 
+Presiding Officer of the House 
+of Representatives 
+
+Passed the Senate the 22nd day of May, 2013. 
+
+ 
+ 
+Presiding Officer of the Senate 
+
+ 
+
+OFFICE OF THE GOVERNOR 
+
+Received by the Office of the Governor this ____________________ 
+
+day of ___________________, 20_______, at _______ o'clock _______ M. 
+
+By: _________________________________ 
+
+Approved by the Governor of the State of Oklahoma this _________ 
+
+day of ___________________, 20_______, at _______ o'clock _______ M. 
+
+_________________________________ 
+Governor of the State of Oklahoma 
+
+OFFICE OF THE SECRETARY OF STATE 
+
+Received by the Office of the Secretary of State this __________ 
+
+day of __________________, 20 _______, at _______ o'clock _______ M. 
+
+By: _________________________________ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ENR. H. B. NO. 1989 
+
+Page 8 
+
+

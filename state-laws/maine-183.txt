@@ -1,0 +1,68 @@
+ SP0183
+LD 454 	Session - 127th Maine Legislature
+ 
+	LR 638
+Item 1
+Bill Tracking, Additional Documents 	Chamber Status
+
+An Act To Enact the Student Information Privacy Act
+Be it enacted by the People of the State of Maine as follows:
+
+Sec. 1. 20-A MRSA §6006  is enacted to read:
+
+§ 6006.  Student information privacy; school service providers
+
+This section may be known and cited as "the Student Information Privacy Act."
+1.  Definitions.   As used in this section, unless the context otherwise indicates, the following terms having the following meanings.
+A.  "Mobile application" means a software application designed to be downloaded to and installed on a portable computing device.
+B.  "School service" means a website, mobile application or online service that:
+
+(1) Is designed and marketed for use in elementary or secondary schools in the State;
+
+(2) Is used at the direction of teachers or other employees of an elementary or secondary school; and
+
+(3) Collects, maintains or uses student personal information.
+
+"School service" does not include a website, mobile application or online service that is designed and marketed for use by individuals or entities generally, even if it is also marketed to elementary or secondary schools in the State.
+C.  "School service provider" means an entity that operates a school service.
+D.  "Student" means a student of an elementary or secondary school in the State.
+E.  "Student personal information" means information collected through a school service that identifies an individual student or that is linked to information that identifies an individual student.
+2.  Transparency.   A school service provider may collect, use and share student personal information only in accordance with this section.
+A.  A school service provider shall provide to schools and teachers that use the provider's school service clear and easy-to-understand information about the types of student personal information it collects and about how it uses and shares student personal information.
+B.  A school service provider shall provide to schools and teachers that use the provider's school service prominent notice before making material changes to its privacy policies.
+C.  A school service provider shall facilitate access to and correction of a student's personal information by a student or student's parent or guardian either directly or through the student's school or teacher.
+D.  When a school service is offered to a school or teacher, a school service provider may provide information required by paragraphs A and B to the school or teacher.
+E.  A school service provider may collect, use and share student personal information only for purposes authorized by the student's school or teacher or with the consent of the student or the student's parent or guardian.
+F.  A school service provider may not sell student personal information.
+G.  A school service provider may not use or share student personal information for purposes of targeting advertisements to students based on students' online behaviors.
+H.  A school service provider may not use student personal information to create a personal profile of a student other than for supporting purposes authorized by the student's school or teacher or with the consent of the student or the student's parent or guardian.
+I.  A school service provider must obtain consent before using student personal information in a manner that is inconsistent with the provider's privacy policy for the applicable school service in effect at the time of collection of the information. If the student's personal information was collected directly from a student, the school service provider must obtain consent from the student or the student's parent or guardian. In all other cases, the school service provider may obtain consent from the school or teacher.
+J.  A school service provider shall maintain a comprehensive information security program that is reasonably designed to protect the security, privacy, confidentiality and integrity of student personal information. The information security program must use appropriate administrative, technological and physical safeguards.
+K.  A school service provider may not knowingly retain student personal information beyond the time period authorized by the school or teacher, unless the school service provider has obtained consent of the student or the student's parent or guardian.
+L.  A school service provider shall obligate any 3rd parties involved on the provider's behalf in the providing of school services to meet the requirements of this subsection.
+M.  Before permitting a successor entity to access student personal information, a school service provider shall ensure that the successor entity will abide by all privacy and security commitments related to previously collected student personal information.
+3.  Construction.   Nothing in this Act may be construed to:
+A.  Prohibit the use of student personal information for purposes of customized education; or
+B.  Authorize the dissemination of information in violation of section 6001.
+4.  Rulemaking.   The commissioner may adopt rules to implement this section. Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+
+Sec. 2. Transition. If a school service provider, as defined in the Maine Revised Statutes, Title 20-A, section 6006, enters into a signed, written contract with a school or teacher prior to the effective date of this Act, that contract may remain in effect until the next renewal date of the contract.
+
+SUMMARY
+
+This bill establishes requirements for providers of websites, mobile applications or online services that collect, maintain or use personal information of elementary or secondary school students.
+
+Top of Page
+Additional Information Bill Tracking 	Chamber Status
+Amendments 	Testimony, Public Hearings & Work Sessions 	Committee Information for this Bill
+Other Documents 	Title & Section
+
+Related Pages Search Bill Text 	Search Bill Status
+Bill Directory 	Current Committees 	Legislative Information
+Download MS-Word, Printed PDF 	Maine Legislature
+Office of Legislative Information
+100 State House Station
+Augusta, ME 04333 		voice: (207) 287-1692
+fax: (207) 287-1580
+tty: (207) 287-6826
+Word Viewer for Windows 		Disclaimer

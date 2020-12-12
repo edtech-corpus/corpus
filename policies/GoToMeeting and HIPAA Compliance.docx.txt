@@ -1,0 +1,61 @@
+March 13, 2020
+
+GoToMeeting and HIPAA Compliance
+
+Privacy, productivity and video conferencing
+
+Start My Free Trial Actually I'm Ready to Buy Now
+
+Under the Health Insurance Portability and Accountability Act (“HIPAA”), the U.S. Department of Health and Human Services (“HHS”) has developed regulations designed to ensure the privacy and security of certain Protected Health Information (“PHI”). These regulations require healthcare plans, clearinghouses, and other providers who transmit PHI in electronic form (called Covered Entities) to adopt certain privacy and security safeguards, which also apply to many of their service providers (called Business Associates). For example, if a Covered Entity transmits patient data across the Internet during an online meeting or video conference, it should utilize a solution with appropriate security and privacy safeguards to protect that information.
+
+GoToMeeting is an online meeting and video conferencing solution with robust administrative, physical, and technical safeguards designed to protect your data. In conjunction with the execution of our Business Associate Agreement (also known as a “BAA”), GoToMeeting can help your company or office continue to meet its HIPAA compliance obligations.
+
+The table below is designed to help illustrate how some of GoToMeeting’s technical measures map to the technical safeguards required in the applicable portions of the HIPAA Security Rule.
+
+For more information on GoToMeeting’s privacy and security certifications, measures, and practices, please visit our Trust & Privacy Center, which includes product-level details and technical privacy and security whitepapers on the Product Resources page.
+
+
+
+
+
+
+
+*Reference to account administrators is only applicable when buying multiple user subscriptions of GoToMeeting
+
+**Account managers are available for GoToMeeting corporate accounts
+
+
+
+Healthcare applications
+
+Healthcare professionals can use GoToMeeting’s patented web-based screen-sharing, video conferencing and audio conferencing technology which is designed to allow its users to instantly and securely meet online and share information from files, database applications or other corporate resources from any location connected to the internet. By using screen-sharing technology, security is strengthened because only the shared screen and mouse and keyboard commands are transmitted. GoToMeeting further protects data confidentiality through a combination of encryption, strong access control and other industry-standard protection methods.
+
+
+
+Security and control
+
+Account administrators can define which of its organizers can host GoToMeeting online meetings in accounts with multiple users. Organizers control online meeting attendance through the use of meeting ID codes, optional passwords and meeting locks. Only one person can present at a time, and the presenter (either the organizer or a person chosen by the organizer) maintains complete control of screen sharing, in addition to keyboard and mouse control. Thus, participants can only view information the presenter chooses and can only make changes when permitted by the presenter. In addition, organizers can dismiss attendees when necessary, and organizers and account administrators can terminate meetings in progress at any time.
+
+
+
+Encryption
+
+GoToMeeting uses robust encryption mechanisms and protocols designed to ensure the confidentiality, integrity, and authenticity for data that is transmitted (i.e., in-transit) between the LogMeIn infrastructure and users and for cloud recordings, transcriptions, and meeting notes stored (i.e., at-rest) within LogMeIn systems on behalf of its users.
+
+
+
+Third-Party Certifications and Validation
+
+As further described in LogMeIn’s Trust & Privacy Center, LogMeIn and more specifically, GoToMeeting, conform with the following compliance certifications and external audit reports:
+
+ AICPA SOC2 Type II: Security, Availability, and Confidentiality
+
+ 
+
+ AICPA SOC3: Security Availability, and Confidentiality available here.
+
+ BSI C5
+
+ TRUSTe Verified Privacy
+
+ EU-U.S. and Swiss-U.S. Privacy Shield Framework

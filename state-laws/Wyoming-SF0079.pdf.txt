@@ -1,0 +1,454 @@
+ 
+ 
+ 
+ORIGINAL SENATE 
+FILE   NO.  0079 
+ 
+
+ENGROSSED 
+
+ENROLLED ACT NO. 66,  SENATE 
+ 
+SIXTY-SECOND LEGISLATURE OF THE STATE OF WYOMING 
+
+2014 BUDGET SESSION 
+
+ 
+ 
+ 
+AN  ACT  relating  to  education;  requiring  a  data  security 
+plan  for  education  data;  accordingly  imposing  duties; 
+requiring reporting; and providing for effective dates. 
+ 
+Be It Enacted by the Legislature of the State of Wyoming: 
+ 
+
+Section  1.  W.S.  21-2-202(a)(xxxiv),  as  amended  by 
+
+2013 Wyoming Session Laws, Chapter 1, is amended to read: 
+
+ 
+21-2-202.  Duties of the director. 
+ 
+(a)  In  addition  to  any  other  duties  assigned  by  law, 
+
+the director shall:  
+
+ 
+
+of 
+
+the 
+
+department 
+
+(xxxiv)  With 
+
+enterprise 
+technology services, establish  criteria  for  the  collection, 
+storage,  management  and  reporting  of  department  of 
+education  data  related  to  teacher  certification,  statewide 
+education 
+the 
+administration  of  the  school  finance  system.  In  carrying 
+out  this  paragraph,  the  director  and  the  department  of 
+enterprise  technology  services  shall  develop  a  data 
+security plan that includes: 
+
+accountability 
+
+assessment 
+
+and 
+
+and 
+
+ 
+
+(A)  Guidelines  for  authorizing  access  to 
+student  data,  including  authentication  of  authorized 
+access; 
+
+ 
+(B)  Privacy compliance standards; 
+ 
+(C)  Privacy and security audits; 
+ 
+(D)  Breach 
+
+planning, 
+
+notification 
+
+and 
+
+procedures pertaining thereto; 
+ 
+(E)  Data 
+
+retention 
+
+and 
+
+disposition 
+
+policies; 
+ 
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ORIGINAL SENATE 
+FILE   NO.  0079 
+ 
+
+ 
+ 
+ 
+
+ENROLLED ACT NO. 66,  SENATE 
+ 
+SIXTY-SECOND LEGISLATURE OF THE STATE OF WYOMING 
+
+2014 BUDGET SESSION 
+
+ 
+
+ 
+(F)  Data 
+
+including 
+electronic,  physical  and  administrative  safeguards  such  as 
+data encryption and employee training; 
+
+policies 
+
+security 
+
+ 
+(G)  Routine  and  ongoing  compliance  with  the 
+federal  Family  Educational  Rights  and  Privacy  Act  (FERPA) 
+and other privacy laws and policies; 
+
+ 
+(H)  Prohibition of  the sale  of  student data 
+
+to private entities or organizations; and 
+
+ 
+(J)  All  personally  identifiable  student 
+information  being  reported  to  the  department  of  education 
+or  the  department  of  enterprise  technology  by  a  student's 
+Wyoming student record identification and locator number as 
+issued by the department of education. 
+
+ 
+
+Section  2.  On  or  before  November  1,  2014,  the 
+director of the department of education and the director of 
+enterprise  technology  services  shall  report  to  the  joint 
+education  interim  committee  on  the  development  and 
+implementation  of  the  data  security  plan  required  under 
+this  act.  The  report  shall  include  an  inventory  by  the 
+department of education of all student level education data 
+elements  collected,  with  identification  of  the  law  or  rule 
+and  regulation,  which  requires  collection  or  reporting  of 
+the  data.    The  report  shall  include  recommendations  for 
+elimination of unnecessary collections or data elements and 
+mechanisms  to  improve  efficiency  and  effectiveness  of  the 
+collection. 
+ 
+ 
+Section  3.  W.S.  21-2-202(a)(xxxiv),  as  in  effect 
+prior  to  the  enactment  of  2013  Wyoming  Session  Laws, 
+Chapter 1, is amended to read: 
+
+ 
+
+ 
+ 
+
+2 
+
+ 
+ 
+ 
+ORIGINAL SENATE 
+FILE   NO.  0079 
+ 
+
+ENROLLED ACT NO. 66,  SENATE 
+ 
+SIXTY-SECOND LEGISLATURE OF THE STATE OF WYOMING 
+
+2014 BUDGET SESSION 
+
+ 
+
+21-2-202.  Duties of the state superintendent. 
+ 
+(a)  In  addition  to  other  duties  assigned  by  law,  the 
+
+state superintendent shall: 
+
+ 
+
+of 
+
+the 
+
+department 
+
+(xxxiv)  With 
+
+enterprise 
+technology  services, establish criteria  for  the collection, 
+storage,  management  and  reporting  of  department  of 
+education  data  related  to  teacher  certification,  statewide 
+education 
+the 
+administration  of  the  school  finance  system.  In  carrying 
+out  this  paragraph,  the  state  superintendent  and  the 
+department  of  enterprise  technology  services  shall  develop 
+a data security plan that includes: 
+
+accountability 
+
+assessment 
+
+and 
+
+and 
+
+ 
+
+(A)  Guidelines  for  authorizing  access  to 
+student  data,  including  authentication  of  authorized 
+access; 
+
+ 
+(B)  Privacy compliance standards; 
+ 
+(C)  Privacy and security audits; 
+ 
+(D)  Breach 
+
+planning, 
+
+notification 
+
+and 
+
+procedures pertaining thereto; 
+ 
+(E)  Data 
+
+policies; 
+
+retention 
+
+and 
+
+disposition 
+
+ 
+(F)  Data 
+
+including 
+electronic,  physical  and  administrative  safeguards  such  as 
+data encryption and employee training; 
+
+policies 
+
+security 
+
+ 
+(G)  Routine  and  ongoing  compliance  with  the 
+federal  Family  Educational  Rights  and  Privacy  Act  (FERPA) 
+and other privacy laws and policies; 
+
+ 
+
+3 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ORIGINAL SENATE 
+FILE   NO.  0079 
+ 
+
+ENROLLED ACT NO. 66,  SENATE 
+ 
+SIXTY-SECOND LEGISLATURE OF THE STATE OF WYOMING 
+
+2014 BUDGET SESSION 
+
+ 
+
+(H)  Prohibition of  the sale of student data 
+
+to private entities or organizations; and 
+
+ 
+(J)  All  personally  identifiable  student 
+information  being  reported  to  the  department  of  education 
+or  the  department  of  enterprise  technology  by  a  student's 
+Wyoming student record identification and locator number as 
+issued by the department of education. 
+
+ 
+
+Section  4.  On  or  before  November  1,  2014,  the  state 
+superintendent  and  the  director  of  enterprise  technology 
+services  shall  report  to  the  joint  education  interim 
+committee on the development and implementation of the data 
+security  plan  required  under  this  act.    The  report  shall 
+include  an  inventory  by  the  department  of  education  of  all 
+student  level  education  data  elements  collected,  with 
+identification  of  the  law  or  rule  and  regulation,  which 
+requires  collection  or  reporting  of  the  data.    The  report 
+shall 
+of 
+unnecessary  collections  or  data  elements  and  mechanisms  to 
+improve efficiency and effectiveness of the collection. 
+
+recommendations 
+
+elimination 
+
+include 
+
+for 
+
+ 
+Section 5. 
+ 
+(a)  Sections  1  and  2  of  this  act  are  effective  July 
+1,  2014,  only  if  sections  3  and  4  of  this  act  are  not 
+effective as provided by subsection (b) of this section. 
+
+ 
+(b)  If a final order by the district court of Laramie 
+County,  Wyoming,  is  issued  implementing  without  change  the 
+final  ruling  of  the  Wyoming  Supreme  Court  issued  January 
+28,  2014,  in  the  case  of  Kerry  and  Clara  Powers,  on  behalf 
+of  themselves  and  the  citizens  of  Wyoming,  and  Cindy  Hill, 
+on  behalf  of  herself  and  as  the  Superintendent  of  Public 
+Instruction  v.  State  of  Wyoming  and  Matthew  H.  Mead, 
+Governor,  in  his  official  capacity  [Docket  No.  S-13-0052], 
+then  upon  expiration  of  time  for  appeal  of  that  order,  or 
+
+4 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ORIGINAL SENATE 
+FILE   NO.  0079 
+ 
+
+ 
+
+ENROLLED ACT NO. 66,  SENATE 
+ 
+SIXTY-SECOND LEGISLATURE OF THE STATE OF WYOMING 
+
+2014 BUDGET SESSION 
+
+ 
+ 
+ 
+if  appealed,  upon  issuance  of  a  final  order  or  mandate  of 
+the  Wyoming  Supreme  Court  confirming  the  district  court 
+final  order,  the  Governor  shall  certify  the  entry  of  the 
+district court final order.  The Governor shall immediately  
+file any certification under this section together with the 
+final  order  with  the  secretary  of  state.  If  the 
+certification  is  filed  with  the  secretary  of  state  after 
+July  1,  2014,  sections  3  and  4  of  this  act  are  effective 
+upon  filing  and  shall  supersede  sections  1  and  2  of  this 
+act.    If  the  certification  is  filed  with  the  secretary  of 
+state before July 1, 2014, sections 3 and 4 of this act are 
+effective July 1, 2014 and shall supersede sections 1 and 2 
+of this act. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+President of the Senate 
+
+Governor 
+
+ 
+Speaker of the House 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I hereby certify that this act originated in the Senate. 
+ 
+ 
+Chief Clerk 
+ 
+
+ 
+TIME APPROVED: _________ 
+ 
+DATE APPROVED: _________ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+(END) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+5 
+
+ 
+ 
+
+

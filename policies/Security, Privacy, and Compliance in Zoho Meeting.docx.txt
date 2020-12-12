@@ -1,0 +1,47 @@
+Security, Privacy, and Compliance in Zoho Meeting
+
+The need for safety and privacy while using online apps gets attention now more than ever as organizations across the globe switch to remote working. At Zoho, security remains the foundation on which we build our apps. We are committed to protecting your privacy and data when you use our apps.
+
+How Zoho Meeting keeps you secure online
+
+In-meeting controls
+
+Lock meetings to keep them private
+
+If you feel apprehensive about having confidential discussions online, locking meetings will help you keep your meetings private. Locking meetings gives the meeting host complete control over who enters a meeting. The meeting host gets a notification every time someone requests to enter their meeting and can accept or decline the request. This will help you secure your meetings from online intruders like hackers or abusers.
+
+Remove participants and use recording privileges
+
+If someone shares your meeting link with an outsider and they enter your meeting, you can easily remove them and lock your meeting to prevent further intrusion. Only the meeting host can record a meeting and get access to the recording after the meeting. So even if someone manages to enter a meeting, they will not be able to record discussions. The host can also decide not to share the recording link with others if there are safety concerns.
+
+Ring notifications for entry and exit
+
+Your organization's admin can enable sound notifications for entry and exit of participants during online meetings. By enabling this feature, the meeting host can keep an eye on who joins their meeting and remove participants who should not be part of the discussion.
+
+Consent for sharing audio and video
+
+Zoho Meeting protects your privacy by giving you complete control over sharing your audio and video during a meeting. You can enable and disable your audio and video before entering a meeting or any time you want during a meeting. Zoho Meeting also asks your permission before enabling remote access for another participant to your computer during screen sharing.
+
+Security practices
+
+Two-factor authentication
+
+You can enable Two-Factor Authentication (TFA) for your Zoho account which adds an extra layer of security to prevent attackers from accessing or manipulating your account. No one can bypass the TFA process to log in to your Zoho Meeting account since it involves authentication through secondary devices that you own.
+
+Encryption
+
+Encryption changes data with a special encoding process to make the data become unrecognizable (encrypted) until it can be deciphered by the intended recipient. It is primarily used to safeguard the contents of a message so that only the intended recipient can read it. Zoho Meeting encrypts audio and video using DTLS-SRTP encryption. We follow the latest TLS protocol version 1.2 and use certificates issued by SHA 256. We also implement Perfect Forward Secrecy (PFS) and enforce HTTPS Strict Transport Security (HSTS) across all sites. Read more about encryption at Zoho.
+
+Privacy policy
+
+Zoho has never put users at risk by selling or disclosing their information to unauthorized third parties, and we never will. This has been our approach for almost 20 years, and we remain committed to it. Read more about Zoho's privacy policy.
+
+Data Center Security
+
+Our data centers in different locations around the world are physically protected to withstand natural disasters, and entry is restricted to only a few authorized personnel with two-factor authentication and biometric authentication. We also monitor all entry and exit movements through our premises with CCTV cameras, according to local regulations. Read more about security at Zoho.
+
+Certifications and compliance
+
+
+
+Learn more about cerfications and compliance.

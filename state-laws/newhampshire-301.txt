@@ -1,0 +1,117 @@
+
+
+CHAPTER 12
+
+HB 301 - FINAL VERSION
+
+6Jan2016... 2538h
+
+ 
+
+2016 SESSION
+
+15-0699
+
+04/06
+
+ 
+
+HOUSE BILL 301
+
+ 
+
+AN ACT establishing a committee to study New Hampshire’s statewide longitudinal data system and any other department of education maintained database that contains student level data.
+
+ 
+
+SPONSORS: Rep. Ferreira, Hills 28; Rep. Seidel, Hills 28; Sen. Avard, Dist 12
+
+ 
+
+COMMITTEE: Education
+
+ 
+
+-----------------------------------------------------------------
+
+ 
+
+AMENDED ANALYSIS
+
+ 
+
+This bill establishes a committee to study New Hampshire’s statewide longitudinal data system and any other department of education maintained database that contains student level data.
+
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ 
+
+Explanation: Matter added to current law appears in bold italics.
+
+Matter removed from current law appears [in brackets and struckthrough.]
+
+Matter which is either (a) all new or (b) repealed and reenacted appears in regular type.
+
+ 
+
+6Jan2016... 2538h 15-0699
+
+04/06
+
+ 
+
+STATE OF NEW HAMPSHIRE
+
+ 
+
+In the Year of Our Lord Two Thousand Sixteen
+
+ 
+
+AN ACT establishing a committee to study New Hampshire’s statewide longitudinal data system and any other department of education maintained database that contains student level data.
+
+ 
+
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+
+ 
+
+12:1  Committee Established.  There is established a committee to study the layout and data elements contained in the statewide longitudinal data system and any other department of education maintained database that contains student level data.
+
+12:2  Membership and Compensation.
+
+I.  The members of the committee shall be as follows:
+
+(a)  Three members of the house of representatives, appointed by the speaker of the house of representatives.
+
+(b)  One member of the senate, appointed by the president of the senate.
+
+II.  Members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee.
+
+12:3  Duties.
+
+I.  The committee shall:
+
+(a)  Study the design and layout of each state maintained database that contains student level data.
+
+(b)  Review the technical specifications that were given to contractors who designed and built each database regarding the data elements to be stored in each database.
+
+(c)  Provide transparency by assembling a dictionary of data elements currently being collected and maintained in the statewide longitudinal data system and in any other department of education maintained database that contains student level data.
+
+(d)  Study the scope, use, and security of school district databases and privacy policies.
+
+II.  The committee may solicit advice and testimony from any individual or organization with information or expertise relevant to the purpose of the committee’s study.
+
+12:4  Chairperson; Quorum.  The members of the study committee shall elect a chairperson from among the members.  The first meeting of the committee shall be called by the first-named house member.  The first meeting of the committee shall be held within 45 days of the effective date of this section.  Three members of the committee shall constitute a quorum.
+
+12:5  Report.  The committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives, the senate president, the house clerk, the senate clerk, the governor, and the state library on or before November 1, 2016.
+
+12:6  Effective Date.  This act shall take effect upon its passage.
+
+ 
+
+Approved: April 1, 2016
+
+Effective Date: April 1, 2016

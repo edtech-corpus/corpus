@@ -1,0 +1,351 @@
+SENATE BILL No. 367
+
+AN ACT concerning schools; creating the student data privacy act; amending K.S.A.
+2013 Supp. 72-6214 and repealing the existing section.
+
+Be it enacted by the Legislature of the State of Kansas:
+
+New Section 1. Sections 1 through 9, and amendments thereto, shall
+
+be known and may be cited as the student data privacy act.
+
+New Sec. 2. As used in sections 1 through 9, and amendments
+
+thereto:
+(a)
+
+‘‘Aggregate data’’ means data collected or reported at the group,
+cohort or institutional level and which contains no personally identifiable
+student data.
+
+(b)
+
+‘‘Biometric data’’ means one or more measurable biological or
+behavioral characteristics that can be used for automated recognition of
+an individual, such as fingerprints, retina and iris patterns, voiceprints,
+DNA sequence, facial characteristics and handwriting.
+
+(c)
+(d)
+
+‘‘Department’’ means the state department of education.
+‘‘Directory information’’ means a student’s name, address, tele-
+phone listing, participation in officially recognized activities and sports,
+weight and height if the student is a member of an athletic team, and
+degrees, honors or awards received.
+
+(e)
+(f)
+
+‘‘Educational agency’’ means a school district or the department.
+‘‘School district’’ means a unified school district organized and
+
+operated under the laws of this state.
+
+(g)
+
+‘‘Statewide longitudinal student data system’’ means any student
+data system maintained by the department, which assigns a state identi-
+fication number for each student who attends an accredited public or
+private school in Kansas and uses the state identification number to collect
+student data.
+
+(h)
+
+‘‘Student data’’ means the following information contained in a
+
+student’s educational record:
+
+(1) State and national assessment results, including information on
+
+untested students;
+
+information;
+
+(2)
+
+course taking and completion, credits earned and other transcript
+
+course grades and grade point average;
+
+(3)
+(4) date of birth, grade level and expected date of graduation;
+(5) degree, diploma, credential attainment and other school exit in-
+
+formation such as general education development and drop-out data;
+
+attendance and mobility;
+
+(6)
+(7) data required to calculate the federal four-year adjusted cohort
+
+graduation rate, including sufficient exit and drop-out information;
+
+remediation;
+special education data;
+
+(8)
+(9)
+(10) demographic data and program participation information; and
+(11)
+(i)
+
+any other information included in a student’s educational record.
+‘‘Personally identifiable student data’’ means student data that,
+alone or in combination, is linked or linkable to a specific student and
+would allow a reasonable person to identify the student with reasonable
+certainty.
+
+New Sec. 3.
+
+(a) Any student data submitted to and maintained by a
+statewide longitudinal student data system shall only be disclosed by an
+educational agency in accordance with the provisions of this section. An
+educational agency shall provide annual written notice to each student’s
+parent or legal guardian that student data may be disclosed in accordance
+with this section. Such notice shall be signed by the student’s parent or
+legal guardian and maintained on file with the district.
+(b) Student data may be disclosed at any time to:
+(1) The authorized personnel of an educational agency who require
+
+such disclosures to perform their assigned duties;
+
+(2)
+
+the authorized personnel of the state board of regents who require
+
+such disclosures to perform their assigned duties; and
+
+(3)
+
+the student and the parent or legal guardian of the student, pro-
+
+vided the student data pertains solely to such student.
+
+(c) Student data may be disclosed to the authorized personnel of any
+state agency not specified in subsection (b), or to a service provider of a
+state agency, educational agency or school who is engaged to perform a
+function of instruction, assessment or longitudinal reporting, provided
+
+SENATE BILL No. 367—page 2
+
+there is a data-sharing agreement between the educational agency and
+such other state agency or service provider that provides the following:
+(1) The purpose, scope and duration of the data-sharing agreement;
+that the recipient of the student data use such information solely
+(2)
+
+for the purposes specified in the agreement;
+
+(3)
+
+that the recipient shall comply with data access, use and security
+
+restrictions that are specifically described in the agreement; and
+
+(4)
+
+that the student data shall be destroyed when no longer necessary
+for the purposes of the data-sharing agreement or upon expiration of the
+data-sharing agreement, whichever occurs first. Except that a service pro-
+vider engaged to perform a function of instruction may retain student
+transcripts as required by applicable laws and rules and regulations. De-
+struction shall comply with the NISTSP800-88 standards of data destruc-
+tion.
+
+(d) (1) Except as otherwise provided in paragraph (2), student data
+may be disclosed to any governmental entity not specified in subsection
+(b) or (c), or to any public or private audit and evaluation or research
+organization, provided that only aggregate data is disclosed to such gov-
+ernmental entity or audit and evaluation or research organization.
+
+(2) Personally identifiable student data may be disclosed if the stu-
+dent, if an adult, or the parent or legal guardian of the student, if a minor,
+consents to such disclosure in writing.
+
+(e) Notwithstanding the provisions of subsections (b), (c) and (d), an
+
+educational agency may disclose:
+
+(1) Directory information of a student when such agency deems such
+disclosure necessary and the disclosure of which has been consented to
+in writing by such student’s parent or legal guardian;
+
+(2) directory information to an enhancement vendor that provides
+photography services, class ring services, yearbook publishing services,
+memorabilia services or other substantially similar services;
+
+(3)
+
+any information required to be disclosed pursuant to K.S.A. 65-
+101, 65-118 and 65-202, and amendments thereto, provided such infor-
+mation is disclosed in accordance with any provisions of such statutes
+regarding the confidentiality and disclosure of such information;
+
+(4)
+
+any student data in order to comply with any lawful subpoena or
+
+court order directing such disclosure; and
+
+(5)
+
+student data to a public or private postsecondary educational in-
+stitution which is required by such postsecondary educational institution
+for the purposes of application or admission of a student to such postse-
+condary educational institution, provided that such disclosure is con-
+sented to in writing by such student.
+
+New Sec. 4. No school district shall collect biometric data from a
+student, or use any device or mechanism to assess a student’s physiological
+or emotional state, unless the student, if an adult, or the parent or legal
+guardian of the student, if a minor, consents in writing.
+
+New Sec. 5. No test, questionnaire, survey or examination containing
+any questions about the student’s personal beliefs or practices on issues
+such as sex, family life, morality or religion, or any questions about the
+student’s parents’ or guardians’ beliefs and practices on issues such as sex,
+family life, morality or religion, shall be administered to any student en-
+rolled in kindergarten or grades one through 12, unless the parent or
+guardian of the student is notified in writing that this test, questionnaire,
+survey or examination is to be administered and the parent or guardian
+of the student gives written permission for the student to take this test,
+questionnaire, survey or examination. This section shall not prohibit
+school counselors from providing counseling services to a student, in-
+cluding the administration of tests and forms which are part of a coun-
+selor’s student counseling services. Any information obtained through
+such tests or counseling services shall not be stored on any personal mo-
+bile electronic device which is not owned by the school district, including
+but not limited to, laptops, tablets, phones, flash drives, external hard
+drives or virtual servers.
+
+New Sec. 6. The attorney general or any district attorney may enforce
+the provisions of sections 1 through 8, and amendments thereto, by bring-
+ing an action in a court of competent jurisdiction, and may seek injunctive
+relief to enjoin any educational agency, any employee or agent thereof,
+or any other entity in possession of student data from disclosing any stu-
+
+SENATE BILL No. 367—page 3
+
+dent data in violation of the provisions of sections 1 through 8, and
+amendments thereto.
+
+New Sec. 7.
+
+In the event of a security breach or unauthorized disclo-
+sure of student data or personally identifiable information of any student,
+whether by a school district, the department, the state board of education,
+state agency, or other entity or third party given access to student data or
+personally identifiable information of any student, the school district, de-
+partment, state board of education, state agency, or other entity or third
+party shall immediately notify each affected student, if an adult, or the
+parent or legal guardian of the student, if a minor, of the breach or unau-
+thorized disclosure and investigate the causes and consequences of the
+breach or unauthorized disclosure.
+
+New Sec. 8. The department shall annually publish on its website the
+categories of student data that are submitted to and maintained in any
+statewide longitudinal student data system. Publications required by this
+section shall be published with an easily identifiable link located on the
+department’s website homepage.
+
+New Sec. 9. On or before May 15, 2015, and each year thereafter,
+the state board shall submit to the governor and the legislature a written
+report. The report shall include, but not be limited to, the following in-
+formation:
+
+(a) Any categories of student data collected for the statewide longi-
+tudinal student data system that are not otherwise described as student
+data under section 2, and amendments thereto;
+
+(b)
+
+any changes to existing data collections, which includes changes
+to federal reporting requirements by the secretary of the United States
+department of education;
+
+(c)
+
+an explanation of any exceptions provided by the state board in
+the preceding calendar year regarding the release or transfer of student
+data; and
+(d)
+
+the scope and nature of any privacy or security audits completed
+
+in the preceding calendar year.
+
+Sec. 10. K.S.A. 2013 Supp. 72-6214 is hereby amended to read as
+follows: 72-6214. (a) As used in this section, the following terms shall
+have the meanings respectively ascribed to them unless the context re-
+quires otherwise:
+
+(1)
+
+‘‘Board’’ means the state board of regents, the state board of ed-
+ucation, the board of trustees of any public community college, the board
+of regents of any municipal university, the governing board of any tech-
+nical college and the board of education of any school district.
+
+(2)
+
+‘‘Student’’ means a person who has attained 18 years of age, or is
+
+attending an institution of postsecondary education.
+
+(3)
+
+‘‘Pupil’’ means a person who has not attained 18 years of age and
+
+is attending an educational institution below the postsecondary level.
+
+(b) Every board shall adopt a policy in accordance with the student
+data privacy act and applicable federal laws and regulations to protect
+the right of privacy of any student, or pupil and such pupil’s family re-
+garding personally identifiable records, files and data directly related to
+such student or pupil. The board shall adopt and implement procedures
+to effectuate such policy by January 1, 1977. Such procedures shall pro-
+vide for: (1) Means by which any student or parent of a pupil, as the case
+may be, may inspect and review any records or files directly related to
+the student or pupil; and (2) restricting the accessibility and availability
+of any personally identifiable records or files of any student or pupil and
+preventing disclosure thereof unless made upon written consent of such
+student or parent of such pupil, as the case may be. To the extent that
+any other provision of law conflicts with this section, this section shall
+control.
+
+Sec. 11. K.S.A. 2013 Supp. 72-6214 is hereby repealed.
+
+SENATE BILL No. 367—page 4
+
+Sec. 12. This act shall take effect and be in force from and after its
+
+publication in the statute book.
+
+I hereby certify that the above BILL originated in the
+SENATE, and passed that body
+
+SENATE adopted
+
+Conference Committee Report
+
+Passed the HOUSE
+as amended
+
+HOUSE adopted
+
+Conference Committee Report
+
+APPROVED
+
+President of the Senate.
+
+Secretary of the Senate.
+
+Speaker of the House.
+
+Chief Clerk of the House.
+
+Governor.
+
+

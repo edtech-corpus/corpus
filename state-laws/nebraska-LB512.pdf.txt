@@ -1,0 +1,5098 @@
+LB512
+2017
+
+ 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+LB512
+2017
+
+LEGISLATURE OF NEBRASKA
+
+ONE HUNDRED FIFTH LEGISLATURE
+
+FIRST SESSION
+
+LEGISLATIVE BILL 512
+
+Introduced by Education Committee: Groene, 42, Chairperson; Ebke, 32;
+
+Erdman, 47; Kolowski, 31; Linehan, 39; Morfeld, 46; Pansing
+Brooks, 28; Walz, 15.
+
+Read first time January 18, 2017
+
+Committee: Education
+
+A  BILL  FOR  AN  ACT  relating  to  education;  to  amend  sections  79-319,
+
+79-575,  79-746,  79-1065,  79-1108.02,  79-1144,  79-1218,  79-1221,
+
+79-1225,  85-308,  85-917,  85-933,  and  85-949,  Reissue  Revised
+
+Statutes of Nebraska, and sections 9-812, 79-237, 79-2,144, 79-1003,
+
+79-1007.11,  79-1017.01,  and  79-1054,  Revised  Statutes  Cumulative
+
+Supplement,  2016;  to  fund  provisions  related  to  the  Nebraska
+
+Education Improvement Fund; to change option enrollment; to change a
+
+deadline for the state school security director; to transfer duties
+
+and  eliminate  the  State  Board  of  Vocational  Education;  to  change
+
+reorganization  provisions  for  low-enrollment  school  districts;  to
+
+change  provisions  for  school  board  secretaries  and  treasurers;  to
+
+eliminate  the  best  practices  allowance  and  best  practices  aid;  to
+
+provide  for  repayment  of  federal  funds;  to  repeal  the  Council  on
+
+Student  Attendance;  to  eliminate  obsolete  provisions;  to  harmonize
+
+provisions;  to  repeal  the  original  sections;  to  outright  repeal
+
+sections  79-321,  79-527.01,  79-738,  79-739,  79-740,  79-741,  79-742,
+
+79-743,  and  79-744,  Reissue  Revised  Statutes  of  Nebraska,  and
+
+section  79-1004,  Revised  Statutes  Cumulative  Supplement,  2016;  and
+
+to declare an emergency.
+
+Be it enacted by the people of the State of Nebraska,
+
+-1-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+Section  1.  Section  9-812,  Revised  Statutes  Cumulative  Supplement,
+
+2016, is amended to read:
+
+9-812  (1)  All  money  received  from  the  operation  of  lottery  games
+
+conducted pursuant to the State Lottery Act in Nebraska shall be credited
+
+to the State Lottery Operation Trust Fund, which fund is hereby created.
+
+All  payments  of  the  costs  of  establishing  and  maintaining  the  lottery
+
+games  shall  be  made  from  the  State  Lottery  Operation  Cash  Fund.  In
+
+accordance  with  legislative  appropriations,  money  for  payments  for
+
+expenses  of  the  division  shall  be  transferred  from  the  State  Lottery
+
+Operation Trust Fund to the State Lottery Operation Cash Fund, which fund
+
+is hereby created. All money necessary for the payment of lottery prizes
+
+shall  be  transferred  from  the  State  Lottery  Operation  Trust  Fund  to  the
+
+State Lottery Prize Trust Fund, which fund is hereby created. The amount
+
+used  for  the  payment  of  lottery  prizes  shall  not  be  less  than  forty
+
+percent of the dollar amount of the lottery tickets which have been sold.
+
+(2) A portion of the dollar amount of the lottery tickets which have
+
+been  sold  on  an  annualized  basis  shall  be  transferred  from  the  State
+
+Lottery  Operation  Trust  Fund  to  the  Education  Innovation  Fund,  the
+
+Nebraska Opportunity Grant Fund, the Nebraska Education Improvement Fund,
+
+the Nebraska Environmental Trust Fund, the Nebraska State Fair Board, and
+
+the Compulsive Gamblers Assistance Fund as provided in subsection (3) of
+
+this  section.  The  dollar  amount  transferred  pursuant  to  this  subsection
+
+shall equal the greater of (a) the dollar amount transferred to the funds
+
+in  fiscal  year  2002-03  or  (b)  any  amount  which  constitutes  at  least
+
+twenty-two  percent  and  no  more  than  twenty-five  percent  of  the  dollar
+
+amount  of  the  lottery  tickets  which  have  been  sold  on  an  annualized
+
+basis.  To  the  extent  that  funds  are  available,  the  Tax  Commissioner  and
+
+director  may  authorize  a  transfer  exceeding  twenty-five  percent  of  the
+
+dollar amount of the lottery tickets sold on an annualized basis.
+
+(3)  Of  the  money  available  to  be  transferred  to  the  Education
+
+Innovation  Fund,  the  Nebraska  Opportunity  Grant  Fund,  the  Nebraska
+
+-2-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+Education  Improvement  Fund,  the  Nebraska  Environmental  Trust  Fund,  the
+
+Nebraska State Fair Board, and the Compulsive Gamblers Assistance Fund:
+
+(a) The first five hundred thousand dollars shall be transferred to
+
+the Compulsive Gamblers Assistance Fund to be used as provided in section
+
+9-1006;
+
+(b)  Beginning  July  1,  2016,  forty-four  and  one-half  percent  of  the
+
+money  remaining  after  the  payment  of  prizes  and  operating  expenses  and
+
+the initial transfer to the Compulsive Gamblers Assistance Fund shall be
+
+transferred to the Nebraska Education Improvement Fund;
+
+(c) Through June 30, 2016, nineteen and three-fourths percent of the
+
+money  remaining  after  the  payment  of  prizes  and  operating  expenses  and
+
+the initial transfer to the Compulsive Gamblers Assistance Fund shall be
+
+transferred to the Education Innovation Fund;
+
+(d) Through June 30, 2016, twenty-four and three-fourths percent of
+
+the  money  remaining  after  the  payment  of  prizes  and  operating  expenses
+
+and the initial transfer to the Compulsive Gamblers Assistance Fund shall
+
+be transferred to the Nebraska Opportunity Grant Fund;
+
+(c) (e) Forty-four and one-half percent of the money remaining after
+
+the payment of prizes and operating expenses and the initial transfer to
+
+the  Compulsive  Gamblers  Assistance  Fund  shall  be  transferred  to  the
+
+Nebraska Environmental Trust Fund to be used as provided in the Nebraska
+
+Environmental Trust Act;
+
+(d)  (f)  Ten  percent  of  the  money  remaining  after  the  payment  of
+
+prizes and operating expenses and the initial transfer to the Compulsive
+
+Gamblers Assistance Fund shall be transferred to the Nebraska State Fair
+
+Board  if  the  most  populous  city  within  the  county  in  which  the  fair  is
+
+located  provides  matching  funds  equivalent  to  ten  percent  of  the  funds
+
+available for transfer. Such matching funds may be obtained from the city
+
+and  any  other  private  or  public  entity,  except  that  no  portion  of  such
+
+matching funds shall be provided by the state. If the Nebraska State Fair
+
+ceases  operations,  ten  percent  of  the  money  remaining  after  the  payment
+
+-3-
+
+LB512
+2017
+
+LB512
+2017
+
+Fund; and
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+of  prizes  and  operating  expenses  and  the  initial  transfer  to  the
+
+Compulsive  Gamblers  Assistance  Fund  shall  be  transferred  to  the  General
+
+(e)  (g)  One  percent  of  the  money  remaining  after  the  payment  of
+
+prizes and operating expenses and the initial transfer to the Compulsive
+
+Gamblers Assistance Fund shall be transferred to the Compulsive Gamblers
+
+Assistance Fund to be used as provided in section 9-1006.
+
+(4)(a)  The  Education  Innovation  Fund  is  created.  At  least  seventy-
+
+five  percent  of  the  lottery  proceeds  allocated  to  the  Education
+
+Innovation Fund shall be available for disbursement.
+
+(b) For fiscal year 2014-15, the Education Innovation Fund shall be
+
+allocated,  after  administrative  expenses,  as  follows:  (i)  The  first  one
+
+million  two  hundred  thousand  dollars  shall  be  transferred  to  the
+
+Excellence in Teaching Cash Fund to fund the Excellence in Teaching Act;
+
+(ii) the next allocation shall be distributed to local systems as grants
+
+for  approved  accelerated  or  differentiated  curriculum  programs  for
+
+students  identified  as  learners  with  high  ability  pursuant  to  section
+
+79-1108.02  in  an  aggregated  amount  up  to  the  amount  distributed  in  the
+
+prior  fiscal  year  for  such  purposes  increased  by  the  basic  allowable
+
+growth rate pursuant to section 79-1025; (iii) the next one million eight
+
+hundred  fifty  thousand  dollars  shall  be  allocated  to  early  childhood
+
+education grants awarded by the State Department of Education pursuant to
+
+section  79-1103;  (iv)  the  next  one  million  dollars  shall  be  transferred
+
+to the Early Childhood Education Endowment Cash Fund for use pursuant to
+
+section  79-1104.02;  (v)  the  next  two  hundred  thousand  dollars  shall  be
+
+used to provide grants to establish bridge programs pursuant to sections
+
+79-1189  to  79-1195;  (vi)  the  next  ten  thousand  dollars  shall  be  used  to
+
+fund  the  Interstate  Compact  on  Educational  Opportunity  for  Military
+
+Children;  (vii)  the  next  two  million  dollars  shall  be  allocated  for
+
+distance education equipment and incentives pursuant to sections 79-1336
+
+and 79-1337; (viii) the next one million dollars shall be transferred to
+
+-4-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+the School District Reorganization Fund; (ix) up to the next one hundred
+
+forty-five  thousand  dollars  shall  be  used  by  the  State  Department  of
+
+Education  to  implement  section  79-759;  and  (x)  the  next  three  hundred
+
+thirty-five  thousand  dollars  shall  be  allocated  to  local  systems  as
+
+grants awarded by the State Department of Education to assist schools in
+
+evaluating and improving career education programs to align such programs
+
+with  the  state's  economic  and  workforce  needs.  Except  for  funds
+
+transferred  to  the  School  District  Reorganization  Fund,  the  Early
+
+Childhood  Education  Endowment  Cash  Fund,  or  the  department  for  early
+
+childhood education grants pursuant to section 79-1103, no funds received
+
+as  allocations  from  the  Education  Innovation  Fund  pursuant  to  this
+
+subdivision may be obligated for payment to be made after June 30, 2016,
+
+and  such  funds  received  as  transfers  or  allocations  from  the  Education
+
+Innovation  Fund  that  have  not  been  used  for  their  designated  purpose  as
+
+of  such  date  shall  be  transferred  to  the  Nebraska  Education  Improvement
+
+Fund on or before August 1, 2016.
+
+(c) For fiscal year 2015-16, the Education Innovation Fund shall be
+
+allocated,  after  administrative  expenses,  as  follows:  (i)  The  first  one
+
+million  two  hundred  thousand  dollars  shall  be  transferred  to  the
+
+Excellence in Teaching Cash Fund to fund the Excellence in Teaching Act;
+
+(ii) the next allocation shall be distributed to local systems as grants
+
+for  approved  accelerated  or  differentiated  curriculum  programs  for
+
+students  identified  as  learners  with  high  ability  pursuant  to  section
+
+79-1108.02  in  an  aggregated  amount  up  to  the  amount  distributed  in  the
+
+prior  fiscal  year  for  such  purposes  increased  by  the  basic  allowable
+
+growth rate pursuant to section 79-1025; (iii) the next one million nine
+
+hundred  fifty  thousand  dollars  shall  be  allocated  to  early  childhood
+
+education grants awarded by the State Department of Education pursuant to
+
+section  79-1103;  (iv)  the  next  one  million  dollars  shall  be  transferred
+
+to the Early Childhood Education Endowment Cash Fund for use pursuant to
+
+section  79-1104.02;  (v)  the  next  ten  thousand  dollars  shall  be  used  to
+
+-5-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+fund  the  Interstate  Compact  on  Educational  Opportunity  for  Military
+
+Children;  (vi)  the  next  two  million  five  hundred  thousand  dollars  shall
+
+be allocated for distance education equipment and incentives pursuant to
+
+sections 79-1336 and 79-1337; (vii) the next one million dollars shall be
+
+transferred to the School District Reorganization Fund; (viii) up to the
+
+next  one  hundred  forty-five  thousand  dollars  shall  be  used  by  the  State
+
+Department  of  Education  to  implement  section  79-759;  and  (ix)  of  the
+
+amount  remaining,  (A)  three  million  dollars  shall  be  retained  in  the
+
+Education  Innovation  Fund  to  transfer  to  the  Nebraska  Education
+
+Improvement Fund on June 30, 2016, and (B) the remaining amount shall be
+
+allocated  to  local  systems  as  grants  awarded  by  the  State  Department  of
+
+Education to assist schools in evaluating and improving career education
+
+programs  to  align  such  programs  with  the  state's  economic  and  workforce
+
+needs. Except for funds transferred to the School District Reorganization
+
+Fund,  the  Early  Childhood  Education  Endowment  Cash  Fund,  or  the
+
+department  for  early  childhood  education  grants  pursuant  to  section
+
+79-1103,  no  funds  received  as  allocations  from  the  Education  Innovation
+
+Fund pursuant to this subdivision may be obligated for payment to be made
+
+after June 30, 2016, and such funds received as transfers or allocations
+
+from  the  Education  Innovation  Fund  that  have  not  been  used  for  their
+
+designated  purpose  as  of  such  date  shall  be  transferred  to  the  Nebraska
+
+Education Improvement Fund on or before August 1, 2016.
+
+(d)  The  Education  Innovation  Fund  terminates  on  June  30,  2016.  Any
+
+money  in  the  fund  on  such  date  shall  be  transferred  to  the  Nebraska
+
+Education Improvement Fund on such date.
+
+(4) (5) The Nebraska Education Improvement Fund is created. The fund
+
+shall consist of money transferred pursuant to subsection subsections (3)
+
+and  (4)  of  this  section,  money  transferred  pursuant  to  section  85-1920,
+
+and  any  other  funds  appropriated  by  the  Legislature.  The  fund  shall  be
+
+allocated,  after  actual  and  necessary  administrative  expenses,  as
+
+provided  in  this  section  for  fiscal  years  2016-17  through  2020-21.  A
+
+-6-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+portion  of  each  allocation  may  be  retained  by  the  agency  to  which  the
+
+allocation  is  made  or  the  agency  administering  the  fund  to  which  the
+
+allocation  is  made  for  actual  and  necessary  expenses  incurred  by  such
+
+agency  for  administration,  evaluation,  and  technical  assistance  related
+
+to  the  purposes  of  the  allocation,  except  that  no  amount  of  the
+
+allocation  to  the  Nebraska  Opportunity  Grant  Fund  may  be  used  for  such
+
+purposes. On or before December 31, 2019, the Education Committee of the
+
+Legislature  shall  electronically  submit  recommendations  to  the  Clerk  of
+
+the  Legislature  regarding  how  the  fund  should  be  allocated  to  best
+
+advance the educational priorities of the state for the five-year period
+
+beginning  with  fiscal  year  2021-22.  For  fiscal  year  2016-17,  an  amount
+
+equal to ten percent of the revenue allocated to the Education Innovation
+
+Fund  and  to  the  Nebraska  Opportunity  Grant  Fund  for  fiscal  year  2015-16
+
+shall be retained in the Nebraska Education Improvement Fund. For fiscal
+
+years  2017-18  through  2020-21,  an  amount  equal  to  ten  percent  of  the
+
+revenue received by the Nebraska Education Improvement Fund in the prior
+
+fiscal  year  shall  be  retained  in  the  fund.  For  fiscal  years  2016-17
+
+through 2020-21, the remainder of the fund, after payment of any learning
+
+community  transition  aid  pursuant  to  section  79-10,145,  shall  be
+
+(a)  One  percent  of  the  allocated  funds  to  the  Expanded  Learning
+
+Opportunity  Grant  Fund  to  carry  out  the  Expanded  Learning  Opportunity
+
+allocated as follows:
+
+Grant Program Act;
+
+(b)  Seventeen  percent  of  the  allocated  funds  to  the  Department  of
+
+Education Innovative Grant Fund to be used (i) for competitive innovation
+
+grants  pursuant  to  section  79-1054  and  (ii)  for  school  fiscal  year
+
+2017-18, to carry out the purposes of section 79-759;
+
+(c) Nine percent of the allocated funds to the Community College Gap
+
+Assistance Program Fund to carry out the community college gap assistance
+
+program;
+
+(d)  Eight  percent  of  the  allocated  funds  to  the  Excellence  in
+
+-7-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+Teaching Cash Fund to carry out the Excellence in Teaching Act;
+
+(e)  Sixty-two  percent  of  the  allocated  funds  to  the  Nebraska
+
+Opportunity Grant Fund to carry out the Nebraska Opportunity Grant Act in
+
+conjunction with appropriations from the General Fund; and
+
+(f) Three percent of the allocated funds to fund distance education
+
+incentives pursuant to section 79-1337.
+
+(5)  (6)  Any  money  in  the  State  Lottery  Operation  Trust  Fund,  the
+
+State  Lottery  Operation  Cash  Fund,  the  State  Lottery  Prize  Trust  Fund,
+
+the Nebraska Education Improvement Fund, or the Education Innovation Fund
+
+available  for  investment  shall  be  invested  by  the  state  investment
+
+officer  pursuant  to  the  Nebraska  Capital  Expansion  Act  and  the  Nebraska
+
+State Funds Investment Act.
+
+(6)  (7)  Unclaimed  prize  money  on  a  winning  lottery  ticket  shall  be
+
+retained for a period of time prescribed by rules and regulations. If no
+
+claim  is  made  within  such  period,  the  prize  money  shall  be  used  at  the
+
+discretion of the Tax Commissioner for any of the purposes prescribed in
+
+this section.
+
+2016, is amended to read:
+
+Sec.  2.  Section  79-237,  Revised  Statutes  Cumulative  Supplement,
+
+79-237 (1) For a student to begin attendance as an option student in
+
+an  option  school  district  in  which  the  student  resides,  the  student's
+
+parent or legal guardian shall submit an application to the school board
+
+of  the  option  school  district  between  September  1  and  March  15  for
+
+attendance  during  the  following  and  subsequent  school  years.  Except  as
+
+provided in subsection (2) of this section, applications submitted after
+
+March  15  shall  contain  a  release  approval  from  the  resident  school
+
+district  on  the  application  form  prescribed  and  furnished  by  the  State
+
+Department  of  Education  pursuant  to  subsection  (8)  of  this  section.  A
+
+district may not accept or approve any applications submitted after such
+
+date  without  such  a  release  approval.  The  option  school  district  shall
+
+provide the resident school district with the name of the applicant on or
+
+-8-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+before  April  1  or,  in  the  case  of  an  application  submitted  after  March
+
+15, within sixty days after submission. The option school district shall
+
+notify,  in  writing,  the  parent  or  legal  guardian  of  the  student  and  the
+
+resident school district whether the application is accepted or rejected
+
+on  or  before  April  1  or,  in  the  case  of  an  application  submitted  after
+
+March  15,  within  sixty  days  after  submission.  An  option  school  district
+
+that  is  a  member  of  a  learning  community  may  not  approve  an  application
+
+pursuant  to  this  section  for  a  student  who  resides  in  such  learning
+
+community to attend prior to school year 2017-18.
+
+(2) A student who relocates to a different resident school district
+
+after  February  1  or  whose  option  school  district  merges  with  another
+
+district  effective  after  February  1  may  submit  an  application  to  the
+
+school  board  of  an  option  school  district  for  attendance  during  the
+
+current  or  immediately  following  and  subsequent  school  years  unless  the
+
+applicant  is  a  resident  of  a  learning  community  and  the  application  is
+
+for attendance to begin prior to school year 2017-18 in an option school
+
+district  that  is  also  a  member  of  such  learning  community.  Such
+
+application does not require the release approval of the resident school
+
+district.  The  option  school  district  shall  accept  or  reject  such
+
+application within forty-five days.
+
+(3) A parent or guardian may provide information on the application
+
+for  an  option  school  district  that  is  a  member  of  a  learning  community
+
+regarding  the  applicant's  potential  qualification  for  free  or  reduced-
+
+price  lunches.  Any  such  information  provided  shall  be  subject  to
+
+verification and shall only be used for the purposes of subsection (4) of
+
+section 79-238. Nothing in this subsection requires a parent or guardian
+
+to  provide  such  information.  Determinations  about  an  applicant's
+
+qualification  for  free  or  reduced-price  lunches  for  purposes  of
+
+subsection  (4)  of  section  79-238  shall  be  based  on  any  verified
+
+information  provided  on  the  application.  If  no  such  information  is
+
+provided,  the  student  shall  be  presumed  not  to  qualify  for  free  or
+
+-9-
+
+LB512
+2017
+
+LB512
+2017
+
+79-238.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+reduced-price  lunches  for  the  purposes  of  subsection  (4)  of  section
+
+(4) Applications for students who do not actually attend the option
+
+school  district  may  be  withdrawn  in  good  standing  upon  mutual  agreement
+
+by both the resident and option school districts.
+
+(5)  No  option  student  shall  attend  an  option  school  district  for
+
+less  than  one  school  year  unless  the  student  relocates  to  a  different
+
+resident school district, completes requirements for graduation prior to
+
+the  end  of  his  or  her  senior  year,  transfers  to  a  private  or  parochial
+
+school,  or  upon  mutual  agreement  of  the  resident  and  option  school
+
+districts  cancels  the  enrollment  option  and  returns  to  the  resident
+
+school district.
+
+(6)  Except  as  provided  in  subsection  (5)  of  this  section  or,  for
+
+open enrollment option students, in section 79-235.01, the option student
+
+shall  attend  the  option  school  district  until  graduation  unless  the
+
+student relocates in a different resident school district, transfers to a
+
+private or parochial school, or chooses to return to the resident school
+
+district.
+
+(7) In each case of cancellation pursuant to subsections (5) and (6)
+
+of  this  section,  the  student's  parent  or  legal  guardian  shall  provide
+
+written  notification  to  the  school  board  of  the  option  school  district
+
+and the resident school district on forms prescribed and furnished by the
+
+department  under  subsection  (8)  of  this  section  in  advance  of  such
+
+cancellation.
+
+(8)  The  application  and  cancellation  forms  shall  be  prescribed  and
+
+furnished by the State Department of Education.
+
+(9)  An  option  student  who  subsequently  chooses  to  attend  a  private
+
+or  parochial  school  and  who  is  not  an  open  enrollment  option  student
+
+shall  be  automatically  accepted  to  return  to  either  the  resident  school
+
+district  or  option  school  district  upon  the  completion  of  the  grade
+
+levels  offered  at  the  private  or  parochial  school.  If  such  student
+
+-10-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+chooses to return to the option school district, the student's parent or
+
+legal  guardian  shall  submit  another  application  to  the  school  board  of
+
+the option school district which shall be automatically accepted, and the
+
+deadlines prescribed in this section shall be waived.
+
+Sec.  3.  Section  79-2,144,  Revised  Statutes  Cumulative  Supplement,
+
+2016, is amended to read:
+
+79-2,144  The  state  school  security  director  appointed  pursuant  to
+
+section  79-2,143  shall  be  responsible  for  providing  leadership  and
+
+support  for  safety  and  security  for  the  public  schools.  Duties  of  the
+
+director include, but are not limited to:
+
+(1) Collecting safety and security plans, required pursuant to rules
+
+and  regulations  of  the  State  Department  of  Education  relating  to
+
+accreditation of schools, and other school security information from each
+
+school  system  in  Nebraska.  School  districts  shall  provide  the  state
+
+school security director with the safety and security plans of the school
+
+district  and  any  other  security  information  requested  by  the  director,
+
+but  any  plans  or  information  submitted  by  a  school  district  may  be
+
+withheld  by  the  department  pursuant  to  subdivision  (8)  of  section
+
+84-712.05;
+
+(2) Recommending minimum standards for school security on or before
+
+January 1, 2016, to the State Board of Education;
+
+(3)  Conducting  an  assessment  of  the  security  of  each  public  school
+
+building, which assessment shall be completed by August 31, 2019 2017;
+
+(4) Identifying deficiencies in school security based on the minimum
+
+standards  adopted  by  the  State  Board  of  Education  and  making
+
+recommendations to school boards for remedying such deficiencies;
+
+(5)  Establishing  security  awareness  and  preparedness  tools  and
+
+training programs for public school staff;
+
+(6)  Establishing  research-based  model  instructional  programs  for
+
+staff, students, and parents to address the underlying causes for violent
+
+attacks on schools;
+
+-11-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+(7)  Overseeing  suicide  awareness  and  prevention  training  in  public
+
+schools pursuant to section 79-2,146;
+
+(8) Establishing tornado preparedness standards which shall include,
+
+but  not  be  limited  to,  ensuring  that  every  school  conduct  at  least  two
+
+tornado drills per year;
+
+(9) Responding to inquiries and requests for assistance relating to
+
+school security from private, denominational, and parochial schools; and
+
+(10) Recommending curricular and extracurricular materials to assist
+
+school  districts  in  preventing  and  responding  to  cyberbullying  and
+
+digital citizenship issues.
+
+amended to read:
+
+Sec.  4.  Section  79-319,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+79-319 The State Board of Education has the authority to (1) provide
+
+for  the  education  of  and  approve  special  educational  facilities  and
+
+programs  provided  in  the  public  schools  for  children  with  disabilities,
+
+(2)  act  as  the  state's  authority  for  the  approval  of  all  types  of
+
+veterans  educational  programs  and  have  jurisdiction  over  the
+
+administration and supervision of on-the-job and apprenticeship training,
+
+on-the-farm training, and flight training programs for veterans which are
+
+financially supported in whole or in part by the federal government, (3)
+
+supervise and administer any educational or training program established
+
+within  the  state  by  the  federal  government,  except  postsecondary
+
+education in approved colleges, (4) coordinate educational activities in
+
+the  state  that  pertain  to  elementary  and  secondary  education  and  such
+
+other  educational  programs  as  are  placed  by  statute  under  the
+
+jurisdiction of the board, (5) administer any state or federal career and
+
+technical  education  laws  and  funding  as  directed,  (6)  receive  and
+
+distribute  according  to  law  any  money,  commodities,  goods,  or  services
+
+made available to the board from the state or federal government or from
+
+any other source and distribute money in accordance with the terms of any
+
+grant  received,  including  the  distribution  of  money  from  grants  by  the
+
+-12-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+federal  government  to  schools,  preschools,  day  care  centers,  day  care
+
+homes,  nonprofit  agencies,  and  political  subdivisions  of  the  state  or
+
+institutions of learning not owned or exclusively controlled by the state
+
+or  a  political  subdivision  thereof,  so  long  as  no  public  funds  of  the
+
+state, any political subdivision, or any public corporation are added to
+
+such  federal  grants,  (7)  (6)  publish,  from  time  to  time,  directories  of
+
+schools  and  educators,  pamphlets,  curriculum  guides,  rules  and
+
+regulations,  handbooks  on  school  constitution  and  other  matters  of
+
+interest to educators, and similar publications. Such publications may be
+
+distributed  without  charge  to  schools  and  school  officials  within  this
+
+state  or  may  be  sold  at  a  price  not  less  than  the  actual  cost  of
+
+printing.  The  proceeds  of  such  sale  shall  be  remitted  to  the  State
+
+Treasurer for credit to the State Department of Education Cash Fund which
+
+may  be  used  by  the  State  Department  of  Education  for  the  purpose  of
+
+printing and distributing further such publications on a nonprofit basis.
+
+Copies  of  such  publications  shall  be  provided  to  the  Nebraska
+
+Publications  Clearinghouse  pursuant  to  section  51-413,  and  (8)  (7)  when
+
+necessary  for  the  proper  administration  of  the  functions  of  the
+
+department  and  with  the  approval  of  the  Governor  and  the  Department  of
+
+Administrative Services, rent or lease space outside the State Capitol.
+
+Sec.  5.  Section  79-575,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+amended to read:
+
+79-575  The  secretary,  treasurer,  or  person  delegated  by  the  school
+
+board  of  a  school  district  shall  draw  and  sign  all  orders  upon  the
+
+treasurer for all money to be disbursed by the district and all warrants
+
+upon  the  county  treasurer  for  money  raised  for  district  purposes  or
+
+apportioned to the district by the county treasurer and shall present the
+
+same  to  the  president  to  be  countersigned.  No  warrant,  check,  or  other
+
+instrument  drawn  upon  bank  depository  funds  of  the  district  shall  be
+
+issued  until  so  countersigned.  No  warrant,  check,  or  other  instrument
+
+drawn  upon  bank  depository  funds  of  the  district  shall  be  countersigned
+
+-13-
+
+LB512
+2017
+
+LB512
+2017
+
+by  the  president  until  the  amount  for  which  it  is  drawn  is  written  upon
+
+its face. Facsimile signatures of board members may be used, and a person
+
+or  persons  delegated  by  the  board  may  sign  and  validate  all  warrants,
+
+checks,  and  other  instruments  drawn  upon  bank  depository  funds  of  the
+
+district.
+
+amended to read:
+
+Sec.  6.  Section  79-746,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+79-746  Any  public  school  district  in  this  state  may  enter  into  an
+
+agreement with any other public school district in this state to provide
+
+and  share  vocational  educational  programs,  particularly  programs
+
+involving recent technological developments such as electronics, computer
+
+science,  and  communications.  The  agreement's  terms  shall  be  approved  by
+
+the  school  board  or  board  of  education  of  each  school  district
+
+participating in the agreement. The terms of the agreement shall include,
+
+but  not  be  limited  to,  the  method  of  sharing  or  hiring  personnel,
+
+purchasing equipment and materials, and course curriculum.
+
+The  State  Board  of  Vocational  Education  shall  be  apprised  of  all
+
+interdistrict school agreements at the time such agreements are executed.
+
+Sec.  7.  Section  79-1003,  Revised  Statutes  Cumulative  Supplement,
+
+2016, is amended to read:
+
+Support Act:
+
+79-1003 For purposes of the Tax Equity and Educational Opportunities
+
+(1)  Adjusted  general  fund  operating  expenditures  means  (a)  for
+
+school  fiscal  years  2013-14  through  2015-16,  the  difference  of  the
+
+general fund operating expenditures as calculated pursuant to subdivision
+
+(23)  of  this  section  increased  by  the  cost  growth  factor  calculated
+
+pursuant  to  section  79-1007.10,  minus  the  transportation  allowance,
+
+special  receipts  allowance,  poverty  allowance,  limited  English
+
+proficiency  allowance,  distance  education  and  telecommunications
+
+allowance,  elementary  site  allowance,  summer  school  allowance,
+
+instructional  time  allowance,  teacher  education  allowance,  and  focus
+
+-14-
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+school and program allowance, (b) for school fiscal years 2016-17 through
+
+2018-19,  the  difference  of  the  general  fund  operating  expenditures  as
+
+calculated pursuant to subdivision (23) of this section increased by the
+
+cost  growth  factor  calculated  pursuant  to  section  79-1007.10,  minus  the
+
+transportation  allowance,  special  receipts  allowance,  poverty  allowance,
+
+limited 
+
+English 
+
+proficiency 
+
+allowance, 
+
+distance 
+
+education 
+
+and
+
+telecommunications  allowance,  elementary  site  allowance,  summer  school
+
+allowance,  best  practices  allowance,  and  focus  school  and  program
+
+allowance, and (c) for school fiscal year 2019-20 and each school fiscal
+
+year  thereafter,  the  difference  of  the  general  fund  operating
+
+expenditures  as  calculated  pursuant  to  subdivision  (23)  of  this  section
+
+increased  by  the  cost  growth  factor  calculated  pursuant  to  section
+
+79-1007.10,  minus  the  transportation  allowance,  special  receipts
+
+allowance,  poverty  allowance,  limited  English  proficiency  allowance,
+
+distance  education  and  telecommunications  allowance,  elementary  site
+
+allowance,  summer  school  allowance,  best  practices  allowance,  community
+
+achievement plan allowance, and focus school and program allowance;
+
+(2)  Adjusted  valuation  means  the  assessed  valuation  of  taxable
+
+property  of  each  local  system  in  the  state,  adjusted  pursuant  to  the
+
+adjustment factors described in section 79-1016. Adjusted valuation means
+
+the adjusted valuation for the property tax year ending during the school
+
+fiscal year immediately preceding the school fiscal year in which the aid
+
+based  upon  that  value  is  to  be  paid.  For  purposes  of  determining  the
+
+local  effort  rate  yield  pursuant  to  section  79-1015.01,  adjusted
+
+valuation does not include the value of any property which a court, by a
+
+final  judgment  from  which  no  appeal  is  taken,  has  declared  to  be
+
+nontaxable or exempt from taxation;
+
+(3)  Allocated  income  tax  funds  means  the  amount  of  assistance  paid
+
+to a local system pursuant to section 79-1005.01 as adjusted, for school
+
+fiscal  years  prior  to  school  fiscal  year  2017-18,  by  the  minimum  levy
+
+adjustment pursuant to section 79-1008.02;
+
+-15-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+(4) Average daily membership means the average daily membership for
+
+grades  kindergarten  through  twelve  attributable  to  the  local  system,  as
+
+provided in each district's annual statistical summary, and includes the
+
+proportionate share of students enrolled in a public school instructional
+
+program on less than a full-time basis;
+
+(5)  Base  fiscal  year  means  the  first  school  fiscal  year  following
+
+the  school  fiscal  year  in  which  the  reorganization  or  unification
+
+occurred;
+
+(6) Board means the school board of each school district;
+
+(7)  Categorical  funds  means  funds  limited  to  a  specific  purpose  by
+
+federal or state law, including, but not limited to, Title I funds, Title
+
+VI funds, federal vocational education funds, federal school lunch funds,
+
+Indian  education  funds,  Head  Start  funds,  and  funds  from  the  Education
+
+Innovation Fund;
+
+(8)  Consolidate  means  to  voluntarily  reduce  the  number  of  school
+
+districts  providing  education  to  a  grade  group  and  does  not  include
+
+dissolution pursuant to section 79-498;
+
+(9) Converted contract means an expired contract that was in effect
+
+for at least fifteen school years beginning prior to school year 2012-13
+
+for  the  education  of  students  in  a  nonresident  district  in  exchange  for
+
+tuition  from  the  resident  district  when  the  expiration  of  such  contract
+
+results  in  the  nonresident  district  educating  students,  who  would  have
+
+been  covered  by  the  contract  if  the  contract  were  still  in  effect,  as
+
+option students pursuant to the enrollment option program established in
+
+section 79-234;
+
+(10)  Converted  contract  option  student  means  a  student  who  will  be
+
+an  option  student  pursuant  to  the  enrollment  option  program  established
+
+in  section  79-234  for  the  school  fiscal  year  for  which  aid  is  being
+
+calculated and who would have been covered by a converted contract if the
+
+contract  were  still  in  effect  and  such  school  fiscal  year  is  the  first
+
+school fiscal year for which such contract is not in effect;
+
+-16-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+(11) Department means the State Department of Education;
+
+(12)  District  means  any  Class  I,  II,  III,  IV,  V,  or  VI  school
+
+district  or  and,  beginning  with  the  calculation  of  state  aid  for  school
+
+fiscal  year  2011-12  and  each  school  fiscal  year  thereafter,  a  unified
+
+system as defined in section 79-4,108;
+
+(13)  Ensuing  school  fiscal  year  means  the  school  fiscal  year
+
+following the current school fiscal year;
+
+(14)  Equalization  aid  means  the  amount  of  assistance  calculated  to
+
+be paid to a local system pursuant to sections 79-1007.11 to 79-1007.23,
+
+79-1007.25, 79-1008.01 to 79-1022, and 79-1022.02;
+
+(15)  Fall  membership  means  the  total  membership  in  kindergarten
+
+through grade twelve attributable to the local system as reported on the
+
+fall  school  district  membership  reports  for  each  district  pursuant  to
+
+section 79-528;
+
+(16)  Fiscal  year  means  the  state  fiscal  year  which  is  the  period
+
+from July 1 to the following June 30;
+
+(17) Formula students means:
+
+(a) For state aid certified pursuant to section 79-1022, the sum of
+
+the  product  of  fall  membership  from  the  school  fiscal  year  immediately
+
+preceding  the  school  fiscal  year  in  which  the  aid  is  to  be  paid
+
+multiplied  by  the  average  ratio  of  average  daily  membership  to  fall
+
+membership  for  the  second  school  fiscal  year  immediately  preceding  the
+
+school  fiscal  year  in  which  the  aid  is  to  be  paid  and  the  prior  two
+
+school  fiscal  years  plus  sixty  percent  of  the  qualified  early  childhood
+
+education fall membership plus tuitioned students from the school fiscal
+
+year  immediately  preceding  the  school  fiscal  year  in  which  aid  is  to  be
+
+paid minus the product of the number of students enrolled in kindergarten
+
+that is not full-day kindergarten from the fall membership multiplied by
+
+0.5; and
+
+(b)  For  the  final  calculation  of  state  aid  pursuant  to  section
+
+79-1065,  the  sum  of  average  daily  membership  plus  sixty  percent  of  the
+
+-17-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+qualified  early  childhood  education  average  daily  membership  plus
+
+tuitioned  students  minus  the  product  of  the  number  of  students  enrolled
+
+in kindergarten that is not full-day kindergarten from the average daily
+
+membership  multiplied  by  0.5  from  the  school  fiscal  year  immediately
+
+preceding the school fiscal year in which aid was paid;
+
+(18)  Free  lunch  and  free  milk  calculated  students  means,  using  the
+
+most  recent  data  available  on  November  1  of  the  school  fiscal  year
+
+immediately preceding the school fiscal year in which aid is to be paid,
+
+(a) for schools that did not provide free meals to all students pursuant
+
+to  the  community  eligibility  provision,  students  who  individually
+
+qualified  for  free  lunches  or  free  milk  pursuant  to  the  federal  Richard
+
+B.  Russell  National  School  Lunch  Act,  42  U.S.C.  1751  et  seq.,  and  the
+
+federal Child Nutrition Act of 1966, 42 U.S.C. 1771 et seq., as such acts
+
+and  sections  existed  on  January  1,  2015,  and  rules  and  regulations
+
+adopted thereunder, plus (b) for schools that provided free meals to all
+
+students pursuant to the community eligibility provision, (i) for school
+
+fiscal year 2016-17, the product of the students who attended such school
+
+multiplied  by  the  identified  student  percentage  calculated  pursuant  to
+
+such  federal  provision  or  (ii)  for  school  fiscal  year  2017-18  and  each
+
+school  fiscal  year  thereafter,  the  greater  of  the  number  of  students  in
+
+such school who individually qualified for free lunch or free milk using
+
+the  most  recent  school  fiscal  year  for  which  the  school  did  not  provide
+
+free  meals  to  all  students  pursuant  to  the  community  eligibility
+
+provision  or  one  hundred  ten  percent  of  the  product  of  the  students  who
+
+qualified  for  free  meals  at  such  school  pursuant  to  the  community
+
+eligibility  provision  multiplied  by  the  identified  student  percentage
+
+calculated pursuant to such federal provision, except that the free lunch
+
+and free milk students calculated for any school pursuant to subdivision
+
+(18)(b)(ii)  of  this  section  shall  not  exceed  one  hundred  percent  of  the
+
+students  qualified  for  free  meals  at  such  school  pursuant  to  the
+
+community eligibility provision;
+
+-18-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+(19) Free lunch and free milk student means, for school fiscal years
+
+prior  to  school  fiscal  year  2016-17,  a  student  who  qualified  for  free
+
+lunches or free milk from the most recent data available on November 1 of
+
+the  school  fiscal  year  immediately  preceding  the  school  fiscal  year  in
+
+which aid is to be paid;
+
+(20)  Full-day  kindergarten  means  kindergarten  offered  by  a  district
+
+for at least one thousand thirty-two instructional hours;
+
+(21)  General  fund  budget  of  expenditures  means  the  total  budget  of
+
+disbursements and transfers for general fund purposes as certified in the
+
+budget statement adopted pursuant to the Nebraska Budget Act, except that
+
+for  purposes  of  the  limitation  imposed  in  section  79-1023  and  the
+
+calculation  pursuant  to  subdivision  (2)  of  section  79-1027.01,  the
+
+general  fund  budget  of  expenditures  does  not  include  any  special  grant
+
+funds, exclusive of local matching funds, received by a district;
+
+(22)  General  fund  expenditures  means  all  expenditures  from  the
+
+general fund;
+
+(23)  General  fund  operating  expenditures  means  for  state  aid
+
+calculated  for  school  fiscal  years  2012-13  and  each  school  fiscal  year
+
+thereafter,  as  reported  on  the  annual  financial  report  for  the  second
+
+school fiscal year immediately preceding the school fiscal year in which
+
+aid  is  to  be  paid,  the  total  general  fund  expenditures  minus  (a)  the
+
+amount  of  all  receipts  to  the  general  fund,  to  the  extent  that  such
+
+receipts  are  not  included  in  local  system  formula  resources,  from  early
+
+childhood  education  tuition,  summer  school  tuition,  educational  entities
+
+as defined in section 79-1201.01 for providing distance education courses
+
+through  the  Educational  Service  Unit  Coordinating  Council  to  such
+
+educational  entities,  private  foundations,  individuals,  associations,
+
+charitable organizations, the textbook loan program authorized by section
+
+79-734,  federal  impact  aid,  and  levy  override  elections  pursuant  to
+
+section  77-3444,  (b)  the  amount  of  expenditures  for  categorical  funds,
+
+tuition  paid,  transportation  fees  paid  to  other  districts,  adult
+
+-19-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+education,  community  services,  redemption  of  the  principal  portion  of
+
+general  fund  debt  service,  retirement  incentive  plans  authorized  by
+
+section  79-855,  and  staff  development  assistance  authorized  by  section
+
+79-856, (c) the amount of any transfers from the general fund to any bond
+
+fund and transfers from other funds into the general fund, (d) any legal
+
+expenses  in  excess  of  fifteen-hundredths  of  one  percent  of  the  formula
+
+need  for  the  school  fiscal  year  in  which  the  expenses  occurred,  (e)
+
+expenditures  to  pay  for  sums  agreed  to  be  paid  by  a  school  district  to
+
+certificated employees in exchange for a voluntary termination occurring
+
+prior to July 1, 2009, occurring on or after the last day of the 2010-11
+
+school year and prior to the first day of the 2013-14 school year, or, to
+
+the  extent  that  a  district  has  demonstrated  to  the  State  Board  of
+
+Education  pursuant  to  section  79-1028.01  that  the  agreement  will  result
+
+in a net savings in salary and benefit costs to the school district over
+
+a  five-year  period,  occurring  on  or  after  the  first  day  of  the  2013-14
+
+school  year,  (f)(i)  expenditures  to  pay  for  employer  contributions
+
+pursuant  to  subsection  (2)  of  section  79-958  to  the  School  Employees
+
+Retirement  System  of  the  State  of  Nebraska  to  the  extent  that  such
+
+expenditures exceed the employer contributions under such subsection that
+
+would  have  been  made  at  a  contribution  rate  of  seven  and  thirty-five
+
+hundredths  percent  or  (ii)  expenditures  to  pay  for  school  district
+
+contributions  pursuant  to  subdivision  (1)(c)(i)  of  section  79-9,113  to
+
+the  retirement  system  established  pursuant  to  the  Class  V  School
+
+Employees Retirement Act to the extent that such expenditures exceed the
+
+school district contributions under such subdivision that would have been
+
+made at a contribution rate of seven and thirty-seven hundredths percent,
+
+and  (g)  any  amounts  paid  by  the  district  for  lobbyist  fees  and  expenses
+
+reported to the Clerk of the Legislature pursuant to section 49-1483.
+
+For purposes of this subdivision (23) of this section, receipts from
+
+levy override elections shall equal ninety-nine percent of the difference
+
+of the total general fund levy minus a levy of one dollar and five cents
+
+-20-
+
+LB512
+2017
+
+LB512
+2017
+
+77-3442;
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+per  one  hundred  dollars  of  taxable  valuation  multiplied  by  the  assessed
+
+valuation  for  school  districts  that  have  voted  pursuant  to  section
+
+77-3444  to  override  the  maximum  levy  provided  pursuant  to  section
+
+(24)  High  school  district  means  a  school  district  providing
+
+instruction in at least grades nine through twelve;
+
+(25)  Income  tax  liability  means  the  amount  of  the  reported  income
+
+tax  liability  for  resident  individuals  pursuant  to  the  Nebraska  Revenue
+
+Act of 1967 less all nonrefundable credits earned and refunds made;
+
+(26)  Income  tax  receipts  means  the  amount  of  income  tax  collected
+
+pursuant  to  the  Nebraska  Revenue  Act  of  1967  less  all  nonrefundable
+
+credits earned and refunds made;
+
+(27)  Limited  English  proficiency  students  means  the  number  of
+
+students  with  limited  English  proficiency  in  a  district  from  the  most
+
+recent  data  available  on  November  1  of  the  school  fiscal  year  preceding
+
+the school fiscal year in which aid is to be paid plus the difference of
+
+such  students  with  limited  English  proficiency  minus  the  average  number
+
+of limited English proficiency students for such district, prior to such
+
+addition, for the three immediately preceding school fiscal years if such
+
+difference is greater than zero;
+
+(28)  Local  system  means  a  learning  community  for  purposes  of
+
+calculation  of  state  aid  for  each  school  fiscal  year  prior  to  school
+
+fiscal  year  2017-18,  a  unified  system,  a  Class  VI  district  and  the
+
+associated  Class  I  districts,  or  a  Class  II,  III,  IV,  or  V  district  and
+
+any  affiliated  Class  I  districts  or  portions  of  Class  I  districts.  The
+
+membership,  expenditures,  and  resources  of  Class  I  districts  that  are
+
+affiliated  with  multiple  high  school  districts  will  be  attributed  to
+
+local  systems  based  on  the  percent  of  the  Class  I  valuation  that  is
+
+affiliated with each high school district;
+
+(29)  Low-income  child  means  (a)  for  school  fiscal  years  prior  to
+
+2016-17, a child under nineteen years of age living in a household having
+
+-21-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+an  annual  adjusted  gross  income  for  the  second  calendar  year  preceding
+
+the beginning of the school fiscal year for which aid is being calculated
+
+equal  to  or  less  than  the  maximum  household  income  that  would  allow  a
+
+student  from  a  family  of  four  people  to  be  a  free  lunch  and  free  milk
+
+student  during  the  school  fiscal  year  immediately  preceding  the  school
+
+fiscal  year  for  which  aid  is  being  calculated  and  (b)  for  school  fiscal
+
+year  2016-17  and  each  school  fiscal  year  thereafter,  a  child  under
+
+nineteen  years  of  age  living  in  a  household  having  an  annual  adjusted
+
+gross income for the second calendar year preceding the beginning of the
+
+school  fiscal  year  for  which  aid  is  being  calculated  equal  to  or  less
+
+than the maximum household income pursuant to sections 9(b)(1) and 17(c)
+
+(4)  of  the  Richard  B.  Russell  National  School  Lunch  Act,  42  U.S.C.
+
+1758(b)(1)  and  42  U.S.C.  1766(c)(4),  respectively,  and  sections  3(a)(6)
+
+and  4(e)(1)(A)  of  the  Child  Nutrition  Act  of  1966,  42  U.S.C.  1772(a)(6)
+
+and  42  U.S.C.  1773(e)(1)(A),  respectively,  as  such  acts  and  sections
+
+existed on January 1, 2015, for a household of that size that would have
+
+allowed the child to meet the income qualifications for free meals during
+
+the  school  fiscal  year  immediately  preceding  the  school  fiscal  year  for
+
+which aid is being calculated;
+
+(30)  Low-income  students  means  the  number  of  low-income  children
+
+within  the  district  multiplied  by  the  ratio  of  the  formula  students  in
+
+the  district  divided  by  the  total  children  under  nineteen  years  of  age
+
+residing in the district as derived from income tax information;
+
+(31)  Most  recently  available  complete  data  year  means  the  most
+
+recent  single  school  fiscal  year  for  which  the  annual  financial  report,
+
+fall  school  district  membership  report,  annual  statistical  summary,
+
+Nebraska income tax liability by school district for the calendar year in
+
+which  the  majority  of  the  school  fiscal  year  falls,  and  adjusted
+
+valuation data are available;
+
+(32)  Poverty  students  means  (a)  for  school  fiscal  years  prior  to
+
+2016-17, the number of low-income students or the number of students who
+
+-22-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+are  free  lunch  and  free  milk  students  in  a  district  plus  the  difference
+
+of  the  number  of  low-income  students  or  the  number  of  students  who  are
+
+free  lunch  and  free  milk  students  in  a  district,  whichever  is  greater,
+
+minus the average number of poverty students for such district, prior to
+
+such addition, for the three immediately preceding school fiscal years if
+
+such  difference  is  greater  than  zero  and  (b)  for  school  fiscal  year
+
+2016-17  and  each  school  fiscal  year  thereafter,  the  unadjusted  poverty
+
+students  plus  the  difference  of  such  unadjusted  poverty  students  minus
+
+the  average  number  of  poverty  students  for  such  district,  prior  to  such
+
+addition, for the three immediately preceding school fiscal years if such
+
+difference is greater than zero;
+
+(33)  Qualified  early  childhood  education  average  daily  membership
+
+means the product of the average daily membership for school fiscal year
+
+2006-07  and  each  school  fiscal  year  thereafter  of  students  who  will  be
+
+eligible  to  attend  kindergarten  the  following  school  year  and  are
+
+enrolled  in  an  early  childhood  education  program  approved  by  the
+
+department pursuant to section 79-1103 for such school district for such
+
+school year multiplied by the ratio of the actual instructional hours of
+
+the  program  divided  by  one  thousand  thirty-two  if:  (a)  The  program  is
+
+receiving  a  grant  pursuant  to  such  section  for  the  third  year;  (b)  the
+
+program  has  already  received  grants  pursuant  to  such  section  for  three
+
+years; or (c) the program has been approved pursuant to subsection (5) of
+
+section 79-1103 for such school year and the two preceding school years,
+
+including any such students in portions of any of such programs receiving
+
+an expansion grant;
+
+(34)  Qualified  early  childhood  education  fall  membership  means  the
+
+product of membership on the last Friday in September 2006 and each year
+
+thereafter  of  students  who  will  be  eligible  to  attend  kindergarten  the
+
+following  school  year  and  are  enrolled  in  an  early  childhood  education
+
+program  approved  by  the  department  pursuant  to  section  79-1103  for  such
+
+school  district  for  such  school  year  multiplied  by  the  ratio  of  the
+
+-23-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+planned  instructional  hours  of  the  program  divided  by  one  thousand
+
+thirty-two  if:  (a)  The  program  is  receiving  a  grant  pursuant  to  such
+
+section  for  the  third  year;  (b)  the  program  has  already  received  grants
+
+pursuant  to  such  section  for  three  years;  or  (c)  the  program  has  been
+
+approved  pursuant  to  subsection  (5)  of  section  79-1103  for  such  school
+
+year  and  the  two  preceding  school  years,  including  any  such  students  in
+
+portions of any of such programs receiving an expansion grant;
+
+(35)  Regular  route  transportation  means  the  transportation  of
+
+students  on  regularly  scheduled  daily  routes  to  and  from  the  attendance
+
+center;
+
+(36)  Reorganized  district  means  any  district  involved  in  a
+
+consolidation and currently educating students following consolidation;
+
+(37)  School  year  or  school  fiscal  year  means  the  fiscal  year  of  a
+
+school district as defined in section 79-1091;
+
+(38)  Sparse  local  system  means  a  local  system  that  is  not  a  very
+
+sparse local system but which meets the following criteria:
+
+(a)(i) Less than two students per square mile in the county in which
+
+each  high  school  is  located,  based  on  the  school  district  census,  (ii)
+
+less  than  one  formula  student  per  square  mile  in  the  local  system,  and
+
+(iii) more than ten miles between each high school attendance center and
+
+the next closest high school attendance center on paved roads;
+
+(b)(i)  Less  than  one  and  one-half  formula  students  per  square  mile
+
+in  the  local  system  and  (ii)  more  than  fifteen  miles  between  each  high
+
+school  attendance  center  and  the  next  closest  high  school  attendance
+
+center on paved roads;
+
+(c)(i)  Less  than  one  and  one-half  formula  students  per  square  mile
+
+in  the  local  system  and  (ii)  more  than  two  hundred  seventy-five  square
+
+miles in the local system; or
+
+(d)(i)  Less  than  two  formula  students  per  square  mile  in  the  local
+
+system  and  (ii)  the  local  system  includes  an  area  equal  to  ninety-five
+
+percent or more of the square miles in the largest county in which a high
+
+-24-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+school attendance center is located in the local system;
+
+(39) Special education means specially designed kindergarten through
+
+grade  twelve  instruction  pursuant  to  section  79-1125,  and  includes
+
+special education transportation;
+
+(40)  Special  grant  funds  means  the  budgeted  receipts  for  grants,
+
+including,  but  not  limited  to,  categorical  funds,  reimbursements  for
+
+wards of the court, short-term borrowings including, but not limited to,
+
+registered  warrants  and  tax  anticipation  notes,  interfund  loans,
+
+insurance  settlements,  and  reimbursements  to  county  government  for
+
+previous  overpayment.  The  state  board  shall  approve  a  listing  of  grants
+
+that qualify as special grant funds;
+
+(41)  State  aid  means  the  amount  of  assistance  paid  to  a  district
+
+pursuant to the Tax Equity and Educational Opportunities Support Act;
+
+(42) State board means the State Board of Education;
+
+(43)  State  support  means  all  funds  provided  to  districts  by  the
+
+State  of  Nebraska  for  the  general  fund  support  of  elementary  and
+
+secondary education;
+
+(44)  Statewide  average  basic  funding  per  formula  student  means  the
+
+statewide total basic funding for all districts divided by the statewide
+
+total formula students for all districts;
+
+(45)  Statewide  average  general  fund  operating  expenditures  per
+
+formula  student  means  the  statewide  total  general  fund  operating
+
+expenditures  for  all  districts  divided  by  the  statewide  total  formula
+
+students for all districts;
+
+(46) Teacher has the definition found in section 79-101;
+
+(47)  Temporary  aid  adjustment  factor  means  (a)  for  school  fiscal
+
+years  before  school  fiscal  year  2007-08,  one  and  one-fourth  percent  of
+
+the  sum  of  the  local  system's  transportation  allowance,  the  local
+
+system's  special  receipts  allowance,  and  the  product  of  the  local
+
+system's adjusted formula students multiplied by the average formula cost
+
+per student in the local system's cost grouping and (b) for school fiscal
+
+-25-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+year 2007-08, one and one-fourth percent of the sum of the local system's
+
+transportation  allowance,  special  receipts  allowance,  and  distance
+
+education  and  telecommunications  allowance  and  the  product  of  the  local
+
+system's adjusted formula students multiplied by the average formula cost
+
+per student in the local system's cost grouping;
+
+(48)  Tuition  receipts  from  converted  contracts  means  tuition
+
+receipts  received  by  a  district  from  another  district  in  the  most
+
+recently  available  complete  data  year  pursuant  to  a  converted  contract
+
+prior to the expiration of the contract;
+
+(49) Tuitioned students means students in kindergarten through grade
+
+twelve  of  the  district  whose  tuition  is  paid  by  the  district  to  some
+
+other district or education agency;
+
+(50)  Unadjusted  poverty  students  means,  for  school  fiscal  year
+
+2016-17 and each school fiscal year thereafter, the greater of the number
+
+of  low-income  students  or  the  free  lunch  and  free  milk  calculated
+
+students in a district; and
+
+(51) Very sparse local system means a local system that has:
+
+(a)(i) Less than one-half student per square mile in each county in
+
+which  each  high  school  attendance  center  is  located  based  on  the  school
+
+district  census,  (ii)  less  than  one  formula  student  per  square  mile  in
+
+the  local  system,  and  (iii)  more  than  fifteen  miles  between  the  high
+
+school  attendance  center  and  the  next  closest  high  school  attendance
+
+center on paved roads; or
+
+(b)(i)  More  than  four  hundred  fifty  square  miles  in  the  local
+
+system,  (ii)  less  than  one-half  student  per  square  mile  in  the  local
+
+system,  and  (iii)  more  than  fifteen  miles  between  each  high  school
+
+attendance  center  and  the  next  closest  high  school  attendance  center  on
+
+paved roads.
+
+2016, is amended to read:
+
+Sec.  8.  Section  79-1007.11,  Revised  Statutes  Cumulative  Supplement,
+
+79-1007.11  (1)  Except  as  otherwise  provided  in  this  section,  for
+
+-26-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+school  fiscal  years  2013-14  through  2015-16,  each  school  district's
+
+formula  need  shall  equal  the  difference  of  the  sum  of  the  school
+
+district's  basic  funding,  poverty  allowance,  limited  English  proficiency
+
+allowance,  focus  school  and  program  allowance,  summer  school  allowance,
+
+special  receipts  allowance,  transportation  allowance,  elementary  site
+
+allowance,  instructional  time  allowance,  teacher  education  allowance,
+
+distance 
+
+education 
+
+and 
+
+telecommunications 
+
+allowance, 
+
+averaging
+
+adjustment,  new  learning  community  transportation  adjustment,  student
+
+growth adjustment, any positive student growth adjustment correction, and
+
+new  school  adjustment,  minus  the  sum  of  the  limited  English  proficiency
+
+allowance  correction,  poverty  allowance  correction,  and  any  negative
+
+student growth adjustment correction.
+
+(2) Except as otherwise provided in this section, for school fiscal
+
+year  2016-17,  each  school  district's  formula  need  shall  equal  the
+
+difference  of  the  sum  of  the  school  district's  basic  funding,  poverty
+
+allowance,  limited  English  proficiency  allowance,  focus  school  and
+
+program  allowance,  summer  school  allowance,  special  receipts  allowance,
+
+transportation  allowance,  elementary  site  allowance,  best  practices
+
+allowance, distance education and telecommunications allowance, averaging
+
+adjustment,  new  learning  community  transportation  adjustment,  student
+
+growth adjustment, any positive student growth adjustment correction, and
+
+new  school  adjustment,  minus  the  sum  of  the  limited  English  proficiency
+
+allowance  correction,  poverty  allowance  correction,  and  any  negative
+
+student growth adjustment correction.
+
+(3) Except as otherwise provided in this section, for school fiscal
+
+years  2017-18  and  2018-19,  each  school  district’s  formula  need  shall
+
+equal  the  difference  of  the  sum  of  the  school  district’s  basic  funding,
+
+poverty  allowance,  poverty  allowance  adjustment,  limited  English
+
+proficiency allowance, focus school and program allowance, summer school
+
+allowance,  special  receipts  allowance,  transportation  allowance,
+
+elementary  site  allowance,  best  practices  allowance,  distance  education
+
+-27-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+and  telecommunications  allowance,  averaging  adjustment,  new  community
+
+achievement  plan  adjustment,  student  growth  adjustment,  any  positive
+
+student growth adjustment correction, and new school adjustment minus the
+
+sum  of  the  limited  English  proficiency  allowance  correction,  poverty
+
+allowance  correction,  and  any  negative  student  growth  adjustment
+
+correction.
+
+(4) Except as otherwise provided in this section, for school fiscal
+
+year  2019-20  and  each  school  fiscal  year  thereafter,  each  school
+
+district's  formula  need  shall  equal  the  difference  of  the  sum  of  the
+
+school  district’s  basic  funding,  poverty  allowance,  limited  English
+
+proficiency allowance, focus school and program allowance, summer school
+
+allowance,  special  receipts  allowance,  transportation  allowance,
+
+elementary  site  allowance,  best  practices  allowance,  distance  education
+
+and  telecommunications  allowance,  community  achievement  plan  allowance,
+
+averaging  adjustment,  new  community  achievement  plan  adjustment,  student
+
+growth adjustment, any positive student growth adjustment correction, and
+
+new  school  adjustment  minus  the  sum  of  the  limited  English  proficiency
+
+allowance  correction,  poverty  allowance  correction,  and  any  negative
+
+student growth adjustment correction.
+
+(5) If the formula need calculated for a school district pursuant to
+
+subsections  (1)  through  (4)  of  this  section  is  less  than  one  hundred
+
+percent of the formula need for such district for the school fiscal year
+
+immediately  preceding  the  school  fiscal  year  for  which  aid  is  being
+
+calculated,  the  formula  need  for  such  district  shall  equal  one  hundred
+
+percent of the formula need for such district for the school fiscal year
+
+immediately  preceding  the  school  fiscal  year  for  which  aid  is  being
+
+calculated.
+
+(6) If the formula need calculated for a school district pursuant to
+
+subsections  (1)  through  (4)  of  this  section  is  more  than  one  hundred
+
+twelve  percent  of  the  formula  need  for  such  district  for  the  school
+
+fiscal year immediately preceding the school fiscal year for which aid is
+
+-28-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+being  calculated,  the  formula  need  for  such  district  shall  equal  one
+
+hundred  twelve  percent  of  the  formula  need  for  such  district  for  the
+
+school fiscal year immediately preceding the school fiscal year for which
+
+aid  is  being  calculated,  except  that  the  formula  need  shall  not  be
+
+reduced pursuant to this subsection for any district receiving a student
+
+growth  adjustment  for  the  school  fiscal  year  for  which  aid  is  being
+
+calculated.
+
+(7)  For  purposes  of  subsections  (5)  and  (6)  of  this  section,  the
+
+formula need for the school fiscal year immediately preceding the school
+
+fiscal  year  for  which  aid  is  being  calculated  shall  be  the  formula  need
+
+used in the final calculation of aid pursuant to section 79-1065 and for
+
+districts  that  were  affected  by  a  reorganization  with  an  effective  date
+
+in  the  calendar  year  preceding  the  calendar  year  in  which  aid  is
+
+certified  for  the  school  fiscal  year  for  which  aid  is  being  calculated,
+
+the  formula  need  for  the  school  fiscal  year  immediately  preceding  the
+
+school fiscal year for which aid is being calculated shall be attributed
+
+to  the  affected  school  districts  based  on  information  provided  to  the
+
+department  by  the  school  districts  or  proportionally  based  on  the
+
+adjusted  valuation  transferred  if  sufficient  information  has  not  been
+
+provided to the department.
+
+2016, is amended to read:
+
+Sec.  9.  Section  79-1017.01,  Revised  Statutes  Cumulative  Supplement,
+
+79-1017.01  (1)  For  state  aid  calculated  for  school  fiscal  years
+
+2014-15 and 2015-16, local system formula resources includes other actual
+
+receipts  determined  pursuant  to  section  79-1018.01,  net  option  funding
+
+determined pursuant to section 79-1009, teacher education aid determined
+
+pursuant  to  section  79-1007.25,  instructional  time  aid  determined
+
+pursuant  to  subsection  (2)  of  section  79-1007.23,  allocated  income  tax
+
+funds  determined  pursuant  to  section  79-1005.01,  and  minimum  levy
+
+adjustments  determined  pursuant  to  section  79-1008.02  and  is  reduced  by
+
+amounts paid by the district in the most recently available complete data
+
+-29-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+year  as  property  tax  refunds  pursuant  to  or  in  the  manner  prescribed  by
+
+section 77-1736.06.
+
+(2) For state aid calculated for school fiscal year 2016-17 and each
+
+school  fiscal  year  thereafter,  local  system  formula  resources  includes
+
+other  actual  receipts  determined  pursuant  to  section  79-1018.01,  net
+
+option funding determined pursuant to section 79-1009, best practices aid
+
+determined  pursuant  to  section  79-1004,  if  any  districts  in  the  local
+
+system qualify, allocated income tax funds determined pursuant to section
+
+79-1005.01, community achievement plan aid determined pursuant to section
+
+79-1005,  and  minimum  levy  adjustments  determined  pursuant  to  section
+
+79-1008.02  for  school  fiscal  years  prior  to  school  fiscal  year  2017-18,
+
+and  is  reduced  by  amounts  paid  by  the  district  in  the  most  recently
+
+available  complete  data  year  as  property  tax  refunds  pursuant  to  or  in
+
+the manner prescribed by section 77-1736.06.
+
+Sec.  10.  Section  79-1054,  Revised  Statutes  Cumulative  Supplement,
+
+2016, is amended to read:
+
+79-1054  (1)  The  State  Board  of  Education  shall  establish  a
+
+competitive  innovation  grant  program  with  funding  from  the  Nebraska
+
+Education Improvement Fund pursuant to section 9-812. Grantees shall be a
+
+school  district,  an  educational  service  unit,  or  a  combination  of
+
+entities  that  includes  at  least  one  school  district  or  educational
+
+service  unit.  For  grantees  that  consist  of  a  combination  of  entities,  a
+
+participating  school  district  or  educational  service  unit  shall  be
+
+designated  to  act  as  the  fiscal  agent  and  administer  the  program  funded
+
+by  the  grant.  The  state  board  shall  only  award  grants  pursuant  to
+
+applications that the state board deems to be sufficiently innovative and
+
+to have a high chance of success.
+
+section shall describe:
+
+(2)  An  application  for  a  grant  pursuant  to  subsection  (1)  of  this
+
+(a)  Specific  measurable  objectives  for  improving  education  outcomes
+
+for  early  childhood  students,  elementary  students,  middle  school
+
+-30-
+
+LB512
+2017
+
+workforce;
+
+LB512
+2017
+
+students,  or  high  school  students  or  for  improving  the  transitions
+
+between  any  successive  stages  of  education  or  between  education  and  the
+
+(b) The method for annually evaluating progress toward a measurable
+
+objective, with a summative evaluation of progress submitted to the state
+
+board and electronically to the Education Committee of the Legislature on
+
+or before July 1, 2019;
+
+replicable; and
+
+(c)  The  potential  for  the  project  to  be  both  scalable  and
+
+(d)  Any  cost  savings  that  could  be  achieved  by  reductions  in  other
+
+programs if the funded program is successful.
+
+(3)  Based  on  evaluations  received  on  or  before  July  1,  2019,  for
+
+each  grant,  the  State  Board  of  Education  shall  recommend  the  grant
+
+project as:
+
+(a) Representing a best practice;
+
+(b) A model for a state-supported program; or
+
+(c) A local issue for further study.
+
+(4)  For  grant  projects  that  are  recommended  as  best  practices,  the
+
+State  Board  of  Education  may  establish  criteria  allowing  such  best
+
+practices  to  be  included  in  the  best  practices  allowance  to  school
+
+districts  pursuant  to  section  79-1004  beginning  with  aid  calculated  for
+
+school fiscal year 2021-22. The criteria shall:
+
+(a)  Specify  qualifications  for  a  school  district  to  participate  in
+
+the best practices allowance for each best practice to be included in the
+
+allowance;
+
+(b)  Specify  a  best  practices  dollar  amount  based  on  eighty-five
+
+percent of the estimated costs related to each best practice included in
+
+the  allowance  that  would  not  otherwise  be  incurred  without  the  best
+
+practice, that do not replace other such costs, and that are not included
+
+in another allowance;
+
+(c) Specify an accountability process which will result in a future
+
+-31-
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+aid correction if a school district is found to be in violation of any of
+
+the qualifications; and
+
+(d) Specify any other criteria deemed relevant by the state board.
+
+(5)  On  or  before  November  1,  2020,  and  on  or  before  November  1  of
+
+each  year  thereafter,  the  department  shall  certify  to  each  qualifying
+
+school  district  the  amount  of  the  best  practices  cost  pursuant  to  this
+
+section  for  such  school  district  and  the  total  best  practices  cost  for
+
+all  qualifying  school  districts  to  be  included  in  the  calculation  of
+
+state aid for the next school fiscal year.
+
+(4)  (6)  On  or  before  December  1,  2017,  and  on  or  before  December  1
+
+of  each  year  thereafter,  the  state  board  shall  electronically  submit  a
+
+report to the Clerk of the Legislature on all such grants, including, but
+
+not limited to, the results of the evaluations for each grant and on the
+
+best practices allowance if the allowance has been implemented. The state
+
+board  may  adopt  and  promulgate  rules  and  regulations  to  carry  out  this
+
+section, including, but not limited to, application procedures, selection
+
+procedures, and annual evaluation reporting procedures.
+
+(5)  (7)  The  Department  of  Education  Innovative  Grant  Fund  is
+
+created.  The  fund  shall  be  administered  by  the  State  Department  of
+
+Education  and  shall  consist  of  transfers  pursuant  to  section  9-812,
+
+repayments  of  grant  funds,  and  interest  payments  received  in  the  course
+
+of  administering  this  section.  The  fund  shall  be  used  to  carry  out  this
+
+section. Any money in the fund available for investment shall be invested
+
+by  the  state  investment  officer  pursuant  to  the  Nebraska  Capital
+
+Expansion Act and the Nebraska State Funds Investment Act.
+
+Sec.  11.  Section  79-1065,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+amended to read:
+
+79-1065  The  State  Department  of  Education  shall  adjust  payments  of
+
+state  funds  provided  under  Chapter  79  or  federal  funds  provided  under
+
+federal  law  to  school  districts  which,  after  final  determination,
+
+received  funds  not  equal  to  the  appropriate  allocation  for  the  previous
+
+-32-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+school fiscal year such that the district will receive the funds to which
+
+it was finally determined to be entitled. If the total adjustment cannot
+
+be made from the funds to be provided in the current school fiscal year,
+
+the  adjustment  shall  be  prorated,  with  additional  adjustments  made  to
+
+payments for future school fiscal years. The department shall maintain an
+
+accurate  account  and  a  record  of  the  reasons  the  adjustments  were  made
+
+and the amount of such adjustments.
+
+Sec.  12.  Section  79-1108.02,  Reissue  Revised  Statutes  of  Nebraska,
+
+is amended to read:
+
+79-1108.02  (1)  The  department  shall  distribute  funds  appropriated
+
+amounts from the Education Innovation Fund pursuant to section 9-812 for
+
+purposes of subsection (2) of this section to local systems as defined in
+
+section  79-1003  annually  on  or  before  October  15.  The  funds  distributed
+
+pursuant  to  this  section  shall  be  distributed  based  on  a  pro  rata  share
+
+of the eligible costs submitted in grant applications.
+
+(2)  Local  systems  may  apply  to  the  department  for  base  funds  and
+
+matching  funds  pursuant  to  this  section  to  be  spent  on  approved
+
+accelerated  or  differentiated  curriculum  programs.  Each  eligible  local
+
+system  shall  receive  one-tenth  of  one  percent  of  the  appropriation  as
+
+base  funds  plus  a  pro  rata  share  of  the  remainder  of  the  appropriation
+
+based  on  identified  students  participating  in  an  accelerated  or
+
+differentiated curriculum program, up to ten percent of the prior year's
+
+fall  membership  as  defined  in  section  79-1003,  as  matching  funds.
+
+Eligible local systems shall:
+
+(a)  Provide  an  approved  accelerated  or  differentiated  curriculum
+
+program for students identified as learners with high ability;
+
+(b) Provide funds from other sources for the approved accelerated or
+
+differentiated curriculum program greater than or equal to fifty percent
+
+of the matching funds received pursuant to this subsection;
+
+(c)  Provide  an  accounting  of  the  funds  received  pursuant  to  this
+
+section,  funds  required  by  subdivision  (b)  of  this  subsection,  and  the
+
+-33-
+
+LB512
+2017
+
+LB512
+2017
+
+total cost of the program on or before August 1 of the year following the
+
+receipt of funds in a manner prescribed by the department, not to exceed
+
+one report per year;
+
+(d)  Provide  data  regarding  the  academic  progress  of  students
+
+participating in the accelerated or differentiated curriculum program in
+
+a manner prescribed by the department, not to exceed one report per year;
+
+and
+
+program.
+
+(e) Include identified students from Class I districts that are part
+
+of  the  local  system  in  the  accelerated  or  differentiated  curriculum
+
+If a local system will not be providing the necessary matching funds
+
+pursuant  to  subdivision  (b)  of  this  subsection,  the  local  system  shall
+
+request  a  reduction  in  the  amount  received  pursuant  to  this  subsection
+
+such  that  the  local  system  will  be  in  compliance  with  such  subdivision.
+
+Local  systems  not  complying  with  the  requirements  of  this  subsection
+
+shall not be eligible local systems in the following year.
+
+Sec.  13.  Section  79-1144,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+amended to read:
+
+79-1144  (1) Funds shall be appropriated by the Legislature to carry
+
+out  sections  79-1142  to  79-1144  and  79-1147.  Such  funds  shall  be
+
+channeled  through  the  State  Department  of  Education.  The  department  is
+
+authorized  to  expend  such  funds  upon  proper  vouchers  approved  by  the
+
+department and warrants issued by the Director of Administrative Services
+
+for  financial  reimbursement  to  school  districts,  educational  service
+
+units,  special  education  cooperatives  created  by  school  districts,
+
+agencies, and parents or guardians, including (1) reimbursement pursuant
+
+to  section  79-1129  for  actual  transportation  expenses  per  year  for
+
+children with disabilities a pro rata amount which shall be determined by
+
+the  State  Board  of  Education  from  appropriations  for  special  education
+
+approved by the Legislature based on all actual allowable transportation
+
+costs,  (2)  reimbursement  for  instructional  aids  and  consultative,
+
+-34-
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+supervisory, research, and testing services to school districts, and (3)
+
+reimbursement  for  salaries,  wages,  maintenance,  supplies,  travel,  and
+
+other  expenses  essential  to  carrying  out  the  provisions  for  special
+
+education  programs.  Minor  building  modifications  shall  not  be  eligible
+
+for  state  reimbursement  as  an  allowable  expense.  Applications  for  state
+
+reimbursement  for  actual  transportation  expenses  shall  be  submitted  to
+
+the  department  annually  on  a  date  and  on  forms  prescribed  by  the
+
+department. Amendments to applications for actual transportation expenses
+
+shall  be  submitted  on  dates  prescribed  by  the  department  during  the
+
+school year in which the original application was made.
+
+(2) Any adjustment of payments pursuant to section 79-1065 caused by
+
+the  failure  of  a  school  district  to  meet  federal  spending  requirements
+
+under the federal Individuals with Disabilities Education Act as such act
+
+existed  on  January  1,  2017,  may  be  used  by  the  department  to  reimburse
+
+the  United  States  Department  of  Education  in  the  amount  of  the  federal
+
+funds  awarded  to  such  school  district  or  the  amount  of  such  adjustment,
+
+whichever is less.
+
+amended to read:
+
+Sec.  14.  Section  79-1218,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+79-1218  The  board  of  each  educational  service  unit  shall  meet  and
+
+organize  by  naming  one  of  its  members  as  president  and  ,  one  as  vice
+
+president,  and  one  as  secretary.  The  board  shall  either  name  one  of  its
+
+members  as  secretary  or  employ  a  secretary  and  shall  employ  a  treasurer
+
+who shall be paid a salary to be fixed by the board.
+
+The  board  of  the  educational  service  unit  shall  determine  the
+
+participation of the educational service unit in providing supplementary
+
+educational  services.  If  the  board  of  the  educational  service  unit  does
+
+not provide supplementary educational services, it shall meet during each
+
+succeeding  January  to  determine  the  participation  in  providing
+
+supplementary  educational  services  for  that  calendar  year.  Meetings  may
+
+be  held  by  means  of  videoconferencing  or  telephone  conference  in
+
+-35-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+accordance with subsections (2) and (3) of section 84-1411.
+
+Sec.  15.  Section  79-1221,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+amended to read:
+
+79-1221    (1)  The  treasurer  shall  be  the  custodian  of  all  funds  of
+
+the  board  of  the  educational  service  unit.  He  or  she  shall  attend
+
+meetings  of  the  board,  shall  prepare  and  submit  in  writing  a  monthly
+
+report of the state of its finances, and shall pay out money of the board
+
+only upon a warrant signed by the president, or in his or her absence by
+
+the  vice  president,  and  countersigned  by  the  secretary,  treasurer,  or
+
+persons delegated by the board. Facsimile signatures of board members may
+
+be  used,  and  a  person  or  persons  delegated  by  the  board  may  sign  and
+
+validate  all  warrants,  checks,  or  other  instruments  drawn  upon  bank
+
+depository funds of the educational service unit.
+
+(2)  The  treasurer  shall  give  bond  or  evidence  of  equivalent
+
+insurance coverage, payable to the board, in such sum as the board shall
+
+determine  conditioned  for  the  faithful  performance  of  the  duties  as
+
+treasurer of the board and for the safekeeping and proper disbursement of
+
+all  funds  of  the  board  collected  or  received  by  him  or  her.  Such  bond
+
+shall  be  signed  by  a  corporate  surety  company  or  insurance  company
+
+authorized  to  do  business  within  this  state.  Such  bond  or  insurance
+
+coverage  may  be  enlarged  at  any  time  the  board  deems  such  enlargement
+
+necessary or advisable. The cost of such bond or insurance coverage shall
+
+be paid out of funds of the board.
+
+Sec.  16.  Section  79-1225,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+amended to read:
+
+79-1225  (1)  After  the  adoption  of  its  budget  statement,  the  board
+
+for  each  educational  service  unit,  except  as  provided  in  subsection  (2)
+
+of this section, may levy a tax in the amount which it requires under its
+
+adopted budget statement to be received from taxation. The levy shall be
+
+subject to the limits established by section 77-3442. The amount of such
+
+levy  shall  be  certified  by  the  secretary  or  other  designee  of  the
+
+-36-
+
+LB512
+2017
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+educational  service  unit  board  to  the  county  board  of  equalization  of
+
+each county in which any part of the geographical area of the educational
+
+service unit is located on or before September 20 of each year. Such tax
+
+shall  be  levied  and  assessed  in  the  same  manner  as  other  property  taxes
+
+and  entered  on  the  books  of  the  county  treasurer.  The  proceeds  of  such
+
+tax, as collected, shall be remitted to the treasurer of the board on or
+
+before the fifteenth day of each month or more frequently as provided in
+
+section 77-1759.
+
+(2) For fiscal year 2013-14 and each fiscal year thereafter, only an
+
+educational  service  unit  which  has  four  or  more  member  school  districts
+
+or  an  educational  service  unit  composed  of  a  single  Class  IV  or  Class  V
+
+school  district  may  levy  a  tax  on  the  taxable  value  of  the  taxable
+
+property  within  the  geographic  boundaries  of  the  educational  service
+
+unit.
+
+amended to read:
+
+Sec.  17.  Section  85-308,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+85-308  The  purpose  of  the  state  colleges  is  the  training  and
+
+instruction of persons, both male and female, in the arts of teaching and
+
+managing schools, the principles and practice of the various branches of
+
+learning  taught  in  our  public  schools,  and  the  arts  and  sciences
+
+generally.  The  Board  of  Trustees  of  the  Nebraska  State  Colleges  shall
+
+have  power  to  prescribe,  for  the  state  colleges,  such  courses  of
+
+instruction  as  will  best  fit  such  persons  for  teaching  and  managing  the
+
+public schools, and their instruction in the arts and sciences generally
+
+as provided in sections 79-741, 79-744, 85-194, 85-308, 85-606.01, 85-917
+
+to 85-966, and 85-1511.
+
+amended to read:
+
+Sec.  18.  Section  85-917,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+85-917  The  Legislature  hereby  declares  that  it  is  the  intent  and
+
+purpose of sections 79-741, 79-744, 85-194, 85-308, 85-606.01, 85-917 to
+
+85-966,  and  85-1511  to  provide  statements  of  role  and  mission  for  the
+
+-37-
+
+LB512
+2017
+
+LB512
+2017
+
+education;
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+state's systems and institutions of postsecondary education which will:
+
+(1)  Provide  for  a  coordinated  state  system  of  postsecondary
+
+(2)  Provide  for  the  maintenance  and  development  of  quality
+
+postsecondary  educational  programs  and  services  for  all  citizens  in  all
+
+regions of the state;
+
+programs;
+
+(3) Insure student and community access to comprehensive educational
+
+(4)  Limit  unnecessary  program  and  facility  duplication  through  a
+
+coordinated planning and review process;
+
+(5)  Encourage  statewide  long-term  academic  and  fiscal  planning  for
+
+postsecondary education in the state;
+
+(6)  Establish  a  legislative  review  process  to  insure  that  (a)  role
+
+and  mission  statements  are  updated  as  necessary  and  (b)  postsecondary
+
+institutions  are  complying  with  role  and  mission  assignments  and  are
+
+serving  a  valuable  purpose  to  the  state  within  their  current  role  and
+
+mission assignments; and
+
+(7) Provide a mechanism for (a) implementing an extensive change in
+
+the  scope,  role,  and  mission  of  a  campus,  (b)  closing  a  campus,  (c)
+
+merging  campuses,  and  (d)  changing  a  campus  to  serve  a  completely
+
+different public purpose.
+
+amended to read:
+
+Sec.  19.  Section  85-933,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+85-933  No  funds  generated  or  received  from  a  General  Fund
+
+appropriation, state aid assistance program, or receipts from a tax levy
+
+authorized  by  statute  shall  be  expended  in  support  of  programs  or
+
+activities  which  are  in  conflict  with  the  role  and  mission  assignments
+
+applicable  to  the  University  of  Nebraska,  state  colleges,  or  community
+
+colleges under sections 79-741, 79-744, 85-194, 85-308, 85-606.01, 85-917
+
+to 85-966, and 85-1511.
+
+Sec.  20.  Section  85-949,  Reissue  Revised  Statutes  of  Nebraska,  is
+
+-38-
+
+LB512
+2017
+
+amended to read:
+
+LB512
+2017
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+85-949  The  role  and  mission  assignments  enumerated  in  sections
+
+85-950  to  85-958  shall  apply  to  the  state  college  system  and  its
+
+institutions.  Such  assignments  shall  prohibit,  limit,  or  restrict  only
+
+those programs or services provided for under such sections. The Board of
+
+Trustees  of  the  Nebraska  State  Colleges  shall  adopt  and  promulgate
+
+policies  and  procedures  necessary  to  assure  compliance  with  sections
+
+79-741, 79-744, 85-194, 85-308, 85-606.01, 85-917 to 85-966, and 85-1511.
+
+Sec.  21.    Original  sections  79-319,  79-575,  79-746,  79-1065,
+
+79-1108.02,  79-1144,  79-1218,  79-1221,  79-1225,  85-308,  85-917,  85-933,
+
+and  85-949,  Reissue  Revised  Statutes  of  Nebraska,  and  sections  9-812,
+
+79-237,  79-2,144,  79-1003,  79-1007.11,  79-1017.01,  and  79-1054,  Revised
+
+Statutes Cumulative Supplement, 2016, are repealed.
+
+Sec.  22.    The  following  sections  are  outright  repealed:  Sections
+
+79-321,  79-527.01,  79-738,  79-739,  79-740,  79-741,  79-742,  79-743,  and
+
+79-744,  Reissue  Revised  Statutes  of  Nebraska,  and  section  79-1004,
+
+Revised Statutes Cumulative Supplement, 2016.
+
+Sec.  23.    Since  an  emergency  exists,  this  act  takes  effect  when
+
+passed and approved according to law.
+
+-39-
+
+

@@ -1,0 +1,18 @@
+CHAPTER 561
+An Act to amend the Code of Virginia by adding in Chapter 2 of Title 22.1 a section numbered 22.1-20.2, relating to the Department of Education; student data security.
+[H 2350]
+Approved March 23, 2015
+
+ 
+
+Be it enacted by the General Assembly of Virginia:
+
+1. That the Code of Virginia is amended by adding in Chapter 2 of Title 22.1 a section numbered 22.1-20.2 as follows:
+
+§ 22.1-20.2. Student data security.
+
+A. The Department of Education shall develop, in collaboration with the Virginia Information Technologies Agency, and update regularly but in no case less than annually, a model data security plan for the protection of student data held by school divisions. Such model plan shall include (i) guidelines for access to student data and student data systems, including guidelines for authentication of authorized access; (ii) privacy compliance standards; (iii) privacy and security audits; (iv) procedures to follow in the event of a breach of student data; and (v) data retention and disposition policies. The model plan and any updates shall be made available to every school division.
+
+B. The Department of Education shall designate a chief data security officer, with such state funds as made available, to assist school divisions, upon request, with the development and implementation of their own data security plans and to develop best practice recommendations regarding the use, retention, and protection of student data.
+
+2. That the Department of Education may convene a working group to assist with the development of initial instructions, procedures, services, security assessments, best practices, and security measures required by this act for the development of a model student data security plan. Such working group shall include the Superintendent of Public Instruction, the Chief Information Officer of the Commonwealth, the Chief Security Officer of the Commonwealth, representatives from each of the eight superintendent regions, and other parties deemed necessary by the Department. If convened, the working group shall submit a report on or before July 1, 2016, to the chairmen of the House Committee on Appropriations and the Senate Committee on Finance on the cost of developing a model student data security plan.

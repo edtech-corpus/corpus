@@ -1,0 +1,577 @@
+ 
+
+Senate Bill No. 403–Senator Denis 
+ 
+Joint Sponsor: Assemblywoman Krasner 
+ 
+CHAPTER.......... 
+ 
+AN  ACT  relating  to  education;  requiring  each  public  and  private 
+school to provide certain information to a pupil or the parent 
+or legal guardian of a pupil before providing technology to a 
+pupil  or  allowing  a  pupil  to  use  a  school  service;  revising 
+provisions relating to school service providers; and providing 
+other matters properly relating thereto. 
+
+Legislative Counsel’s Digest: 
+ 
+Existing law generally controls the manner in which a school service provider 
+may  use  the  personally  identifiable  information  of  a  pupil  and  prohibits  a  school 
+service  provider  from  engaging  in  targeted  advertising.  (NRS  388.292)  “School 
+service  provider”  is  defined  in  existing  law  as  a  provider  of  certain  Internet 
+services, online services or mobile applications. (NRS 388.283, 388.284) Section 1 
+of  this  bill  requires  a  public  school,  including  a  charter  school  and  a  university 
+school  for  profoundly  gifted  pupils,  to  post  certain  information  on  the  Internet 
+website  of  the  school  before  a  pupil  uses  a  school  service  of  a  school  service 
+provider. Such information must include a description of the laws governing school 
+service providers, a list of the school service providers for the school, confirmation 
+that each school service provider has a plan for the security of data established by 
+the school service provider, any other actions taken by the public school, the school 
+district, or the applicable governing body to protect the data of the pupils and the 
+manner  in  which  a  person  may  report  suspicious  activity  related  to  the  use  of  a 
+school service. Each school must also communicate the manner in which to locate 
+the information at the beginning of each school year. 
+ 
+Section 2 of this bill revises the prohibition on targeted advertising by a school 
+service provider to prohibit the school service provider from engaging in targeted 
+advertising within its school service or on any other Internet website, online service 
+or mobile application if the targeted advertising is based upon information gathered 
+from its school service. Section 2 also authorizes a school service provider to use 
+the personally identifiable information of a pupil to perform certain research which 
+is required or authorized by federal or state law. Section 3 of this bill authorizes a 
+school  service  provider  to  use  aggregated,  deidentified  information  derived  from 
+the  personally  identifiable  information  of  pupils  to  develop  and  improve  the 
+products of the school service provider. 
+ 
+Existing  law  requires  a  school  service  provider  to  establish  a  plan  for  the 
+security of any data concerning pupils that is collected or maintained by the school 
+service provider. (NRS 388.293) Section 2.5 of this bill requires the school service 
+provider  to  inform  a  school  district,  charter  school  or  university  school  for 
+profoundly gifted pupils or a private school if there is a breach of the security of the 
+system data concerning pupils in violation of the plan. Section 2.5 further requires 
+a school that receives such notice to provide the notice to the pupils and the parents 
+and legal guardians of pupils who are less than 18 years of age. 
+ 
+ 
+
+Sections 5-10 of this bill establish similar provisions for private schools. 
+
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted. 
+
+ 
+
+ 
+
+- 
+
+80th Session (2019) 
+
+ 
+ 
+ 
+
+– 2 – 
+
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN 
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS: 
+
+(a)  Summarizes the laws governing school service providers set 
+
+ 
+  Section  1.    Chapter 388 of NRS is hereby amended by adding 
+thereto a new section to read as follows: 
+ 
+1.    Before  a  public  school,  including,  without  limitation,  a 
+charter  school  and  a  university  school  for  profoundly  gifted 
+pupils, allows a pupil to use any school service or provides a pupil 
+with  any  technology,  the  public  school  must  post  on  the  Internet 
+website of the public school information that: 
+ 
+forth in this section and NRS 388.281 to 388.296, inclusive; 
+ 
+(b)  Lists each school service provider for the school;  
+(c)  Confirms  that  each  such  school  service  provider  for  the 
+ 
+school has created a plan for the security of any data concerning 
+pupils,  including,  without  limitation,  covered  information  and 
+personally identifiable information pursuant to NRS 388.293 and 
+informs about the circumstances under which notification will be 
+provided pursuant to that section if a breach of the security of the 
+system data is discovered; 
+ 
+(d)  Describes any other actions taken by the public school, the 
+school  district  or  the  governing  body  of  the  charter  school  or 
+university  school  for  profoundly  gifted  pupils,  as  applicable,  to 
+protect  the  security  of  any  data  collected  by  a  school  service 
+provider,  including,  without  limitation,  covered  information  and 
+personally identifiable information, concerning pupils; and 
+(e)  Describes  the  manner  in  which  a  pupil  or  the  parent  or 
+ 
+legal  guardian  of  a  pupil  may  report  any  suspicious  activity 
+relating to the use of a school service by a pupil. 
+ 
+2.    At  the  beginning of  each  school  year,  each  public  school, 
+including,  without  limitation,  a  charter  school  and  a  university 
+school  for  profoundly  gifted  pupils,  shall  communicate  to  the 
+pupils enrolled at the school and the parents and legal guardians 
+of  such  pupils  the  availability  of  the  information  described  in 
+subsection 1 and the manner in which to locate the information. 
+3.    As used in this section: 
+ 
+ 
+(a)  “Covered  information”  means  the  personally  identifiable 
+information  of  a  pupil  or  any  information  that  is  linked  to  the 
+personally identifiable information of a pupil which is: 
+ 
+(1)  Created by or provided to a school service provider by a 
+pupil or the parent or legal guardian of a pupil through the use of 
+a school service; 
+
+ 
+
+ 
+
+- 
+
+80th Session (2019) 
+
+ 
+
+ 
+
+– 3 – 
+
+(c)  “School  service”  has  the  meaning  ascribed  to  it  in  
+
+(3)  Gathered  by  a  school  service  provider  from  any  other 
+
+(d)  “School service provider” has the meaning ascribed to it in 
+
+(b)  “Personally  identifiable  information”  has  the  meaning 
+
+ 
+ 
+ 
+ 
+(2)  Created  by  or  provided  to  a  school  service  provider  by 
+an employee of a public school, a school district or the governing 
+body of a charter school; or 
+ 
+source and associated with the identity of a pupil. 
+ 
+ascribed to it in 34 C.F.R. § 99.3. 
+ 
+NRS 388.283. 
+ 
+NRS 388.284. 
+  Sec.  2.    NRS 388.292 is hereby amended to read as follows: 
+388.292    1.    Except as otherwise provided in subsections 2 and 
+ 
+5,  a  school  service  provider  may  collect,  use,  allow  access  to  or 
+transfer personally identifiable information concerning a pupil only: 
+ 
+(a)  For  purposes  inherent  to  the  use  of  a  school  service  by  a 
+teacher in a classroom or for the purposes authorized by the board of 
+trustees  of  the  school  district  in  which  the  school  that  the  pupil 
+attends is located, the governing body of the charter school that the 
+pupil  attends  or  the  governing  body  of  the  university  school  for 
+profoundly gifted pupils that the pupil attends, as applicable, so long 
+as it is authorized by federal and state law; 
+(b)  If required by federal or state law;  
+ 
+ 
+(c)  In  response  to  a  subpoena  issued  by  a  court  of  competent 
+jurisdiction; 
+(d)  To protect the safety of a user of the school service; or 
+ 
+(e)  With  the  consent  of  any  person  required  in  a  policy  of  the 
+ 
+school  district,  charter  school  or  university  school  for  profoundly 
+gifted pupils, as applicable, or, if none, with the consent of the pupil, 
+if the pupil is at least 18 years of age, or the parent or legal guardian 
+of the pupil if the pupil is less than 18 years of age. 
+transfer  personally 
+2.    A  school  service  provider  may 
+ 
+identifiable  information  concerning  a  pupil  to  a  third-party  service 
+provider if the school service provider provides notice to any person 
+designated  in  a  policy  of  the  school  district,  charter  school  or 
+university  school  for  profoundly  gifted  pupils,  as  applicable,  to 
+receive such notice or, if none, to the pupil, if the pupil is at least 18 
+years of age, or the parent or guardian of the pupil and: 
+ 
+(a)  Contractually prohibits the third-party service provider from 
+using any such information for any purpose other than providing the 
+contracted  school  services  to,  or  on  behalf  of,  the  school  service 
+provider; 
+
+ 
+
+- 
+
+80th Session (2019) 
+
+– 4 – 
+
+ 
+ 
+ 
+ 
+(b)  Prohibits the third-party service provider from disclosing any 
+personally  identifiable  information  concerning  a  pupil  unless  the 
+disclosure is authorized pursuant to subsection 1; and 
+(c)  Requires the third-party service provider to comply with the 
+ 
+requirements of NRS 388.281 to 388.296, inclusive [.] , and section 
+1 of this act. 
+ 
+3.    A  school  service  provider  shall  delete  any  personally 
+identifiable  information  concerning  a  pupil  that  is  collected  or 
+maintained  by  the  school  service  provider  and  that  is  under  the 
+control of the school service provider within a reasonable time not 
+to  exceed  30  days  after  receiving  a  request  from  the  board  of 
+trustees  of  the  school  district  in  which  the  school  that  the  pupil 
+attends is located, the governing body of the charter school that the 
+pupil  attends  or  the  governing  body  of  the  university  school  for 
+profoundly  gifted  pupils  that  the  pupil  attends,  as  applicable.  The 
+board of trustees or the governing body, as applicable, must have a 
+policy  which  allows  a  pupil  who  is  at  least  18  years  of  age  or  the 
+parent or legal guardian of any pupil to review such information and 
+request that such information about the pupil be deleted. The school 
+service  provider  shall  delete  such  information  upon  the  request  of 
+the parent or legal guardian of a pupil if no such policy exists. 
+4.    Any agreement entered into by a school service provider that 
+ 
+provides  for  the  disclosure  of  personally  identifiable  information 
+must  require  that  the  person  or  governmental  entity  to  whom  the 
+information  will  be  disclosed  abide  by  the  requirements  imposed 
+pursuant to this section. 
+5.    A school service provider shall not: 
+ 
+ 
+(a)  Use personally identifiable information to engage in targeted 
+advertising  [.]  within  the  school  service  or  on  any  other  Internet 
+website,  online  service  or  mobile  application  if  the  targeted 
+advertising  is  based  upon  any  information  acquired  from  use  of 
+the school service. 
+ 
+(b)  Except  as  otherwise  provided  in  this  paragraph,  sell 
+personally  identifiable  information  concerning  a  pupil.  A  school 
+service  provider  may  transfer  personally  identifiable  information 
+concerning  pupils  to  an  entity  that  purchases,  merges  with  or 
+otherwise  acquires  the  school  service  and  the  acquiring  entity 
+becomes  subject  to  the  requirements  of  NRS  388.281  to  388.296, 
+inclusive, and section 1 of this act, and any contractual provisions 
+between  the  school  service  provider  and  the  board  of  trustees  of  a 
+school  district,  the  governing  body  of  a  charter  school  or  the 
+governing body of a university school for profoundly gifted pupils, 
+as applicable, governing such information. 
+
+ 
+
+- 
+
+80th Session (2019) 
+
+– 5 – 
+
+(a)  Adaptive  learning  or  providing  personalized  or  customized 
+
+ 
+ 
+ 
+ 
+(c)  Use personally identifiable information concerning a pupil to 
+create  a  profile  of  the  pupil  for  any  purpose  not  related  to  the 
+instruction of the pupil provided by the school without the consent 
+of the appropriate person described in paragraph (e) of subsection 1. 
+ 
+(d)  Use personally identifiable information concerning a pupil in 
+a  manner  that  is  inconsistent  with  any  contract  governing  the 
+activities  of  the  school  service  provider  for  the  school  service  in 
+effect  at  the  time  the  information  is  collected  or  in  a  manner  that 
+violates any of the provisions of NRS 388.281 to 388.296, inclusive 
+[.] , and section 1 of this act. 
+ 
+(e)  Knowingly  retain,  without  the  consent  of  the  appropriate 
+person  described  in  paragraph  (e)  of  subsection  1,  personally 
+identifiable  information  concerning  a  pupil  beyond  the  period 
+authorized  by  the  contract  governing  the  activities  of  the  school 
+service provider. 
+ 
+6.    This  section  does  not  prohibit  the  use  of  personally 
+identifiable  information  concerning  a  pupil  that  is  collected  or 
+maintained by a school service provider for the purposes of: 
+ 
+education; 
+ 
+ 
+school service; 
+ 
+ 
+ 
+(1)  Is required by federal or state law; or 
+ 
+ 
+(2)  Is authorized by federal or state law, is performed under 
+the direction of a public school, school district or the Department 
+and  does  not  use  any  personally 
+information 
+concerning  a  pupil  for  any  purpose  relating  to  advertising  or 
+creating  a  profile  of  the  pupil  for  any  purpose  not  related  to  the 
+instruction of the pupil; or 
+ 
+(g)  Allowing a pupil who is at least 18 years of age or the parent 
+or  legal  guardian  of  any  pupil  to  download,  transfer,  or  otherwise 
+maintain data concerning a pupil.  
+ 
+7.    A school service provider that violates the provisions of this 
+section  is  subject  to  a  civil  penalty  in  an  amount  not  to  exceed 
+$5,000 per violation. The Attorney General may recover the penalty 
+in a civil action brought in the name of the State of Nevada in any 
+court of competent jurisdiction. 
+
+(d)  Responding to a request for information by a pupil; 
+(e)  Soliciting feedback regarding a school service; [or] 
+(f)  Performing research which: 
+ 
+ 
+
+(b)  Maintaining or improving the school service; 
+(c)  Recommending  additional  content  or  services  within  a 
+
+identifiable 
+
+ 
+
+- 
+
+80th Session (2019) 
+
+for 
+
+the 
+
+– 6 – 
+
+security, 
+
+(a)  Procedures 
+
+technological  and  physical 
+
+(b)  Appropriate  administrative, 
+
+ 
+ 
+ 
+  Sec.  2.5.    NRS 388.293 is hereby amended to read as follows: 
+ 
+388.293    1.    A school service provider shall establish and carry 
+out a detailed plan for the security of any data concerning pupils that 
+is collected or maintained by the school service provider. The plan 
+must include, without limitation: 
+ 
+privacy, 
+protecting 
+confidentiality  and  integrity  of  personally  identifiable  information 
+concerning a pupil; and 
+ 
+safeguards to ensure the security of data concerning pupils. 
+ 
+2.    A  school  service  provider  shall  ensure  that  any  successor 
+entity  understands  that  it  is  subject  to  the  provisions  of  NRS 
+388.281 to 388.296, inclusive, and section 1 of this act and agrees 
+to  abide  by  all  privacy  and  security  commitments  related  to 
+personally identifiable information concerning a pupil collected and 
+maintained  by  the  school  service  provider  before  allowing  a 
+successor entity to access such personally identifiable information. 
+3.    A  school  service  provider  shall  provide  notice  to  a  school 
+ 
+district,  charter  school  or  university  school  for  profoundly  gifted 
+pupils, as applicable, or a private school pursuant to section 10 of 
+this  act,  of  any  breach  of  the  security  of  the  system  data  in 
+violation of the plan and any actions taken or being taken by the 
+school service provider to address the breach. The notice must be 
+provided as soon as practicable and without unreasonable delay.  
+ 
+4.    A  school  district,  charter  school,  university  school  for 
+profoundly  gifted  pupils  or  private  school  that  receives  a  notice 
+pursuant  to  subsection  3  shall  provide  the  notice  to  each  pupil 
+affected by the breach or, if a pupil is less than 18 years of age, the 
+parent or legal guardian of the pupil. The notice must be provided 
+as soon as practicable and without unreasonable delay. 
+ 
+5.    As  used  in  this  section,  “breach  of  the  security  of  the 
+system  data”  means  unauthorized  acquisition  of  computerized 
+data  that  materially  compromises  the  security,  confidentiality  or 
+integrity of data concerning pupils that is collected or maintained 
+by the school service provider. The term does not include the good 
+faith  acquisition  of  data  concerning  pupils  by  an  employee  or 
+agent of the school service provider for a legitimate purpose of the 
+school  service  provider,  so  long  as  the  data  is  not  used  for  a 
+purpose  unrelated  to  the  school  service  provider  or  subject  to 
+further unauthorized disclosure. 
+  Sec.  3.    NRS 388.295 is hereby amended to read as follows: 
+ 
+information  derived  from  personally 
+
+388.295    A  school  service  provider  may  use  and  disclose 
+information 
+
+identifiable 
+
+ 
+
+- 
+
+80th Session (2019) 
+
+– 7 – 
+
+information”  means 
+
+ 
+ 
+ 
+concerning a pupil to demonstrate the effectiveness of the products 
+or  services  of  the  school  service  provider,  including,  without 
+limitation, for use in advertising or marketing regarding the school 
+service , and to develop and improve a school service or any other 
+Internet website, online service or mobile application of the school 
+service  provider  so  long  as  the  information  is  aggregated  or  is 
+presented  in  a  manner  which  does  not  disclose  the  identity  of  the 
+pupil about whom the information relates. 
+  Sec.  4.    Chapter  394  of  NRS  is  hereby  amended  by  adding 
+thereto the provisions set forth as sections 5 to 10, inclusive, of this 
+act. 
+  Sec.  5.    As  used  in  sections  5  to  10,  inclusive,  of  this  act, 
+unless the context otherwise requires, the words and terms defined 
+in sections 6 to 9, inclusive, of this act have the meanings ascribed 
+to them in those sections. 
+  Sec.  6.    “Covered 
+the  personally 
+identifiable  information  of  a  pupil  or  any  information  that  is 
+linked to the personally identifiable information of a pupil which 
+is: 
+ 
+1.    Created  by  or  provided  to  a  school  service  provider  by  a 
+pupil or the parent or legal guardian of a pupil through the use of 
+a school service; 
+ 
+2.    Created  by  or  provided  to  a  school  service  provider  by  an 
+employee  of  a  private  school  or  the  governing  body  of  a  private 
+school; or 
+ 
+source and associated with the identity of a pupil. 
+  Sec.  7.    “Personally 
+meaning ascribed to it in 34 C.F.R. § 99.3. 
+  Sec.  8.    1.    “School  service”  means  an  Internet  website, 
+online service or mobile application that: 
+ 
+concerning a pupil; 
+(b)  Is used primarily for educational purposes; and 
+ 
+ 
+(c)  Is designed and marketed for use in private schools and is 
+used at the direction of teachers and other educational personnel. 
+2.    The term does not include: 
+ 
+ 
+(a)  An  Internet  website,  online  service  or  mobile  application 
+that is designed or marketed for use by a general audience, even if 
+the school service is also marketed to private schools; 
+(b)  An  internal  database,  system  or  program  maintained  or 
+ 
+operated  by  a  private  school  or  the  governing  body  of  a  private 
+school; 
+
+(a)  Collects  or  maintains  personally  identifiable  information 
+
+3.    Gathered  by  a  school  service  provider  from  any  other 
+
+information”  has 
+
+identifiable 
+
+the 
+
+ 
+
+- 
+
+80th Session (2019) 
+
+ 
+
+ 
+
+– 8 – 
+
+(2)  Entered  into  a  contract  with  the  governing  body  of  a 
+
+(c)  A school service for which a school service provider has: 
+ 
+
+ 
+ 
+ 
+ 
+ 
+(1)  Been  designated  by  the  governing  body  of  a  private 
+school  as  a  school  official  pursuant  to  the  Family  Educational 
+Rights and Privacy Act of 1974, 20 U.S.C. § 1232g; 
+ 
+private school; and  
+ 
+(3)  Agreed to comply with and be subject to the provisions 
+of  the  Family  Educational  Rights  and  Privacy  Act  of  1974,  20 
+U.S.C. § 1232g, relating to personally identifiable information; or 
+ 
+(d)  Any  instructional  programs  purchased  by  the  governing 
+body of a private school. 
+  Sec.  9.    “School  service  provider”  means  a  person  that 
+operates a school service, to the extent the provider is operating in 
+that capacity. 
+  Sec.  10.    1.    Before a private school allows a pupil to use any 
+school service or provides a pupil with any technology, the private 
+school must post on the Internet website of the school information 
+that: 
+(a)  Summarizes the laws governing school service providers; 
+ 
+ 
+(b)  Lists  each  school  service  provider  for  the  private  school 
+and  the  plan  for  the  security  of  any  data  concerning  pupils, 
+including, without limitation, covered information and personally 
+identifiable  information,  that  is  established  by  the  school  service 
+provider; 
+ 
+(c)  Describes  any  other actions taken  by the private  school to 
+protect  the  security  of  any  data  collected  by  a  school  service 
+provider,  including,  without  limitation,  covered  information  and 
+personally identifiable information, concerning pupils; and 
+ 
+(d)  Describes  the  manner  in  which  a  pupil  or  the  parent  or 
+legal  guardian  of  a  pupil  may  report  any  suspicious  activity 
+relating to the use of a school service by a pupil. 
+2.    At the beginning of each school year, each private school 
+ 
+shall  communicate  to  the  pupils  enrolled  at  the  school  and  the 
+parents and legal guardians of such pupils the availability of the 
+information described in subsection 1 and the manner in which to 
+locate the information. 
+  Sec.  11.    This act becomes effective upon passage and approval 
+for  the  purpose  of  adopting  regulations  and  performing  any  other 
+administrative tasks that are necessary to carry out the provisions of 
+this act and on July 1, 2020, for all other purposes. 
+
+ 
+20  ~~~~~  19 
+
+ 
+
+- 
+
+80th Session (2019) 
+
+

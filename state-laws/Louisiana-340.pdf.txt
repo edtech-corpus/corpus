@@ -1,0 +1,677 @@
+Regular Session, 2014
+
+HOUSE BILL NO. 340
+
+BY REPRESENTATIVE JAMES
+
+ENROLLED
+
+ACT No. 165
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+To enact Chapter 28 of Title 51 of the Louisiana Revised Statutes of 1950, to be comprised
+
+AN ACT
+
+of R.S. 51:1951 through 1955, relative to Internet privacy; to prohibit employers and
+
+educational institutions from requesting or requiring certain individuals to disclose
+
+information  that  allows  access  to  or  observation  of  personal  online  accounts;  to
+
+prohibit employers and educational institutions from taking certain actions for failure
+
+to disclose information that allows access to personal online accounts; to provide for
+
+certain individuals to self-disclose information that allows access to or observation
+
+of personal online accounts; to limit liability for failure to search or monitor the
+
+activity of an individual's personal online account; to provide for exceptions;  and to
+
+provide for related matters.
+
+Be it enacted by the Legislature of Louisiana:
+
+Section  1.  Chapter  28  of  Title  51  of  the  Louisiana  Revised  Statutes  of  1950,
+
+comprised of R.S. 51:1951 through 1955, is hereby enacted to read as follows: 
+
+CHAPTER 28.  PERSONAL ONLINE ACCOUNT PRIVACY PROTECTION ACT
+
+This  Chapter  shall  be  known  and  may  be  cited  as  the  "Personal  Online
+
+§1951.  Title
+
+Account Privacy Protection Act".
+
+§1952.  Definitions
+
+As used in this Chapter, the terms defined in this Section have the meanings
+
+herein given to them, except where the context expressly indicates otherwise:
+
+(1)  "Educational institution" means a public or private educational institution
+
+or a separate school or department of a public or private educational institution and
+
+includes but is not limited to the following:
+
+Page 1 of 6
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+HB NO. 340
+
+ENROLLED
+
+(a)  A university, college, or junior college.
+
+(b)  An academy.
+
+(c)  An elementary or secondary school.
+
+(d)  An extension course.
+
+(e)  A kindergarten.
+
+(f)  A nursery school.
+
+(g)  A school system, school district, or intermediate school district.
+
+(h)  A business, nursing, professional, secretarial, technical, or vocational
+
+school.
+
+(i)  A public or private educational testing service or test administrator.
+
+(j)  An agent of an educational institution.
+
+(2)    "Employer"  means  a  person,  including  a  unit  of  state  or  local
+
+government, engaged in a business, industry, profession, trade, or other enterprise
+
+in this state and includes an agent, representative, or designee of the employer.
+
+(3)  "Personal online account" means an online account that the employee,
+
+applicant  for  employment,  student,  or  prospective  student  uses  exclusively  for
+
+personal  communications  unrelated  to  any  business  purpose  of  the  employer  or
+
+educational institution.  A personal online account does not extend to any account
+
+or profile created, serviced, maintained, used, or accessed by a current employee,
+
+applicant  for  employment,  student,  or  prospective  student  for  either  business
+
+purposes of the employer or educational institution or to engage in business-related
+
+communications.
+
+(4)    "Electronic  communications  device"  means  any  device  that  uses
+
+electronic signals to create, transmit, and receive information, including a computer,
+
+telephone, personal digital assistant, or other similar device.
+
+§1953.  Employers; prohibited activities; exceptions
+
+A.  An employer shall not do any of the following:
+
+(1)  Request or require an employee or applicant for employment to disclose
+
+any username, password, or other authentication information that allows access to
+
+the employee's or applicant's personal online account.
+
+Page 2 of 6
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+HB NO. 340
+
+ENROLLED
+
+(2)  Discharge, discipline, fail to hire, or otherwise penalize or threaten to
+
+penalize  an  employee  or  applicant  for  employment  for  failure  to  disclose  any
+
+information specified in this Subsection.
+
+B.  An employer shall not be prohibited from doing any of the following:
+
+(1)  Requesting or requiring an employee or applicant for employment to
+
+disclose  any  username,  password,  or  other  authentication  information  to  the
+
+employer to gain access to or operate any of the following:
+
+(a)  An electronic communications device paid for or supplied in whole or in
+
+part by the employer.
+
+(b)  An account or service provided by the employer, obtained by virtue of
+
+the  employee's  or  applicant's  relationship  with  the  employer,  or  used  for  the
+
+employer's business purposes.
+
+(2)  Disciplining or discharging an employee for transferring the employer's
+
+proprietary or confidential information or financial data to an employee's personal
+
+online account without the employer's authorization.
+
+(3)  Conducting an investigation or requiring an employee or applicant to
+
+cooperate in an investigation in any of the following circumstances:
+
+(a)  If there is specific information about activity on the employee's personal
+
+online  account,  for  the  purpose  of  ensuring  compliance  with  applicable  laws,
+
+regulatory requirements, or prohibitions against work-related employee misconduct.
+
+(b)  If the employer has specific information about an unauthorized transfer
+
+of the employer's proprietary information, confidential information, or financial data
+
+to an employee's or applicant's personal online account.
+
+(4)  Conducting an investigation or requiring an employee or applicant to
+
+cooperate in an investigation as specified in this Subsection, including requiring the
+
+employee or applicant to share the content that has been reported in order to make
+
+a  factual  determination,  without  obtaining  the  username  and  password  to  the
+
+employee's or applicant's personal online account.
+
+(5)  Restricting or prohibiting an employee's or applicant's access to certain
+
+websites while using an electronic communications device paid for or supplied in
+
+Page 3 of 6
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 340
+
+ENROLLED
+
+whole or in part by the employer or while using an employer's network or resources,
+
+in accordance with state and federal law.
+
+C.  If through the use of an electronic device or program that monitors an
+
+employer's  network  or  the  use  of  an  employer-provided  device,  an  employer
+
+inadvertently receives an employee's or applicant's username, password, or other
+
+authentication  information,  the  employer  shall  not  be  liable  for  having  the
+
+information, but shall not use the information to access the employee's or applicant's
+
+personal online account.
+
+D.  An employer shall not be prohibited or restricted from complying with
+
+a  duty  to  screen  employees  or  applicants  prior  to  hiring  or  to  monitor  or  retain
+
+employee communications that are established pursuant to state or federal law, rules
+
+or regulations, case law, or rules of self-regulatory organizations.
+
+E.  An employer shall not be prohibited or restricted from viewing, accessing,
+
+or utilizing information about an employee or applicant that can be obtained without
+
+the information specified in Paragraph (A)(1) of this Section or that is available in
+
+the public domain.
+
+F.    An  employer  shall  not  be  prohibited  or  restricted  from  requiring  an
+
+employee to provide a personal e-mail address in order to facilitate communication
+
+with the employee in the event the employer's e-mail system fails.
+
+G.    Nothing  in  this  Section  shall  be  construed  to  prohibit  or  restrict  an
+
+employee or applicant for employment from self-disclosing any username, password,
+
+or  other  authentication  information  to  the  employer  that  allows  access  to  the
+
+employee's or applicant's personal online account.
+
+§1954.  Educational institutions; prohibited activities; exceptions
+
+A.  An educational institution shall not do any of the following:
+
+(1)    Request  or  require  a  student  or  prospective  student  to  disclose  any
+
+username, password, or other authentication information that allows access to the
+
+student's or prospective student's personal online account.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+Page 4 of 6
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+HB NO. 340
+
+ENROLLED
+
+(2)    Expel,  discipline,  fail  to  admit,  or  otherwise  penalize  or  threaten  to
+
+penalize  a  student  or  prospective  student  for  failure  to  disclose  any  information
+
+specified in this Subsection.
+
+B.    An  educational  institution  shall  not  be  prohibited  from  requesting  or
+
+requiring a student or prospective student to disclose any username, password, or
+
+other authentication information to the educational institution to gain access to or
+
+operate any of the following:
+
+(1)  An electronic communications device paid for or supplied in whole or
+
+in part by the educational institution, except where the device has been provided to
+
+the student or prospective student with the intent to permanently transfer ownership
+
+of the device to the student or prospective student.
+
+(2)  An account or service provided by the educational institution that is
+
+either obtained by virtue of the student's or prospective student's admission to the
+
+educational institution or used by the student or prospective student for educational
+
+purposes.
+
+following:
+
+C.  An educational institution shall not be prohibited from doing any of the
+
+(1)    Viewing,  accessing,  or  utilizing  information  about  a  student  or
+
+prospective  student  that  can  be  obtained  without  the  information  specified  in
+
+Paragraph (A)(1) of this Section or that is available in the public domain.
+
+(2)  Restricting or prohibiting a student's or prospective student's access to
+
+certain  websites  while  using  an  electronic  communications  device  paid  for  or
+
+supplied  in  whole  or  in  part  by  the  educational  institution    or  while  using  an
+
+educational institution's network or resources, in accordance with state and federal
+
+law, except where the device has been provided to the student or prospective student
+
+with the intent to permanently transfer the ownership of the device to the student or
+
+prospective student.
+
+D.  Nothing in this Section shall be construed to prohibit or restrict a student
+
+or  prospective  student  from  self-disclosing  any  username,  password,  or  other
+
+Page 5 of 6
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 340
+
+ENROLLED
+
+authentication information to the educational institution that allows access to the
+
+student's or prospective student's personal online account.
+
+§1955.  No duty to monitor; liability
+
+A.    This  Chapter  shall  not  create  a  duty  for  an  employer  or  educational
+
+institution  to  search  or  monitor  the  activity  of  an  individual's  personal  online
+
+B.    An  employer  or  educational  institution  shall  not  be  liable  under  this
+
+Chapter for failure to request or require an employee, a student, an applicant for
+
+employment, or a prospective student to disclose information that allows access to
+
+the  employee's,  student's,  applicant's,  or  prospective  student's  personal  online
+
+account.
+
+account.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+
+PRESIDENT OF THE SENATE
+
+GOVERNOR OF THE STATE OF LOUISIANA
+
+APPROVED:  
+
+Page 6 of 6
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+

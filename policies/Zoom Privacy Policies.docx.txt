@@ -1,0 +1,555 @@
+Privacy Policy
+
+March 29, 2020
+
+ 
+
+Dear Zoomer,
+
+Privacy is an extremely important topic, and we want you to know that at Zoom, we take it very seriously. Here are the facts about user privacy as it relates to Zoom and your use of our services:
+
+We do not sell your personal data. Whether you are a business or a school or an individual user, we do not sell your data. 
+
+Your meetings are yours. We do not monitor them or even store them after your meeting is done unless we are requested to record and store them by the meeting host. We alert participants via both audio and video when they join meetings if the host is recording a meeting, and participants have the option to leave the meeting.  
+
+When the meeting is recorded, it is, at the host’s choice, stored either locally on the host’s machine or in our Zoom cloud. We have robust and validated access controls to prevent unauthorized access to meeting recordings saved to the Zoom cloud.
+
+Zoom collects only the user data that is required to provide you Zoom services. This includes technical and operational support and service improvement. For example, we collect information such as a user’s IP address and OS and device details to deliver the best possible Zoom experience to you regardless of how and from where you join.   
+
+We do not use data we obtain from your use of our services, including your meetings, for any advertising. We do use data we obtain from you when you visit our marketing websites, such as zoom.us and zoom.com. You have control over your own cookie settings when visiting our marketing websites.
+
+We are particularly focused on protecting the privacy of K-12 users. Both Zoom’s Privacy Policy (attached) and Zoom’s K-12 Schools & Districts Privacy Policy are designed to reflect our compliance with the requirements of the Children’s Online Privacy Protection Act (COPPA), the Federal Education Rights and Privacy Act (FERPA), the California Consumer Privacy Act (CCPA), and other applicable laws.
+
+We are committed to protecting the privacy and security of your personal data. If you have questions, please contact the privacy team at privacy@zoom.us or the support team at https://support.zoom.us. 
+
+ 
+
+Thank you, and safe Zooming!
+
+Aparna Bawa
+
+Chief Legal Officer, Zoom 
+
+
+
+
+
+Zoom Privacy Policy
+
+Zoom is committed to protecting your privacy and ensuring you have a positive experience when using the services we provide, which we generally refer to as Zoom or Zoom services, or when visiting our promotional or marketing websites, such as zoom.us and zoom.com.  
+
+This policy explains how we handle data, including what we collect and how we obtain it, how we use it, when and if we disclose it, and some of your options for managing your data with Zoom. It applies worldwide to all of our subsidiaries and covers all data that you provide to us, as we describe below. 
+
+Information that can be used to identify or be reasonably associated with a specific person is “personal data”.  Where the data described in this policy is personal data, we only disclose it in the ways we have stated.
+
+In addition to this privacy policy, we have established policies to protect K-12 students using our services through their schools for their education. For information regarding how Zoom handles personal data of K-12 students who use Zoom through their schools, who we generally refer to as school subscribers, please visit: Zoom for K-12 Schools & Districts Privacy Policy.
+
+Aside from providing services to K-12 students through school subscribers as discussed above under our Zoom for K-12 Schools & Districts Privacy Policy, Zoom does not knowingly allow children under the age of 16 to sign up for their own accounts. If you are a parent or legal guardian and believe your child has given us information, you can contact us at privacy@zoom.us, and we will take appropriate steps to investigate and address the issue.  
+
+This policy and the Zoom for K-12 Schools & Districts Privacy Policy may be updated periodically because our business, or regulations that apply to Zoom, may change. If we make any material changes to the way we handle personal data as described here, we will notify you by posting an updated notice on our website. We encourage you to review this page regularly for the latest information on our privacy practices. The effective date at the top of this policy indicates when the policy was last revised.
+
+Collection And Use of Data
+
+Zoom Services
+
+We obtain data when you use Zoom in order to deliver our services and provide a better experience to you.  The categories of data we obtain when you use Zoom include data you provide to us as well as data that our system collects from you. When we say “customer”, we mean the person or company that signs up for and has the account with Zoom.  A “host” is someone who can host meetings under a customer account. “You” or “user” or “participant” is anyone who uses Zoom. (“You” and “user” may also include customers. Some of the information below applies only to customers, though, and we use “customer” to highlight those places.)
+
+Data you give us (or that we may receive from another Zoom user, for example, in a meeting invite):
+
+ 
+
+Type of Data
+
+Examples
+
+Zoom Uses it to
+
+Information that identifies you
+
+For customers: Account owner name, billing name and address, payment method
+
+
+
+Your name, username and email address, or phone number,  when you use this information to access or use our services
+
+
+
+The phone number a Zoom Phone user dials 
+
+Create a customer account
+
+
+
+Provide Zoom services
+
+
+
+Communicate with a customer
+
+
+
+Respond to requests for support
+
+Other account data 
+
+Your phone number (if you choose to put it in), language preference, password (if SSO is not used), title, department
+
+Create a customer account
+
+
+
+Provide Zoom services 
+
+Customer content:  information you or others upload, provide, or create while using Zoom
+
+Cloud recordings, chat /  instant messages, files, whiteboards, and other information shared while using the service, voice mails
+
+Provide Zoom services*
+
+
+
+Store chat logs (for delivery and so you can review and search chat history) 
+
+
+
+Store recordings, if explicitly requested by the host or Customer
+
+
+
+Store voice mail for Zoom Phone
+
+ 
+
+*Zoom does not monitor or use customer content for any reason other than as part of providing our services.  Zoom does not sell customer content to anyone or use it for any advertising purposes.
+
+
+
+
+
+
+
+
+
+
+
+Data that our system collects from you: 
+
+ 
+
+Type of Data
+
+Examples
+
+Zoom Uses it to
+
+Technical information about your devices, network, and internet connection
+
+
+
+
+
+The phone number of a person making a call using Zoom services (e.g. Zoom Phone)
+
+Connect you to and optimize your experience using our services
+
+
+
+Provide customers dashboards and reports
+
+
+
+Respond to requests for support
+
+
+
+Monitor performance of our data centers and networks
+
+
+
+Conduct anonymized, aggregated analytics to improve Zoom’s service performance  
+
+Approximate Location
+
+To the nearest city (we do not “track” your specific location)
+
+Connect you to the nearest data center 
+
+
+
+Comply with privacy and other laws – for example, so we can provide you with the right notices for your area
+
+
+
+Suggest choices such as language preferences
+
+
+
+Monitor performance of our data centers and networks
+
+
+
+Respond to requests for support
+
+Information about how you use Zoom (this is NOT information or content you share in your meetings or in chats)
+
+Did you use VoIP or a phone call? 
+
+
+
+Did you shift from the mobile client to the desktop?
+
+Optimize your Zoom experience 
+
+
+
+Respond to requests for support
+
+
+
+Conduct anonymized, aggregated analytics to improve Zoom’s performance.
+
+Setting and preferences chosen by the user
+
+Join with video off
+
+
+
+Require meeting password
+
+
+
+Enable waiting room
+
+
+
+Do not allow screen sharing other than host
+
+To provide you choices for how you use Zoom
+
+Metadata
+
+Duration of the meeting / Zoom Phone call 
+
+
+
+Email address, name, or other information that a participant enters to identify themselves in the meeting
+
+Join and leave time of 
+
+participants
+
+
+
+Name of the meeting 
+
+
+
+Date / time that meeting was scheduled
+
+
+
+Chat status (unless a setting is actively chosen by user)
+
+
+
+Call data records for Zoom Phone
+
+Provide Zoom services 
+
+
+
+Provide customers dashboards and reports
+
+
+
+Respond to requests for support
+
+ 
+
+ 
+
+Recordings
+
+If you attend a Zoom meeting or webinar as a participant, the host may choose to record the session, and if so, the host is responsible for obtaining consent from you. Zoom helps hosts obtain consent from meeting participants by providing visual and audio cues to alert participants of a recording. A meeting host may even turn on a pop-up notice which requires a participant to click a “continue” button to acknowledge notice of the recording. Recordings may contain personal data and may be stored in Zoom’s cloud at the request of the customer. A meeting host may choose to store a recording of a meeting on the host’s local storage device, not in Zoom’s cloud. When a host chooses to do that, Zoom does not have any control over the recording. Our customer may also request that a transcript be made of the recording stored in our cloud. The transcript, which may also contain personal data, is treated the same way as the recording by Zoom.  
+
+Zoom Phone allows customers to record phone calls, receive voice mail recordings, and obtain transcripts of voicemail, all which may contain personal information and also be stored in our cloud. 
+
+Zoom does not monitor, access or use the recordings or transcripts that a meeting host or Zoom Phone customer may choose to store in Zoom’s cloud, unless he or she requests us to, for example, to provide technical support.  
+
+Attention Tracking 
+
+If you attend a Zoom meeting or webinar as a participant, the host (or their account administrator) may have enabled Attention Tracking. This feature is operational only when a host is sharing their screen. It places a small clock icon next to a participant’s name to indicate only to the host when Zoom is not the active window on the participant’s computer for more than 30 seconds, when the host is sharing their screen. While Zoom may provide certain tools to show that attention tracker is on, it is the meeting host’s responsibility to notify meeting participants if this feature is in use. Neither the meeting host nor Zoom can see or access any other applications on a participant’s screen or computer. Also, the Attention Tracker does not allow Zoom to monitor what takes place in a meeting, and does not apply to meetings where screen sharing is not turned on. Using other features of the service does not activate Attention Tracker. 
+
+Zoom Marketing Sites
+
+Zoom may also gather data from you when you visit our marketing websites, such as zoom.us and zoom.com. These are our webpages that tell you about our product, plans and pricing, features, and other information about Zoom. The categories of data we collect from our websites include: data you choose to give us; data we may obtain from cookies or similar analytics tools; data we receive from referrals by other customers; and data we collect if you choose to answer any marketing communications. As used in this section, “you” means visitors to our marketing pages or people who do the things we describe here. (“You” here does not mean a user of Zoom services.)
+
+Data you can choose to give us:
+
+ 
+
+Type of Data
+
+Examples
+
+Zoom Uses it to
+
+Information that identifies you
+
+Your name, username, physical address, email address, phone number
+
+Create an account when you sign up
+
+
+
+Respond to requests from you
+
+
+
+Send you marketing communications, unless you tell us not to (or if you say it’s OK, i.e., opt-in)
+
+Information about your job
+
+Company, title, department
+
+Provide tailored information
+
+
+
+Respond to requests from you
+
+Payment information
+
+Credit/debit card (goes directly to our payment processor; credit card information is not accessed or stored by Zoom)
+
+Charge you when you sign up for a paid plan
+
+Data we may obtain about you:
+
+ 
+
+Type of Data
+
+Examples
+
+Zoom Uses it to
+
+Data collected through the use of cookies and pixels
+
+Data collected from tools such as Google Analytics and Google Ads
+
+
+
+(All cookies are visible in the Cookie Preferences tool.  You have control over what non-essential cookies you accept. For more information, see our Cookie Policy and the Cookie section below)
+
+Analyze how our website is used so we can improve your experience 
+
+
+
+Allow you to do things like completing orders, sharing pages, and remembering settings.
+
+
+
+Evaluate the success of our Marketing campaigns
+
+
+
+Send you tailored Zoom advertising when you are on other sites.
+
+
+
+(For more information on how Zoom uses cookies, see our Cookie Policy)
+
+Third Parties
+
+Data Enrichment services
+
+Mailing Lists
+
+Public Sources
+
+Send you marketing communications, unless you tell us not to (or if you say it’s OK, i.e., opt-in)
+
+
+
+Provide tailored information based on your interests
+
+ 
+
+Cookies and Automated Collection of Data
+
+This section applies to marketing websites only and does not apply to Zoom services. There are no advertising cookies or tracking technology in our services.  
+
+Zoom collects information about you when you visit our marketing websites, unless you tell us not to by adjusting your cookie setting. We use such things as cookies and tracking technologies from our advertising service provider tools (e.g., Google Ads). Information collected includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referrer URL, exit pages, the files viewed on our marketing sites (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data. 
+
+We use this information to determine the offers to make for our services, analyze trends on and run the marketing site, and understand users’ movements around the marketing site. We also gather information about our visitors, such as location information at the city level (which we get from IP addresses) for tailoring advertising and selecting the language to use to display the website. 
+
+You have choices about what cookies can be used. You can adjust cookie settings by turning off optional cookies in your browser’s setting or by using our Cookie Preferences link at the bottom of the Zoom homepage. To ensure that you do not receive Advertising Cookies, you can adjust the slider at the Cookie Preferences link to “Required Cookies/CCPA Opt-Out”.
+
+For more information regarding cookies or similar technologies, please review our Cookie Policy. 
+
+Our Referral Program
+
+You can use our referral program to tell others about Zoom. When you do, you will be asked to provide that person’s name and email so that we can contact them. We rely on you to make sure the person you are referring to us has agreed to be contacted. We will send a one-time email inviting them to visit the marketing site. Unless that person says they want to hear more, we will only use their name and email address to send this one-time email and to maintain an activity log of our referral program.
+
+Marketing Communications
+
+You can sign up to receive email or newsletter communications from us. If you would like to stop receiving these communications, you can update your preferences by using the “Unsubscribe” link found in these emails, or by emailing unsubscribe@zoom.us.
+
+We may send you push notifications to update you about any events or promotions that we may be running. If you don’t want to receive these types of communications, you can turn off the setting on your device that allows these notifications to be delivered.
+
+Additional Data Uses
+
+Specific Requests. In addition to the uses described above, Zoom may also receive data from you for specific purposes. When you give it to us, we use the data for that specific purpose:
+
+To keep you up to date on the latest Service announcements, software updates, upgrades, system enhancements, special offers, and other information
+
+To run opt-in contests, sweepstakes or other promotional activities 
+
+To provide you with information and offers from us or third parties
+
+If you choose to participate, to conduct questionnaires and surveys to provide better services to our customers and end users
+
+To respond to you when you apply to join us (zoom.us/careers)
+
+To personalize marketing communications and website content based on your preferences, such as in response to your request for specific information on products and services that may be of interest.
+
+Comply with legal obligations. We use data to detect, investigate and stop fraudulent, harmful, unauthorized or illegal activity. We also use data to comply with our contractual and legal obligations, resolve disputes with users, and enforce our agreements, if needed.
+
+Disclosures
+
+During use of Zoom. When you use Zoom, some data will be disclosed to other participants and to meeting or webinar hosts. For instance, when you attend a meeting, your name might appear in the attendee list. If you turn on your video camera, your image will be shown. If you send a chat or share content, that can be viewed by others in the chat or the meeting.
+
+Customer Content, Dashboards and Reports. Customer content, including information shared during meetings, information about participants in meetings and any recordings of meetings, belongs to our customers. Customers may use this content, which may include personal data about participants, for their own purposes. Customers may also receive data we collect (for example, participants’ names) when they generate Zoom dashboards and usage reports for themselves.
+
+At the direction of our Customers. As described more below, under the EU’s GDPR, Zoom is a “Processor” of customer content and personal data that our Customers may put into our systems when they use Zoom. Our customers are the “Controllers”. We follow their directions regarding this data, and may store it, delete it, or disclose it at their direction.
+
+For Legal Reasons. We may also disclose data when we respond to valid legal process including jurisdiction. Zoom’s policies regarding compliance with valid legal process preclude cooperation where a government does not have jurisdiction. Zoom may also disclose data when reasonably necessary to preserve Zoom’s legal rights.
+
+To Third Party Service Providers. We use third-party service providers to help us provide portions of the Zoom services and give support. Examples of these third parties include public cloud storage vendors, carriers, our payment processor, and our service provider for managing customer support tickets. They only receive data needed to provide their services to us. We have agreements with our service providers that say they cannot use any of this data for their own purposes or for the purposes of another third party. We prohibit our service providers from selling data they receive from us or receive on our behalf. We require service providers to use data only in order to perform the services we have hired them to do (unless otherwise required by law). For example, we may use a company to help us provide customer support. The information they may receive as part of providing that support cannot be used by them for anything else. For more information about our service providers, please see our Sub-processors page.
+
+Does Zoom sell Personal Data?
+
+We do not sell your data.
+
+We do not allow marketing companies, advertisers or similar companies to access personal data in exchange for payment. We do not allow third parties to use any personal data obtained from us for their own purposes, unless you consent (e.g., when you download an app from the Marketplace). Our customers may use the webinar service to generate their own marketing leads and they may provide marketing information to you. When you register for a webinar, you provide your data to the host of the webinar, and if required, any consent that you give about your data would be to them, as well.  Zoom may keep the data about the registration in our system in order to facilitate the webinar, but Zoom does not use or share that data other than to provide the services. A customer may also charge for their webinars. Again, that transaction is between the host and participant of the webinar. Zoom is not selling any data.
+
+As described in the Zoom marketing sites section, Zoom does use certain standard advertising tools on our marketing sites which, provided you have allowed it in your cookie preferences, sends personal data to the tool providers, such as Google. This is not a “sale” of your data in the sense that most of us use the word sale. However, California’s CCPA law has a very broad definition of “sale”. Under that definition, when Zoom uses the tools to send the personal data to the third-party tool providers, it may be considered a “sale”. It is important to know that advertising programs have always worked this way and we have not changed the way we use these tools. It is only with the recent developments in data privacy laws that such activities may fall within the definition of a “sale”.
+
+Because of CCPA’s broad definition, as is the case with many providers since the CCPA became law, we provide a “Do Not Sell My Personal Information” link at the bottom of our marketing sites. You can use this link to change your Cookie Preferences and opt out of the use of these advertising tools. If you opt out, Personal Data that was used by these tools will no longer be shared with third parties in a way that constitutes a “sale” under CCPA.
+
+Data Retention
+
+We will retain personal data collected for as long as required to do what we say we will in this policy, unless a longer retention period is required by law. Customers can delete their own content.
+
+Transfer and Storage of Personal Data
+
+Zoom services generally store data in the United States, though through our global data centers, data may come in from wherever users are located. We may transfer your data to the U.S., or to third parties acting on our behalf, for the purposes of processing or storage. Our customers may choose to have their data stored outside of the U.S; for example, they may choose to have their data stored in their geographic vicinity.  We may store local data locally in order to comply with specific local laws and regulations. By using Zoom, or providing personal data for any of the purposes stated above, you consent to the transfer to and storage of your personal data in the U.S., or other location as directed by our customer. In certain limited circumstances, courts, law enforcement agencies, regulatory agencies, or security authorities in those other countries may be entitled to access your personal data.
+
+Security of your Personal Data
+
+Zoom is committed to protecting your personal data. We use a combination of industry-standard security technologies, procedures, and organizational controls and measures to protect your data from unauthorized access, use, or disclosure. 
+
+We recommend you take every precaution in protecting your data when you are on the Internet. For example, change your passwords often, use a combination of upper and lower-case letters, numbers, and symbols when creating passwords, and make sure you use a secure browser. If you have any questions about the security of your data, please contact  our security team at security@zoom.us
+
+Linked Websites and Third-Party Services
+
+Our marketing websites may provide links to other third-party websites and services which are outside our control and not covered by this policy. We encourage you to review the privacy policies posted on these (and all) sites you visit or services you use.
+
+Data Subject Rights
+
+Generally, when we obtain personal data, we do so on behalf of our customers. For purposes of GDPR and CCPA, our customer is the “Controller”, or decision maker, for the personal data, and we are the “Processor”, acting as a “service provider” for, and at the direction of, our customer. “Processing” just means doing something with the data. We are typically required to follow a customer’s instructions about personal data we hold for that customer. 
+
+These are certain requests you can make related to personal data about you, which we will respond to as much as we can under applicable laws. (See below for other legal rights you may have with respect to your personal data depending on where you reside.) 
+
+Access: You can request more information about the personal data we hold about you. You can request a copy of the personal data. 
+
+Rectification: If you believe that any personal data we are holding about you is incorrect or incomplete, you can request that we correct or supplement the data. You can also correct some of this information directly by logging into your service account, if you are a customer. Please contact us as soon as possible if you notice any inaccuracy or incompleteness.
+
+Objection: You can let us know that you object to the collection or use of your personal data for certain purposes.
+
+Opt Out of “Sales”:  You can ask us to take you out of certain advertising related to your personal data by clicking on the “Do Not ‘Sell’ My Personal Information” link. 
+
+Erasure: You can request that we erase some or all of your personal data from our systems. For instructions on how to delete your account please see https://support.zoom.us/hc/en-us/articles/201363243-How-Do-I-Delete-Terminate-My-Account 
+
+Restriction of Processing: You can ask us to restrict further processing of your personal data.  (This just means you can ask us to stop using it for what we have been using it for.) This may mean that we have to delete your account.
+
+Portability: You can ask for a copy of your personal data in a machine-readable format. You can also request that we transmit the data to someone else where it’s technically possible.
+
+Withdrawal of Consent: If we are processing your personal data based on consent that you gave us when we got the data, you may have the right to withdraw your consent at any time. For example, if you have signed up for marketing communications you can request to be removed from these communications.
+
+Right to File Complaint: You have the right to lodge a complaint about Zoom’s practices with respect to your personal data with the supervisory authority of your country or EU Member State.
+
+Sometimes we will not be able to fulfill your request.  If it prevents us from complying with our regulatory obligations or impacts other legal matters, if we cannot verify your identity, or if it requires extraordinary cost or effort, we will tell you in a reasonable time and give you an explanation. 
+
+To make a request, please contact our Privacy Team at privacy@zoom.us or by writing to the following address:
+
+Zoom Video Communications, Inc.
+
+Attention: Data Privacy Officer
+
+55 Almaden Blvd, Suite 600
+
+San Jose, CA 95113
+
+US: 1-888-799-9666
+
+If you have a password protected Zoom account, we will use your account information to verify your identity. If not, we will ask you to provide additional verification information. What we request will depend on the nature of your request, how sensitive the information is, and how harmful unauthorized disclosure or deletion would be.
+
+Additional Information About Specific Regulations 
+
+Residents of the European Union (EU), United Kingdom, Lichtenstein, Norway, Iceland or Switzerland 
+
+If you reside in the European Union (EU), United Kingdom, Lichtenstein, Norway, Iceland or Switzerland, you may have legal rights with respect to your personal data, including those set forth under the EU’s General Data Protection Regulation (GDPR). 
+
+GDPR requires that we have a “basis” for processing your data. We process your personal data (i) with your consent (where applicable), (ii) to perform a contract with a customer, and (iii) for other legitimate interests and business purposes. 
+
+Residents of the State of California 
+
+If you reside in California, you may have legal rights with respect to your personal data, including those set forth under the California Consumer Privacy Act (CCPA). If you are a California resident, you can request information about both the categories and specific pieces of data we have collected about you in the previous twelve months, the reason we collected it, the category of entities with whom we have shared it and the reason for any disclosure. Zoom is prohibited from discriminating against California consumers that choose to exercise their privacy-related rights under the CCPA.
+
+Zoom for Government Customers
+
+ 
+
+This paragraph only applies to Zoom for Government (ZfG) customers. The ZfG service is hosted in the United States in a separate cloud authorized by FedRAMP and is accessible by way of a separate website (www.zoomgov.com).  Here is what that means for you: 
+
+ 
+
+All data collected about you while using the ZfG service or the ZfG website is stored in the United States of America;
+
+Your data is only processed by Zoom in accordance with FedRAMP “moderate impact level” control standards;
+
+The sections in this policy related to the GDPR and any other references to international data handling do not apply to the personal data collected by Zoom about you in connection with your use of the ZfG service or ZfG website;
+
+With regard to the Zoom App Marketplace, we do not allow third parties to use any personal data obtained from us for their own purposes, unless it is with your consent (e.g. when you download an app from the Zoom for Government Marketplace: https://marketplace.zoomgov.com/).
+
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield 
+
+Zoom Video Communication, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield. Zoom is committed to subjecting all personal data received from EU member countries, Switzerland, and the United Kingdom, in reliance on the Privacy Shield Frameworks, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce's Privacy Shield List, https://www.privacyshield.gov/list.
+
+Zoom is responsible for the processing of personal data it receives under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Zoom complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, Switzerland, and the United Kingdom including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Zoom is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Zoom may be required to disclose personal data in response to valid and lawful requests by public authorities or pursuant to requests from law enforcement.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you can invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Standard Contractual Clauses
+
+In certain cases, Zoom will transfer personal data from the EU in accordance with the European Commission-approved Standard Contractual Clauses, a copy of which can be obtained at https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087.
+
+Contact Us
+
+If you have any privacy-related questions or comments related to this privacy policy, please send an email to privacy@zoom.us. You can also contact us by writing to this address:
+
+Zoom Video Communications, Inc.
+
+Attention: Data Privacy Officer
+
+55 Almaden Blvd, Suite 600
+
+San Jose, CA 95113
+
+If you reside in the EU, United Kingdom, Lichtenstein, Norway or Iceland, you can also contact our Data Protection Officer.

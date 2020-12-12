@@ -1,0 +1,1041 @@
+ENROLLED
+
+Regular Session, 2014
+
+HOUSE BILL  NO. 1076     (Substitute for House Bill No. 946 by Representative Schroder)
+
+BY  REPRESENTATIVES  SCHRODER,  ADAMS,  ANDERS,  ARMES,  ARNOLD,
+BADON,  BARRAS,  BARROW,  BERTHELOT,  BURFORD,  CARMODY,
+CHAMPAGNE, COX, CROMER, GAROFALO, GISCLAIR, HARRIS, HAVARD,
+HENRY, HENSGENS, HODGES, HOFFMANN, HOLLIS, HOWARD, HUNTER,
+IVEY, KATRINA JACKSON, KLECKLEY, LORUSSO, MILLER, JAY MORRIS,
+NORTON,  ORTEGO,  PEARSON,  POPE,  PYLANT,  REYNOLDS,  RICHARD,
+RITCHIE,  SEABAUGH,  ST.  GERMAIN,  TALBOT,  THIERRY,  THOMPSON,
+WHITNEY, AND WILLMOTT AND SENATORS ALARIO, ALLAIN, AMEDEE,
+APPEL,  BROWN,  CHABERT,  CLAITOR,  CORTEZ,  CROWE,  DONAHUE,
+ERDEY,  GUILLORY,  JOHNS,  KOSTELKA,  LAFLEUR,  LONG,  MARTINY,
+MILLS,  MORRELL,  NEVERS,  PEACOCK,  PERRY,  RISER,  GARY  SMITH,
+JOHN SMITH, TARVER, THOMPSON, WALSWORTH, WARD, AND WHITE
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+AN ACT
+
+To enact R.S. 17:3913 and 3996(B)(34), relative to student information; to limit the type of
+
+information  to  be  collected  on  students;  to  prohibit  the  collection  of  certain
+
+information; to prohibit the sharing of student information; to provide exceptions;
+
+to provide for access by parents and specified others to certain student information
+
+stored  in  public  school  computer  systems;  to  provide  for  student  identification
+
+numbers; to provide definitions; to provide criminal penalties; and to provide for
+
+related matters.
+
+Be it enacted by the Legislature of Louisiana:
+
+Section 1.  R.S. 17:3913 and 3996(B)(34) are hereby enacted to read as follows:
+
+§3913.  Student information; privacy; legislative intent; definitions; prohibitions;
+
+parental access; penalties
+
+A.  The legislature hereby declares that all personally identifiable information
+
+is  protected  as  a  right  to  privacy  under  the  Constitution  of  Louisiana  and  the
+
+Constitution of the United States.
+
+B.(1)  For purposes of this Section, "personally identifiable information" is
+
+defined as information about an individual that can be used on its own or with other
+
+Page 1 of 9
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+HB NO. 1076
+
+ENROLLED
+
+information  to  identify,  contact,  or  locate  a  single  individual,  including  but  not
+
+limited to the following:
+
+(a)  Any information that can be used to distinguish or trace an individual's
+
+identity such as full name, social security number, date and place of birth, mother's
+
+maiden name, or biometric records.
+
+(b)  Any other information that is linked or linkable to an individual such as
+
+medical, educational, financial, and employment information.
+
+(c)    Two  or  more  pieces  of  information  that  separately  or  when  linked
+
+together can be used to reasonably ascertain the identity of the person.
+
+(2)  For purposes of this Section, "aggregate data" are statistics and other
+
+information that relate to broad classes, groups, or categories from which it is not
+
+possible to distinguish the identities of individuals.
+
+(3)  For purposes of this Section, "parent or legal guardian" shall mean a
+
+student's parent, legal guardian, or other person responsible for the student.
+
+C.(1)  Notwithstanding any provision of this Subpart or any other law to the
+
+contrary, no official or employee of a city, parish, or other local public school system
+
+shall  require  the  collection  of  any  of  the  following  student  information  unless
+
+voluntarily disclosed by the parent or legal guardian:
+
+(a)  Political affiliations or beliefs of the student or the student's parent.
+
+(b)  Mental or psychological problems of the student or the student's family.
+
+(c)  Sexual behavior or attitudes.
+
+(d)  Illegal, anti-social, self-incriminating, or demeaning behavior.
+
+(e)  Critical appraisals of other individuals with whom a student has a close
+
+(f)  Legally recognized privileged or analogous relationships, such as those
+
+(g)  Religious practices, affiliations, or beliefs of the student or the student's
+
+family relationship.
+
+of lawyers, physicians, and ministers.
+
+parent.
+
+(h)  Family income.
+
+(i)  Biometric information.
+
+Page 2 of 9
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+HB NO. 1076
+
+ENROLLED
+
+(j)  Social security number.
+
+(k)  Gun ownership.
+
+(l)  Home Internet Protocol Address.
+
+(m)  External digital identity.
+
+(2)  Beginning June 1, 2015, no official or employee of a city, parish, or other
+
+local public school system shall provide personally identifiable student information
+
+to any member of the school board or to any other person or public or private entity,
+
+except  such  an  official  or  employee  may,  in  accordance  with  State  Board  of
+
+Elementary and Secondary Education regulation or applicable state and federal law:
+
+(a)  Provide a student's identification number as provided in Paragraph (3) of
+
+this Subsection and aggregate data to the local school board, the state Department of
+
+Education, or the State Board of Elementary and Secondary Education solely for the
+
+purpose of satisfying state and federal reporting requirements.
+
+(b)    Provide  to  the  state  Department  of  Education,  for  the  purpose  of
+
+satisfying  state  and  federal  assessment,  auditing,  funding,  monitoring,  program
+
+administration,  and  state  accountability  requirements,  information  from  which
+
+enough personally identifiable information has been removed such that the remaining
+
+information  does  not  identify  a  student  and  there  is  no  basis  to  believe  that  the
+
+information alone can be used to identify a student.  No official or employee of the
+
+state Department of Education shall share such information with any person or public
+
+or private entity located outside of Louisiana, other than for purposes of academic
+
+analysis of assessments.
+
+(c)  Provide personally identifiable information regarding a particular student
+
+to any person or public or private entity if the sharing of the particular information
+
+with the particular recipient of the information has been authorized in writing by the
+
+parent or legal guardian of the student, or by a student who has reached the age of
+
+legal majority, or if the information is provided to a person authorized by the state,
+
+including  the  legislative  auditor,  to  audit  processes  including  student  enrollment
+
+counts.  Any recipient of such information shall maintain the confidentiality of such
+
+information.    Any  person  who  knowingly  and  willingly  fails  to  maintain  the
+
+Page 3 of 9
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+HB NO. 1076
+
+ENROLLED
+
+confidentiality  of  such  information  shall  be  subject  to  the  penalties  provided  in
+
+Subsection G of this Section.
+
+of R.S. 17:112.
+
+(d)  Provide for the transfer of student information pursuant to the provisions
+
+(3)  By not later than May 1, 2015, the state Department of Education shall
+
+develop a system of unique student identification numbers.  By not later than June
+
+1, 2015, each local public school board shall assign such a number to every student
+
+enrolled in a public elementary or secondary school.  Student identification numbers
+
+shall not include or be based on social security numbers, and a student shall retain
+
+his student identification number for his tenure in Louisiana public elementary and
+
+secondary schools.
+
+D.(1)  Except as provided in Paragraphs (2) and (3) of this Subsection, no
+
+person or public or private entity shall access a public school computer system on
+
+which student information is stored.  No official or employee of a public school
+
+system shall authorize access to such a computer system to any person or public or
+
+private entity except as authorized by Paragraphs (2) and (3) of this Subsection.
+
+(2)  The following persons may access a public school computer system on
+
+which student information for students at a particular school is stored:
+
+(a)    A  student  who  has  reached  the  age  of  eighteen  or  is  judicially
+
+emancipated  or  emancipated  by  marriage  and  the  parent  or  legal  guardian  of  a
+
+student who is under the age of eighteen and not emancipated.  For a student who has
+
+reached the age of eighteen or is emancipated, such access is limited to information
+
+about the student. For the parent or legal guardian of a student who has not reached
+
+the  age  of  eighteen  and  is  not  emancipated,  such  access  shall  be  limited  to
+
+information about the student. A student who has reached the age of eighteen or is
+
+emancipated and the parent or legal guardian of a student who has not reached the
+
+age of eighteen and is not emancipated may authorize, in writing, another person to
+
+access such information.
+
+his current students.
+
+(b)  A teacher of record.  Such access shall be limited to information about
+
+Page 4 of 9
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+HB NO. 1076
+
+ENROLLED
+
+(c)  The school principal and school registrar.
+
+(d)  A school system employee employed at the school and designated by the
+
+principal.  Such access shall be limited to student information necessary to perform
+
+his duties.
+
+provide.
+
+(e)    A  person  authorized  by  the  superintendent  to  maintain  or  repair  the
+
+computer  system  or  to  provide  services  that  the  school  system  would  otherwise
+
+(f)  A person authorized by the state to audit student records.
+
+(3)  The following persons may access a computer system of a city, parish,
+
+or other local public school system on which student information for students from
+
+throughout the system is stored:
+
+(a)  The superintendent of the school system.
+
+(b)    A  school  system  employee  designated  by  the  superintendent.    Such
+
+access shall be limited to student information necessary to perform his duties.
+
+(c)    A  person  authorized  by  the  superintendent  to  maintain  or  repair  the
+
+computer  system  or  to  provide  services  that  the  school  system  would  otherwise
+
+provide.
+
+(d)  A person authorized by the state to audit student records.
+
+(4)    Any  person  who  is  authorized  by  this  Subsection  to  access  a  public
+
+school  computer  system,  except  a  parent  or  legal  guardian,  shall  maintain  the
+
+confidentiality  of  any  student  information  to  which  he  has  access.    Failure  to
+
+maintain  the  confidentiality  of  such  information  is  punishable  as  provided  in
+
+Subsection G of this Section.
+
+E.(1)  No person who has access to student information shall convert the
+
+student information as specified in Subparagraph (C)(2)(b) of this Section such that
+
+the remaining information can be used to identify a student.
+
+(2)  The State Board of Elementary and Secondary Education and the state
+
+Department of Education shall not require a city, parish, or other local public school
+
+system  to  limit  a  student's  learning  opportunity  or  opportunities  to  explore  any
+
+occupation based upon predictive modeling.
+
+Page 5 of 9
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+HB NO. 1076
+
+ENROLLED
+
+F.(1)  A city, parish, or other local public school board may contract with a
+
+private entity for student and other education services, and pursuant to such contract,
+
+student information, including personally identifiable information and cumulative
+
+records, may be transferred to computers operated and maintained by the private
+
+entity for such purpose.
+
+in the contract.
+
+(2)  No contractor pursuant to this Subsection shall allow access to, release,
+
+or allow the release of student information to any person or entity except as specified
+
+(3)    A  contract  pursuant  to  this  Subsection  shall  include  requirements
+
+regarding  the  protection  of  student  information  which  at  a  minimum  include
+
+provision for all of the following:
+
+(a)  Guidelines for authorizing access to computer systems on which student
+
+information is stored including guidelines for authentication of authorized access.
+
+(b)  Privacy compliance standards.
+
+(c)  Privacy and security audits performed under the direction of the local
+
+school superintendent.
+
+(d)  Breach planning, notification, and remediation procedures.
+
+(e)  Information storage, retention, and disposition policies.
+
+(f)    Disposal  of  all  information  from  the  servers  of  the  contractor  upon
+
+termination  of  the  contract,  unless  otherwise  directed  by  an  applicable  legal
+
+requirement  or  otherwise  specified  in  the  contract  and  subject  to  the  privacy
+
+protection provisions of this Part.  Upon termination of the contract, all information
+
+removed from the contractor's servers shall be returned to the city, parish, or other
+
+local public school board.
+
+(4)  Any person who knowingly and willingly violates the provisions of this
+
+Subsection shall be fined not more than ten thousand dollars or imprisoned for not
+
+more than three years, or both.
+
+G.  Except as provided in Paragraph (F)(4) of this Section, a person who
+
+violates any provision of this Section shall be punished by imprisonment for not
+
+more than six months or by a fine of not more than ten thousand dollars.
+
+Page 6 of 9
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+HB NO. 1076
+
+ENROLLED
+
+H.  Nothing is this Section shall prohibit a school system employee employed
+
+at the school and a person authorized by the superintendent of the school system
+
+from having access to a student's records as may be necessary to perform his duties.
+
+I.  The provisions of this Part shall apply to each charter school, its governing
+
+authority, and any education management organization under contract to operate a
+
+charter school.
+
+J.(1)    No  city,  parish,  or  other  local  public  school  system,  local  or  state
+
+governmental  agency,  public  or  private  entity,  or  any  person  with  access  to
+
+personally identifiable student information shall sell, transfer, share, or process any
+
+student  data  for  use  in  commercial  advertising,  or  marketing,  or  any  other
+
+commercial  purpose,  unless  otherwise  stipulated  in  a  contract  for  services  as
+
+provided in Subsection (F) of this Section.
+
+(2)  The provisions of Paragraph (1) of this Subsection shall not apply to a
+
+student's  parent  or legal guardian, or a student  who has reached the legal age of
+
+majority.
+
+K.(1)    Notwithstanding  any  provision  of  this  Part  to  the  contrary,  the
+
+governing authority of each public school, with the permission of a student's parent
+
+or legal guardian, shall collect the following personally identifiable information for
+
+each student enrolled in grades eight through twelve:
+
+(a)  Full name.
+
+(b)  Date of birth.
+
+(c)  Social security number.
+
+(d)  Student transcript data.
+
+(2)  The governing authority of a public school shall disclose the information
+
+collected  pursuant  to  Paragraph  (1)  of  this  Subsection,  upon  request,  only  to  a
+
+Louisiana postsecondary educational institution, to be used solely for the purpose of
+
+processing  applications  for  admission,  and  to  the  Office  of  Student  Financial
+
+Assistance, to be used solely for the purpose of processing applications made to the
+
+office for state and federal grant and for required grant program reporting.
+
+Page 7 of 9
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 1076
+
+ENROLLED
+
+(3)(a)  Beginning in the eighth grade, the governing authority of each public
+
+school shall annually, at the beginning of each school year, provide a form to be
+
+signed  by  the  parent  or  legal  guardian  of  each  student  enrolled  in  the  school,
+
+whereby the student's parent or legal guardian may provide consent or deny consent
+
+for  the  collection  and  disclosure  of  the  student's  information  as  provided  in
+
+Paragraphs (1) and (2) of this Subsection.
+
+(b)  No data shall be collected pursuant to this Subsection, unless a student's
+
+parent or legal guardian provides written consent.
+
+(c)  The form will contain the following:
+
+(i)  A statement notifying the student's parent or legal guardian exactly what
+
+items  of  student  information  will  be  collected  and  that  disclosure  of  the  student
+
+information  collected  will  be  restricted  to  Louisiana  postsecondary  educational
+
+institutions and the Office of Student Financial Assistance to be used solely for the
+
+purpose of processing applications for admission and for state and federal financial
+
+aid.
+
+(ii)  A statement whereby a student's parent or legal guardian acknowledges
+
+that  failure  to  provide  written  consent  for  the  collection  and  disclosure  of  the
+
+student's information as provided in this Subsection may result in delays or may
+
+prevent  successful  application  for  admission  to  a  postsecondary  educational
+
+institution and for state and federal student financial aid. This statement shall be
+
+displayed prominently and shall be printed in bold type.
+
+(4)    The  governing  authority  of  each  public  school,  each  Louisiana
+
+postsecondary educational institution, and the Office of Student Financial Assistance
+
+shall destroy all data collected for purposes of this Subsection not later than five
+
+years after the student graduates, unless otherwise required by state or federal law
+
+or regulation.
+
+*          *          *
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+Page 8 of 9
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 1076
+
+ENROLLED
+
+§3996.  Charter schools; exemptions; requirements
+
+*          *          *
+
+B.  Notwithstanding any state law, rule, or regulation to the contrary and
+
+except  as  may  be  otherwise  specifically  provided  for  in  an  approved  charter,  a
+
+charter school established and operated in accordance with the provisions of this
+
+Chapter and its approved charter and the school's officers and employees shall be
+
+exempt  from  all  statutory  mandates  or  other  statutory  requirements  that  are
+
+applicable to public schools and to public school officers and employees except for
+
+the following laws otherwise applicable to public schools with the same grades:
+
+*          *          *
+
+(34) Student information, R.S. 17:3913.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+
+PRESIDENT OF THE SENATE
+
+GOVERNOR OF THE STATE OF LOUISIANA
+
+APPROVED:  
+
+Page 9 of 9
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+

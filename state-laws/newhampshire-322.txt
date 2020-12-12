@@ -1,0 +1,107 @@
+CHAPTER 136
+
+HB 322 – FINAL VERSION
+
+2015 SESSION
+
+15-0984
+
+04/03
+
+HOUSE BILL 322
+
+AN ACT relative to protection of personally-identifiable data by the department of education.
+
+SPONSORS: Rep. Cordelli, Carr 4; Rep. Kurk, Hills 2; Rep. Harris, Rock 9; Rep. Boehm, Hills�20; Rep. Kappler, Rock 3; Rep. Grenier, Sull 7; Sen. Reagan, Dist 17
+
+COMMITTEE: Education
+
+ANALYSIS
+
+This bill requires the department of education to implement additional procedures to protect student and teacher personally-identifiable data from security breaches. The bill also requires the department of education to make public certain rights available to parents, legal guardians, and affected students regarding the protection of personally identifiable data.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Explanation: Matter added to current law appears in bold italics.
+
+Matter removed from current law appears [in brackets and struckthrough.]
+
+Matter which is either (a) all new or (b) repealed and reenacted appears in regular type.
+
+15-0984
+
+04/03
+
+STATE OF NEW HAMPSHIRE
+
+In the Year of Our Lord Two Thousand Fifteen
+
+AN ACT relative to protection of personally-identifiable data by the department of education.
+
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+
+136:1 Data Inventory and Policies Publication. Amend RSA 189:66 to read as follows:
+
+189:66 Data Inventory and Policies Publication.
+
+I. The department shall create, maintain, and make publicly available an annually-updated index of data elements containing definitions of individual student personally-identifiable data fields or fields identified in RSA 189:68 currently in the SLDS or any other database maintained by the department, or added or proposed to be added thereto, including:
+
+[I.] (a) Any individual student personally-identifiable data required to be reported by state or federal law.
+
+[II.] (b) Any individual student personally-identifiable data which has been proposed for inclusion in the SLDS with a statement explaining the purpose or reason for the proposed collection.
+
+[III.] (c) Any individual student personally-identifiable data that the department collects or maintains.
+
+[IV.] (d) Any data identified in RSA 189:68.
+
+II. The department shall develop a detailed data security plan to present to the state board, the legislative oversight committee established in RSA 193-C:7, and the commissioner of the department of information technology. The plan shall include:
+
+(a) Privacy compliance standards.
+
+(b) Privacy and security audits.
+
+(c) Breach planning, notification, and procedures.
+
+(d) Data retention and disposition policies.
+
+III. The security plan shall:
+
+(a) Require notification as soon as practicable to:
+
+(1) Any teacher or student whose personally identifiable information could reasonably be assumed to have been part of any data security breach, consistent with the legitimate needs of law enforcement or any measures necessary to determine the scope of the breach and restore the integrity of the data system; and
+
+(2) The governor, state board, senate president, speaker of the house of representatives, chairperson of the senate committee with primary jurisdiction over education, chairperson of the house committee with primary jurisdiction over education, legislative oversight committee established in RSA 193-C:7, and commissioner of the department of information technology.
+
+(b) Require the department to issue an annual data security breach report to the governor, state board, senate president, speaker of the house of representatives, chairperson of the senate committee with primary jurisdiction over education, chairperson of the house committee with primary jurisdiction over education, legislative oversight committee established in RSA 193-C:7, and commissioner of the department of information technology. The breach report shall also be posted to the department’s public Internet website and shall not include any information that itself would pose a security threat to a database or data system. The report shall include:
+
+(1) The name of the organization reporting the breach.
+
+(2) Any types of personal information that were or are reasonably believed to have been the subject of a breach.
+
+(3) The date, estimated date, or date range of the breach.
+
+(4) A general description of the breach incident.
+
+(5) The estimated number of students and teachers affected by the breach, if any.
+
+(6) Information about what the reporting organization has done to protect individuals whose information has been breached.
+
+IV. The department shall make publicly available students’ and parents’ rights under the Family Educational Rights and Privacy Act (FERPA), 20 U.S.C. section 1232g, et seq., and applicable state law including:
+
+(a) The right to inspect and review the student’s education records within 14 days after the day the school receives a request for access.
+
+(b) The right to request amendment of a student’s education records that the parent or eligible student believes are inaccurate, misleading, or otherwise in violation of the student’s privacy rights under FERPA.
+
+(c) The right to provide written consent before the school discloses student personally identifiable data from the student’s education records, provided in applicable state and federal law.
+
+(d) The right to file a complaint with the Family Policy Compliance Office in the United States Department of Education concerning alleged failures to comply with the requirements of FERPA.
+
+136:2 New Paragraph; Statewide Education Improvement and Assessment Program; Duties of the Legislative Oversight Committee. Amend RSA 193-C:8 by inserting after paragraph X the following new paragraph:
+
+XI. Receive security breach reports from the department of education pursuant to RSA�189:66, consult with the commissioner of the department of information technology, and propose legislation needed as a result of the review.
+
+136:3 Effective Date. This act shall take effect 60 days after its passage.
+
+Approved: June 12, 2015
+
+Effective Date: August 11, 2015

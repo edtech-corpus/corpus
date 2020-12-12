@@ -1,0 +1,594 @@
+House File 2354 - Enrolled
+
+House File 2354
+
+RELATING TO STUDENT PERSONAL INFORMATION PROTECTION.
+
+AN ACT
+
+2
+
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+Section 1. NEW SECTION. 279.70
+
+Student online personal
+
+information protection.
+
+1. As used in this section, unless the context otherwise
+
+requires:
+a.
+
+“Attendance center” means a school district building
+
+that contains classrooms used for instructional purposes for
+elementary, middle, or secondary school students.
+
+b.
+
+“Covered information” means personally identifiable
+information or material, or information that is linked to
+personally identifiable information or material, in any media
+or format that is not publicly available and is any of the
+following:
+
+(1) Created by or provided to an operator by a student, or
+
+the student’s parent or legal guardian, in the course of the
+student’s, parent’s, or legal guardian’s use of the operator’s
+site, service, or application for kindergarten through grade
+twelve school purposes.
+
+(2) Created by or provided to an operator by an employee
+
+or agent of a school district or attendance center for
+kindergarten through grade twelve school purposes.
+
+(3) Gathered by an operator through the operation of its
+site, service, or application for kindergarten through grade
+twelve school purposes and personally identifies a student,
+
+House File 2354, p. 2
+
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+including but not limited to information in the student’s
+educational record or electronic mail, first and last name,
+home address, telephone number, electronic mail address, or
+other information that allows physical or online contact,
+discipline records, test results, special education data,
+juvenile dependency records, grades, evaluations, criminal
+records, medical records, health records, social security
+number, biometric information, disabilities, socioeconomic
+information, food purchases, political affiliations, religious
+information, text messages, documents, student identifiers,
+search activity, photos, voice recordings, or geolocation
+information.
+
+c.
+
+“Interactive computer service” means that term as defined
+
+in 47 U.S.C. §230.
+
+d.
+
+“Kindergarten through grade twelve school purposes” means
+purposes that are directed by or that customarily take place at
+the direction of a kindergarten through grade twelve attendance
+center, school district, or a practitioner employed by a school
+district, in the administration of school activities, including
+but not limited to instruction in the classroom or at home,
+administrative activities, and collaboration between students,
+school district or attendance center personnel, or parents, or
+are otherwise for the use and benefit of the school district or
+attendance center.
+
+e.
+
+“Operator” means, to the extent that it is operating
+in this capacity, the operator of an internet site, online
+service, online application, or mobile application with actual
+knowledge that the site, service, or application is used
+primarily for kindergarten through grade twelve school purposes
+and was designed and marketed for such purposes.
+
+f.
+
+“School district” means a public school district
+
+described in chapter 274.
+
+g.
+
+“Targeted advertising” means presenting advertisements
+
+to a student where the advertisement is selected based on
+information obtained or inferred over time from that student’s
+online behavior, usage of applications, or covered information.
+“Targeted advertising” does not include advertising to a student
+at an online location based upon that student’s current visit
+to that location, or in response to that student’s request
+
+House File 2354, p. 3
+
+28
+29
+30
+31
+32
+33
+34
+35
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+for information or feedback, without the retention of that
+student’s online activities or requests over time for the
+purpose of targeting subsequent ads.
+
+2. a. An operator shall not knowingly do any of the
+
+following:
+
+(1) Engage in targeted advertising on the operator’s
+
+internet site, service, or application, or target advertising
+on any other internet site, service, or application if the
+targeting of the advertising is based on any information,
+including covered information and persistent unique
+identifiers, that the operator has acquired because of the use
+of that operator’s internet site, service, or application for
+kindergarten through grade twelve school purposes.
+
+(2) Use information, including persistent unique
+
+identifiers, created or gathered by the operator’s internet
+site, service, or application, to amass a profile about a
+student except in furtherance of kindergarten through grade
+twelve school purposes. “Amass a profile” does not include the
+collection and retention of account information that remains
+under the control of the student, the student’s parent or
+guardian, or kindergarten through grade twelve school.
+
+(3) Sell or rent a student’s information, including covered
+information. This subparagraph does not apply to the purchase,
+merger, or other type of acquisition of an operator by another
+entity, if the operator or successor entity complies with this
+section regarding previously acquired student information, or
+to national assessment providers if the provider secures the
+express written consent of the parent or student, given in
+response to clear and conspicuous notice, solely to provide
+access to employment, educational scholarships or financial
+aid, or postsecondary educational opportunities.
+
+(4) Except as otherwise provided in subsection 4, disclose
+
+covered information unless the disclosure is made for the
+following purposes:
+
+(a) In furtherance of the kindergarten through grade twelve
+
+school purpose of the internet site, service, or application,
+if the recipient of the covered information disclosed under
+this subparagraph division does not further disclose the
+information unless done to allow or improve operability and
+
+House File 2354, p. 4
+
+32
+33
+34
+35
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+
+functionality of the operator’s internet site, service, or
+application.
+
+(b) To ensure legal and regulatory compliance or protect
+
+against liability.
+
+(c) To respond to or participate in the judicial process.
+(d) To protect the safety or integrity of users of the
+internet site or others or the security of the internet site,
+service, or application.
+
+(e) For a kindergarten through grade twelve school,
+
+educational, or employment purpose requested by the student or
+the student’s parent or guardian, provided that the information
+is not used or further disclosed for any other purpose.
+(f) To a third party, if the operator contractually
+
+prohibits the third party from using any covered information
+for any purpose other than providing the contracted service
+to or on behalf of the operator and requires the third party
+to protect student information to the same extent that the
+operator is required to do pursuant to this section, prohibits
+the third party from disclosing any covered information
+provided by the operator with subsequent third parties, and
+requires the third party to implement and maintain security
+procedures and practices consistent with current industry
+standards and all applicable state and federal laws, rules, and
+regulations.
+
+b. Nothing in paragraph “a” shall prohibit the operator’s
+
+use of information for maintaining, developing, supporting,
+improving, or diagnosing the operator’s internet site, service,
+or application.
+
+3. An operator shall do all of the following:
+a. Implement and maintain security procedures and practices
+
+consistent with current industry standards and all applicable
+state and federal laws, rules, and regulations appropriate to
+the nature of the covered information designed to protect that
+covered information from unauthorized access, destruction, use,
+modification, or disclosure.
+
+b. Delete as soon as reasonably practicable, a student’s
+covered information if the school district or attendance center
+requests deletion of covered information under the control of
+the school district or attendance center, unless a student or
+
+House File 2354, p. 5
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+1
+2
+3
+4
+
+parent or guardian consents to the maintenance of the covered
+information.
+
+4. An operator may use or disclose covered information of a
+
+student under all of the following circumstances:
+
+a. If other provisions of federal or state law require the
+operator to disclose the information, and the operator complies
+with the requirements of federal and state law in protecting
+and disclosing that information.
+
+b. If no covered information is used for advertising or
+
+to amass a profile on the student for purposes other than
+elementary, middle school, or high school purposes; for
+legitimate research purposes, as required by state or federal
+law and subject to the restrictions under applicable state
+and federal law; or as allowed by state or federal law and
+in furtherance of kindergarten through grade twelve school
+purposes or postsecondary educational purposes.
+
+c. To a state or local educational agency, including
+kindergarten through grade twelve attendance centers and
+school districts, for kindergarten through grade twelve school
+purposes, as permitted by state or federal law.
+
+5. This section does not prohibit an operator from doing any
+
+of the following:
+
+a. Using covered information to improve educational products
+
+if that information is not associated with an identified
+student within the operator’s internet site, service, or
+application or other internet sites, services, or applications
+owned by the operator.
+
+b. Using covered information that is not associated with
+an identified student to demonstrate the effectiveness of the
+operator’s products or services, including in the operator’s
+marketing.
+
+c. Sharing covered information that is not associated with
+
+an identified student for the development and improvement of
+educational internet sites, services, or applications.
+
+d. Using recommendation engines to recommend to a student
+
+either of the following:
+
+(1) Additional content relating to an educational,
+
+other learning, or employment opportunity purpose within an
+online site, service, or application if the recommendation
+
+House File 2354, p. 6
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+1
+2
+3
+4
+5
+6
+7
+8
+
+is not determined in whole or in part by payment or other
+consideration from a third party.
+
+(2) Additional services relating to an educational,
+other learning, or employment opportunity purpose within an
+online site, service, or application if the recommendation
+is not determined in whole or in part by payment or other
+consideration from a third party.
+
+e. Responding to a student’s request for information or for
+
+feedback without the information or response being determined
+in whole or in part by payment or other consideration from a
+third party.
+
+6. This section does not do any of the following:
+a. Limit the authority of a law enforcement agency to obtain
+
+any content or information from an operator as authorized by
+law or under a court order.
+
+b. Limit the ability of an operator to use student data,
+
+including covered information, for adaptive learning or
+customized student learning purposes.
+
+c. Apply to general audience internet sites, general
+
+audience online services, general audience online applications,
+or general audience mobile applications, even if login
+credentials created for an operator’s internet site, service,
+or application may be used to access those general audience
+internet sites, services, or applications.
+
+d. Limit service providers from providing internet
+
+connectivity to attendance centers or students and students’
+families.
+
+e. Prohibit an operator of an internet site, online service,
+
+online application, or mobile application from marketing
+educational products directly to parents if the marketing did
+not result from the use of covered information obtained by the
+operator through the provision of services covered under this
+section.
+
+f. Impose a duty upon a provider of an electronic store,
+
+gateway, marketplace, or other means of purchasing or
+downloading software or applications to review or enforce
+compliance with this section on those applications or software.
+g. Impose a duty on a provider of an interactive computer
+service to review or enforce compliance with this section by
+
+House File 2354, p. 7
+
+9
+10
+11
+12
+
+third-party content providers.
+
+h. Prohibit students from downloading, exporting,
+
+transferring, saving, or maintaining the students’ own student
+data or documents.
+
+______________________________
+LINDA UPMEYER
+Speaker of the House
+
+______________________________
+CHARLES SCHNEIDER
+President of the Senate
+
+I hereby certify that this bill originated in the House and
+is known as House File 2354, Eighty-seventh General Assembly.
+
+Approved _______________, 2018
+
+______________________________
+CARMINE BOAL
+Chief Clerk of the House
+
+______________________________
+KIM REYNOLDS
+Governor
+
+

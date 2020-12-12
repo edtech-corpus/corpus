@@ -1,0 +1,129 @@
+STUDENT PRIVACY STUDY     
+
+2     
+2015 GENERAL SESSION
+
+3     
+STATE OF UTAH
+
+4     
+Chief Sponsor: Jacob L. Anderegg
+
+5     
+Senate Sponsor: Howard A. Stephenson
+
+6     
+7     LONG TITLE
+8     General Description:
+9          This bill requires the State Board of Education to develop a student privacy funding
+10     proposal and make recommendations to the Legislature.
+11     Highlighted Provisions:
+12          This bill:
+13          ▸     requires the State Board of Education to develop a funding proposal and make
+14     recommendations to the Legislature on how the State Board of Education and the
+15     Legislature can update student privacy laws in statute and in board rule;
+16          ▸     requires the State Board of Education to designate a chief privacy officer; and
+17          ▸     requires the State Board of Education and the chief privacy officer to report to the
+18     Public Education Appropriations Subcommittee.
+19     Money Appropriated in this Bill:
+20          This bill appropriates in fiscal year 2016:
+21          ▸     to the State Board of Education - State Office of Education - Assessment and
+22     Accountability, as an ongoing appropriation:
+23               •     from the Education Fund, $180,000; and
+24          ▸     to the State Board of Education - State Office of Education - Assessment and
+25     Accountability, as a one-time appropriation:
+26               •     from the Education Fund, One-time, $5,000.
+27     Other Special Clauses:
+28          This bill provides a special effective date.
+29     Utah Code Sections Affected:
+30     ENACTS:
+31          53A-1-710, Utah Code Annotated 1953
+32     
+33     Be it enacted by the Legislature of the state of Utah:
+34          Section 1. Section 53A-1-710 is enacted to read:
+35          53A-1-710. State Board of Education student privacy study -- Chief privacy
+36     officer.
+37          (1) For purposes of this section:
+38          (a) "Board" means the State Board of Education.
+39          (b) "Chief privacy officer" means the chief privacy officer designated by the board in
+40     Subsection (4).
+41          (c) "Education entity" means:
+42          (i) the board;
+43          (ii) a local school board or charter school governing board;
+44          (iii) a school district;
+45          (iv) a public school; or
+46          (v) the Utah Schools for the Deaf and the Blind.
+47          (d) "Third party service provider" means a person, other than an education entity, that:
+48          (i) enters into a contract or written agreement with an education entity to provide a
+49     service or product; and
+50          (ii) receives student data from the education entity pursuant to the contract or written
+51     agreement.
+52          (2) (a) The board shall develop a funding proposal and make recommendations to the
+53     Legislature on how the board and the Legislature can update student privacy laws in statute and
+54     in board rule.
+55          (b) The board shall consider input from education entities, parents, and other
+56     stakeholders as the board develops the funding proposal and recommendations described in
+57     Subsection (2)(a).
+58          (3) The board shall consider the following issues as the board develops the funding
+59     proposal and recommendations described in Subsection (2)(a):
+60          (a) how an education entity can better maintain, secure, and safeguard student data,
+61     including using industry best practices to maintain, secure, and safeguard the student data;
+62          (b) how to provide disclosures to parents and students on how student data will be
+63     collected, maintained, and used;
+64          (c) the process to release student data to an education entity or to a person, including to
+65     the following:
+66          (i) another education entity;
+67          (ii) a government entity:
+68          (A) within the state; or
+69          (B) outside of the state; and
+70          (iii) a private third party;
+71          (d) how to allow a student to expunge the student's data;
+72          (e) how to manage a contract with a third party service provider to ensure that a
+73     contract entered into between an education entity and a third party service provider includes:
+74          (i) provisions requiring specific restrictions on the use of student data;
+75          (ii) specific dates governing the destruction of student data given to a third party
+76     service provider;
+77          (iii) provisions that prohibit a third party service provider from using personally
+78     identifiable information for a secondary use, including sales, marketing, or advertising;
+79          (iv) provisions limiting a third party service provider's use of student data strictly for
+80     the purpose of providing services to the education entity; and
+81          (v) provisions requiring a third party service provider to maintain, secure, and
+82     safeguard all student data by using industry best practices to maintain, secure, and safeguard
+83     the student data; and
+84          (f) the penalties for:
+85          (i) an unauthorized release of student data; or
+86          (ii) failing to maintain, secure, and safeguard student data.
+87          (4) (a) The board shall designate a chief privacy officer.
+88          (b) The chief privacy officer shall:
+89          (i) oversee the administration of student privacy laws; and
+90          (ii) work with the board to develop the funding proposal and recommendations
+91     described in Subsection (2)(a).
+92          (5) On or before January 31, 2016, the board and the chief privacy officer shall present
+93     the funding proposal and recommendations described in Subsection (2)(a) to the Public
+94     Education Appropriations Subcommittee.
+95          Section 2. Appropriation.
+96          Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, for
+97     the fiscal year beginning July 1, 2015, and ending June 30, 2016, the following sums of money
+98     are appropriated from resources not otherwise appropriated, or reduced from amounts
+99     previously appropriated, out of the funds or accounts indicated. These sums of money are in
+100     addition to any amounts previously appropriated for fiscal year 2016.
+101          To State Board of Education - State Office of Education - Assessment and
+102     Accountability
+103               From Education Fund
+$180,000
+
+104               From Education Fund, One-time
+$5,000
+
+105               Schedule of Programs:
+106                    Assessment and Accountability               $185,000
+107          The Legislature intends that:
+108          (1) the State Board of Education use the appropriation under this section as described
+109     in Section 53A-1-710; and
+110          (2) $180,000 of the appropriation under this section be:
+111          (a) ongoing; and
+112          (b) non-lapsing.
+113          Section 3. Effective date.
+114          (1) Except as provided in Subsection (2), this bill takes effect on May 12, 2015.
+115          (2) Uncodified Section 2, Appropriation, takes effect on July 1, 2015.
+You may print the text of a bill from the PDF version located on the 'Bill Text' tab above.

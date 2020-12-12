@@ -1,0 +1,97 @@
+
+
+CHAPTER 69
+
+HB 1497 - FINAL VERSION
+
+ 
+
+2016 SESSION
+
+16-2617
+
+08/04
+
+ 
+
+HOUSE BILL 1497
+
+ 
+
+AN ACT relative to the limits on disclosure of information used on college entrance exams.
+
+ 
+
+SPONSORS: Rep. Kurk, Hills. 2
+
+ 
+
+COMMITTEE: Education
+
+ 
+
+-----------------------------------------------------------------
+
+ 
+
+ANALYSIS
+
+ 
+
+This bill requires school districts to destroy personal information of students following the completion and verification of certain tests.
+
+ 
+
+This bill also gives students taking college entrance exams the option to have all their personal information destroyed by the testing entity following the completion and verification of the test.
+
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ 
+
+Explanation: Matter added to current law appears in bold italics.
+
+Matter removed from current law appears [in brackets and struckthrough.]
+
+Matter which is either (a) all new or (b) repealed and reenacted appears in regular type.
+
+ 
+
+ 
+
+16-2617
+
+08/04
+
+ 
+
+STATE OF NEW HAMPSHIRE
+
+ 
+
+In the Year of Our Lord Two Thousand Sixteen
+
+ 
+
+AN ACT relative to the limits on disclosure of information used on college entrance exams.
+
+ 
+
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+
+ 
+
+69:1  Limits on Disclosure of Information; College Entrance Exams; Personal Information Options.  Amend RSA 189:67, II-III to read as follows:
+
+II.  A school or the department may disclose to a testing entity the student's name or unique pupil identifier, but not both, and birth date for the sole purpose of identifying the test taker. Except when collected in conjunction with the SAT or ACT, when such tests are used for the purpose of the state assessment as defined in RSA 193-C:6,  [This] the data shall be destroyed by the testing entity as soon as the testing entity has completed the verification of test takers, shall not be disclosed by the testing entity to any other person, organization, entity or government or any component thereof, other than the district, school or school district, and shall not be used by the testing entity for any other purpose whatsoever, including but not limited to test-data analysis.
+
+II-a.  Students taking the SAT or ACT, when such tests are used for the purpose of the state assessment as defined in RSA 193-C:6, may opt to have all personal information destroyed by the testing entity, following the completion and verification of the test.
+
+III.   Except when collected in conjunction with the SAT or ACT, when such tests are used for the purpose of the state assessment as defined in RSA 193-C:6, neither a school nor the department shall disclose or permit the disclosure of student or teacher personally-identifiable data, the unique pupil identifier, or any other data listed in RSA 189:68, I to any testing entity performing test-data analysis.  The testing entity may perform the test analysis but shall not connect such data to other student data.
+
+69:2  Effective Date.  This act shall take effect 60 days after its passage.
+
+Approved: May 5, 2016
+
+Effective Date: July 4, 2016

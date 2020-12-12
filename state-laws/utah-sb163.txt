@@ -1,0 +1,2934 @@
+
+
+ 
+	
+
+Enrolled Copy
+	
+
+S.B. 163
+
+1
+	
+
+ 
+	
+
+STUDENT INFORMATION AMENDMENTS
+
+2
+	
+
+ 
+	
+
+2017 GENERAL SESSION
+
+3
+	
+
+ 
+	
+
+STATE OF UTAH
+
+4
+	
+
+ 
+	
+
+Chief Sponsor: Jacob L. Anderegg
+
+5
+	
+
+ 
+	
+
+House Sponsor: John Knotwell
+
+6
+	
+
+ 
+	
+
+ 
+
+ 
+	
+
+ 
+
+ 
+	
+
+ 
+
+7LONG TITLE
+
+8General Description:
+
+9
+	
+
+This bill modifies provisions related to student data and information given to students.
+
+10Highlighted Provisions:
+
+11
+	
+
+This bill:
+
+12
+	
+
+<
+	
+
+amends definitions;
+
+13
+	
+
+<
+	
+
+repeals an incorrect cross reference;
+
+14< permits a third-party contractor to identify for a student nonprofit institutions of
+
+15higher education or scholarship providers that are seeking students who meet
+
+16specific criteria;
+
+17
+	
+
+< amends Utah Futures provisions, including:
+
+18
+	
+
+C defining terms;
+
+19
+	
+
+C allowing a student to access information about an education provider or
+
+20
+	
+
+scholarship provider;
+
+21
+	
+
+C allowing an education provider or Utah business to request that Utah Futures
+
+22
+	
+
+send certain information to a student user; and
+
+23
+	
+
+C authorizing the Utah Futures Steering Committee to charge a fee; and
+
+24< makes technical corrections.
+
+25Money Appropriated in this Bill:
+
+26None
+
+27Other Special Clauses:
+
+28None
+
+29Utah Code Sections Affected:
+
+ 
+	
+
+S.B. 163
+	
+
+Enrolled Copy
+
+30
+	
+
+AMENDS:
+	
+
+ 
+
+31
+	
+
+53A-1-1402, as enacted by Laws of Utah 2016, Chapter 221
+	
+
+ 
+
+32
+	
+
+53A-1-1406, as enacted by Laws of Utah 2016, Chapter 221
+	
+
+ 
+
+33
+	
+
+53A-1-1410, as enacted by Laws of Utah 2016, Chapter 221
+	
+
+ 
+
+34
+	
+
+53B-17-108, as last amended by Laws of Utah 2015, Chapters 222, 283 and
+
+35renumbered and amended by Laws of Utah 2015, Chapter 366
+
+37Be it enacted by the Legislature of the state of Utah:
+
+38
+	
+
+Section 1. Section 53A-1-1402 is amended to read:
+
+39
+	
+
+53A-1-1402. Definitions.
+
+40
+	
+
+As used in this part:
+
+41
+	
+
+(1)
+	
+
+"Adult student" means a student who:
+
+42
+	
+
+(a)
+	
+
+is at least 18 years old;
+
+43
+	
+
+(b)
+	
+
+is an emancipated student; or
+
+44
+	
+
+(c)
+	
+
+qualifies under the McKinney-Vento Homeless Education Assistance
+
+45
+	
+
+Improvements Act of 2001, 42 U.S.C. Sec. 11431 et seq.
+
+46
+	
+
+(2)
+	
+
+"Aggregate data" means data that:
+
+47
+	
+
+(a)
+	
+
+are totaled and reported at the group, cohort, school, school district, region, or state
+
+48
+	
+
+level with at least 10 individuals in the level;
+
+49
+	
+
+(b) do not reveal personally identifiable student data; and
+
+50
+	
+
+(c)
+	
+
+are collected in accordance with board rule.
+
+51
+	
+
+(3) (a) "Biometric identifier" means a:
+
+52
+	
+
+(i)
+	
+
+retina or iris scan;
+
+53
+	
+
+(ii)
+	
+
+fingerprint;
+
+54
+	
+
+(iii) human biological sample used for valid scientific testing or screening; or
+
+55
+	
+
+(iv)
+	
+
+scan of hand or face geometry.
+
+56
+	
+
+(b)
+	
+
+"Biometric identifier" does not include:
+
+57
+	
+
+(i)
+	
+
+a writing sample;
+
+- 2 -
+
+ 
+	
+
+Enrolled Copy
+	
+
+S.B. 163
+
+58
+	
+
+(ii)
+	
+
+a written signature;
+	
+
+ 
+
+59
+	
+
+(iii)
+	
+
+a voiceprint;
+	
+
+ 
+
+60
+	
+
+(iv)
+	
+
+a photograph;
+	
+
+ 
+
+61
+	
+
+(v)
+	
+
+demographic data; or
+	
+
+ 
+
+62
+	
+
+(vi)
+	
+
+a physical description, such as height, weight, hair color, or eye color.
+	
+
+ 
+
+63
+	
+
+(4)
+	
+
+"Biometric information" means information, regardless of how the information is
+
+64
+	
+
+collected, converted, stored, or shared:
+	
+
+ 
+
+65
+	
+
+(a)
+	
+
+based on an individual's biometric identifier; and
+	
+
+ 
+
+66
+	
+
+(b)
+	
+
+used to identify the individual.
+	
+
+ 
+
+67
+	
+
+(5)
+	
+
+"Board" means the State Board of Education.
+	
+
+ 
+
+68
+	
+
+(6)
+	
+
+"Cumulative disciplinary record" means disciplinary student data that is part of a
+
+69
+	
+
+cumulative record.
+	
+
+ 
+
+70
+	
+
+(7)
+	
+
+"Cumulative record" means physical or electronic information that the education
+
+71
+	
+
+entity intends:
+	
+
+ 
+
+72
+	
+
+(a)
+	
+
+to store in a centralized location for 12 months or more; and
+	
+
+ 
+
+73
+	
+
+(b)
+	
+
+for the information to follow the student through the public education system.
+
+74
+	
+
+(8)
+	
+
+"Data authorization" means written authorization to collect or share a student's
+
+75
+	
+
+student data, from:
+	
+
+ 
+
+76
+	
+
+(a)
+	
+
+the student's parent, if the student is not an adult student; or
+	
+
+ 
+
+77
+	
+
+(b)
+	
+
+the student, if the student is an adult student.
+	
+
+ 
+
+78
+	
+
+(9)
+	
+
+"Data governance plan" means an education entity's comprehensive plan for
+
+79
+	
+
+managing education data that:
+	
+
+ 
+
+80
+	
+
+(a) incorporates reasonable data industry best practices to maintain and protect student
+
+81
+	
+
+data and other education-related data;
+	
+
+ 
+
+82
+	
+
+(b) provides for necessary technical assistance, training, support, and auditing;
+	
+
+ 
+
+83
+	
+
+(c) describes the process for sharing student data between an education entity and
+
+84
+	
+
+another person;
+	
+
+ 
+
+85
+	
+
+(d)
+	
+
+describes the process for an adult student or parent to request that data be
+	
+
+ 
+
+- 3 -
+
+ 
+	
+
+S.B. 163
+	
+
+Enrolled Copy
+
+86
+	
+
+expunged; and
+
+87
+	
+
+(e)
+	
+
+is published annually and available on the education entity's website.
+
+88
+	
+
+(10)
+	
+
+"Education entity" means:
+
+89
+	
+
+(a)
+	
+
+the board;
+
+90
+	
+
+(b)
+	
+
+a local school board;
+
+91
+	
+
+(c)
+	
+
+a charter school governing board;
+
+92
+	
+
+(d)
+	
+
+a school district;
+
+93
+	
+
+(e)
+	
+
+a charter school;
+
+94
+	
+
+(f)
+	
+
+the Utah Schools for the Deaf and the Blind; or
+
+95
+	
+
+(g)
+	
+
+for purposes of implementing the School Readiness Initiative described in Chapter
+
+961b, Part 1, School Readiness Initiative Act, the School Readiness Board created in Section
+
+9753A-1b-103.
+
+98
+	
+
+(11)
+	
+
+"Expunge" means to seal or permanently delete data, as described in board rule
+
+99
+	
+
+made under Section 53A-1-1407.
+
+100
+	
+
+(12)
+	
+
+"External application" means a general audience:
+
+101
+	
+
+(a)
+	
+
+application;
+
+102
+	
+
+(b)
+	
+
+piece of software;
+
+103
+	
+
+(c)
+	
+
+website; or
+
+104
+	
+
+(d)
+	
+
+service.
+
+105
+	
+
+(13)
+	
+
+"Individualized education program" or "IEP" means a written statement:
+
+106
+	
+
+(a)
+	
+
+for a student with a disability; and
+
+107
+	
+
+(b)
+	
+
+that is developed, reviewed, and revised in accordance with the Individuals with
+
+108
+	
+
+Disabilities Education Act, 20 U.S.C. Sec. 1400 et seq.
+
+109
+	
+
+(14)
+	
+
+"Internal application" means an Internet website, online service, online
+
+110application, mobile application, or software, if the Internet website, online service, online
+
+111application, mobile application, or software is subject to a third-party contractor's contract with
+
+112an education entity.
+
+113
+	
+
+(15) "Local education agency" or "LEA" means:
+
+- 4 -
+
+ 
+	
+
+Enrolled Copy
+	
+
+S.B. 163
+
+114
+	
+
+(a)
+	
+
+a school district;
+	
+
+ 
+
+115
+	
+
+(b)
+	
+
+a charter school;
+	
+
+ 
+
+116
+	
+
+(c)
+	
+
+the Utah Schools for the Deaf and the Blind; or
+	
+
+ 
+
+117
+	
+
+(d)
+	
+
+for purposes of implementing the School Readiness Initiative described in Chapter
+
+1181b, Part 1, School Readiness Initiative Act, the School Readiness Board created in Section
+
+11953A-1b-103.
+
+120
+	
+
+(16)
+	
+
+"Metadata dictionary" means a complete list of an education entity's student data
+
+121
+	
+
+elements and other education-related data elements, that:
+
+122
+	
+
+(a) defines and discloses all data collected, used, stored, and shared by the education
+
+123
+	
+
+entity, including:
+
+124
+	
+
+(i) who uses a data element within an education entity and how a data element is used
+
+125
+	
+
+within an education entity;
+
+126
+	
+
+(ii)
+	
+
+if a data element is shared externally, who uses the data element externally and how
+
+127
+	
+
+a data element is shared externally;
+
+128
+	
+
+(iii)
+	
+
+restrictions on the use of a data element; and
+
+129
+	
+
+(iv)
+	
+
+parent and student rights to a data element;
+
+130
+	
+
+(b)
+	
+
+designates student data elements as:
+
+131
+	
+
+(i) necessary student data; or
+
+132
+	
+
+(ii)
+	
+
+optional student data;
+
+133
+	
+
+(c) designates student data elements as required by state or federal law; and
+
+134
+	
+
+(d)
+	
+
+without disclosing student data or security information, is displayed on the
+
+135
+	
+
+education entity's website.
+
+136
+	
+
+(17)
+	
+
+"Necessary student data" means data required by state statute or federal law to
+
+137
+	
+
+conduct the regular activities of an education entity, including:
+
+138
+	
+
+(a) name;
+
+139
+	
+
+(b)
+	
+
+date of birth;
+
+140
+	
+
+(c) sex;
+
+141
+	
+
+(d)
+	
+
+parent contact information;
+
+- 5 -
+
+ 
+	
+
+S.B. 163
+	
+
+Enrolled Copy
+
+142
+	
+
+(e)
+	
+
+custodial parent information;
+	
+
+ 
+
+143
+	
+
+(f)
+	
+
+contact information;
+	
+
+ 
+
+144
+	
+
+(g)
+	
+
+a student identification number;
+	
+
+ 
+
+145
+	
+
+(h)
+	
+
+local, state, and national assessment results or an exception from taking a local,
+
+146
+	
+
+state, or national assessment;
+	
+
+ 
+
+147
+	
+
+(i)
+	
+
+courses taken and completed, credits earned, and other transcript information;
+
+148
+	
+
+(j)
+	
+
+course grades and grade point average;
+	
+
+ 
+
+149
+	
+
+(k)
+	
+
+grade level and expected graduation date or graduation cohort;
+	
+
+ 
+
+150
+	
+
+(l)
+	
+
+degree, diploma, credential attainment, and other school exit information;
+
+151
+	
+
+(m)
+	
+
+attendance and mobility;
+	
+
+ 
+
+152
+	
+
+(n)
+	
+
+drop-out data;
+	
+
+ 
+
+153
+	
+
+(o)
+	
+
+immunization record or an exception from an immunization record;
+
+154
+	
+
+(p)
+	
+
+race;
+	
+
+ 
+
+155
+	
+
+(q)
+	
+
+ethnicity;
+	
+
+ 
+
+156
+	
+
+(r)
+	
+
+tribal affiliation;
+	
+
+ 
+
+157
+	
+
+(s)
+	
+
+remediation efforts;
+	
+
+ 
+
+158
+	
+
+(t)
+	
+
+an exception from a vision screening required under Section 53A-11-203 or
+
+159
+	
+
+information collected from a vision screening required under Section 53A-11-203;
+
+160
+	
+
+(u)
+	
+
+information related to the Utah Registry of Autism and Developmental Disabilities,
+
+161
+	
+
+described in Section 26-7-4;
+	
+
+ 
+
+162
+	
+
+(v)
+	
+
+student injury information;
+	
+
+ 
+
+163
+	
+
+(w)
+	
+
+a cumulative disciplinary record created and maintained as described in Section
+
+16453A-1-1407;
+
+165
+	
+
+(x)
+	
+
+juvenile delinquency records;
+
+166
+	
+
+(y)
+	
+
+English language learner status; and
+
+167
+	
+
+(z)
+	
+
+child find and special education evaluation data related to initiation of an IEP.
+
+168
+	
+
+(18) (a) "Optional student data" means student data that is not:
+
+169
+	
+
+(i)
+	
+
+necessary student data; or
+
+- 6 -
+
+ 
+	
+
+Enrolled Copy
+	
+
+S.B. 163
+
+170
+	
+
+(ii)
+	
+
+student data that an education entity may not collect under Section 53A-1-1406.
+
+171
+	
+
+(b)
+	
+
+"Optional student data" includes:
+	
+
+ 
+
+172
+	
+
+(i) information that is:
+	
+
+ 
+
+173
+	
+
+(A)
+	
+
+related to an IEP or needed to provide special needs services; and
+	
+
+ 
+
+174
+	
+
+(B)
+	
+
+not necessary student data;
+	
+
+ 
+
+175
+	
+
+(ii)
+	
+
+biometric information; and
+	
+
+ 
+
+176
+	
+
+(iii)
+	
+
+ 
+	
+
+information that is not necessary student data and that is required for a student to
+
+177
+	
+
+participate in a federal or other program.
+	
+
+ 
+
+178
+	
+
+(19)
+	
+
+ 
+	
+
+"Parent" means a student's parent or legal guardian.
+	
+
+ 
+
+179
+	
+
+(20) (a) "Personally identifiable student data" means student data that identifies or is
+
+180
+	
+
+used by the holder to identify a student.
+	
+
+ 
+
+181
+	
+
+(b)
+	
+
+"Personally identifiable student data" includes:
+	
+
+ 
+
+182
+	
+
+(i) a student's first and last name;
+	
+
+ 
+
+183
+	
+
+(ii)
+	
+
+the first and last name of a student's family member;
+	
+
+ 
+
+184
+	
+
+(iii)
+	
+
+ 
+	
+
+a student's or a student's family's home or physical address;
+	
+
+ 
+
+185
+	
+
+(iv)
+	
+
+a student's email address or other online contact information;
+	
+
+ 
+
+186
+	
+
+(v)
+	
+
+a student's telephone number;
+	
+
+ 
+
+187
+	
+
+(vi)
+	
+
+a student's social security number;
+	
+
+ 
+
+188
+	
+
+(vii)
+	
+
+a student's biometric identifier;
+	
+
+ 
+
+189
+	
+
+(viii)
+	
+
+a student's health or disability data;
+	
+
+ 
+
+190
+	
+
+(ix)
+	
+
+a student's education entity student identification number;
+	
+
+ 
+
+191
+	
+
+(x)
+	
+
+a student's social media user name and password or alias;
+	
+
+ 
+
+192
+	
+
+(xi)
+	
+
+if associated with personally identifiable student data, the student's persistent
+
+193
+	
+
+identifier, including:
+	
+
+ 
+
+194
+	
+
+(A)
+	
+
+a customer number held in a cookie; or
+	
+
+ 
+
+195
+	
+
+(B)
+	
+
+a processor serial number;
+	
+
+ 
+
+196
+	
+
+(xii)
+	
+
+a combination of a student's last name or photograph with other information that
+
+197
+	
+
+together permits a person to contact the student online;
+	
+
+ 
+
+- 7 -
+
+ 
+	
+
+S.B. 163
+	
+
+Enrolled Copy
+
+198
+	
+
+(xiii)
+	
+
+information about a student or a student's family that a person collects online and
+
+199
+	
+
+combines with other personally identifiable student data to identify the student; and
+
+200
+	
+
+(xiv)
+	
+
+other information that is linked to a specific student that would allow a
+
+201reasonable person in the school community, who does not have first-hand knowledge of the
+
+202student, to identify the student with reasonable certainty.
+
+203
+	
+
+(21) "School official" means an employee or agent of an education entity, if the
+
+204education entity has authorized the employee or agent to request or receive student data on
+
+205behalf of the education entity.
+
+206
+	
+
+(22) (a) "Student data" means information about a student at the individual student
+
+207
+	
+
+level.
+	
+
+ 
+
+208
+	
+
+(b)
+	
+
+"Student data" does not include aggregate or de-identified data.
+
+209
+	
+
+(23)
+	
+
+"Student data disclosure statement" means a student data disclosure statement
+
+210
+	
+
+described in Section 53A-1-1406.
+
+211
+	
+
+(24)
+	
+
+"Student data manager" means:
+
+212
+	
+
+(a) the state student data officer; or
+
+213
+	
+
+(b)
+	
+
+an individual designated as a student data manager by an education entity under
+
+214
+	
+
+Section 53A-1-1404.
+
+215
+	
+
+[(25) "Targeted advertising" means advertising to a student on an internal or external
+
+216application, if the advertisement is based on information or student data the third-party
+
+217contractor collected or received under the third-party contractor's contract with an education
+
+218entity .]
+
+219
+	
+
+(25) (a) "Targeted advertising" means presenting advertisements to a student where the
+
+220advertisement is selected based on information obtained or inferred over time from that
+
+221student's online behavior, usage of applications, or student data.
+
+222
+	
+
+(b) "Targeted advertising" does not include advertising to a student:
+
+223
+	
+
+(i) at an online location based upon that student's current visit to that location; or
+
+224
+	
+
+(ii) in response to that student's request for information or feedback, without retention
+
+225of that student's online activities or requests over time for the purpose of targeting subsequent
+
+- 8 -
+
+Enrolled Copy
+	
+
+S.B. 163
+
+226ads.
+
+227
+	
+
+(26) "Third-party contractor" means a person who:
+
+228
+	
+
+(a)
+	
+
+is not an education entity; and
+
+229
+	
+
+(b)
+	
+
+pursuant to a contract with an education entity, collects or receives student data in
+
+230order to provide a product or service, as described in the contract, if the product or service is
+
+231not related to school photography, yearbooks, graduation announcements, or a similar product
+
+232or service.
+
+233
+	
+
+Section 2. Section 53A-1-1406 is amended to read:
+
+234
+	
+
+53A-1-1406. Collecting student data -- Prohibition -- Student data disclosure
+
+235statement -- Authorization.
+
+236
+	
+
+(1)
+	
+
+An education entity shall comply with this section beginning with the 2017-18
+
+237
+	
+
+school year.
+
+238
+	
+
+(2)
+	
+
+An education entity may not collect a student's:
+
+239
+	
+
+(a)
+	
+
+social security number; or
+
+240
+	
+
+(b)
+	
+
+except as required in Section 78A-6-112, criminal record.
+
+241
+	
+
+(3)
+	
+
+An education entity that collects student data into a cumulative record shall, in
+
+242accordance with this section, prepare and distribute to parents and students a student data
+
+243disclosure statement that:
+
+244
+	
+
+(a)
+	
+
+is a prominent, stand-alone document;
+
+245
+	
+
+(b)
+	
+
+is annually updated and published on the education entity's website;
+
+246
+	
+
+(c) states the necessary and optional student data the education entity collects;
+
+247
+	
+
+(d)
+	
+
+states that the education entity will not collect the student data described in
+
+248
+	
+
+Subsection (2);
+
+249
+	
+
+(e)
+	
+
+states the student data described in Section 53A-1-1409 that the education entity
+
+250
+	
+
+may not share without a data authorization;
+
+251
+	
+
+[(f)
+	
+
+states that students and parents are responsible for the collection, use, or sharing of
+
+252student data as described in Section 53A-1-1405;]
+
+253
+	
+
+[(g)] (f) describes how the education entity may collect, use, and share student data;
+
+- 9 -
+
+ 
+	
+
+S.B. 163
+	
+
+Enrolled Copy
+
+254
+	
+
+[(h)] (g)
+	
+
+includes the following statement:
+
+255
+	
+
+"The collection, use, and sharing of student data has both benefits and risks. Parents
+
+256and students should learn about these benefits and risks and make choices regarding student
+
+257data accordingly.";
+
+258
+	
+
+[(i)] (h)
+	
+
+describes in general terms how the education entity stores and protects student
+
+259
+	
+
+data; and
+	
+
+ 
+	
+
+ 
+
+260
+	
+
+[(j)] (i)
+	
+
+states a student's rights under this part.
+
+261
+	
+
+(4)
+	
+
+An education entity may collect the necessary student data of a student into a
+
+262
+	
+
+cumulative record if the education entity provides a student data disclosure statement to:
+
+263
+	
+
+(a)
+	
+
+the student, if the student is an adult student; or
+
+264
+	
+
+(b)
+	
+
+the student's parent, if the student is not an adult student.
+
+265
+	
+
+(5)
+	
+
+An education entity may collect optional student data into a cumulative record if
+
+266
+	
+
+the education entity:
+
+267
+	
+
+(a)
+	
+
+provides, to an individual described in Subsection (4), a student data disclosure
+
+268
+	
+
+statement that includes a description of:
+
+269
+	
+
+(i)
+	
+
+the optional student data to be collected; and
+
+270
+	
+
+(ii)
+	
+
+how the education entity will use the optional student data; and
+
+271
+	
+
+(b)
+	
+
+obtains a data authorization to collect the optional student data from an individual
+
+272
+	
+
+described in Subsection (4).
+
+273
+	
+
+(6)
+	
+
+An education entity may collect a student's biometric identifier or biometric
+
+274
+	
+
+information into a cumulative record if the education entity:
+
+275
+	
+
+(a)
+	
+
+provides, to an individual described in Subsection (4), a biometric information
+
+276
+	
+
+disclosure statement that is separate from a student data disclosure statement, which states:
+
+277
+	
+
+(i)
+	
+
+the biometric identifier or biometric information to be collected;
+
+278
+	
+
+(ii)
+	
+
+the purpose of collecting the biometric identifier or biometric information; and
+
+279
+	
+
+(iii) how the education entity will use and store the biometric identifier or biometric
+
+280
+	
+
+information; and
+
+281
+	
+
+(b)
+	
+
+obtains a data authorization to collect the biometric identifier or biometric
+
+- 10 -
+
+ 
+	
+
+Enrolled Copy
+	
+
+S.B. 163
+
+282
+	
+
+information from an individual described in Subsection (4).
+
+283
+	
+
+Section 3. Section 53A-1-1410 is amended to read:
+
+284
+	
+
+53A-1-1410.
+	
+
+Third-party contractors -- Use and protection of student data --
+
+285Contract requirements -- Completion of contract -- Required and allowed uses of student
+
+286data -- Restrictions on the use of student data -- Exceptions.
+
+287
+	
+
+(1) A third-party contractor shall use personally identifiable student data received
+
+288under a contract with an education entity strictly for the purpose of providing the contracted
+
+289product or service within the negotiated contract terms.
+
+290
+	
+
+(2)
+	
+
+When contracting with a third-party contractor, an education entity shall require the
+
+291
+	
+
+following provisions in the contract:
+
+292
+	
+
+(a)
+	
+
+requirements and restrictions related to the collection, use, storage, or sharing of
+
+293student data by the third-party contractor that are necessary for the education entity to ensure
+
+294compliance with the provisions of this part and board rule;
+
+295
+	
+
+(b)
+	
+
+a description of a person, or type of person, including an affiliate of the third-party
+
+296
+	
+
+contractor, with whom the third-party contractor may share student data;
+
+297
+	
+
+(c)
+	
+
+provisions that, at the request of the education entity, govern the deletion of the
+
+298
+	
+
+student data received by the third-party contractor;
+
+299
+	
+
+(d)
+	
+
+except as provided in Subsection (4) and if required by the education entity,
+
+300provisions that prohibit the secondary use of personally identifiable student data by the
+
+301third-party contractor; and
+
+302
+	
+
+(e) an agreement by the third-party contractor that, at the request of the education entity
+
+303that is a party to the contract, the education entity or the education entity's designee may audit
+
+304the third-party contractor to verify compliance with the contract.
+
+305
+	
+
+(3)
+	
+
+As authorized by law or court order, a third-party contractor shall share student data
+
+306
+	
+
+as requested by law enforcement.
+
+307
+	
+
+(4)
+	
+
+A third-party contractor may:
+
+308
+	
+
+(a)
+	
+
+use student data for adaptive learning or customized student learning purposes;
+
+309
+	
+
+(b)
+	
+
+market an educational application or product to a parent or legal guardian of a
+
+- 11 -
+
+S.B. 163
+	
+
+Enrolled Copy
+
+310student if the third-party contractor did not use student data, shared by or collected on behalf of
+
+311an education entity, to market the educational application or product;
+
+312
+	
+
+(c)
+	
+
+use a recommendation engine to recommend to a student:
+
+313
+	
+
+(i)
+	
+
+content that relates to learning or employment, within the third-party contractor's
+
+314internal application, if the recommendation is not motivated by payment or other consideration
+
+315from another party; or
+
+316
+	
+
+(ii) services that relate to learning or employment, within the third-party contractor's
+
+317internal application, if the recommendation is not motivated by payment or other consideration
+
+318from another party;
+
+319
+	
+
+(d) respond to a student request for information or feedback, if the content of the
+
+320
+	
+
+response is not motivated by payment or other consideration from another party; [or]
+
+321
+	
+
+(e) use student data to allow or improve operability and functionality of the third-party
+
+322
+	
+
+contractor's internal application[.]; or
+
+323
+	
+
+(f) identify for a student nonprofit institutions of higher education or scholarship
+
+324providers that are seeking students who meet specific criteria:
+
+325
+	
+
+(i) regardless of whether the identified nonprofit institutions of higher education or
+
+326scholarship providers provide payment or other consideration to the third-party contractor; and
+
+327
+	
+
+(ii) except as provided in Subsection (5), only if the third-party contractor obtains
+
+328written consent:
+
+329
+	
+
+(A)
+	
+
+of a student's parent or legal guardian through the student's school or LEA; or
+
+330
+	
+
+(B)
+	
+
+for a student who is age 18 or older or an emancipated minor, from the student.
+
+331
+	
+
+(5)
+	
+
+A third-party contractor is not required to obtain written consent under Subsection
+
+332(4)(f)(ii) if the third-party contractor:
+
+333
+	
+
+(a)
+	
+
+is a national assessment provider; and
+
+334
+	
+
+(b) (i) secures the express written consent of the student or the student's parent; and
+
+335
+	
+
+(ii)
+	
+
+the express written consent is given in response to clear and conspicuous notice
+
+336that the national assessment provider requests consent solely to provide access to information
+
+337on employment, educational scholarships, financial aid, or postsecondary educational
+
+- 12 -
+
+Enrolled Copy
+	
+
+S.B. 163
+
+338opportunities.
+
+339
+	
+
+[(5)] (6) At the completion of a contract with an education entity, if the contract has not
+
+340been renewed, a third-party contractor shall[:(a)] return [all personally identifiable student data
+
+341to the education entity; or] or delete upon the education entity's request all personally
+
+342identifiable student data under the control of the education entity unless a student or the
+
+343student's parent consents to the maintenance of the personally identifiable student data.
+
+344
+	
+
+[(b) as reasonable, delete all personally identifiable student data related to the
+
+345third-party contractor's work.]
+
+346
+	
+
+[(6)] (7) (a) A third-party contractor may not:
+
+347
+	
+
+(i) except as provided in [Subsection (6)(b)] Subsections (5) and (7)(b), sell student
+
+348
+	
+
+data;
+	
+
+ 
+
+349
+	
+
+(ii) collect, use, or share student data, if the collection, use, or sharing of the student
+
+350
+	
+
+data is inconsistent with the third-party contractor's contract with the education entity; or
+
+351
+	
+
+(iii)
+	
+
+use student data for targeted advertising.
+
+352
+	
+
+(b)
+	
+
+A person may obtain student data through the purchase of, merger with, or
+
+353otherwise acquiring a third-party contractor if the third-party contractor remains in compliance
+
+354with this section.
+
+355
+	
+
+[(7)] (8) A provider of an electronic store, gateway, marketplace, or other means of
+
+356purchasing an external application is not required to ensure that the external application
+
+357obtained through the provider complies with this section.
+
+358
+	
+
+[(8)] (9) The provisions of this section do not:
+
+359
+	
+
+(a)
+	
+
+apply to the use of an external application, including the access of an external
+
+360
+	
+
+application with login credentials created by a third-party contractor's internal application;
+
+361
+	
+
+(b)
+	
+
+apply to the providing of Internet service; or
+
+362
+	
+
+(c)
+	
+
+impose a duty on a provider of an interactive computer service, as defined in 47
+
+363
+	
+
+U.S.C. Sec. 230, to review or enforce compliance with this section.
+
+364
+	
+
+Section 4. Section 53B-17-108 is amended to read:
+
+365
+	
+
+53B-17-108. Utah Futures.
+
+- 13 -
+
+ 
+	
+
+S.B. 163
+	
+
+Enrolled Copy
+
+366
+	
+
+(1)
+	
+
+As used in this section:
+	
+
+ 
+
+367
+	
+
+(a)
+	
+
+"Education provider" means:
+	
+
+ 
+
+368
+	
+
+(i) a Utah institution of higher education as defined in Section 53B-2-101; or
+
+369
+	
+
+(ii) a nonprofit Utah provider of postsecondary education.
+	
+
+ 
+
+370
+	
+
+(b)
+	
+
+"Student user" means:
+	
+
+ 
+
+371
+	
+
+(i) a Utah student in kindergarten through grade 12;
+	
+
+ 
+
+372
+	
+
+(ii)
+	
+
+a Utah post secondary education student;
+	
+
+ 
+
+373
+	
+
+(iii)
+	
+
+a parent or guardian of a Utah public education student; or
+	
+
+ 
+
+374
+	
+
+(iv)
+	
+
+a Utah potential post secondary education student.
+	
+
+ 
+
+375
+	
+
+(c)
+	
+
+"Utah Futures" means a career planning program developed and administered by
+
+376
+	
+
+the Utah Futures Steering Committee.
+	
+
+ 
+
+377
+	
+
+(d) "Utah Futures Steering Committee" means a committee of members designated by
+
+378
+	
+
+the governor to administer and manage Utah Futures.
+	
+
+ 
+
+379
+	
+
+(2)
+	
+
+The Utah Futures Steering Committee shall ensure, as funding allows and is
+
+380
+	
+
+feasible, that Utah Futures will:
+	
+
+ 
+
+381
+	
+
+(a)
+	
+
+allow a student user to:
+	
+
+ 
+
+382
+	
+
+[(i)
+	
+
+access the student user's full academic record;]
+	
+
+ 
+
+383
+	
+
+[(ii)
+	
+
+electronically allow the student user to give access to the student user's academic
+
+384record and related information to an education provider as allowed by law;]
+
+385
+	
+
+(i) access, subject to Subsection (3), information about an education provider or a
+
+386scholarship provider;
+
+387
+	
+
+[(iii)] (ii)
+	
+
+access information about different career opportunities and understand the
+
+388
+	
+
+related educational requirements to enter that career;
+
+389
+	
+
+[(iv)] (iii)
+	
+
+access information about education providers;
+
+390
+	
+
+[(v)] (iv)
+	
+
+access up to date information about entrance requirements to education
+
+391
+	
+
+providers;
+	
+
+ 
+
+392
+	
+
+[(vi)] (v)
+	
+
+apply for entrance to multiple schools without having to fully replicate the
+
+393
+	
+
+application process;
+
+- 14 -
+
+ 
+	
+
+Enrolled Copy
+	
+
+S.B. 163
+
+394
+	
+
+[(vii)] (vi) apply for loans, scholarships, or grants from multiple education providers in
+
+395one location without having to fully replicate the application process for multiple education
+
+396providers; and
+
+397
+	
+
+[(viii)] (vii) research open jobs from different companies within the user's career
+
+398
+	
+
+interest and apply for those jobs without having to leave the website to do so;
+
+399
+	
+
+(b)
+	
+
+allow all users to:
+
+400
+	
+
+(i)
+	
+
+access information about different career opportunities and understand the related
+
+401
+	
+
+educational requirements to enter that career;
+
+402
+	
+
+(ii)
+	
+
+access information about education providers;
+
+403
+	
+
+(iii) access up-to-date information about entrance requirements to education providers;
+
+404
+	
+
+(iv)
+	
+
+apply for entrance to multiple schools without having to fully replicate the
+
+405
+	
+
+application process;
+
+406
+	
+
+(v)
+	
+
+apply for loans, scholarships, or grants from multiple education providers in one
+
+407location without having to fully replicate the application process for multiple education
+
+408providers; and
+
+409
+	
+
+(vi)
+	
+
+research open jobs from different companies within the user's career interest and
+
+410
+	
+
+apply for those jobs without having to leave the website to do so;
+
+411
+	
+
+(c)
+	
+
+allow an education provider to:
+
+412
+	
+
+(i)
+	
+
+[research and find student users] request that Utah Futures send information to
+
+413
+	
+
+student users who are interested in various educational [outcomes] opportunities;
+
+414
+	
+
+(ii)
+	
+
+promote the education provider's programs and schools to student users; and
+
+415
+	
+
+(iii) connect with student users within the Utah Futures website;
+
+416
+	
+
+(d)
+	
+
+allow a Utah business to:
+
+417
+	
+
+(i)
+	
+
+[research and find student users] request that Utah Futures send information to
+
+418student users who are pursuing educational [outcomes] opportunities that are consistent with
+
+419jobs the Utah business is trying to fill now or in the future; and
+
+420
+	
+
+(ii) market jobs and communicate with student users through the Utah Futures website
+
+421
+	
+
+as allowed by law;
+
+- 15 -
+
+ 
+	
+
+S.B. 163
+	
+
+Enrolled Copy
+
+422
+	
+
+(e) provide analysis and reporting on student user interests and education paths within
+
+423
+	
+
+the education system; and
+	
+
+ 
+
+424
+	
+
+(f) allow all users of the Utah Futures' system to communicate and interact through
+
+425
+	
+
+social networking tools within the Utah Futures website as allowed by law.
+	
+
+ 
+
+426
+	
+
+(3) A student may access information described in Subsection (2)(a)(i) only if Utah
+
+427Futures obtains written consent:
+
+428
+	
+
+(a)
+	
+
+of a student's parent or legal guardian through the student's school or LEA; or
+
+429
+	
+
+(b)
+	
+
+for a student who is age 18 or older or an emancipated minor, from the student.
+
+430
+	
+
+(4)
+	
+
+The Utah Futures Steering Committee:
+
+431
+	
+
+(a)
+	
+
+may charge a fee to a Utah business for services provided by Utah Futures under
+
+432this section; and
+
+433
+	
+
+(b) shall establish a fee described in Subsection (4)(a) in accordance with Section
+
+43463J-1-504.
+
+- 16 -

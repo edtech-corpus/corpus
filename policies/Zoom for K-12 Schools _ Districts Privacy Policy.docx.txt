@@ -1,0 +1,101 @@
+Zoom for K-12 Schools & Districts Privacy Policy
+
+Last updated: April 9, 2020
+
+Zoom partners with schools to provide video communications to support traditional, virtual, and hybrid classrooms, distance learning, educational office hours, guest lectures, and more. As part of the services we provide to K-12 schools (also called primary and secondary schools), Zoom may be used by students, including students under the age of 16. We are particularly committed to protecting the privacy of K-12 users, and Zoom’s K-12 Schools & Districts Privacy Policy is designed to reflect our compliance with the applicable requirements of the Children’s Online Privacy Protection Act (COPPA), the California Consumer Privacy Act (CCPA), the Federal Education Rights and Privacy Act (FERPA), the Student Online Personal Information Protection Act (SOPIPA), the EU General Data Protection Regulation (GDPR), and other applicable laws.  This policy applies to students and other end users who may be using Zoom under accounts created by School Subscribers (as that term is defined below), regardless of whether such School Subscriber account is paid for, or free.  (Please refer to Zoom’s general privacy policy here for information pertaining to non-School Subscriber accounts.)
+
+Requirements for Information Collection
+
+In the United States, and other jurisdictions where applicable, before collecting any personal information (“Personal Information”) from students accessing Zoom for K-12 services, we require the “School Subscriber”—typically the students’ school, school district, administrator or teacher—to contractually consent to our information practices, as permitted by applicable law.
+
+For purposes of GDPR, the School Subscriber is the Controller and Zoom is the Processor of a student’s Personal Information.  The Controller determines the legal basis, means and purposes for processing the data, and Zoom follows the directions of the Controller who sends us the data.
+
+We only collect students’ Personal Information to provide Zoom for K-12 services to the School Subscriber, not for marketing or advertising, and, with the limited exception of our service providers (to the extent necessary to provide their services to us), we do not share Personal Information about K-12 students or other Zoom for K-12 end users with other parties except as directed by the School Subscriber or required or permitted by law, as set forth in this Privacy Policy and consistent with our agreements with our School Subscribers.
+
+Information Collection
+
+We collect the following categories of data from Zoom for K-12 end users:
+
+Information commonly used for identification, such as a user’s name, email address (if entered) and other similar identifiers;
+
+Information about a student’s school, including its location;
+
+Information about the student’s device, network, and internet connection, such as IP address(es), MAC address, other device ID (UDID), device type, operating system type and version, and client version;
+
+Information about how the student uses the Zoom platform, including type and frequency of actions taken, number of times the student logs in or enters a meeting, date and time, duration, quantity, quality, network connectivity, other platform performance metrics, and feature usage information, including use of video and screen sharing;
+
+Content shared, chat messages, and cloud recordings (if the School Subscriber chooses to store a recording in the Zoom cloud). Zoom collects this data on behalf of the School Subscriber while the service is being used, but does not monitor or access it, unless the School Subscriber requests it, for example, to provide technical support, and
+
+Other information users – including teachers, school administrators, and students - upload, provide, or create while using Zoom for K-12 services.
+
+We collect data in the following ways:
+
+When students (or other end users) are set up for, invited to, or use Zoom for K-12 services, by the very nature of the usage and the service, data is collected. We gather students’ Personal Information from the School Subscriber, directly from the student as they interact with educational content on the Zoom platform, directly from students’ devices, and directly from someone who invites users to communicate with them via Zoom (such as a teacher). Some of this collection happens when a student or someone who wants to communicate with them via Zoom (e.g., a teacher or classmate) affirmatively submits that information. Some of our collection happens in the background – that is, it’s automatically collected when users interact with Zoom (an example of the data collected this way is the information about the student’s device or connection, or the information about feature usage.).
+
+Zoom and/or our third-party service providers also automatically collect some information using methods such as cookies. Information automatically collected may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), operating system, and date/time stamp. We use this information to provide and support the Zoom for K-12 services. We do not use this information to deliver advertising or for any other purpose not related to the delivery and support of the services.
+
+We may collect Personal Information about K-12 students from the School Subscriber and authorized users of the School Subscriber account, including Personal Information contained in “educational records,” as defined by FERPA. Zoom maintains this information on behalf and at the direction of the School Subscriber and does not use the information for other purposes except as permitted by FERPA and our applicable agreements with School Subscribers.
+
+Data Use
+
+We use Personal Information collected from and about students only as needed to deliver the functionality of the Zoom platform, operate our business, and for use by School Subscribers at their direction as follows:
+
+ We may use all of the types of Personal Information that we collect for the following purposes, to the extent permitted by our agreements with our School Subscriber customers:
+
+Providing, personalizing, operating, and maintaining our Products.
+
+School Subscriber Account configuration and maintenance
+
+Enabling meetings and webinars between the School Subscriber and their students/participants.
+
+Hosting and storing personal data from meetings and webinars on behalf and at the direction of the meeting host/School Subscriber
+
+Fulfilling requests made by users of the service, including requests for access to Personal Information received from a School Subscriber
+
+Protecting, investigating and deterring against fraudulent, harmful, unauthorized or illegal activity
+
+Providing access to data and reports to School Subscribers based on information collected from students’ use of our Service
+
+Providing support and assistance for the service.
+
+Complying with our contractual and legal obligations, resolving disputes with users, enforcing our agreements
+
+Some of the students’ Personal Information is shared with other meeting participants, during the use of the service. For example, messages and content shared by a student in a meeting, webinar, or interactive educational setting, including Personal Information, will be available to all other participants in that meeting. If the School Subscriber or a student shares a meeting link with another user who is not already in the meeting, when that user tries to join the meeting, he or she will be able to see the list of other users in the meeting, as well as other invitees joining the meeting.
+
+In order to optimize provision of the Service, we may collect broad geographic location (city-level location) information about where users are located when using Zoom. We use this information for service-related purposes (such as optimizing connections to our data center), supporting compliance, and customizing user experience with our service (e.g., language preference).
+
+We may also use third-party service providers to help us provide the service, and they may have limited access to Personal Information in the process. We prohibit our service providers from selling Personal Information they receive from us or on our behalf and require them to only use that Personal Information in order to perform the services we have asked of them, unless otherwise required by law. 
+
+Following the instructions of our School Subscriber.
+
+Personal Information we collect, we collect on behalf of our School Subscribers. (To use the technical term, we are the “Processor” of that Personal Information, acting as a service provider on behalf and at the direction of our School Subscriber, and our School Subscriber is the “Controller” or decisionmaker.) For example, the School Subscriber may determine when meetings can be recorded, how long the recordings are retained, and the like.
+
+We are typically required to follow a School Subscriber’s instructions related to Personal Information we have collected on their behalf. On a School Subscriber’s instructions, we may provide reports to the School Subscriber containing Personal Information relating to the school’s account and students’ use of the educational setting controlled by the School Subscriber.
+
+Complying with our legal obligations or the legal obligations of our subscribers.
+
+This includes responding to a legally binding demand for information, such as a warrant issued by a law enforcement entity of competent jurisdiction, or as reasonably necessary to preserve Zoom’s legal rights.
+
+Third Parties
+
+Zoom does not share Personal Information with third parties other than the service providers described above, or as required by law, except at the direction and on behalf of a School Subscriber.
+
+Security
+
+Maintaining the confidentiality, security, and integrity of students’ Personal Information is a top priority. We use industry-standard security technologies, procedures, and organizational measures designed to help protect Personal Information from unauthorized access, use, or disclosure.
+
+Access and Deletion Rights
+
+If a student or his or her parent would like to request to access, review, refuse further collection of, or delete the student’s Personal Information, please contact your school or school district with your request. Because Zoom is required to comply with contractual confidentiality obligations related to our customers’ data, we are not able to respond to parental or student requests directly.   School Subscribers may direct requests to access, delete or restrict further collection or use of a student’s Personal information to privacy@zoom.us.
+
+Contact Information
+
+Zoom Video Communications, Inc.
+
+55 Almaden Blvd, Suite 600.
+
+San Jose, CA 95113
+
+1.888.799.9666
+
+privacy@zoom.us

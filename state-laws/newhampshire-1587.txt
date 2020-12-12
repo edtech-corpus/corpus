@@ -1,0 +1,171 @@
+
+
+CHAPTER 68
+
+HB 1587-FN-LOCAL – FINAL VERSION
+
+12Mar2014… 0839h
+
+2014 SESSION
+
+14-2467
+
+04/05
+
+HOUSE BILL 1587-FN-LOCAL
+
+AN ACT relative to the collection and disclosure of student data.
+
+SPONSORS: Rep. Kurk, Hills 2
+
+COMMITTEE: Education
+
+ANALYSIS
+
+This bill regulates the collection and distribution of student data.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Explanation: Matter added to current law appears in bold italics.
+
+Matter removed from current law appears [in brackets and struckthrough.]
+
+Matter which is either (a) all new or (b) repealed and reenacted appears in regular type.
+
+12Mar2014… 0839h
+
+14-2467
+
+04/05
+
+STATE OF NEW HAMPSHIRE
+
+In the Year of Our Lord Two Thousand Fourteen
+
+AN ACT relative to the collection and disclosure of student data.
+
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+
+68:1 New Subdivision; School Boards; Student Information Protection and Privacy. Amend RSA 189 by inserting after section 64 the following new subdivision:
+
+Student Information Protection and Privacy
+
+189:65 Definitions. In this subdivision:
+
+I. “Biometric” means a record of one or more measurable biological or behavioral characteristics that can be used for automated recognition of an individual. Examples include fingerprints, retina and iris patterns, voiceprints, DNA sequence, facial characteristics, and handwriting.
+
+II. “Board” means the state board of education.
+
+III. “Department” means the department of education.
+
+IV. “District”, “school”, or “school district” means a school district, including the school administrative unit to which it may belong, and the high school educational program at the state prison or county jail in which an inmate under the age of 21 is participating.
+
+V. “Disclosure” means permitting access to, revealing, releasing, transferring, or otherwise communicating, personally identifiable information contained in education records to any party, by any means, including oral, written, or electronic.
+
+VI. “Statewide longitudinal data system” (SLDS) means the department’s statewide longitudinal data system containing student information collected pursuant to RSA 193-E:5 and the state longitudinal database created to house data pursuant to RSA 193-E:5.
+
+VII. “Student personally-identifiable data” means:
+
+(a) The student’s name.
+
+(b) The name of the student’s parents or other family members.
+
+(c) The address of the student or student’s family.
+
+(d) Indirect identifiers, including the student’s date of birth, place of birth, social security number, email, social media address, or other electronic address, telephone number, credit card account number, insurance account number, and financial services account number
+
+(e) Other information that, alone or in combination, is linked or linkable to a specific student that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty.
+
+VIII. “Testing entity” means a third party, within or outside of New Hampshire, contracted to administer the state assessment as defined in RSA 193-C:6.
+
+IX. “Workforce information” means information related to unemployment insurance, wage records, unemployment benefit claims, or employment and earnings data from workforce data sources, such as state wage records, wage record interchange system (WRIS) data or the federal employment data exchange system (FEDES).
+
+189:66 Data Inventory and Policies Publication. The department shall create, maintain, and make publicly available an annually-updated index of data elements containing definitions of individual student personally-identifiable data fields or fields identified in RSA 189:68 currently in the SLDS or any other database maintained by the department, or added or proposed to be added thereto, including:
+
+I. Any individual student personally-identifiable data required to be reported by state or federal law.
+
+II. Any individual student personally-identifiable data which has been proposed for inclusion in the SLDS with a statement explaining the purpose or reason for the proposed collection.
+
+III. Any individual student personally-identifiable data that the department collects or maintains.
+
+IV. Any data identified in RSA 189:68.
+
+189:67 Limits on Disclosure of Information,
+
+I. A school shall, on request, disclose student personally-identifiable data about a student to the parent, foster parent, or legal guardian of the student under the age of 18 or to the eligible student.
+
+II. A school or the department may disclose to a testing entity the student’s name or unique pupil identifier, but not both, and birth date for the sole purpose of identifying the test taker. This data shall be destroyed by the testing entity as soon as the testing entity has completed the verification of test takers, shall not be disclosed by the testing entity to any other person, organization, entity or government or any component thereof, other than the district, school or school district, and shall not be used by the testing entity for any other purpose whatsoever, including but not limited to test-data analysis.
+
+III. Neither a school nor the department shall disclose or permit the disclosure of student personally-identifiable data, the unique pupil identifier, or any other data listed in RSA 189:68, I to any testing entity performing test-data analysis. The testing entity may perform the test analysis but shall not connect such data to other student data.
+
+IV. Except as provided in RSA 193-E:5, or pursuant to a court order signed by a judge, the department shall not disclose student personally-identifiable data in the SLDS to any individual, person, organization, entity, government or component thereof, but may disclose such data to the school district in which the student’s resides.
+
+V. Student personally-identifiable data shall be considered confidential and privileged and shall not be disclosed, directly or indirectly, as a result of administrative or judicial proceedings.
+
+VI. The department shall report quarterly on its website the number of times it disclosed student personally-identifiable data to any person, organization entity or government or a component thereof, other than the student, his or her parents, foster parents or legal guardian and the school district, early childhood program or post-secondary institution in which the student was enrolled at the time of disclosure; the name of the recipient or entity of the disclosure; and the legal basis for the disclosure.
+
+189:68 Student Privacy.
+
+I. The department shall not collect or maintain the following data in the SLDS:
+
+(a) Name of the student’s parents or other family members.
+
+(b) Address of the student or student’s family.
+
+(c) Student email or other electronic address.
+
+(d) Student or family telephone number.
+
+(e) Student or parent credit card account number, insurance account number, or financial services account number.
+
+(f) Juvenile delinquency records.
+
+(g) Criminal records.
+
+(h) Medical and dental insurance information.
+
+(i) Student birth information, other than birth date and town of birth.
+
+(j) Student social security number.
+
+(k) Student biometric information.
+
+(l) Student postsecondary workforce information including the employer's name, and the name of a college attended outside of New Hampshire.
+
+(m) Height and weight.
+
+(n) Body mass index (BMI).
+
+(o) Political affiliations or beliefs of student or parents.
+
+(p) Family income, excluding free and reduced lunch program eligibility as determined by Food Nutrition Services of the United States Department of Agriculture.
+
+(q) Mother’s maiden name.
+
+(r) Parent’s social security number.
+
+(s) Mental and psychological problems of the student or the student’s family.
+
+(t) Sex behavior or attitudes.
+
+(u) Indication of a student pregnancy.
+
+(v) Religious or ethical practices, affiliations, or beliefs of the student or the student’s parents.
+
+II. No school shall require a student to use an identification device that uses radio frequency identification, or similar technology, to identify the student, transmit information regarding the student, or monitor or track the student without approval of the school board, after a public hearing, and without the written consent of a parent of legal guardian of an affected student which may be withheld without consequence.
+
+III. No school shall install remote surveillance software on a school supplied computing device provided to a student without the approval of the school board, after a public hearing and without the written consent of a parent, foster parent, or legal guardian of the affected student which may be withheld without consequence. In this paragraph, “surveillance” means observing, capturing images, listening, or recording and shall not include locating equipment when there is reason to believe the equipment is about to be or has been stolen or damaged.
+
+68:2 Information Technology Council; Members; Commissioner of Education. RSA 21-R:6, II(g) is repealed and reenacted to read as follows:
+
+(g) The commissioner of the department of education, or designee.
+
+68:3 Unique Pupil Identification. Amend RSA 193-E:5, I(o) to read as follows:
+
+(o) At the request of an early childhood program, school district, or postsecondary institution, the department of education shall provide pupil-level data from the unique pupil identification system to an early childhood program, school district, or postsecondary institution for pupils pursing an education in that entity. Except as otherwise specifically provided in statute, the department shall not provide for any purpose any student personally-identifiable [pupil-level] data to [an entity not directly involved with the pupil’s education] any public or private individual or entity, including the local, state, or federal government, or department or agency thereof, regardless of whether such individual or entity is for profit or not-for-profit, and regardless of whether the public or private individual or entity is involved in any way with the pupil’s education.
+
+68:4 Effective Date. This act shall take effect July 1, 2014.
+
+Approved: May 27, 2014
+
+Effective Date: July 1, 2014

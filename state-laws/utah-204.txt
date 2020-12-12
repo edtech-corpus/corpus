@@ -1,0 +1,261 @@
+PARENTAL RIGHTS IN PUBLIC EDUCATION
+
+2     
+AMENDMENTS
+
+3     
+2015 GENERAL SESSION
+
+4     
+STATE OF UTAH
+
+5     
+Chief Sponsor: Aaron Osmond
+
+6     
+House Sponsor: Rich Cunningham
+
+7     
+8     LONG TITLE
+9     General Description:
+10          This bill amends provisions related to certain rights of a parent or guardian of a student
+11     enrolled in a public school and provisions related to achievement tests.
+12     Highlighted Provisions:
+13          This bill:
+14          ▸     defines terms;
+15          ▸     limits the grade levels of a student that is subject to a parent's or guardian's right to
+16     retain a student on grade level;
+17          ▸     amends provisions related to a parent's or guardian's right to excuse a student from
+18     attendance for certain purposes;
+19          ▸     amends provisions related to a parent's or guardian's right to excuse a student from
+20     taking certain tests;
+21          ▸     provides that an accommodation to certain rights of a parent or guardian may only
+22     be provided if the accommodation is consistent with federal law and a student's
+23     Individualized Education Plan, if applicable; and
+24          ▸     requires the State Board of Education to make rules providing that scores on certain
+25     tests may not be considered in determining a student's academic grade or whether a
+26     student may advance to the next grade level.
+27     Money Appropriated in this Bill:
+28          None
+29     Other Special Clauses:
+30          None
+31     Utah Code Sections Affected:
+32     AMENDS:
+33          53A-1-603, as last amended by Laws of Utah 2013, Chapter 161
+34          53A-15-1401, as enacted by Laws of Utah 2014, Chapter 392
+35          53A-15-1402, as enacted by Laws of Utah 2014, Chapter 392
+36          53A-15-1403, as enacted by Laws of Utah 2014, Chapter 392
+37     
+38     Be it enacted by the Legislature of the state of Utah:
+39          Section 1. Section 53A-1-603 is amended to read:
+40          53A-1-603. Duties of State Board of Education.
+41          (1) The State Board of Education shall:
+42          (a) require each school district and charter school to implement the Utah Performance
+43     Assessment System for Students, hereafter referred to as U-PASS;
+44          (b) require the state superintendent of public instruction to submit and recommend
+45     criterion-referenced achievement tests or online computer adaptive tests, college readiness
+46     assessments, an online writing assessment for grades 5 and 8, and a test for students in grade 3
+47     to measure reading grade level to the board for approval and adoption and distribution to each
+48     school district and charter school by the state superintendent;
+49          (c) develop an assessment method to uniformly measure statewide performance, school
+50     district performance, and school performance of students in grades 3 through 12 in mastering
+51     basic skills courses; and
+52          (d) provide for the state to participate in the National Assessment of Educational
+53     Progress state-by-state comparison testing program.
+54          (2) Except as provided in Subsection (3) and Subsection 53A-1-611(3), under
+55     U-PASS, the State Board of Education shall annually require each school district and charter
+56     school, as applicable, to administer:
+57          (a) as determined by the State Board of Education, statewide criterion-referenced tests
+58     or online computer adaptive tests in grades 3 through 12 and courses in basic skill areas of the
+59     core curriculum;
+60          (b) an online writing assessment to all students in grades 5 and 8;
+61          (c) college readiness assessments as detailed in Section 53A-1-611; and
+62          (d) a test to all students in grade 3 to measure reading grade level.
+63          (3) Beginning with the 2014-15 school year, the State Board of Education shall
+64     annually require each school district and charter school, as applicable, to administer a computer
+65     adaptive assessment system that is:
+66          (a) adopted by the State Board of Education; and
+67          (b) aligned to Utah's common core.
+68          (4) The board shall adopt rules for the conduct and administration of U-PASS to
+69     include the following:
+70          (a) the computation of student performance based on information that is disaggregated
+71     with respect to race, ethnicity, gender, limited English proficiency, and those students who
+72     qualify for free or reduced price school lunch;
+73          (b) security features to maintain the integrity of the system, which could include
+74     statewide uniform testing dates, multiple test forms, and test administration protocols;
+75          (c) the exemption of student test scores, by exemption category, such as limited
+76     English proficiency, mobility, and students with disabilities, with the percent or number of
+77     student test scores exempted being publically reported at a district level;
+78          (d) compiling of criterion-referenced, online computer adaptive, and online writing test
+79     scores and test score averages at the classroom level to allow for:
+80          (i) an annual review of those scores by parents of students and professional and other
+81     appropriate staff at the classroom level at the earliest point in time;
+82          (ii) the assessment of year-to-year student progress in specific classes, courses, and
+83     subjects;
+84          (iii) a teacher to review, prior to the beginning of a new school year, test scores from
+85     the previous school year of students who have been assigned to the teacher's class for the new
+86     school year;
+87          (e) allowing a school district or charter school to have its tests administered and scored
+88     electronically to accelerate the review of test scores and their usefulness to parents and
+89     educators under Subsection (4)(d), without violating the integrity of U-PASS; and
+90          (f) providing that scores on the tests and assessments required under Subsection (2)(a)
+91     and Subsection (3) [shall] may not be considered in determining:
+92          (i) a student's academic grade for the appropriate course [and]; or
+93          (ii) whether a student [shall] may advance to the next grade level.
+94          (5) (a) A school district or charter school, as applicable, is encouraged to administer an
+95     online writing assessment to students in grade 11.
+96          (b) The State Board of Education may award a grant to a school district or charter
+97     school to pay for an online writing assessment and instruction program that may be used to
+98     assess the writing of students in grade 11.
+99          (6) The State Board of Education shall make rules:
+100          (a) establishing procedures for applying for and awarding money for computer adaptive
+101     tests;
+102          (b) specifying how money for computer adaptive tests shall be allocated among school
+103     districts and charter schools that qualify to receive the money; and
+104          (c) requiring reporting of the expenditure of money awarded for computer adaptive
+105     testing and evidence that the money was used to implement computer adaptive testing.
+106          (7) The State Board of Education shall assure that computer adaptive tests are
+107     administered in compliance with the requirements of Chapter 13, Part 3, Utah Family
+108     Educational Rights and Privacy Act.
+109          (8) (a) The State Board of Education shall establish a committee consisting of 15
+110     parents of Utah public education students to review all computer adaptive test questions.
+111          (b) The committee established in Subsection (8)(a) shall include the following parent
+112     members:
+113          (i) five members appointed by the chair of the State Board of Education;
+114          (ii) five members appointed by the speaker of the House of Representatives; and
+115          (iii) five members appointed by the president of the Senate.
+116          (c) The State Board of Education shall provide staff support to the parent committee.
+117          (d) The term of office of each member appointed in Subsection (8)(b) is four years.
+118          (e) The chair of the State Board of Education, the speaker of the House of
+119     Representatives, and the president of the Senate shall adjust the length of terms to stagger the
+120     terms of committee members so that approximately 1/2 of the committee members are
+121     appointed every two years.
+122          (f) No member may receive compensation or benefits for the member's service on the
+123     committee.
+124          (9) (a) School districts and charter schools shall require each licensed employee to
+125     complete two hours of professional development on youth suicide prevention within their
+126     license cycle in accordance with Section 53A-6-104.
+127          (b) The State Board of Education shall develop or adopt sample materials to be used by
+128     a school district or charter school for professional development training on youth suicide
+129     prevention.
+130          (c) The training required by this Subsection (9) shall be incorporated into professional
+131     development training required by rule in accordance with Section 53A-6-104.
+132          Section 2. Section 53A-15-1401 is amended to read:
+133          53A-15-1401. Definitions.
+134          As used in this part:
+135          (1) "Federal law" means:
+136          (a) a statute passed by the Congress of the United States; or
+137          (b) a final regulation:
+138          (i) adopted by an administrative agency of the United States government; and
+139          (ii) published in the code of federal regulations or the federal register.
+140          (2) "Individualized Education Program" or "IEP" means a written statement, for a
+141     student with a disability, that is developed, reviewed, and revised in accordance with the
+142     Individuals with Disabilities Education Act, 20 U.S.C. Sec. 1400 et seq.
+143          [(1)] (3) "LEA" means a school district, charter school, or the Utah Schools for the
+144     Deaf and the Blind.
+145          [(2)] (4) "Reasonably accommodate" means an LEA shall make its best effort to enable
+146     a parent or guardian to exercise a parental right specified in Section 53A-15-1403:
+147          (a) without substantial impact to staff and resources, including employee working
+148     conditions, safety and supervision on school premises and for school activities, and the
+149     efficient allocation of expenditures; and
+150          (b) while balancing:
+151          (i) the parental rights of parents or guardians;
+152          (ii) the educational needs of other students;
+153          (iii) the academic and behavioral impacts to a classroom;
+154          (iv) a teacher's workload; and
+155          (v) the assurance of the safe and efficient operation of a school.
+156          Section 3. Section 53A-15-1402 is amended to read:
+157          53A-15-1402. Annual notice of parental rights.
+158          (1) An LEA shall annually notify a parent or guardian of a student enrolled in the LEA
+159     of the parent's or guardian's rights as specified in this part.
+160          (2) An LEA satisfies the notification requirement described in Subsection (1) by
+161     posting the information on the LEA's website or through other means of electronic
+162     communication.
+163          Section 4. Section 53A-15-1403 is amended to read:
+164          53A-15-1403. Parental right to academic accommodations.
+165          (1) (a) A student's parent or guardian is the primary person responsible for the
+166     education of the student, and the state is in a secondary and supportive role to the parent or
+167     guardian. As such, a student's parent or guardian has the right to reasonable academic
+168     accommodations from the student's LEA as specified in this section.
+169          (b) Each accommodation shall be considered on an individual basis and no student
+170     shall be considered to a greater or lesser degree than any other student.
+171          (c) The parental rights specified in this section do not include all the rights or
+172     accommodations that may be available to a student's parent or guardian as a user of the public
+173     education system.
+174          (d) An accommodation under this section may only be provided if the accommodation
+175     is:
+176          (i) consistent with federal law; and
+177          (ii) consistent with a student's IEP if the student already has an IEP.
+178          (2) An LEA shall reasonably accommodate a parent's or guardian's written request to
+179     retain a student in kindergarten through grade 8 on grade level based on the student's academic
+180     ability or the student's social, emotional, or physical maturity.
+181          (3) An LEA shall reasonably accommodate a parent's or guardian's initial selection of a
+182     teacher or request for a change of teacher.
+183          (4) An LEA shall reasonably accommodate the request of a student's parent or guardian
+184     to visit and observe any class the student attends.
+185          [(5) (a) An LEA shall reasonably accommodate a written request of a student's parent
+186     or guardian to excuse the student from attendance for a family event or visit to a health care
+187     provider, without obtaining a note from the provider.]
+188          [(b) An excused absence provided under Subsection (5)(a) does not diminish
+189     expectations for the student's academic performance.]
+190          (5) Notwithstanding Chapter 11, Part 1, Compulsory Education Requirements, an LEA
+191     shall record an excused absence for a scheduled family event or a scheduled proactive visit to a
+192     health care provider if:
+193          (a) the parent or guardian submits a written statement at least one school day before the
+194     scheduled absence; and
+195          (b) the student agrees to make up course work for school days missed for the scheduled
+196     absence in accordance with LEA policy.
+197          (6) (a) An LEA shall reasonably accommodate a parent's or guardian's written request
+198     to place a student in a specialized class, a specialized program, or an advanced course.
+199          (b) An LEA shall consider multiple academic data points when determining an
+200     accommodation under Subsection (6)(a).
+201          (7) Consistent with Section 53A-13-108, which requires the State Board of Education
+202     to establish graduation requirements that use competency-based standards and assessments, an
+203     LEA shall allow a student to earn course credit towards high school graduation without
+204     completing a course in school by:
+205          (a) testing out of the course; or
+206          (b) demonstrating competency in course standards.
+207          (8) An LEA shall reasonably accommodate a parent's or guardian's request to meet
+208     with a teacher at a mutually agreeable time if the parent or guardian is unable to attend a
+209     regularly scheduled parent teacher conference.
+210          [(9) (a) Upon the written request of a student's parent or guardian, an LEA shall excuse
+211     the student from taking a test that is administered statewide or the National Assessment of
+212     Educational Progress.]
+213          [(b) The State Board of Education shall ensure through board rule that neither an LEA
+214     nor its employees are negatively impacted through school grading or employee evaluation due
+215     to a student not taking a test pursuant to Subsection (9)(a).]
+216          (9) (a) At the request of a student's parent or guardian, an LEA shall excuse a student
+217     from taking an assessment that:
+218          (i) is federally mandated;
+219          (ii) is mandated by the state under this title; or
+220          (iii) requires the use of:
+221          (A) a state assessment system; or
+222          (B) software that is provided or paid for by the state.
+223          (b) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+224     State Board of Education shall make rules:
+225          (i) to establish a statewide procedure for excusing a student under Subsection (9)(a)
+226     that:
+227          (A) does not place an undue burden on a parent or guardian; and
+228          (B) may be completed online; and
+229          (ii) to prevent negative impact, to the extent authorized by state statute, to an LEA or
+230     an LEA's employees through school grading or employee evaluations due to a student not
+231     taking a test under Subsection (9)(a).
+232          (c) An LEA:
+233          (i) shall follow the procedures outlined in rules made by the State Board of Education
+234     under Subsection (9)(b) to excuse a student under Subsection (9)(a);
+235          (ii) may not require procedures to excuse a student under Subsection (9)(a) in addition
+236     to the procedures outlined in rules made by the State Board of Education under Subsection
+237     (9)(b); and
+238          (iii) may not reward a student for taking an assessment described in Subsection (9)(a).
+239          (d) The State Board of Education shall:
+240          (i) maintain and publish a list of state assessments, state assessment systems, and
+241     software that qualify under Subsection (9)(a); and
+242          (ii) audit and verify an LEA's compliance with the requirements of this Subsection (9).
+243          (10) (a) An LEA shall provide for:
+244          (i) the distribution of a copy of a school's discipline and conduct policy to each student
+245     in accordance with Section 53A-11-903; and
+246          (ii) a parent's or guardian's signature acknowledging receipt of the school's discipline
+247     and conduct policy.
+248          (b) An LEA shall notify a parent or guardian of a student's violation of a school's
+249     discipline and conduct policy and allow a parent or guardian to respond to the notice in
+250     accordance with Chapter 11, Part 9, School Discipline and Conduct Plans. 

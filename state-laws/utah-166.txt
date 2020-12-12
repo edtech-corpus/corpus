@@ -1,0 +1,375 @@
+STUDENT DATA PRIVACY AMENDMENTS
+
+2     
+2020 GENERAL SESSION
+
+3     
+STATE OF UTAH
+
+4     
+Chief Sponsor: Jacob L. Anderegg
+
+5     
+House Sponsor: A. Cory Maloy
+
+6     
+7     LONG TITLE
+8     General Description:
+9          This bill amends provisions related to student data privacy.
+10     Highlighted Provisions:
+11          This bill:
+12          ▸     requires law enforcement to provide and validate information necessary for the state
+13     board to complete a required report on incidents that occur on school grounds;
+14          ▸     clarifies requirements regarding the content of privacy notices;
+15          ▸     exempts schools from certain contractual provisions related to sharing directory
+16     information if the directory information is shared in accordance with federal law;
+17          ▸     binds other government agencies that contract on behalf of education entities to the
+18     same requirements as education entities;
+19          ▸     clarifies that education entities may obtain written authorization to waive a
+20     provision of a contract with a third-party contractor related to a student's student
+21     data; and
+22          ▸     requires information related to suspension or expulsion to appear in a student's
+23     cumulative folder.
+24     Money Appropriated in this Bill:
+25          None
+26     Other Special Clauses:
+27          None
+28     Utah Code Sections Affected:
+29     AMENDS:
+30          53E-1-203, as enacted by Laws of Utah 2019, Chapter 324
+31          53E-3-516, as last amended by Laws of Utah 2019, Chapters 186 and 324
+32          53E-9-305, as last amended by Laws of Utah 2019, Chapters 136, 175, and 186
+33          53E-9-309, as last amended by Laws of Utah 2019, Chapter 186
+34          53G-8-208, as last amended by Laws of Utah 2019, Chapter 293
+35     
+36     Be it enacted by the Legislature of the state of Utah:
+37          Section 1. Section 53E-1-203 is amended to read:
+38          53E-1-203. State Superintendent's Annual Report.
+39          (1) The state board shall prepare and submit to the governor, the Education Interim
+40     Committee, and the Public Education Appropriations Subcommittee, by January 15 of each
+41     year, an annual written report known as the State Superintendent's Annual Report that includes:
+42          (a) the operations, activities, programs, and services of the state board;
+43          (b) subject to Subsection (4)(b), all reports listed in Subsection (4)(a); and
+44          (c) data on the general condition of the schools with recommendations considered
+45     desirable for specific programs, including:
+46          (i) a complete statement of fund balances;
+47          (ii) a complete statement of revenues by fund and source;
+48          (iii) a complete statement of adjusted expenditures by fund, the status of bonded
+49     indebtedness, the cost of new school plants, and school levies;
+50          (iv) a complete statement of state funds allocated to each school district and charter
+51     school by source, including supplemental appropriations, and a complete statement of
+52     expenditures by each school district and charter school, including supplemental appropriations,
+53     by function and object as outlined in the United States Department of Education publication
+54     "Financial Accounting for Local and State School Systems";
+55          (v) a statement that includes data on:
+56          (A) fall enrollments;
+57          (B) average membership;
+58          (C) high school graduates;
+59          (D) licensed and classified employees, including data reported by school districts on
+60     educator ratings described in Section 53G-11-511;
+61          (E) pupil-teacher ratios;
+62          (F) average class sizes;
+63          (G) average salaries;
+64          (H) applicable private school data; and
+65          (I) data from statewide assessments described in Section 53E-4-301 for each school
+66     and school district;
+67          (vi) statistical information regarding incidents of delinquent activity in the schools or at
+68     school-related activities; and
+69          (vii) other statistical and financial information about the school system that the state
+70     superintendent considers pertinent.
+71          (2) (a) For the purposes of Subsection (1)(c)(v):
+72          (i) the pupil-teacher ratio for a school shall be calculated by dividing the number of
+73     students enrolled in a school by the number of full-time equivalent teachers assigned to the
+74     school, including regular classroom teachers, school-based specialists, and special education
+75     teachers;
+76          (ii) the pupil-teacher ratio for a school district shall be the median pupil-teacher ratio of
+77     the schools within a school district;
+78          (iii) the pupil-teacher ratio for charter schools aggregated shall be the median
+79     pupil-teacher ratio of charter schools in the state; and
+80          (iv) the pupil-teacher ratio for the state's public schools aggregated shall be the median
+81     pupil-teacher ratio of public schools in the state.
+82          (b) The report shall:
+83          (i) include the pupil-teacher ratio for:
+84          (A) each school district;
+85          (B) the charter schools aggregated; and
+86          (C) the state's public schools aggregated; and
+87          (ii) identify a website where pupil-teacher ratios for each school in the state may be
+88     accessed.
+89          (3) For each operation, activity, program, or service provided by the state board, the
+90     annual report shall include:
+91          (a) a description of the operation, activity, program, or service;
+92          (b) data and metrics:
+93          (i) selected and used by the state board to measure progress, performance,
+94     effectiveness, and scope of the operation, activity, program, or service, including summary
+95     data; and
+96          (ii) that are consistent and comparable for each state operation, activity, program, or
+97     service;
+98          (c) budget data, including the amount and source of funding, expenses, and allocation
+99     of full-time employees for the operation, activity, program, or service;
+100          (d) historical data from previous years for comparison with data reported under
+101     Subsections (3)(b) and (c);
+102          (e) goals, challenges, and achievements related to the operation, activity, program, or
+103     service;
+104          (f) relevant federal and state statutory references and requirements;
+105          (g) contact information of officials knowledgeable and responsible for each operation,
+106     activity, program, or service; and
+107          (h) other information determined by the state board that:
+108          (i) may be needed, useful, or of historical significance; or
+109          (ii) promotes accountability and transparency for each operation, activity, program, or
+110     service with the public and elected officials.
+111          (4) (a) Except as provided in Subsection (4)(b), the annual report shall also include:
+112          (i) the report described in Section 53E-3-507 by the state board on career and technical
+113     education needs and program access;
+114          (ii) through October 1, 2022, the report described in Section 53E-3-515 by the state
+115     board on the Hospitality and Tourism Management Career and Technical Education Pilot
+116     Program;
+117          (iii) beginning on July 1, [2020] 2023, the report described in Section 53E-3-516 by the
+118     state board on certain incidents that occur on school grounds;
+119          (iv) the report described in Section 53E-4-202 by the state board on the development
+120     and implementation of the core standards for Utah public schools;
+121          (v) the report described in Section 53E-5-310 by the state board on school turnaround
+122     and leadership development;
+123          (vi) the report described in Section 53E-10-308 by the state board and State Board of
+124     Regents on student participation in the concurrent enrollment program;
+125          (vii) the report described in Section 53F-2-503 by the state board on early literacy;
+126          (viii) the report described in Section 53F-5-506 by the state board on information
+127     related to competency-based education;
+128          (ix) the report described in Section 53G-9-802 by the state board on dropout prevention
+129     and recovery services; and
+130          (x) the report described in Section 53G-10-204 by the state board on methods used, and
+131     the results being achieved, to instruct and prepare students to become informed and responsible
+132     citizens.
+133          (b) The Education Interim Committee or the Public Education Appropriations
+134     Subcommittee may request a report described in Subsection (4)(a) to be reported separately
+135     from the State Superintendent's Annual Report.
+136          (5) The annual report shall be designed to provide clear, accurate, and accessible
+137     information to the public, the governor, and the Legislature.
+138          (6) The state board shall:
+139          (a) submit the annual report in accordance with Section 68-3-14; and
+140          (b) make the annual report, and previous annual reports, accessible to the public by
+141     placing a link to the reports on the state board's website.
+142          (7) (a) Upon request of the Education Interim Committee or Public Education
+143     Appropriations Subcommittee, the state board shall present the State Superintendent's Annual
+144     Report to either committee.
+145          (b) After submitting the State Superintendent's Annual Report in accordance with this
+146     section, the state board may supplement the report at a later time with updated data,
+147     information, or other materials as necessary or upon request by the governor, the Education
+148     Interim Committee, or the Public Education Appropriations Subcommittee.
+149          Section 2. Section 53E-3-516 is amended to read:
+150          53E-3-516. School disciplinary and law enforcement action report -- Rulemaking
+151     authority.
+152          (1) As used in this section:
+153          (a) "Disciplinary action" means an action by a public school meant to formally
+154     discipline a student of that public school that includes a suspension or expulsion.
+155          (b) "Law enforcement agency" means the same as that term is defined in Section
+156     77-7a-103.
+157          (c) "Minor" means the same as that term is defined in Section 53G-6-201.
+158          (d) "Other law enforcement activity" means a significant law enforcement interaction
+159     with a minor that does not result in an arrest, including:
+160          (i) a search and seizure by an SRO;
+161          (ii) issuance of a criminal citation;
+162          (iii) issuance of a ticket or summons;
+163          (iv) filing a delinquency petition; or
+164          (v) referral to a probation officer.
+165          (e) "School is in session" means the hours of a day during which a public school
+166     conducts instruction for which student attendance is counted toward calculating average daily
+167     membership.
+168          (f) (i) "School-sponsored activity" means an activity, fundraising event, club, camp,
+169     clinic, or other event or activity that is authorized by a specific public school, according to LEA
+170     governing board policy, and satisfies at least one of the following conditions:
+171          (A) the activity is managed or supervised by a school district, public school, or public
+172     school employee;
+173          (B) the activity uses the school district or public school facilities, equipment, or other
+174     school resources; or
+175          (C) the activity is supported or subsidized, more than inconsequentially, by public
+176     funds, including the public school's activity funds or Minimum School Program dollars.
+177          (ii) "School-sponsored activity" includes preparation for and involvement in a public
+178     performance, contest, athletic competition, demonstration, display, or club activity.
+179          (g) "Student resource officer" or "SRO" means the same as that term is defined in
+180     Section 53G-8-701.
+181          (2) Beginning on July 1, [2020] 2023, the state board[, in collaboration with school
+182     districts, charter schools, and law enforcement agencies,] shall develop an annual report
+183     regarding the following incidents that occur on school grounds while school is in session or
+184     during a school-sponsored activity:
+185          (a) arrests of a minor;
+186          (b) other law enforcement activities; and
+187          (c) disciplinary actions.
+188          (3) Pursuant to state and federal law, law enforcement agencies shall collaborate with
+189     the state board and LEAs to provide and validate data and information necessary to complete
+190     the report described in Subsection (2), as requested by an LEA or the state board.
+191          [(3)] (4) The report described in Subsection (2) shall include the following information
+192     [by school district and charter school] listed separately for each LEA:
+193          (a) the number of arrests of a minor, including the reason why the minor was arrested;
+194          (b) the number of other law enforcement activities, including the following information
+195     for each incident:
+196          (i) the reason for the other law enforcement activity; and
+197          (ii) the type of other law enforcement activity used;
+198          (c) the number of disciplinary actions imposed, including:
+199          (i) the reason for the disciplinary action; and
+200          (ii) the type of disciplinary action; and
+201          (d) the number of SROs employed.
+202          [(4)] (5) The report described in Subsection (2) shall include the following
+203     information, in aggregate, for each element described in Subsections [(3)] (4)(a) through (c):
+204          (a) age;
+205          (b) grade level;
+206          (c) race;
+207          (d) sex; and
+208          (e) disability status.
+209          [(5)] (6) Information included in the annual report described in Subsection (2) shall
+210     comply with:
+211          (a) Chapter 9, Part 3, Student Data Protection;
+212          (b) Chapter 9, Part 2, Student Privacy; and
+213          (c) the Family Education Rights and Privacy Act, 20 U.S.C. Secs. 1232g and 1232h.
+214          [(6)] (7) The state board shall make rules to compile the report described in Subsection
+215     (2).
+216          [(7)] (8) The state board shall provide the report described in Subsection (2) in
+217     accordance with Section 53E-1-203 for incidents that occurred during the previous school year.
+218          Section 3. Section 53E-9-305 is amended to read:
+219          53E-9-305. Collecting student data -- Prohibition -- Student data collection notice
+220     -- Written consent.
+221          (1) An education entity may not collect a student's:
+222          (a) social security number; or
+223          (b) except as required in Section 78A-6-112, criminal record.
+224          (2) [An] Except as provided in Subsection (3), an education entity that collects student
+225     data shall, in accordance with this section, prepare and distribute[, except as provided in
+226     Subsection (3),] to parents and students a student data collection notice statement that:
+227          (a) is a prominent, stand-alone document;
+228          (b) is annually updated and published on the education entity's website;
+229          (c) states the student data that the education entity collects;
+230          (d) states that the education entity will not collect the student data described in
+231     Subsection (1);
+232          (e) states the student data described in Section 53E-9-308 that the education entity may
+233     not share without written consent;
+234          (f) includes the following statement:
+235          "The collection, use, and sharing of student data has both benefits and risks. Parents
+236     and students should learn about these benefits and risks and make choices regarding student
+237     data accordingly.";
+238          (g) describes in general terms how the education entity stores and protects student data;
+239     and
+240          (h) states a student's rights under this part.
+241          (3) The state board may publicly post the state board's collection notice described in
+242     Subsection (2).
+243          (4) An education entity may collect the necessary student data of a student if the
+244     education entity provides a student data collection notice to:
+245          (a) the student, if the student is an adult student; or
+246          (b) the student's parent, if the student is not an adult student.
+247          (5) An education entity may collect optional student data if the education entity:
+248          (a) provides, to an individual described in Subsection (4), a student data collection
+249     notice that includes a description of:
+250          (i) the optional student data to be collected; and
+251          (ii) how the education entity will use the optional student data; and
+252          (b) obtains written consent to collect the optional student data from an individual
+253     described in Subsection (4).
+254          (6) An education entity may collect a student's biometric identifier or biometric
+255     information if the education entity:
+256          (a) provides, to an individual described in Subsection (4), a biometric information
+257     collection notice that is separate from a student data collection notice, which states:
+258          (i) the biometric identifier or biometric information to be collected;
+259          (ii) the purpose of collecting the biometric identifier or biometric information; and
+260          (iii) how the education entity will use and store the biometric identifier or biometric
+261     information; and
+262          (b) obtains written consent to collect the biometric identifier or biometric information
+263     from an individual described in Subsection (4).
+264          (7) Except under the circumstances described in Subsection 53G-8-211(2), an
+265     education entity may not refer a student to an evidence-based alternative intervention described
+266     in Subsection 53G-8-211(3) without written consent.
+267          (8) Nothing in this section prohibits an education entity from including additional
+268     information related to student and parent privacy in the notice described in Subsection (2).
+269          Section 4. Section 53E-9-309 is amended to read:
+270          53E-9-309. Third-party contractors.
+271          (1) A third-party contractor shall use personally identifiable student data received
+272     under a contract with an education entity strictly for the purpose of providing the contracted
+273     product or service within the negotiated contract terms.
+274          (2) When contracting with a third-party contractor, an education entity, or a
+275     government agency contracting on behalf of an education entity, shall require the following
+276     provisions in the contract:
+277          (a) requirements and restrictions related to the collection, use, storage, or sharing of
+278     student data by the third-party contractor that are necessary for the education entity to ensure
+279     compliance with the provisions of this part and state board rule;
+280          (b) a description of a person, or type of person, including an affiliate of the third-party
+281     contractor, with whom the third-party contractor may share student data;
+282          (c) provisions that, at the request of the education entity, govern the deletion of the
+283     student data received by the third-party contractor;
+284          (d) except as provided in Subsection (4) and if required by the education entity,
+285     provisions that prohibit the secondary use of personally identifiable student data by the
+286     third-party contractor; and
+287          (e) an agreement by the third-party contractor that, at the request of the education entity
+288     that is a party to the contract, the education entity or the education entity's designee may audit
+289     the third-party contractor to verify compliance with the contract.
+290          (3) As authorized by law or court order, a third-party contractor shall share student data
+291     as requested by law enforcement.
+292          (4) A third-party contractor may:
+293          (a) use student data for adaptive learning or customized student learning purposes;
+294          (b) market an educational application or product to a parent of a student if the
+295     third-party contractor did not use student data, shared by or collected on behalf of an education
+296     entity, to market the educational application or product;
+297          (c) use a recommendation engine to recommend to a student:
+298          (i) content that relates to learning or employment, within the third-party contractor's
+299     application, if the recommendation is not motivated by payment or other consideration from
+300     another party; or
+301          (ii) services that relate to learning or employment, within the third-party contractor's
+302     application, if the recommendation is not motivated by payment or other consideration from
+303     another party;
+304          (d) respond to a student request for information or feedback, if the content of the
+305     response is not motivated by payment or other consideration from another party;
+306          (e) use student data to allow or improve operability and functionality of the third-party
+307     contractor's application; or
+308          (f) identify for a student nonprofit institutions of higher education or scholarship
+309     providers that are seeking students who meet specific criteria:
+310          (i) regardless of whether the identified nonprofit institutions of higher education or
+311     scholarship providers provide payment or other consideration to the third-party contractor; and
+312          (ii) only if the third-party contractor obtains authorization in writing from:
+313          (A) a student's parent through the student's school or LEA; or
+314          (B) for an adult student, the student.
+315          (5) At the completion of a contract with an education entity, if the contract has not
+316     been renewed, a third-party contractor shall return or delete upon the education entity's request
+317     all personally identifiable student data under the control of the education entity unless a student
+318     or the student's parent consents to the maintenance of the personally identifiable student data.
+319          (6) (a) A third-party contractor may not:
+320          (i) except as provided in Subsection (6)(b), sell student data;
+321          (ii) collect, use, or share student data, if the collection, use, or sharing of the student
+322     data is inconsistent with the third-party contractor's contract with the education entity; or
+323          (iii) use student data for targeted advertising.
+324          (b) A person may obtain student data through the purchase of, merger with, or
+325     otherwise acquiring a third-party contractor if the third-party contractor remains in compliance
+326     with this section.
+327          (7) The provisions of this section do not:
+328          (a) apply to the use of a general audience application, including the access of a general
+329     audience application with login credentials created by a third-party contractor's application;
+330          (b) apply if the student data is shared in accordance with the education entity's
+331     directory information policy, as described in 34 C.F.R. 99.37;
+332          [(b)] (c) apply to the providing of Internet service; or
+333          [(c)] (d) impose a duty on a provider of an interactive computer service, as defined in
+334     47 U.S.C. Sec. 230, to review or enforce compliance with this section.
+335          (8) A provision of this section that relates to a student's student data does not apply to a
+336     third-party contractor if the education entity or third-party contractor obtains authorization from
+337     the following individual, in writing, to waive that provision:
+338          (a) the student's parent, if the student is not an adult student; or
+339          (b) the student, if the student is an adult student.
+340          Section 5. Section 53G-8-208 is amended to read:
+341          53G-8-208. Student suspended or expelled -- Responsibility of parent --
+342     Application for students with disabilities.
+343          (1) If a student is suspended or expelled from a public school under this part for more
+344     than 10 school days, the parent is responsible for undertaking an alternative education plan
+345     which will ensure that the student's education continues during the period of suspension or
+346     expulsion.
+347          (2) (a) The parent shall work with designated school officials to determine how that
+348     responsibility might best be met through private education, an alternative program offered by
+349     or through the district or charter school, or other alternative which will reasonably meet the
+350     educational needs of the student.
+351          (b) The parent and designated school official may enlist the cooperation of the Division
+352     of Child and Family Services, the juvenile court, or other appropriate state agencies to meet the
+353     student's educational needs.
+354          (3) Costs for educational services which are not provided by the school district or
+355     charter school are the responsibility of the student's parent.
+356          (4) (a) Each school district or charter school shall maintain a record of all suspended or
+357     expelled students and a notation of the recorded suspension or expulsion shall be attached to
+358     the individual student's [transcript] cumulative folder.
+359          (b) The district or charter school shall contact the parent of each suspended or expelled
+360     student under the age of 16 at least once each month to determine the student's progress.
+361          (5) (a) This part applies to students with disabilities to the extent permissible under
+362     applicable law or regulation.
+363          (b) If application of any requirement of this part to a student with a disability is not
+364     permissible under applicable law or regulation, the responsible school authority shall
+365     implement other actions consistent with the conflicting law or regulation which shall most
+366     closely correspond to the requirements of this part. 

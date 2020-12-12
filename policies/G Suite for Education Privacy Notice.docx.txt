@@ -1,0 +1,85 @@
+G Suite for Education Privacy Notice
+
+This Privacy Notice is meant to help G Suite for Education users and parents understand what data we collect, why we collect it, and what we do with it. This Notice includes information about our privacy practices that are specific to G Suite for Education and summarizes the most relevant portions of the Google Privacy Policy, which provides additional examples and explanations that may be useful. We hope you will take the time to read this Notice and the Google Privacy Policy, which both apply to G Suite for Education accounts.
+
+Information we collect
+
+A G Suite for Education account is a Google Account created and managed by a school for use by students and educators. When creating this account, the school may provide Google with certain personal information about its students and educators, which includes a user’s name, email address, and password in most cases, but could also include secondary email, phone, and address if the school chooses to provide that information. Google may also collect personal information directly from users of G Suite for Education accounts, such as telephone number, profile photo or other information they add to a G Suite for Education account.
+
+Google also collects information based on the use of our services. This includes:
+
+device information, such as the hardware model, operating system version, unique device identifiers, and mobile network information including phone number of the user;
+
+log information, including details of how a user used our service, device event information, and the user's Internet protocol (IP) address;
+
+location information, as determined by various technologies including IP address, GPS, and other sensors;
+
+unique application numbers, such as application version number; and
+
+cookies or similar technologies which are used to collect and store information about a browser or device, such as preferred language and other settings.
+
+How we use information we collect
+
+In G Suite for Education Core Services
+
+The G Suite for Education Core Services (“Core Services”) are listed in the Services Summary and include Gmail, Calendar, Classroom, Contacts, Drive, Docs, Forms, Groups, Sheets, Sites, Slides, Talk/Hangouts, Vault, and Chrome Sync. These services are provided to a school under its G Suite for Education agreement and, as applicable, Data Processing Amendment. (Users and parents can ask their school if it has accepted the Data Processing Amendment.)
+
+User personal information collected in the Core Services is used only to provide the Core Services. Google does not serve ads in the Core Services or use personal information collected in the Core Services for advertising purposes.
+
+In Google services generally
+
+Besides the Core Services, G Suite for Education users may have access to other Google services that we make generally available for consumers, such as Google Maps, Blogger, and YouTube. We call these “Additional Services” since they are outside of the Core Services.
+
+The Google Privacy Policy describes fully how Google services generally use information, including for G Suite for Education users. To summarize, we use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Google and our users. We also use this information to offer users tailored content, such as more relevant search results. We may combine personal information from one service with information, including personal information, from other Google services.
+
+Google may serve ads to G Suite for Education users in the Additional Services. For G Suite for Education users in primary and secondary (K-12) schools, Google does not use any user personal information (or any information associated with a G Suite for Education Account) to target ads, whether in Core Services or other Google services accessed while using a G Suite for Education account.
+
+Learn more about Core and Additional Services for G Suite for Education users.
+
+Information users share
+
+A school may allow students to access Google services such as Google Docs and Sites, which include features where users can share information with others or publicly. When users share information publicly, it may be indexable by search engines, including Google. Our services provide users with various options for sharing and removing content.
+
+Information we share
+
+Information we collect may be shared outside of Google in limited circumstances. We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies:
+
+With user consent. We will share personal information with companies, organizations or individuals outside of Google when we have user consent or parents’ consent (as applicable).
+
+With G Suite for Education administrators. G Suite for Education administrators have access to information stored in the Google Accounts of users in that school or domain.
+
+For external processing. We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+
+For legal reasons. We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+
+meet any applicable law, regulation, legal process or enforceable governmental request.
+
+enforce applicable Terms of Service, including investigation of potential violations.
+
+detect, prevent, or otherwise address fraud, security or technical issues.
+
+protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+We may share non-personal information publicly and with our partners – like publishers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
+
+Transparency and choice
+
+We provide a variety of user controls that enable G Suite for Education users to make meaningful choices about how information is used in Google services. Depending on the settings enabled by the school, users can use the various controls described in the Privacy Policy, such as Google activity controls, to manage their privacy and information. We provide additional information for parents, students, and administrators on the G Suite for Education Privacy Center.
+
+Parental review and deletion of information
+
+The parents of G Suite for Education users in Primary/Secondary (K-12) schools can access their child’s personal information or request that it be deleted through the school administrator. School administrators can provide for parental access and deletion of personal information consistent with the functionality of our services. If a parent wishes to stop any further collection or use of the child's information, the parent can request that the administrator use the service controls available to them to limit the child’s access to features or services, or delete the child’s account entirely. Guidance for administrators on how to use service controls to accomplish this is available in the G Suite Help Center.
+
+Interpretation of conflicting terms
+
+This Notice is intended to provide the key information about our collection and use of data for G Suite for Education users, and is consistent with the Google Privacy Policy and the G Suite for Education agreement, which provide additional examples and explanations that may be useful. Where there are terms that differ, as with the limitations on advertising in G Suite for Education, the G Suite for Education agreement (as amended) takes precedence, followed by this Privacy Notice and then the Google Privacy Policy.
+
+Contact us
+
+If you have questions about management of G Suite for Education accounts or use of personal information by a school, please contact the G Suite for Education account administrator. If you have questions about our practices, please visit the G Suite for Education Privacy Center. Also see our Privacy Troubleshooter for more questions about privacy and Google’s products and services. G Suite for Education administrators can contact Google about the information in this Notice by submitting the contact form while signed in to their administrator account. Parents can also contact Google about the information in this Notice.
+
+Google
+
+1600 Amphitheatre Parkway, Mountain View, CA 94043 USA
+
+Phone: +1 650-253-0000

@@ -1,0 +1,16 @@
+CHAPTER 139
+An Act to amend the Code of Virginia by adding a section numbered 22.1-287.02, relating to students' personally identifiable information.
+[H 1334]
+Approved March 16, 2015
+
+ 
+
+Be it enacted by the General Assembly of Virginia:
+
+1. That the Code of Virginia is amended by adding a section numbered 22.1-287.02 as follows:
+
+§ 22.1-287.02. Students' personally identifiable information.
+
+A. The Department of Education shall develop and make publicly available on its website policies to ensure state and local compliance with the federal Family Educational Rights and Privacy Act (20 U.S.C. § 1232g) and state law applicable to students' personally identifiable information, including policies for (i) access to students' personally identifiable information and (ii) the approval of requests for student data from public and private entities and individuals for the purpose of research.
+
+B. In cases in which electronic records containing personally identifiable information are reasonably believed by the Department of Education or a local school division to have been disclosed in violation of the Family Educational Rights and Privacy Act (20 U.S.C. § 1232g) or other federal or state law applicable to such information, the Department or local school division shall notify, as soon as practicable, the parent of any student affected by such disclosure, except as otherwise provided in § 32.1-127.1:05 or 18.2-186.6. Such notification shall include the (i) date, estimated date, or date range of the disclosure; (ii) type of information that was or is reasonably believed to have been disclosed; and (iii) remedial measures taken or planned in response to the disclosure.

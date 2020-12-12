@@ -1,0 +1,31 @@
+How can we help you?
+
+Search results available, use TAB key to navigate
+
+Security FAQs
+
+Review frequently asked security questions.
+
+How secure is GoToMeeting?
+
+GoToMeeting uses robust encryption mechanisms and protocols designed to ensure the confidentiality, integrity, and authenticity for data that is transmitted between the LogMeIn infrastructure and users, and data stored within the LogMeIn systems on behalf of its users for cloud recordings, transcriptions, and meeting notes.
+
+How do I use GoToMeeting with firewalls?
+
+Our solutions use HTTP outbound connections to transparently enable screen-sharing sessions, even with corporate firewalls in place. In most cases, organizers and attendees can connect to LogMeIn 's servers without re-configuring firewall settings.
+
+ 
+
+Can my computer get a virus from downloading the software or attending a session?
+
+No, neither organizers nor attendees can catch or be exposed to viruses from downloading our software. We continuously monitor our development environment for viruses and malware, and all of our downloadable software is digitally signed to prevent tampering by third parties. The warning message customers might see when they install the software is a default message displayed by their browser whenever they download executable files.
+
+ 
+
+Do I need to set my browser to accept cookies to use your website?
+
+You can browse our website without having cookies enabled. However, if you need to log in to an existing account, you will need to adjust your browser's privacy settings to accept cookies. We primarily use cookies to provide you with secure access to your account.
+
+Was this article helpful?
+
+/

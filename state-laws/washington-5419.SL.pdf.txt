@@ -1,0 +1,767 @@
+CERTIFICATION OF ENROLLMENT
+
+ENGROSSED SENATE BILL 5419
+
+Chapter 277, Laws of 2015
+
+64th Legislature
+2015 Regular Session
+
+COMMON SCHOOL PROVISIONS--STUDENT PRIVACY
+
+EFFECTIVE DATE: 7/1/2016
+
+Passed by the Senate March 11, 2015
+  Yeas 49  Nays 0
+
+CERTIFICATE
+
+President of the Senate
+
+BRAD OWEN
+
+Passed by the House April 15, 2015
+  Yeas 96  Nays 2
+
+FRANK CHOPP
+
+Speaker of the House of Representatives
+
+Approved May 18, 2015 1:40 PM
+
+I,  Hunter  G.  Goodman,  Secretary  of
+the  Senate  of  the  State  of
+Washington,  do  hereby  certify  that
+the  attached  is  ENGROSSED  SENATE
+BILL  5419  as  passed  by  Senate  and
+the  House  of  Representatives  on  the
+dates hereon set forth.
+
+HUNTER G. GOODMAN
+
+Secretary
+
+FILED
+
+May 18, 2015
+
+JAY INSLEE
+
+Governor of the State of Washington
+
+Secretary of State
+ State of Washington
+
+ENGROSSED SENATE BILL 5419
+
+Passed Legislature - 2015 Regular Session
+
+State of Washington
+
+64th Legislature
+
+2015 Regular Session
+
+By  Senators  Litzow,  McAuliffe,  Rivers,  Fain,  Mullet,  Frockt,  Hill,
+Dammeier, Rolfes, Kohl-Welles, and Chase
+
+Read  first  time  01/21/15.    Referred  to  Committee  on  Early  Learning  &
+K-12 Education.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+20
+
+AN  ACT  Relating  to  the  student  user  privacy  in  education  rights
+
+act;  adding  a  new  chapter  to  Title  28A  RCW;  and  providing  an
+
+effective date.
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:
+
+NEW  SECTION.    Sec.  1.    SHORT  TITLE.  This  act  may  be  known  and
+
+cited  as  the  student  user  privacy  in  education  rights  act  or  SUPER
+
+act.
+
+NEW  SECTION.    Sec.  2.    DEFINITIONS.  The  definitions  in  this
+
+section  apply  throughout  this  chapter  unless  the  context  clearly
+
+requires otherwise.
+
+(1)  "School  service"  means  a  web  site,  mobile  application,  or
+
+online  service  that:  (a)  Is  designed  and  marketed  primarily  for  use
+
+in  a  K-12  school;  (b)  is  used  at  the  direction  of  teachers  or  other
+
+employees  of  a  K-12  school;  and  (c)  collects,  maintains,  or  uses
+
+student  personal  information.  A  "school  service"  does  not  include  a
+
+web  site,  mobile  application,  or  online  service  that  is  designed  and
+
+marketed  for  use  by  individuals  or  entities  generally,  even  if  also
+
+marketed to a United States K-12 school.
+
+(2)  "School  service  provider"  means  an  entity  that  operates  a
+
+school service to the extent it is operating in that capacity.
+
+p. 1
+
+ESB 5419.SL
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+(3)  "Student  personal  information"  means  information  collected
+
+through  a  school  service  that  personally  identifies  an  individual
+
+student  or  other  information  collected  and  maintained  about  an
+
+individual  student  that  is  linked  to  information  that  identifies  an
+
+individual student.
+
+state.
+
+(4)  "Students"  means  students  of  K-12  schools  in  Washington
+
+(5)  "Targeted  advertising"  means  sending  advertisements  to  a
+
+student  where  the  advertisement  is  selected  based  on  information
+
+obtained  or  inferred  from  that  student's  online  behavior,  usage  of
+
+applications,  or  student  personal  information.  It  does  not  include
+
+(a)  advertising  to  a  student  at  an  online  location  based  upon  that
+
+student's  current  visit  to  that  location  without  the  collection  and
+
+retention  of  a  student's  online  activities  over  time  or  (b)  adaptive
+
+learning, personalized learning, or customized education.
+
+NEW  SECTION.    Sec.  3.    OBLIGATIONS  OF  SCHOOL  SERVICE  PROVIDERS—
+TRANSPARENCY.  (1)  School  service  providers  shall  provide  clear  and
+
+easy  to  understand  information  about  the  types  of  student  personal
+
+information they collect and about how they use and share the student
+
+personal information.
+
+(2)  School  service  providers  shall  provide  prominent  notice
+
+before  making  material  changes  to  their  privacy  policies  for  school
+
+services.
+
+(3)  School  service  providers  shall  facilitate  access  to  and
+
+correction  of  student  personal  information  by  students  or  their
+
+parent  or  guardian  either  directly  or  through  the  relevant
+
+educational institution or teacher.
+
+(4)  Where  the  school  service  is  offered  to  an  educational
+institution  or  teacher,  information  required  by  subsections  (1)  and
+
+(2) of this section may be provided to the educational institution or
+
+teacher.
+
+(5)  The  provisions  of  this  section  do  not  apply  to  the  education
+
+data  center  established  under  RCW  43.41.400,  but  do  apply  to  any
+
+subcontractors of the education data center.
+
+NEW  SECTION.    Sec.  4.    OBLIGATIONS  OF  SCHOOL  SERVICE  PROVIDERS—
+CHOICE  AND  CONTROL.  (1)  School  service  providers  may  collect,  use,
+
+and  share  student  personal  information  only  for  purposes  authorized
+
+p. 2
+
+ESB 5419.SL
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+40
+
+by  the  relevant  educational  institution  or  teacher,  or  with  the
+
+consent of the student or the student's parent or guardian.
+
+(2)  School  service  providers  may  not  sell  student  personal
+
+information. This prohibition does not apply to the purchase, merger,
+
+or  other  type  of  acquisition  of  a  school  service  provider,  or  any
+
+assets of a school service provider by another entity, as long as the
+
+successor  entity  continues  to  be  subject  to  the  provisions  of  this
+
+section  with  respect  to  previously  acquired  student  personal
+
+information  to  the  extent  that  the  school  service  provider  was
+
+regulated  by  this  chapter  with  regard  to  its  acquisition  of  student
+
+personal information.
+
+(3)  School  service  providers  may  not  use  or  share  any  student
+
+personal  information  for  purposes  of  targeted  advertising  to
+
+students. 
+
+(4)  School  service  providers  may  not  use  student  personal
+
+information  to  create  a  personal  profile  of  a  student  other  than  for
+
+supporting  purposes  authorized  by  the  relevant  educational
+
+institution  or  teacher,  or  with  the  consent  of  the  student  or  the
+
+student's parent or guardian.
+
+(5)  School  service  providers  must  obtain  consent  before  using
+
+student  personal  information  in  a  manner  that  is  materially
+
+inconsistent  with  the  school  service  provider's  privacy  policy  or
+
+school  contract  for  the  applicable  school  service  in  effect  at  the
+
+time of collection.
+
+(6)  The  provisions  of  subsections  (1),  (2),  (4),  and  (5)  of  this
+
+section  may  not  apply  to  the  use  or  disclosure  of  personal
+
+information by a school service provider to:
+
+(a)  Protect  the  security  or  integrity  of  its  web  site,  mobile
+
+application, or online service;
+
+(b)  Ensure  legal  or  regulatory  compliance  or  to  take  precautions
+
+against liability;
+
+(c) Respond to or participate in judicial process;
+
+(d) Protect the safety of users or others on the web site, mobile
+
+application, or online service;
+
+(e) Investigate a matter related to public safety; or
+
+(f)  A  subcontractor,  if  the  school  service  provider:  (i)
+
+Contractually  prohibits  the  subcontractor  from  using  any  student
+
+personal  information  for  any  purpose  other  than  providing  the
+
+contracted  service  to,  or  on  behalf  of,  the  school  service  provider;
+(ii) prohibits the subcontractor from disclosing any student personal
+
+p. 3
+
+ESB 5419.SL
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+38
+
+information  provided  by  the  school  service  provider  to  subsequent
+
+third  parties  unless  the  disclosure  is  expressly  permitted  by  (a)
+
+through  (e)  of  this  subsection  or  by  sections  6  and  7  of  this  act;
+
+and  (iii)  requires  the  subcontractor  to  comply  with  the  requirements
+
+of this chapter.
+
+NEW  SECTION.    Sec.  5.    OBLIGATIONS  OF  SCHOOL  SERVICE  PROVIDERS—
+SAFEGUARDS.  (1)  School  service  providers  must  maintain  a
+
+comprehensive  information  security  program  that  is  reasonably
+
+designed  to  protect  the  security,  privacy,  confidentiality,  and
+
+integrity  of  student  personal  information.  The  information  security
+
+program should make use of appropriate administrative, technological,
+
+and physical safeguards.
+
+(2)  School  service  providers  must  delete  student  personal
+
+information  within  a  reasonable  period  of  time  if  the  relevant
+
+educational  institution  requests  deletion  of  the  data  under  the
+
+control of the educational institution unless:
+
+(a)  The  school  service  provider  has  obtained  student  consent  or
+
+the consent of the student's parent or guardian to retain information
+
+related to that student; or
+
+(b)  The  student  has  transferred  to  another  educational
+
+institution  and  that  educational  institution  has  requested  that  the
+
+school service provider retain information related to that student.
+
+NEW  SECTION.    Sec.  6.    ADAPTIVE  LEARNING  AND  CUSTOMIZED
+
+EDUCATION.  Notwithstanding  sections  2  through  7  of  this  act,  nothing
+
+in  this  chapter  is  intended  to  prohibit  the  use  of  student  personal
+
+information for purposes of:
+
+(1) Adaptive learning or personalized or customized education;
+(2) Maintaining, developing, supporting, improving, or diagnosing
+
+the  school  service  provider's  web  site,  mobile  application,  online
+
+service, or application;
+
+(3)  Providing  recommendations  for  school,  educational,  or
+
+employment  purposes  within  a  school  service  without  the  response
+
+being  determined  in  whole  or  in  part  by  payment  or  other
+
+consideration from a third party; or
+
+(4)  Responding  to  a  student's  request  for  information  or  for
+
+feedback  without  the  information  or  response  being  determined  in
+
+whole  or  in  part  by  payment  or  other  consideration  from  a  third
+party.
+
+p. 4
+
+ESB 5419.SL
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+36
+
+NEW  SECTION.    Sec.  7.    This  chapter  adopts  and  does  not  modify
+
+existing  law  regarding  consent,  including  consent  from  minors  and
+
+employees on behalf of educational institutions.
+
+NEW SECTION.  Sec. 8.  This chapter shall not be construed to:
+
+(1)  Impose  a  duty  upon  a  provider  of  an  interactive  computer
+
+service,  as  defined  in  47  U.S.C.  Sec.  230,  to  review  or  enforce
+
+compliance with this section by third-party content providers;
+
+(2)  Apply  to  general  audience  internet  web  sites,  general
+
+audience  mobile  applications,  or  general  audience  online  services
+
+even if login credentials created for a school service provider's web
+
+site,  mobile  application,  or  online  service  may  be  used  to  access
+
+those  general  audience  web  sites,  mobile  applications,  or  online
+
+services;
+
+(3)  Impede  the  ability  of  students  to  download,  export,  or
+
+otherwise save or maintain their own student data or documents;
+
+(4)  Limit  internet  service  providers  from  providing  internet
+
+connectivity to schools or students and their families;
+
+(5) Prohibit a school service provider from marketing educational
+
+products  directly  to  parents  so  long  as  the  marketing  did  not  result
+
+from  use  of  student  personal  information  obtained  by  the  school
+
+service  provider  through  the  provision  of  its  web  site,  mobile
+
+application, or online service; or
+
+(6)  Impose  a  duty  on  a  school  service  provider  of  an  electronic
+
+store,  gateway,  marketplace,  or  other  means  of  purchasing  or
+
+downloading  software  or  applications  to  review  or  enforce  compliance
+
+with this chapter on those applications or software.
+
+NEW  SECTION.    Sec.  9.    TRANSITIONAL  PROVISIONS.  If  a  school
+
+service  provider  entered  into  a  signed,  written  contract  with  an
+
+educational  institution  or  teacher  before  the  effective  date  of  this
+
+section,  the  school  service  provider  is  not  liable  for  the
+
+requirements of sections 2 through 6 of this act with respect to that
+
+contract until the next renewal date of the contract.
+
+NEW  SECTION.    Sec.  10.    Sections  1  through  9  and  11  of  this  act
+
+constitute a new chapter in Title 28A RCW.
+
+NEW  SECTION.    Sec.  11.    EFFECTIVE  DATE.  This  act  takes  effect
+
+July 1, 2016.
+
+p. 5
+
+ESB 5419.SL
+
+Passed by the Senate March 11, 2015.
+Passed by the House April 15, 2015.
+Approved by the Governor May 18, 2015.
+Filed in Office of Secretary of State May 18, 2015.
+
+p. 6
+
+ESB 5419.SL
+
+

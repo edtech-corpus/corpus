@@ -1,0 +1,111 @@
+
+
+CHAPTER 128
+
+HB 520 – FINAL VERSION
+
+6May2015… 1645EBA
+
+2015 SESSION
+
+15-0771
+
+04/05
+
+HOUSE BILL 520
+
+AN ACT establishing privacy protections for student online personal information.
+
+SPONSORS: Rep. Cordelli, Carr 4; Rep. Kurk, Hills 2; Rep. V. Sullivan, Hills 16; Rep. Boehm, Hills 20; Rep. Grenier, Sull 7; Rep. Kappler, Rock 3; Rep. Pitre, Straf 2; Rep. Moore, Hills 21; Rep. Adams, Hills 26
+
+COMMITTEE: Education
+
+ANALYSIS
+
+This bill establishes guidelines for the protection of student online personal information.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Explanation: Matter added to current law appears in bold italics.
+
+Matter removed from current law appears [in brackets and struckthrough.]
+
+Matter which is either (a) all new or (b) repealed and reenacted appears in regular type.
+
+6May2015… 1645EBA
+
+15-0771
+
+04/05
+
+STATE OF NEW HAMPSHIRE
+
+In the Year of Our Lord Two Thousand Fifteen
+
+AN ACT establishing privacy protections for student online personal information.
+
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+
+128:1 New Section; Student Online Personal Information. Amend RSA 189 by inserting after section 68 the following new section:
+
+189:68-a Student Online Personal Information.
+
+I. For the purposes of this section:
+
+(a) “Operator” means the operator of an Internet website, online service, online application, or mobile application with actual knowledge that the site, service, or application is used primarily for K-12 school purposes and was designed and marketed for K-12 school purposes.
+
+(b) “Covered information” means personally identifiable information or materials, in any media or format that meets any of the following:
+
+(1) Is created or provided by a student, or the student’s parent or legal guardian, to an operator in the course of the student’s, parent’s, or legal guardian’s use of the operator’s site, service, or application for K-12 school purposes.
+
+(2) Is created or provided by an employee or agent of the K-12 school, school district, local education agency, or county office of education, to an operator.
+
+(3) Is gathered by an operator through the operation of a site, service, or application described in subparagraph (a) and is descriptive of a student or otherwise identifies a student, including, but not limited to, information in the student’s educational record or email, first and last name, home address, date of birth, telephone number, unique pupil identifier, social security number, financial or insurance account numbers, email address, other information that allows physical or online contact, discipline records, test results, special education data, juvenile dependency records, grades, evaluations, criminal records, medical records, health records, biometric information, disabilities, socioeconomic information, food purchases, political affiliations, religious information, text messages, documents, other student identifiers, search activity, photos, voice recordings, or geo-location information.
+
+(c) “K-12 school purposes” means purposes that customarily take place at the direction of the K-12 school, teacher, or school district or aid in the administration of school activities, including, but not limited to, instruction in the classroom or at home, administrative activities, and collaboration between students, school personnel, or parents, or are for the use and benefit of the school.
+
+(d) “Online service” includes cloud computing services, which shall comply with this section if they otherwise meet the definition of an operator.
+
+II.(a) No operator shall knowingly engage in any of the following activities with respect to their site, service, or application:
+
+(1) Targeted advertising on the operator’s site, service, or application, or targeted advertising on any other site, service, or application when the targeting of the advertising is based upon any information, including covered information and persistent unique identifiers, that the operator has acquired because of the use of that operator’s site, service, or application.
+
+(2) Use of information, including persistent unique identifiers, created or gathered by the operator’s site, service, or application, to amass a profile about a K-12 student.
+
+(3) Sale, lease, rent, trade, or otherwise make available a student’s information, including covered information. This prohibition does not apply to the purchase, merger, or other type of acquisition of an operator by another entity, provided that the operator or successor entity continues to be subject to the provisions of this section with respect to previously acquired student information.
+
+(4) Disclosing protected information unless the disclosure is made to respond to or participate in judicial process.
+
+(b) An operator shall:
+
+(1) Implement and maintain reasonable security procedures and practices appropriate to the nature of the covered information, and protect that information from unauthorized access, destruction, use, modification, or disclosure.
+
+(2) Delete a student’s covered information if the school or district requests deletion of data under the control of the school or district.
+
+(c) Nothing in this section shall prohibit an operator from using de-identified student covered information as follows:
+
+(1) Within the operator’s site, service, or application or other sites, services, or applications owned by the operator to improve educational products.
+
+(2) To demonstrate the effectiveness of the operator’s products or services, including in its marketing.
+
+(d) Nothing in this section shall prohibit an operator from sharing aggregated de-identified student covered information for the development and improvement of educational sites, services, or applications.
+
+III. This section shall not apply to general audience Internet websites, general audience online services, general audience online applications, or general audience mobile applications, even if login credentials created for an operator’s site, service, or application may be used to access those general audience sites, services, or applications.
+
+IV. This section shall not limit Internet service providers from providing Internet connectivity to schools or students and their families.
+
+V. This section shall not be construed to prohibit an operator of an Internet website, online service, online application, or mobile application from marketing educational products directly to parents so long as the marketing did not result from the use of covered information obtained by the operator through the provision of services covered under this section.
+
+VI. This section shall not be construed to impose a duty upon a provider of an electronic store, gateway, marketplace, or other means of purchasing or downloading software or applications to review or enforce compliance with this section on those applications or software.
+
+VII. This section shall not be construed to impose a duty upon a provider of an interactive computer service, as defined in 47 U.S.C. section 230, to review or enforce compliance with this section by third-party content providers.
+
+VIII. This section shall not impede the ability of students to download, export, or otherwise save or maintain their own student created data or documents.
+
+IX. The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+128:2 Effective Date. This act shall take effect January 1, 2016.
+
+Approved: June 11, 2015
+
+Effective Date: January 1, 2016

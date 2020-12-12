@@ -1,0 +1,320 @@
+78th  OREGON  LEGISLATIVE  ASSEMBLY--2015  Regular  Session
+
+Enrolled
+Senate  Bill  187
+
+Printed  pursuant  to  Senate  Interim  Rule  213.28  by  order  of  the  President  of  the  Senate  in  conform-
+ance  with  presession  filing  rules,  indicating  neither  advocacy  nor  opposition  on  the  part  of  the
+President  (at  the  request  of  Attorney  General  Ellen  F. Rosenblum)
+
+CHAPTER .................................................
+
+AN  ACT
+
+Relating  to  student  privacy;  creating  new  provisions;  amending  ORS  646.607;  and  prescribing  an  ef-
+
+fective  date.
+Whereas  some  Internet  websites,  online  services,  online  applications  and  mobile  applications
+that  are  designed  and  used  for  kindergarten  through  grade  12  purposes  involve  gathering  identifi-
+able  private  information  of  students,  many  of  whom  are  too  young  to  understand  the  significance
+of  being  asked  to  share  personal  information;  and
+
+Whereas  this  vulnerable  population  will  be  better  protected  by  the  development  of standards for
+operators  of  Internet  websites,  online  services,  online  applications  or  mobile  applications  that  have
+actual  knowledge  that  their  sites,  services  or  applications  are  used  primarily  for  kindergarten
+through  grade  12  purposes  and  that  their  sites,  services  or  applications  were designed and marketed
+for  kindergarten  through  grade  12  school  purposes;  now,  therefore,
+
+Be  It  Enacted  by  the  People  of  the  State  of  Oregon:
+
+SECTION  1. Section  2  of  this  2015  Act  is  added  to  and  made  a  part  of  ORS  646.605  to
+
+SECTION  2. (1)  This  section  shall  be  known  and  may  be  cited  as  the  Oregon  Student  In-
+
+646.652.
+
+formation  Protection  Act.
+
+(2)  As  used  in  this  section:
+(a)  “Covered  information”  means  personally  identifiable  information  or  materials  that
+regard  a  student  in  this  state  and  that  are  in  any  media  or  format  that  meet  any  of  the
+following:
+
+(A)  Are  created  or  provided  by  a  student,  or  the  student’s  parent  or  legal  guardian,  to
+an  operator  in  the  course  of  the  student’s,  parent’s  or  legal  guardian’s  use  of  the  operator’s
+site,  service  or  application  for  kindergarten  through  grade  12  purposes;
+
+(B)  Are  created  for  an  operator  or  provided  to  an  operator  by  an  employee  or  agent  of
+the  kindergarten  through  grade  12  school,  school  district  or  education  service  district  for
+kindergarten  through  grade  12  purposes;  or
+
+(C)  Are  gathered  by  an  operator  and  personally  identify  a  student,  or  are  linked  to  in-
+
+formation  that  personally  identifies  a  student,  including,  but  not  limited  to:
+(i)  Information  in  the  student’s  educational  record  or  electronic  mail;
+(ii)  The  student’s  first  and  last  name,  home  address,  telephone  number,  electronic  mail
+
+address  or  other  information  that  allows  physical  or  online  contact;  or
+
+Enrolled  Senate  Bill  187  (SB  187-A)
+
+Page  1
+
+(iii)  The  student’s  discipline  records,  test  results,  special  education  data,  juvenile  de-
+pendency  records,  grades,  evaluations,  criminal  records,  medical  records,  health  records,
+Social  Security  number,  biometric  information,  disabilities,  socioeconomic  information,  food
+purchases,  political  affiliations,  religious  information,  text  messages,  documents,  student
+identifiers,  search  activity,  photographs,  voice  recordings  or  geolocation  information.
+
+(b)  “Kindergarten  through  grade  12  school  purposes”  means  purposes  that:
+(A)  Are  directed  by,  or  that  customarily  take  place  at  the  direction  of,  a  kindergarten
+
+through  grade  12  school,  teacher,  school  district  or  education  service  district;
+
+(B)  Aid  in  the  administration  of  school  activities,  including  instruction  in  the  classroom
+or  at  home,  administrative  activities  and  collaboration  between  students,  school  personnel
+or  parents;  or
+
+(C)  Are  primarily  for  the  use  and  benefit  of  the  school.
+(c)  “Operator”  means  the  operator  of  an  Internet  website,  online  service,  online  applica-
+
+tion  or  mobile  application  with  actual  knowledge  that  the  site,  service  or  application:
+(A)  Is  used  primarily  for  kindergarten  through  grade  12  school  purposes;  and
+(B)  Was  designed  and  marketed  for  kindergarten  through  grade  12  school  purposes,  to
+
+the  extent  that  the  site,  service  or  application  is  operating  in  that  capacity.
+
+(d)  “Student”  means  a  student  in  any  grade  from  kindergarten  through  grade  12.
+(e)(A)  “Targeted  advertising”  means  advertising  presented  to  a  student  based  on  infor-
+mation  obtained  or  inferred  from  the  student’s  online  behavior,  usage  of  applications  or
+covered information.
+
+(B)  “Targeted  advertising”  does  not  include  advertising  presented  to  a  student:
+(i)  At  an  online  location  based  upon  the  student’s  current  visit  to  that  location;  or
+(ii)  As  a  single  search  query,  as  long  as  the  student’s  online  activities  are  not  collected
+
+or  retained  over  time.
+
+(3)(a)  An  operator  may  not  knowingly  engage  in  any  of  the  following  activities  with  re-
+
+spect  to  the  operator’s  site,  service  or  application:
+
+(A)  Engage  in  targeted  advertising  on  the  operator’s  site,  service  or  application.
+(B)  Target  advertising  on  any  other  site,  service  or  application  when  the  targeting  of  the
+advertising  is  based  upon  any  information,  including  covered  information  and  persistent
+unique  identifiers,  that  the  operator  has  acquired  because  of  the  use  of  that  operator’s  site,
+service  or  application  for  kindergarten  through  grade  12  school  purposes.
+
+(C)  Use  information,  including  persistent  unique  identifiers,  created  or  gathered  by  the
+operator’s  site,  service  or  application,  to  amass  a  profile  about  a  student,  except  in
+furtherance  of  kindergarten  through  grade  12  school  purposes.
+
+(D)  Sell  a  student’s  information,  including  covered  information.  The  prohibition  of  this
+subparagraph  does  not  apply  to  the  purchase,  merger  or  other  type  of  acquisition  of  an  op-
+erator  by  another  entity,  provided  that  the  operator  or  successor  entity  continues  to  be
+subject  to  the  provisions  of  this  section  with  respect  to  previously  acquired  student  infor-
+mation  that  is  subject  to  this  section.
+
+(E)  Disclose  covered  information,  unless  the  disclosure  is  made:
+(i)  In  furtherance  of  the  kindergarten  through  grade  12  school  purposes  of  the  site,  ser-
+
+vice  or  application,  provided  the  recipient  of  the  covered  information:
+
+(I)  Does  not  further  disclose  covered  information,  unless  the  disclosure  is  to  allow  or
+
+improve  the  operability  and  functionality  within  the  student’s  classroom  or  school;  and
+
+(II)  Is  legally  required  to  comply  with  the  requirements  of  subsection  (4)  of  this  section
+
+and  to  not  use  that  covered  information  in  violation  of  this  section;
+
+(ii)  To  ensure  legal  and  regulatory  compliance;
+(iii)  To  respond  to  or  participate  in  the  judicial  process;
+(iv)  To  protect  the  safety  of  users  or  others  or  the  security  or  integrity  of  the  site;  or
+(v)  To  a  service  provider,  provided  the  operator  contractually:
+
+Enrolled  Senate  Bill  187  (SB  187-A)
+
+Page  2
+
+(I)  Prohibits  the  service  provider  from  using  any  covered  information  for  any  purpose
+
+other  than  providing  the  contracted  service  to,  or  on  behalf  of,  the  operator;
+
+(II)  Prohibits  the  service  provider  from  disclosing  any  covered  information  provided  by
+the  operator  to  subsequent  third  parties,  except  in  furtherance  of  kindergarten  through
+grade  12  school  purposes  of  the  site,  service  or  application  or  for  a  purpose  permitted  by
+subsection  (3)(a),  (6)  or  (7)  of  this  section;  and
+
+(III)  Requires  the  service  provider  to  implement  and  maintain  reasonable  security  pro-
+
+cedures  and  practices  as  provided  by  subsection  (4)  of  this  section.
+
+(b)  Nothing  in  this  subsection  shall  be  construed  to  prohibit  the  operator’s  use  of  infor-
+mation  for  maintaining,  developing,  supporting,  improving  or  diagnosing  the  operator’s  site,
+service  or  application.
+
+(4)  An  operator  shall:
+(a)  Implement  and  maintain  reasonable  security  procedures  and  practices  appropriate  to
+the  nature  of  the  covered  information  and  appropriate  to  protect  the  covered  information
+from  unauthorized  access,  destruction,  use,  modification  or  disclosure;  and
+
+(b)  Delete  a  student’s  covered  information  within  a  reasonable  time  if  the  school  or
+school  district  requests  deletion  of  data  that  is  under  the  control  of  the  school  or  school
+district.
+
+(5)  Notwithstanding  subsections  (3)(a)(E)  and  (6)  of this section, an operator may disclose
+
+covered  information  of  a  student  if  the  disclosure:
+
+(a)  Does  not  violate  subsection  (3)(a)(A)  to  (D)  of  this  section;
+(b)  Is  required  by  federal  or  state  law  and  the  operator  complies  with  the  requirements
+
+of  federal  and  state  law  in  protecting  and  disclosing  the  information;
+
+(c)  Is  for  legitimate  research  purposes  that  are:
+(A)  Required  by  federal  or  state  law  and  subject  to  the  restrictions  under  applicable
+
+federal  and  state  law;  or
+
+(B)  Allowed  by  federal  or  state  law  and  made  under  the  direction  of  a  school,  school
+district,  education  service  district  or  the  Department  of  Education,  if  the  covered  informa-
+tion  is  not  used  for  any  purpose  in  furtherance  of  advertising  or  amassing  a  profile  on  the
+student  for  purposes  other  than  kindergarten  through  grade  12  school  purposes;  or
+
+(d)  Is  made  to  a  state  or  local  educational  agency,  including  schools  and  school  districts,
+
+for  kindergarten  through  grade  12  school  purposes  as  permitted  by  federal  or  state  law.
+
+(6)  Nothing  in  this  section  prohibits  an  operator  from:
+(a)  Disclosing  deidentified  student  covered  information  if  the  disclosure  is:
+(A)  Within  the  operator’s  site,  service  or  application  or  other  sites,  services  or  applica-
+
+tions  owned  by  the  operator  to  develop  or  improve  educational  products  or  services;  or
+
+(B)  Made  to  demonstrate  the  effectiveness  of  the  operator’s  products  or  services,  in-
+
+cluding  marketing  for  the  operator’s  products  or  services;
+
+(b)  Sharing  aggregated  deidentified  student  covered  information  for  the  development  and
+
+improvement  of  educational  sites,  services  or  applications;
+
+(c)  Using  student  data,  including  covered  information,  for  adaptive  learning  or  custom-
+
+ized  student  learning  purposes;  or
+
+(d)  Responding  to  a  student-initiated  request  for  information  or  for  feedback  without  the
+information  or  response  being  determined  in  whole  or  in  part  by  payment  or  other  consid-
+eration  from  a  third  party.
+
+(7)  Nothing  in  this  section  shall  be  construed  to  limit  the  authority  of:
+(a)  A  law  enforcement  agency  to  obtain  any  content  or  information  from  an  operator  as
+
+authorized  by  law  or  pursuant  to  an  order  of  a  court  of  competent  jurisdiction;
+
+(b)  An  Internet  service  provider  from  providing  Internet  connectivity  to  schools  or  stu-
+
+dents  and  their  families;
+
+(c)  An  operator  of  an  Internet  website,  online  service,  online  application  or  mobile  ap-
+plication  from  marketing  educational  products  directly  to  parents  or  legal  guardians,  as  long
+
+Enrolled  Senate  Bill  187  (SB  187-A)
+
+Page  3
+
+as  the  marketing  does  not  result  from  the  use  of  covered  information  obtained  by  the  oper-
+ator  through  the  provision  of  services  covered  under  this  section;  or
+
+(d)  Students,  or  the  students’  parents  or  legal  guardians,  to  download,  transfer,  export
+
+or  otherwise  save  or  maintain  their  own  student  data  or  documents.
+
+(8)  Nothing  in  this  section  shall  be  construed  to  impose  a  duty  upon:
+(a)  A  provider  of  an  electronic  store,  gateway, marketplace or other means of purchasing
+or  downloading  software  or  applications  to  review  or  enforce  compliance  with  this  section
+by  those  applications  or  software;  or
+
+(b)  A  provider  of  an  interactive  computer  service  to  review  or  enforce  compliance  with
+this  section  by  third-party  content  providers.  As  used  in  this  paragraph,  “interactive  com-
+puter  service”  means  any  information  service,  system  or  access  software  provider  that  pro-
+vides  or  enables  computer  access  by  multiple  users  to  a  computer  server,  including
+specifically  a  service  or  system  that  provides  access  to  the  Internet  and  such  services  or
+systems  operated  or  offered  by  libraries  or  educational  institutions.
+
+(9)  This  section  does  not  apply  to  general  audience  Internet  websites,  general  audience
+online  services,  general  audience  online  applications  or  general  audience  mobile  applications,
+even  if  login  credentials  created  for  an  operator’s  site,  service  or  application  may  be  used
+to  access  those  general  audience  sites,  services  or  applications.
+
+(10)  Violation  of  this  section  is  an  unlawful  practice  under  ORS  646.607.
+SECTION  3.  ORS  646.607  is  amended  to  read:
+646.607.  A  person  engages  in  an  unlawful  practice  if  in  the  course  of  the  person’s  business,  vo-
+
+cation  or  occupation  the  person:
+
+(1)  Employs  any  unconscionable  tactic  in  connection  with  selling,  renting  or  disposing  of  real
+
+estate,  goods  or  services,  or  collecting  or  enforcing  an  obligation;
+
+(2)  Fails  to  deliver  all  or  any  portion  of  real  estate,  goods  or  services  as  promised,  and  at  a
+customer’s  request,  fails  to  refund  money  that  the  customer  gave  to  the  person  to  purchase  the
+undelivered  real  estate,  goods  or  services  and  that  the  person  does  not  retain  pursuant  to  any  right,
+claim  or  defense  the  person  may  assert  in  good  faith.  This  subsection  does  not  create  a  warranty
+obligation  and  does  not  apply  to  a  dispute  over  the  quality  of  real  estate,  goods  or  services  delivered
+to  a  customer;
+
+(3)  Violates  ORS  401.965  (2);
+(4)  Violates  a  provision  of  ORS  646A.725  to  646A.750;
+(5)  Violates  ORS  646A.530;
+(6)  Employs  a  collection  practice  that  is  unlawful  under  ORS  646.639;
+(7)  Is  a  beneficiary  that  violates  ORS  86.726  (1)(a)  or  (2),  86.729  (4)  or  86.732  (1)  or  (2);  [or]
+(8)  Violates  ORS  646A.093[.];  or
+(9)  Violates  section  2  of  this  2015  Act.
+SECTION  4. Section  2  of  this  2015  Act  and  the  amendments  to  ORS  646.607  by  section  3
+of  this  2015  Act  first  apply  to  data  created,  provided  or  gathered  on  or  after  the  effective
+date  of  this  2015  Act.
+
+SECTION  5. This  2015  Act  takes  effect  July  1,  2016.
+
+Enrolled  Senate  Bill  187  (SB  187-A)
+
+Page  4
+
+Passed  by  Senate  April  21,  2015
+
+Received  by  Governor:
+
+..................................................................................
+Lori  L.  Brocker,  Secretary  of  Senate
+
+Approved:
+
+..................................................................................
+Peter  Courtney,  President  of  Senate
+
+Passed  by  House  June  10,  2015
+
+........................M.,.........................................................,  2015
+
+........................M.,.........................................................,  2015
+
+..................................................................................
+Kate  Brown,  Governor
+
+Filed  in  Office  of  Secretary  of  State:
+
+..................................................................................
+Tina  Kotek,  Speaker  of  House
+
+........................M.,.........................................................,  2015
+
+..................................................................................
+Jeanne  P.  Atkins,  Secretary  of  State
+
+Enrolled  Senate  Bill  187  (SB  187-A)
+
+Page  5
+
+

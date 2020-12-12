@@ -1,0 +1,193 @@
+By:AANelson
+
+S.B.ANo.A820
+
+A BILL TO BE ENTITLED
+
+AN ACT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+11
+
+14
+
+16
+
+18
+
+20
+
+relating to a requirement that a school district develop and
+
+maintain a cybersecurity framework.
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+SECTIONA1.AASubchapter D, Chapter 11, Education Code, is
+
+amended by adding Section 11.175 to read as follows:
+
+Sec.A11.175.AADISTRICT CYBERSECURITY. (a) In this section:
+
+(1)AA"Cyber
+
+attack"
+
+means
+
+an
+
+attempt
+
+to
+
+damage,
+
+disrupt, or gain unauthorized access to a computer, computer
+
+10
+
+network, or computer system.
+
+(2)AA"Cybersecurity"
+
+means
+
+the
+
+measures
+
+taken
+
+to
+
+12
+
+protect a computer, computer network, or computer system against
+
+13
+
+unauthorized use or access.
+
+15
+
+cybersecurity framework for:
+
+(b)AAEach school district shall develop and maintain a
+
+(1)AAthe
+
+securing
+
+of
+
+district
+
+cyberinfrastructure
+
+17
+
+against cyber attacks and other cybersecurity incidents; and
+
+(2)AAcybersecurity
+
+risk
+
+assessment
+
+and
+
+mitigation
+
+(c)AAA school district ’s cybersecurity framework must be
+
+21
+
+consistent
+
+with
+
+the
+
+information
+
+security
+
+standards
+
+for
+
+22
+
+institutions of higher education adopted by the Department of
+
+23
+
+Information Resources under Chapters 2054 and 2059, Government
+
+19
+
+planning.
+
+24
+
+Code.
+
+86R7097 TSS-D
+
+1
+
+S.B.ANo.A820
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+(d)AAThe superintendent of each school district shall
+
+designate a cybersecurity coordinator to serve as a liaison between
+
+the district and the agency in cybersecurity matters.
+
+(e)AAThe district ’s cybersecurity coordinator shall report
+
+to the agency any cyber attack, attempted cyber attack, or other
+
+cybersecurity incident against the district cyberinfrastructure as
+
+soon as practicable after the discovery of the attack or incident.
+
+SECTIONA2.AAThis Act takes effect September 1, 2019.
+
+2
+
+

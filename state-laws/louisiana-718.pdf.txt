@@ -1,0 +1,586 @@
+2015 Regular Session
+
+HOUSE BILL NO. 718
+
+BY REPRESENTATIVE SCHRODER
+
+ENROLLED
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+To amend and reenact R.S. 17:3913(A)(2), (C)(introductory paragraph) and (2), and (D),
+
+AN ACT
+
+3914(B)(3), (C)(2)(introductory paragraph) and (3), (F)(1), (2), and (4), (G), (H),
+
+(K)(3)(c)(ii) and (4), and 3996(B)(38) and to enact R.S. 17:3914(C)(2)(e), (F)(5), and
+
+(K)(3)(d), relative to student information; to provide relative to requirements for
+
+information on the transfer of personal student information to be made available to
+
+the public; to provide relative to exceptions to the prohibition on the collection and
+
+sharing of student information; to extend time lines relative to such prohibition and
+
+the assignment of student identification numbers; to provide relative to prohibitions,
+
+requirements, and exceptions with respect to certain contracts and access to student
+
+information pursuant to such contracts; to provide relative to parental consent and
+
+required notification with respect to the withdrawal of such consent; to require the
+
+Board of Regents to destroy certain data; to provide for effectiveness; and to provide
+
+for related matters.
+
+Be it enacted by the Legislature of Louisiana:
+
+Section  1.    R.S.  17:3913(A)(2),  (C)(introductory  paragraph)  and  (2),  and  (D),
+
+3914(B)(3),  (C)(2)(introductory  paragraph)  and  (3),  (F)(1),  (2),  and  (4),  (G),  (H),
+
+(K)(3)(c)(ii)  and  (4),    and  3996(B)(38)  are  hereby  amended  and  reenacted  and  R.S.
+
+17:3914(C)(2)(e), (F)(5), and (K)(3)(d) are hereby enacted to read as follows:
+
+§3913.  Transfer of personally identifiable student information
+
+A.
+
+*          *          *
+
+(2)  The purpose of this Section is to increase awareness of the transfer of
+
+student  information  by  requiring  the  state  Department  of  Education  and  local
+
+Page 1 of 5
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+HB NO. 718
+
+ENROLLED
+
+education  agencies  public  school  governing  authorities  to  publicize  make  such
+
+information available to the public on their Internet websites.
+
+*          *          *
+
+C.  By January 1, 2015, each local education agency that has a website the
+
+governing authority of each public school shall make available on its website at the
+
+main office of the governing authority information about the transfer of personally
+
+identifiable student information.  Such information shall include but need not be
+
+limited to all of the following, to the extent such information is obtainable:
+
+(2)  A copy of the  signed  agreement between the local education agency
+
+governing authority of the public school and the authorized recipient.
+
+*          *          *
+
+*          *          *
+
+D.  The information specified in Paragraphs (B)(1) through (5) and (C)(1)
+
+through  (5)  of  this  Section  shall  be  made  available  on  the  respective  website  as
+
+specified in this Section no later than ten business days following the execution of
+
+an agreement providing for a transfer of personally identifiable student information
+
+and shall remain available for the duration of the agreement.
+
+§3914.  Student information; privacy; legislative intent; definitions; prohibitions;
+
+parental access; penalties
+
+*          *          *
+
+*          *          *
+
+*          *          *
+
+Page 2 of 5
+
+B.
+
+C.
+
+(3)  For purposes of this Section, "parent or legal guardian" shall mean a
+
+student's parent, legal guardian, or other person or entity responsible for the student.
+
+(2)  Beginning June 1, 2015 August 1, 2015, no official or employee of a city,
+
+parish,  or  other  local  public  school  system  shall  provide  personally  identifiable
+
+student information to any member of the school board or to any other person or
+
+public or private entity, except such an official or employee may, in accordance with
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+HB NO. 718
+
+ENROLLED
+
+State Board of Elementary and Secondary Education regulation or applicable state
+
+and federal law:
+
+*          *          *
+
+(e)  Provide student information for a school year prior to the 2015-2016
+
+school year for the purpose of completing or correcting required submissions to the
+
+state Department of Education or responding to financial audits.
+
+*          *          *
+
+(3)  By not later than May 1, 2015, the state Department of Education shall
+
+develop a system of unique student identification numbers.  By not later than June
+
+1, 2015 August 1, 2015, each local public school board shall assign such a number
+
+to  every  student  enrolled  in  a  public  elementary  or  secondary  school.    Student
+
+identification numbers shall not include or be based on social security numbers, and
+
+a student shall retain his student identification number for his tenure in Louisiana
+
+public elementary and secondary schools.
+
+*          *          *
+
+F.(1)  A city, parish, or other local public school board may contract with a
+
+public or private entity for student and other education services, and pursuant to such
+
+contract,  student  information,  including  personally  identifiable  information  and
+
+cumulative records, may be transferred to computers operated and maintained by the
+
+private entity for such purpose.
+
+(2)  No contractor pursuant to this Subsection shall allow access to, release,
+
+or allow the release of student information to any person or entity except as specified
+
+in the contract.  No contractor shall use student information to conduct predictive
+
+modeling for the purpose of limiting the educational opportunities of students.
+
+*          *          *
+
+(4)  The requirements of Paragraph (3) of this Subsection shall not apply to
+
+a contract entered into prior to June 1, 2015, for the acquisition of goods, equipment,
+
+or instructional materials purchased in accordance with R.S. 38:2212.1(E), (F), or
+
+(N) but shall apply to any extension or renewal of such contract.
+
+Page 3 of 5
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+HB NO. 718
+
+ENROLLED
+
+(5)  Any person who knowingly and willingly violates the provisions of this
+
+Subsection shall be fined not more than ten thousand dollars or imprisoned for not
+
+more than three years, or both.
+
+G.  Except as provided in Paragraph (F)(4)(5) of this Section, a person who
+
+violates any provision of this Section shall be punished by imprisonment for not
+
+more than six months or by a fine of not more than ten thousand dollars.
+
+H.  Nothing in this Section shall prohibit a school system employee employed
+
+at the person employed in a public school and a or other person authorized by the
+
+superintendent of the public school or school system from being provided or having
+
+access to a student's records as may be necessary to perform his duties in accordance
+
+with a policy adopted by the local public school board for such purpose.
+
+K.
+
+(3)
+
+*          *          *
+
+*          *          *
+
+*          *          *
+
+*          *          *
+
+(c)  The form will contain the following:
+
+(ii)  A statement whereby a student's parent or legal guardian acknowledges
+
+Notification  that  the  failure  to  provide  written  consent  for  the  collection  and
+
+disclosure of the student's information as provided in this Subsection may result in
+
+delays  or  may  prevent  successful  application  for  admission  to  a  postsecondary
+
+educational institution and for state and federal student financial aid.  This statement
+
+shall be displayed prominently and shall be printed in bold type.
+
+(d)  Consent provided by a student's parent or legal guardian shall continue
+
+unless such consent is withdrawn in writing.  Annual notification shall be provided
+
+to the student's parent or legal guardian as to the right and process used to withdraw
+
+consent.
+
+(4)   The  governing authority of each public school, each Each Louisiana
+
+postsecondary educational education institution, the Board of Regents, and the Office
+
+Page 4 of 5
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 718
+
+ENROLLED
+
+of Student Financial Assistance shall destroy all data collected for purposes of this
+
+Subsection  not  later than five years after the student  graduates, unless otherwise
+
+required by state or federal law or regulation.
+
+§3996.  Charter schools; exemptions; requirements
+
+*          *          *
+
+*          *          *
+
+B.  Notwithstanding any state law, rule, or regulation to the contrary and
+
+except  as  may  be  otherwise  specifically  provided  for  in  an  approved  charter,  a
+
+charter school established and operated in accordance with the provisions of this
+
+Chapter and its approved charter and the school's officers and employees shall be
+
+exempt  from  all  statutory  mandates  or  other  statutory  requirements  that  are
+
+applicable to public schools and to public school officers and employees except for
+
+the following laws otherwise applicable to public schools with the same grades:
+
+(38)  Student information, R.S. 17:3913 and 3914.
+
+*          *          *
+
+*          *          *
+
+Section 2.  This Act shall become effective on July 1, 2015; if vetoed by the governor
+
+and subsequently approved by the legislature, this Act shall become effective on July 1,
+
+2015, or on the day following such approval by the legislature, whichever is later.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+
+PRESIDENT OF THE SENATE
+
+GOVERNOR OF THE STATE OF LOUISIANA
+
+APPROVED:  
+
+Page 5 of 5
+
+CODING:  Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+
